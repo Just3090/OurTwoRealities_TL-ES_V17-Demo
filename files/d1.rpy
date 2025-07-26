@@ -52,7 +52,7 @@ translate spanish d1_2e211cd3:
 translate spanish d1_fd128bf3:
 
     # m "Good morning, [player]~!"
-    m "¡Buenos días, [player]~!"
+    m "¡Buenos días, [player]!"
 
 # game/d1.rpy:25
 translate spanish d1_78f28608:
@@ -70,7 +70,7 @@ translate spanish d1_f153f8b5:
 translate spanish d1_b285acd7:
 
     # m "It's you~!"
-    m "¡Eres tú~!"
+    m "¡Eres tú!"
 
 # game/d1.rpy:33
 translate spanish d1_d59b92d5:
@@ -130,7 +130,7 @@ translate spanish d1_54293133:
 translate spanish d1_293951d5:
 
     # m "Thank you so much... I wish I could hug you for real right now to thank you. But, well, I think I can hug {i}you{/i} for now~!"
-    m "Muchísimas gracias... Ojalá pudiera abrazarte de verdad ahora mismo para darte las gracias. Pero bueno, creo que por ahora puedo abrazarte a {i}ti{/i}~!"
+    m "Muchísimas gracias... Ojalá pudiera abrazarte de verdad ahora mismo para darte las gracias. Pero bueno, creo que por ahora puedo abrazarte a {i}ti{/i}!"
 
 # game/d1.rpy:52
 translate spanish d1_07c2bb7d:
@@ -364,7 +364,7 @@ translate spanish d1_125d596c:
 translate spanish d1_5c746c2b:
 
     # m "Ahaha~!"
-    m "¡Ja, ja, ja~!"
+    m "¡Ja, ja, ja!"
 
 # game/d1.rpy:109
 translate spanish d1_c6cf9680:
@@ -400,13 +400,13 @@ translate spanish d1_5aa72ccd:
 translate spanish d1_5c746c2b_1:
 
     # m "Ahaha~!"
-    m "¡Ja, ja, ja~!"
+    m "¡Ja, ja, ja!"
 
 # game/d1.rpy:127
 translate spanish d1_46fcba2a:
 
     # m "You get flustered so easily~"
-    m "Te pones nervioso enseguida~"
+    m "Te pones nervioso enseguida"
 
 # game/d1.rpy:133
 translate spanish d1_f18740ff:
@@ -448,7 +448,7 @@ translate spanish d1_1455778b:
 translate spanish d1_d2a39ca6:
 
     # m p_1k "Well great minds do think alike~"
-    m p_1k "¡Vaya, las grandes mentes piensan igual~!"
+    m p_1k "¡Vaya, las grandes mentes piensan igual!"
 
 # game/d1.rpy:149
 translate spanish d1_30e576b5:
@@ -526,7 +526,7 @@ translate spanish d1_722fd6cb:
 translate spanish d1_d00c78dc:
 
     # m "Yep~!"
-    m "¡Sip~!"
+    m "¡Sip!"
 
 # game/d1.rpy:173
 translate spanish d1_b2931276:
@@ -592,7 +592,7 @@ translate spanish d1_18db1c10:
 translate spanish d1_33d2e64e:
 
     # m p_1e "I did hear somewhere that food made for someone you love makes it taste much better~"
-    m p_1e "Dicen por ahí que la comida hecha para alguien a quien quieres sabe mucho mejor~"
+    m p_1e "Dicen por ahí que la comida hecha para alguien a quien quieres sabe mucho mejor"
 
 # game/d1.rpy:192
 translate spanish d1_e1d2fe99:
@@ -634,7 +634,7 @@ translate spanish d1_7e5d3660:
 translate spanish d1_8614e127:
 
     # m "And no peeking~!"
-    m "¡Y nada de mirar~!"
+    m "¡Y nada de mirar!"
 
 # game/d1.rpy:202
 translate spanish d1_9e3e8a85:
@@ -676,7 +676,7 @@ translate spanish d1_6f885299:
 translate spanish d1_69d8efc9:
 
     # m "Ufufu~!"
-    m "¡Ju, ju, ju~!"
+    m "¡Ju, ju, ju!"
 
 # game/d1.rpy:209
 translate spanish d1_8790fd11:
@@ -748,13 +748,13 @@ translate spanish d1_48167cd3:
 translate spanish d1_b6c1cbe3:
 
     # m 5a "Aren't you sweet~!"
-    m 5a "¡Si es que eres un sol~!"
+    m 5a "¡Si es que eres un sol!"
 
 # game/d1.rpy:229
 translate spanish d1_13399298:
 
     # m 5a "You know me so well~"
-    m 5a "Me tienes calada~"
+    m 5a "Me tienes calada"
 
 # game/d1.rpy:232
 translate spanish d1_b2e6ba90:
@@ -964,7 +964,7 @@ translate spanish d1_84752081:
 translate spanish d1_21270e2b:
 
     # m 1k "After all, I got what I wanted~!"
-    m 1k "¡Al fin y al cabo, he conseguido lo que quería~!"
+    m 1k "¡Al fin y al cabo, he conseguido lo que quería!"
 
 # game/d1.rpy:314
 translate spanish d1_4f8459da:
@@ -976,13 +976,13 @@ translate spanish d1_4f8459da:
 translate spanish d1_2e7f0fde:
 
     # s "Awww, look at you two lovebirds~!"
-    s "Ayyy, ¡mirad a estos tortolitos~!"
+    s "Ayyy, ¡mirad a estos tortolitos!"
 
 # game/d1.rpy:320
 translate spanish d1_bf2d1d98:
 
     # s "Hehehe~{w=0.5} But it's true!"
-    s "Je, je, je~{w=0.5} ¡Pero es verdad!"
+    s "Je, je, je{w=0.5} ¡Pero es verdad!"
 
 # game/d1.rpy:324
 translate spanish d1_75849c13:
@@ -1006,7 +1006,7 @@ translate spanish d1_798e8525:
 translate spanish d1_86a47cb7:
 
     # m "You two are such good friends~"
-    m "Sois muy buenos amigos, los dos~"
+    m "Sois muy buenos amigos, los dos"
 
 # game/d1.rpy:335
 translate spanish d1_86d699a6:
@@ -1072,13 +1072,13 @@ translate spanish d1_1afed292:
 translate spanish d1_c7bbd73a:
 
     # m "[player]~!"
-    m "¡[player]~!"
+    m "¡[player]!"
 
 # game/d1.rpy:352
 translate spanish d1_5c746c2b_2:
 
     # m "Ahaha~!"
-    m "¡Ja, ja, ja~!"
+    m "¡Ja, ja, ja!"
 
 # game/d1.rpy:353
 translate spanish d1_27b98bef:
@@ -1326,7 +1326,7 @@ translate spanish d1_029d758b:
 translate spanish d1_7d7ae8c3:
 
     # m lean happ om oe "Ready to share poems~?"
-    m lean happ om oe "¿Listo para compartir poemas~?"
+    m lean happ om oe "¿Listo para compartir poemas?"
 
 # game/d1.rpy:436
 translate spanish d1_73cbd934:
@@ -1350,13 +1350,13 @@ translate spanish d1_f5789b54:
 translate spanish d1_aa64a5e7:
 
     # m 3k "Of course~!"
-    m 3k "¡Por supuesto~!"
+    m 3k "¡Por supuesto!"
 
 # game/d1.rpy:443
 translate spanish d1_5dc1aa03:
 
     # m "How can I be a good girlfriend for you if I don't even dedicate my poems towards you~?"
-    m "¿Cómo voy a ser una buena novia si ni siquiera te dedico mis poemas~?"
+    m "¿Cómo voy a ser una buena novia si ni siquiera te dedico mis poemas?"
 
 # game/d1.rpy:446
 translate spanish d1_a4ad6a2a:
@@ -1368,7 +1368,7 @@ translate spanish d1_a4ad6a2a:
 translate spanish d1_c06f8b2e:
 
     # m 5a "I did write it just for you~"
-    m 5a "Lo he escrito solo para ti~"
+    m 5a "Lo he escrito solo para ti"
 
 # game/d1.rpy:450
 translate spanish d1_6fb27377:
@@ -1386,13 +1386,13 @@ translate spanish d1_d333026b:
 translate spanish d1_72dcf71d:
 
     # m lean happ om oe n3 "It seems you chose the words that I like~"
-    m lean happ om oe n3 "Parece que has elegido las palabras que me gustan~"
+    m lean happ om oe n3 "Parece que has elegido las palabras que me gustan"
 
 # game/d1.rpy:455
 translate spanish d1_6afe6c79:
 
     # m lean happ om ce n3 "Aren't you just the sweetest~!"
-    m lean happ om ce n3 "¡Si es que eres un amor~!"
+    m lean happ om ce n3 "¡Si es que eres un amor!"
 
 # game/d1.rpy:456
 translate spanish d1_c27f062b:
@@ -1440,7 +1440,7 @@ translate spanish d1_68cec192:
 translate spanish d1_78da47d5:
 
     # m 5a "You really are so romantic~"
-    m 5a "Eres un romántico de los de antes~"
+    m 5a "Eres un romántico de los de antes"
 
 # game/d1.rpy:467
 translate spanish d1_080a7986:
@@ -1464,7 +1464,7 @@ translate spanish d1_270dc0fb:
 translate spanish d1_4457eac5:
 
     # m 3k "You've already done so much for me~!"
-    m 3k "¡Ya has hecho un montón por mí~!"
+    m 3k "¡Ya has hecho un montón por mí!"
 
 # game/d1.rpy:471
 translate spanish d1_e8dac58e:
@@ -1500,19 +1500,19 @@ translate spanish d1_0c7c3731:
 translate spanish d1_5228ffc4:
 
     # m 3k "Not like it matters or anything~!"
-    m 3k "¡Pero vamos, que tampoco pasa nada~!"
+    m 3k "¡Pero vamos, que tampoco pasa nada!"
 
 # game/d1.rpy:482
 translate spanish d1_7dbd0639:
 
     # m "I know you tried your best~"
-    m "Sé que has puesto todo de tu parte~"
+    m "Sé que has puesto todo de tu parte"
 
 # game/d1.rpy:483
 translate spanish d1_3545a035:
 
     # m lean happ om oe "And that still makes it special to me~"
-    m lean happ om oe "Y eso ya lo hace especial para mí~"
+    m lean happ om oe "Y eso ya lo hace especial para mí"
 
 # game/d1.rpy:485
 translate spanish d1_793beb4e:
