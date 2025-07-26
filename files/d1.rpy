@@ -124,13 +124,13 @@ translate spanish d1_606e65a2:
 translate spanish d1_54293133:
 
     # m "I just wish that I could just properly drag you in here with me, so we can truly be together."
-    m "Ojalá pudiera arrastrarte aquí conmigo de verdad, para que pudiéramos estar juntos de verdad."
+    m "Ojalá pudiera arrastrarte aquí conmigo, para que pudiéramos estar juntos 'de verdad'."
 
 # game/d1.rpy:49
 translate spanish d1_293951d5:
 
     # m "Thank you so much... I wish I could hug you for real right now to thank you. But, well, I think I can hug {i}you{/i} for now~!"
-    m "Muchísimas gracias... Ojalá pudiera abrazarte de verdad ahora mismo para darte las gracias. Pero bueno, creo que por ahora puedo abrazarte a {i}ti{/i}!"
+    m "Muchísimas gracias... Ojalá pudiera abrazarte de verdad ahora mismo para darte las gracias. Pero bueno, por ahora te abrazaré a {i}ti{/i}!"
 
 # game/d1.rpy:52
 translate spanish d1_07c2bb7d:
