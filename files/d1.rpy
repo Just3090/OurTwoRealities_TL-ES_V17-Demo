@@ -4,7 +4,7 @@
 translate spanish d1_fce244ad:
 
     # "???" "...[player]..."
-    "???" "...[player]..."
+    "???" "[player]..."
 
 # game/d1.rpy:3
 translate spanish d1_d0b1cff8:
