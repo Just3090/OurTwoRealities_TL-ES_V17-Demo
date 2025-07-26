@@ -130,7 +130,7 @@ translate spanish d1_54293133:
 translate spanish d1_293951d5:
 
     # m "Thank you so much... I wish I could hug you for real right now to thank you. But, well, I think I can hug {i}you{/i} for now~!"
-    m "Muchísimas gracias... Ojalá pudiera abrazarte de verdad ahora mismo para darte las gracias. Pero bueno, por ahora te abrazaré a {i}ti{/i}!"
+    m "Muchísimas gracias... Ojalá pudiera abrazarte de verdad ahora mismo para darte las gracias. Pero bueno, por ahora te abrazaré a 'ti'!"
 
 # game/d1.rpy:52
 translate spanish d1_07c2bb7d:
