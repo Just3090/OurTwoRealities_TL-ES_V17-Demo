@@ -1330,1561 +1330,1561 @@ translate spanish d2contcook_cb371a18:
 translate spanish d2contcook_31e23a88:
 
     # m h1_1k "Who knows, maybe after that you will make it alone for me~"
-    m h1_1k "Quién sabe, igual luego me cocinas algo solito, para mí..."
+    m h1_1k "Quién sabe, igual luego me cocinas, algo solo para mí..."
 
 # game/d2.rpy:486
 translate spanish d2ext_932122fd:
 
     # "With that all wrapped up, I wash the dishes while Monika cleans up the table."
-    ""
+    "Con todo recogido, yo friego los platos mientras Monika recoge la mesa."
 
 # game/d2.rpy:487
 translate spanish d2ext_3634d2bf:
 
     # mc "Hey, Monika?"
-    mc ""
+    mc "Oye, Monika."
 
 # game/d2.rpy:489
 translate spanish d2ext_878277ae:
 
     # m "Hmm?"
-    m ""
+    m "¿Sí?"
 
 # game/d2.rpy:490
 translate spanish d2ext_c59b82d4:
 
     # mc "Once we're done here in the kitchen, do you want to take a walk outside?"
-    mc ""
+    mc "Cuando terminemos aquí en la cocina, ¿te apetece salir a dar una vuelta?"
 
 # game/d2.rpy:491
 translate spanish d2ext_2dd1f0ff:
 
     # m h1_2b "Sure!"
-    m h1_2b ""
+    m h1_2b "¡Claro!"
 
 # game/d2.rpy:494
 translate spanish d2ext_a508db11:
 
     # "I start cleaning up the mess in the kitchen."
-    ""
+    "Empiezo a recoger el desastre de la cocina."
 
 # game/d2.rpy:495
 translate spanish d2ext_32777d5d:
 
     # "Monika grabs some of the dishes from the table and begins to wash them."
-    ""
+    "Monika coge algunos platos de la mesa y se pone a fregarlos."
 
 # game/d2.rpy:498
 translate spanish d2ext_828c2e2b:
 
     # "Soon enough, we finish cleaning."
-    ""
+    "Enseguida terminamos de limpiar."
 
 # game/d2.rpy:499
 translate spanish d2ext_53b7f02e:
 
     # "I quickly prepare two bottles of water for the walk."
-    ""
+    "Preparo rápido dos botellas de agua para el paseo."
 
 # game/d2.rpy:501
 translate spanish d2ext_1912d268:
 
     # "I put the two bottles in a small backpack."
-    ""
+    "Meto las botellas en una mochila pequeña."
 
 # game/d2.rpy:504
 translate spanish d2ext_f24692f8:
 
     # "I stare at Monika for a bit."
-    ""
+    "Me quedo mirando a Monika un rato."
 
 # game/d2.rpy:505
 translate spanish d2ext_8a934bbf:
 
     # "Seeing that smile of hers."
-    ""
+    "Viendo esa sonrisa suya."
 
 # game/d2.rpy:507
 translate spanish d2ext_9f0d0fb3:
 
     # "It warms my heart whenever I see it."
-    ""
+    "Cada vez que la veo, se me calienta el corazón."
 
 # game/d2.rpy:509
 translate spanish d2ext_d3d7829c:
 
     # "Those beautiful green eyes..."
-    ""
+    "Esos ojos verdes tan bonitos..."
 
 # game/d2.rpy:510
 translate spanish d2ext_4760cd23:
 
     # "That gorgeous coral brown hair..."
-    ""
+    "Ese pelo castaño tan bonito..."
 
 # game/d2.rpy:511
 translate spanish d2ext_97e2d1a8:
 
     # m h1_3l "Uhh, [player]?"
-    m h1_3l ""
+    m h1_3l "Eh, ¿[player]?"
 
 # game/d2.rpy:512
 translate spanish d2ext_36340650:
 
     # mc "Huh...?"
-    mc ""
+    mc "¿Eh...?"
 
 # game/d2.rpy:513
 translate spanish d2ext_50f2afe0:
 
     # m "You were spacing out for a bit there~!"
-    m ""
+    m "Te has quedado empanado un rato, ¿eh?"
 
 # game/d2.rpy:514
 translate spanish d2ext_c3819dcd:
 
     # mc "Oh, sorry..."
-    mc ""
+    mc "Ah, perdona..."
 
 # game/d2.rpy:515
 translate spanish d2ext_e8a6aee2:
 
     # m h1_1m "It's ok."
-    m h1_1m ""
+    m h1_1m "No pasa nada."
 
 # game/d2.rpy:516
 translate spanish d2ext_e0c5e6dd:
 
     # m h1_1n "Besides,{w=0.5} I usually find myself staring at you more often than not too..."
-    m h1_1n ""
+    m h1_1n "Además, la verdad es que yo también me quedo mirándote a ti más de lo que crees..."
 
 # game/d2.rpy:517
 translate spanish d2ext_73fbf97d:
 
     # m h1_1k "Ehehe~!"
-    m h1_1k ""
+    m h1_1k "Je, je."
 
 # game/d2.rpy:518
 translate spanish d2ext_f2cb13d2:
 
     # "She chuckles a bit, and I blush a little."
-    ""
+    "Se ríe un poco y yo me pongo rojo."
 
 # game/d2.rpy:519
 translate spanish d2ext_efaad254:
 
     # mc "Okay, so are you ready to get going then?"
-    mc ""
+    mc "Bueno, ¿entonces estás lista para salir?"
 
 # game/d2.rpy:520
 translate spanish d2ext_621793f0:
 
     # m "Not yet~!"
-    m ""
+    m "¡Todavía no!"
 
 # game/d2.rpy:521
 translate spanish d2ext_6cdfaf9d:
 
     # m "I'm going to quickly change into something more suited for the weather."
-    m ""
+    m "Voy a cambiarme rápido y ponerme algo más acorde al tiempo."
 
 # game/d2.rpy:522
 translate spanish d2ext_1d8286ff:
 
     # m "I'll be just a minute!"
-    m ""
+    m "¡Tardo un minuto!"
 
 # game/d2.rpy:525
 translate spanish d2ext_7ef6d18a:
 
     # "Monika runs upstairs."
-    ""
+    "Monika sube corriendo las escaleras."
 
 # game/d2.rpy:526
 translate spanish d2ext_81b183a5:
 
     # "I wish I could-{nw}"
-    ""
+    "Ojalá pudiera...{nw}"
 
 # game/d2.rpy:527
 translate spanish d2ext_c7bbd73a:
 
     # m "[player]~!"
-    m ""
+    m "[player]!"
 
 # game/d2.rpy:528
 translate spanish d2ext_7fe4a43d:
 
     # "Monika yells from upstairs."
-    ""
+    "Monika me llama desde arriba."
 
 # game/d2.rpy:529
 translate spanish d2ext_8bda6373:
 
     # m "Could you come up here for a minute~?"
-    m ""
+    m "¿Puedes subir un momento?"
 
 # game/d2.rpy:530
 translate spanish d2ext_43c359b7:
 
     # mc "Sure, I'll be right up!"
-    mc ""
+    mc "¡Claro, ahora subo!"
 
 # game/d2.rpy:534
 translate spanish d2ext_adce7d88:
 
     # m "Well? What do you think?"
-    m ""
+    m "¿Y bien? ¿Qué te parece?"
 
 # game/d2.rpy:538
 translate spanish d2ext_455cb722:
 
     # m o2_5a "Thank you so much, sweetie~"
-    m o2_5a ""
+    m o2_5a "Muchas gracias, cariño."
 
 # game/d2.rpy:542
 translate spanish d2ext_199c69ab:
 
     # m o2_1k "Yep!"
-    m o2_1k ""
+    m o2_1k "¡Sí!"
 
 # game/d2.rpy:543
 translate spanish d2ext_4f9f8fa9:
 
     # m o2_1b "And a few other outfits too!"
-    m o2_1b ""
+    m o2_1b "¡Y tengo algún modelito más también!"
 
 # game/d2.rpy:546
 translate spanish d2ext_ab70a272:
 
     # m o2_1b "Maybe later.{w=0.5} Let's go for our walk first, okay?"
-    m o2_1b ""
+    m o2_1b "Quizá luego. Vamos a dar el paseo primero, ¿vale?"
 
 # game/d2.rpy:549
 translate spanish d2ext_aed1554a:
 
     # m o2_1j "Hehehe~"
-    m o2_1j ""
+    m o2_1j "Je, je."
 
 # game/d2.rpy:550
 translate spanish d2ext_bc8b4194:
 
     # m o2_1b "Well,{w=0.5} what are we waiting for then?"
-    m o2_1b ""
+    m o2_1b "Bueno, ¿a qué esperamos entonces?"
 
 # game/d2.rpy:555
 translate spanish d2ext_a435e903:
 
     # "I grab the backpack with the water bottles, and we step outside."
-    ""
+    "Cojo la mochila con las botellas de agua y salimos fuera."
 
 # game/d2.rpy:556
 translate spanish d2ext_52d655c1:
 
     # "I check the time on my watch."
-    ""
+    "Miro la hora en el reloj."
 
 # game/d2.rpy:557
 translate spanish d2ext_b58ea303:
 
     # "3:24."
-    ""
+    "Las 3:24."
 
 # game/d2.rpy:558
 translate spanish d2ext_4ba56644:
 
     # "I lock up the door, and we make our way down the street."
-    ""
+    "Cierro la puerta y nos vamos calle abajo."
 
 # game/d2.rpy:562
 translate spanish d2ext_2f9d45b6:
 
     # m "It's such a nice day today~"
-    m ""
+    m "Hace un día estupendo hoy"
 
 # game/d2.rpy:564
 translate spanish d2ext_3e1882c8:
 
     # mc "That it is."
-    mc ""
+    mc "Ya ves."
 
 # game/d2.rpy:565
 translate spanish d2ext_3912c75e:
 
     # mc "Makes for a perfect time to spend with the one you love~"
-    mc ""
+    mc "Es el momento perfecto para estar con la persona que quieres..."
 
 # game/d2.rpy:566
 translate spanish d2ext_77efa280:
 
     # m o2_2k "Ahaha~!"
-    m o2_2k ""
+    m o2_2k "Ja, ja, ja."
 
 # game/d2.rpy:567
 translate spanish d2ext_0164dbdd:
 
     # m o2_1d "Say, do you know what our class is doing for the festival?"
-    m o2_1d ""
+    m o2_1d "Oye, ¿sabes qué va a hacer nuestra clase para el festival?"
 
 # game/d2.rpy:569
 translate spanish d2ext_b0822fc7:
 
     # mc "I'm...not entirely sure."
-    mc ""
+    mc "Pues... no estoy muy seguro."
 
 # game/d2.rpy:570
 translate spanish d2ext_1dc81513:
 
     # mc "I heard from one of our classmates that we aren't going to be doing anything."
-    mc ""
+    mc "Me ha dicho un compañero que no vamos a hacer nada."
 
 # game/d2.rpy:572
 translate spanish d2ext_33083b51:
 
     # m "Oh..."
-    m ""
+    m "Vaya..."
 
 # game/d2.rpy:573
 translate spanish d2ext_14f0feba:
 
     # m o2_1p "I was actually hoping to do something..."
-    m o2_1p ""
+    m o2_1p "La verdad es que me hacía ilusión hacer algo..."
 
 # game/d2.rpy:575
 translate spanish d2ext_69c25b65:
 
     # mc "Yeah..."
-    mc ""
+    mc "Ya..."
 
 # game/d2.rpy:577
 translate spanish d2ext_2d5ed08b:
 
     # mc "Look on the bright side though!"
-    mc ""
+    mc "¡Pero mira el lado bueno!"
 
 # game/d2.rpy:578
 translate spanish d2ext_6398e495:
 
     # mc "We have pretty much the entire day together!"
-    mc ""
+    mc "Tenemos el día entero para nosotros."
 
 # game/d2.rpy:579
 translate spanish d2ext_5b6c10b5:
 
     # mc "And we're still doing the poem performance with the club!"
-    mc ""
+    mc "Y aún tenemos la actuación de poemas con el club."
 
 # game/d2.rpy:580
 translate spanish d2ext_73ffe851:
 
     # mc "It'll be just the two of us, with the festival to explore!"
-    mc ""
+    mc "¡Seremos solo nosotros dos, con todo el festival para explorar!"
 
 # game/d2.rpy:581
 translate spanish d2ext_6ca73220:
 
     # m o2_1q "...You're right."
-    m o2_1q ""
+    m o2_1q "Tienes razón..."
 
 # game/d2.rpy:582
 translate spanish d2ext_bc5abc7f:
 
     # m o2_4k "On Monday, let's have as much fun as we can!"
-    m o2_4k ""
+    m o2_4k "El lunes vamos a pasarlo lo mejor posible"
 
 # game/d2.rpy:584
 translate spanish d2ext_b8e19b97:
 
     # mc "That's the spirit!"
-    mc ""
+    mc "¡Así se habla!"
 
 # game/d2.rpy:585
 translate spanish d2ext_b1d11ea3:
 
     # "We continue along until we reach the entrance to a nearby park."
-    ""
+    "Seguimos andando hasta llegar a la entrada de un parque cercano."
 
 # game/d2.rpy:591
 translate spanish d2ext_7a9296cc:
 
     # "We step in, and a certain peace comes across."
-    ""
+    "Entramos y nos invade una paz enorme."
 
 # game/d2.rpy:592
 translate spanish d2ext_0ae70e23:
 
     # "We take a seat on a nearby bench."
-    ""
+    "Nos sentamos en un banco cercano."
 
 # game/d2.rpy:593
 translate spanish d2ext_4e848716:
 
     # mc "How are you liking the walk so far?"
-    mc ""
+    mc "¿Qué te está pareciendo el paseo?"
 
 # game/d2.rpy:594
 translate spanish d2ext_c1e11b15:
 
     # m o2_1b "It's really nice!"
-    m o2_1b ""
+    m o2_1b "Está genial"
 
 # game/d2.rpy:595
 translate spanish d2ext_b22297ce:
 
     # m o2_2j "I'm glad we can spend time together like this~!"
-    m o2_2j ""
+    m o2_2j "Me alegro de que podamos pasar tiempo juntos así"
 
 # game/d2.rpy:596
 translate spanish d2ext_551b8412:
 
     # mc "Same here."
-    mc ""
+    mc "Yo también."
 
 # game/d2.rpy:598
 translate spanish d2ext_2cf35550:
 
     # "I look at Monika with her hair slightly waving in the wind as we sit."
-    ""
+    "Miro a Monika, con el pelo moviéndose un poco por el viento mientras estamos sentados."
 
 # game/d2.rpy:601
 translate spanish d2ext_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/d2.rpy:602
 translate spanish d2ext_fe4a4a29:
 
     # "The nice quiet around us makes for a very nice moment."
-    ""
+    "El silencio que hay a nuestro alrededor hace que el momento sea aún mejor."
 
 # game/d2.rpy:603
 translate spanish d2ext_4bd1a173:
 
     # "The birds are chirping, flowers are blooming..."
-    ""
+    "Los pájaros cantan, las flores están en su punto..."
 
 # game/d2.rpy:604
 translate spanish d2ext_478cc3f5:
 
     # "And the sun is shining bright in the sky."
-    ""
+    "Y el sol brilla con fuerza en el cielo."
 
 # game/d2.rpy:605
 translate spanish d2ext_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/d2.rpy:617
 translate spanish d2ext_b2cbc34c:
 
     # m "...I..."
-    m ""
+    m "... Yo..."
 
 # game/d2.rpy:619
 translate spanish d2ext_e066384b:
 
     # m "...I love you too~!"
-    m ""
+    m "... ¡Yo también te quiero!"
 
 # game/d2.rpy:623
 translate spanish d2slow_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/d2.rpy:626
 translate spanish d2slow_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/d2.rpy:628
 translate spanish d2slow_e592f22d:
 
     # m "I love you..."
-    m ""
+    m "Te quiero..."
 
 # game/d2.rpy:642
 translate spanish d2cont_3636e7df:
 
     # "We wrap our arms around each other, and we stay locked together for a good few minutes."
-    ""
+    "Nos abrazamos y nos quedamos así, pegados, un buen rato."
 
 # game/d2.rpy:643
 translate spanish d2cont_dd784057:
 
     # "I feel her soft hands wrapped around me, and I hold her tight as we sit there on the bench."
-    ""
+    "Noto sus manos suaves rodeándome y la abrazo fuerte mientras estamos sentados en el banco."
 
 # game/d2.rpy:644
 translate spanish d2cont_ef0af177:
 
     # "I hear nature around us singing it's peaceful music."
-    ""
+    "Escucho la naturaleza a nuestro alrededor, como si pusiera música de fondo."
 
 # game/d2.rpy:645
 translate spanish d2cont_d04ba85b:
 
     # "Then suddenly..."
-    ""
+    "Y de repente..."
 
 # game/d2.rpy:656
 translate spanish d2cont_ddaf6289:
 
     # m "You know, time feels like it slows down when I'm with you~"
-    m ""
+    m "¿Sabes? El tiempo parece ir más despacio cuando estoy contigo"
 
 # game/d2.rpy:657
 translate spanish d2cont_173404b3:
 
     # mc "Yeah, and I wish it would stay like that..."
-    mc ""
+    mc "Ya... ojalá se quedara así para siempre..."
 
 # game/d2.rpy:659
 translate spanish d2cont_31934511:
 
     # "I want this moment to last forever..."
-    ""
+    "Ojalá este momento durara para siempre..."
 
 # game/d2.rpy:662
 translate spanish d2cont_9f9a620c:
 
     # "We sit there with our arms around each other for about 15 minutes."
-    ""
+    "Nos quedamos abrazados unos quince minutos."
 
 # game/d2.rpy:664
 translate spanish d2cont_9b261ff2:
 
     # m "[player]..."
-    m ""
+    m "[player]..."
 
 # game/d2.rpy:665
 translate spanish d2cont_c8436eeb:
 
     # m forward redskirt ldown rdown neut n3 mb e1a b1b "I wish it was for real..."
-    m forward redskirt ldown rdown neut n3 mb e1a b1b ""
+    m forward redskirt ldown rdown neut n3 mb e1a b1b "Ojalá esto fuera de verdad..."
 
 # game/d2.rpy:666
 translate spanish d2cont_654e200e:
 
     # m forward redskirt ldown rdown neut n3 mb e4a b1a "Not with your avatar, but with the real you..."
-    m forward redskirt ldown rdown neut n3 mb e4a b1a ""
+    m forward redskirt ldown rdown neut n3 mb e4a b1a "No con el prota, sino 'contigo' de verdad..."
 
 # game/d2.rpy:667
 translate spanish d2cont_08469390:
 
     # m forward redskirt ldown rdown neut n3 mb e1a b1b "I would like this moment to continue forever then..."
-    m forward redskirt ldown rdown neut n3 mb e1a b1b ""
+    m forward redskirt ldown rdown neut n3 mb e1a b1b "Entonces sí que me gustaría que este momento no acabara nunca..."
 
 # game/d2.rpy:668
 translate spanish d2cont_ffdb376c:
 
     # m forward redskirt ldown rdown flus om oe "I can't even feel the warmth from your avatar..."
-    m forward redskirt ldown rdown flus om oe ""
+    m forward redskirt ldown rdown flus om oe "Ni siquiera puedo sentir el calor de este prota..."
 
 # game/d2.rpy:669
 translate spanish d2cont_160466e9:
 
     # m forward redskirt ldown rdown neut me e4d b1b "Especially the kiss..."
-    m forward redskirt ldown rdown neut me e4d b1b ""
+    m forward redskirt ldown rdown neut me e4d b1b "Y menos aún el beso..."
 
 # game/d2.rpy:672
 translate spanish d2cont_3fa59472:
 
     # m forward redskirt ldown rdown neut n3 md e4d b1d "..."
-    m forward redskirt ldown rdown neut n3 md e4d b1d ""
+    m forward redskirt ldown rdown neut n3 md e4d b1d "..."
 
 # game/d2.rpy:673
 translate spanish d2cont_4f1e9095:
 
     # m forward redskirt ldown rdown neut n3 mb e1h b1b "Thank you..."
-    m forward redskirt ldown rdown neut n3 mb e1h b1b ""
+    m forward redskirt ldown rdown neut n3 mb e1h b1b "Gracias..."
 
 # game/d2.rpy:674
 translate spanish d2cont_70fbbf9f:
 
     # m o2_1k "I hope it'll be soon..."
-    m o2_1k ""
+    m o2_1k "Ojalá sea pronto..."
 
 # game/d2.rpy:676
 translate spanish d2cont_3fa59472_1:
 
     # m forward redskirt ldown rdown neut n3 md e4d b1d "..."
-    m forward redskirt ldown rdown neut n3 md e4d b1d ""
+    m forward redskirt ldown rdown neut n3 md e4d b1d "..."
 
 # game/d2.rpy:677
 translate spanish d2cont_4f1e9095_1:
 
     # m forward redskirt ldown rdown neut n3 mb e1h b1b "Thank you..."
-    m forward redskirt ldown rdown neut n3 mb e1h b1b ""
+    m forward redskirt ldown rdown neut n3 mb e1h b1b "Gracias..."
 
 # game/d2.rpy:678
 translate spanish d2cont_665c231a:
 
     # m o2_1k "I love you...{w=0.5} I love you even if there's the barrier between us..."
-    m o2_1k ""
+    m o2_1k "Te quiero... Te quiero aunque haya una barrera entre nosotros..."
 
 # game/d2.rpy:682
 translate spanish d2cont_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/d2.rpy:686
 translate spanish d2cont_04f2bbb0:
 
     # "I let go of her, and she smiles sweetly at me."
-    ""
+    "La suelto y ella me sonríe con dulzura."
 
 # game/d2.rpy:688
 translate spanish d2cont_4367d066:
 
     # m "You know, we should come out here a bit more often!"
-    m ""
+    m "Oye, deberíamos venir aquí más a menudo."
 
 # game/d2.rpy:690
 translate spanish d2cont_fdd83900:
 
     # m "That way we can spend a bit more time together!"
-    m ""
+    m "Así podemos pasar más tiempo juntos..."
 
 # game/d2.rpy:692
 translate spanish d2cont_ed614223:
 
     # mc "I know I wouldn't mind it."
-    mc ""
+    mc "Por mí encantado."
 
 # game/d2.rpy:693
 translate spanish d2cont_1a7f9bdb:
 
     # "Monika checks her watch and gets up."
-    ""
+    "Monika mira el reloj y se levanta."
 
 # game/d2.rpy:698
 translate spanish d2cont_8e3485a2:
 
     # m "Okay, we should probably get going..."
-    m ""
+    m "Bueno, será mejor que vayamos tirando..."
 
 # game/d2.rpy:699
 translate spanish d2cont_278aac42:
 
     # mc "Yeah, but I have to admit,{w=0.5} it was nice getting a hug like that..."
-    mc ""
+    mc "Sí, pero tengo que admitir que ese abrazo ha estado genial..."
 
 # game/d2.rpy:700
 translate spanish d2cont_b4409513:
 
     # m o2_1k "I enjoyed it just as much as you~"
-    m o2_1k ""
+    m o2_1k "A mí me ha gustado igual que a ti"
 
 # game/d2.rpy:701
 translate spanish d2cont_ff220e4b:
 
     # m o2_3k "Now, c'mon! Let's explore a bit!"
-    m o2_3k ""
+    m o2_3k "¡Venga, vamos a explorar un poco!"
 
 # game/d2.rpy:703
 translate spanish d2cont_6025d8b2:
 
     # "We both get up, and we head deeper into the park."
-    ""
+    "Nos levantamos y nos adentramos más en el parque."
 
 # game/d2.rpy:706
 translate spanish d2cont_bcea79a8:
 
     # "I hold Monika's hand as we walk."
-    ""
+    "Le cojo la mano a Monika mientras paseamos."
 
 # game/d2.rpy:707
 translate spanish d2cont_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/d2.rpy:708
 translate spanish d2cont_4b966668:
 
     # "The birds sing as we pass tree after tree."
-    ""
+    "Los pájaros cantan mientras pasamos entre los árboles."
 
 # game/d2.rpy:709
 translate spanish d2cont_ec1d5432:
 
     # "We cross over the small hill and continue along. "
-    ""
+    "Cruzamos una pequeña colina y seguimos andando."
 
 # game/d2.rpy:711
 translate spanish d2cont_fd4dffdc:
 
     # m "You know,{w=0.5} it's so nice to be out here like this."
-    m ""
+    m "Oye, es una pasada estar aquí así."
 
 # game/d2.rpy:712
 translate spanish d2cont_d4d177aa:
 
     # m "The weather is beautiful..."
-    m ""
+    m "Hace un tiempo estupendo..."
 
 # game/d2.rpy:713
 translate spanish d2cont_b6d1e0fb:
 
     # m "The birds... the sun..."
-    m ""
+    m "Los pájaros... el sol..."
 
 # game/d2.rpy:714
 translate spanish d2cont_e9f5028d:
 
     # m "It's just so... calming."
-    m ""
+    m "Es todo tan... relajante."
 
 # game/d2.rpy:715
 translate spanish d2cont_e6377d78:
 
     # m "Compared to the stillness of the classroom, it's so much more refreshing."
-    m ""
+    m "Comparado con el silencio de clase, esto es mucho más refrescante."
 
 # game/d2.rpy:717
 translate spanish d2cont_50570961:
 
     # mc "Yeah. I agree."
-    mc ""
+    mc "Sí, totalmente."
 
 # game/d2.rpy:720
 translate spanish d2cont_10aee25b:
 
     # "We continue along until we reach the other end of the park."
-    ""
+    "Seguimos andando hasta llegar al otro extremo del parque."
 
 # game/d2.rpy:722
 translate spanish d2cont_d57992cb:
 
     # m "Oh, this is the end of the path..."
-    m ""
+    m "Anda, pues aquí se acaba el camino..."
 
 # game/d2.rpy:723
 translate spanish d2cont_5767f776:
 
     # m "I guess we should turn back around."
-    m ""
+    m "Supongo que habrá que dar la vuelta."
 
 # game/d2.rpy:724
 translate spanish d2cont_69c25b65:
 
     # mc "Yeah..."
-    mc ""
+    mc "Ya..."
 
 # game/d2.rpy:725
 translate spanish d2cont_1c051ef4:
 
     # mc "Next time I'll bring you to a bigger park so we have more time."
-    mc ""
+    mc "La próxima vez te llevo a un parque más grande y así tenemos más rato."
 
 # game/d2.rpy:726
 translate spanish d2cont_b3b4c282:
 
     # m o2_1a "Okay!"
-    m o2_1a ""
+    m o2_1a "¡Vale!"
 
 # game/d2.rpy:729
 translate spanish d2cont_0bf3724c:
 
     # "We head back the way we came."
-    ""
+    "Volvemos por donde hemos venido."
 
 # game/d2.rpy:733
 translate spanish d2cont_acd12e46:
 
     # "I grab a quick drink from my water bottle, and I hand Monika her's."
-    ""
+    "Bebo un trago rápido de mi botella y le paso la suya a Monika."
 
 # game/d2.rpy:735
 translate spanish d2cont_91407960:
 
     # "She also takes a sip."
-    ""
+    "Ella también bebe un poco."
 
 # game/d2.rpy:736
 translate spanish d2cont_a50b08bd:
 
     # "We keep moving along until we reach the entrance we came through."
-    ""
+    "Seguimos andando hasta llegar a la entrada por la que entramos."
 
 # game/d2.rpy:739
 translate spanish d2cont_7b2dfbb4:
 
     # "The sun slowly starts to go down as we walk down the street."
-    ""
+    "El sol empieza a ponerse poco a poco mientras volvemos por la calle."
 
 # game/d2.rpy:740
 translate spanish d2cont_9bc1a237:
 
     # "Our hands are locked together."
-    ""
+    "Vamos cogidos de la mano."
 
 # game/d2.rpy:742
 translate spanish d2cont_221e6412:
 
     # "She smiles sweetly at me."
-    ""
+    "Ella me sonríe con dulzura."
 
 # game/d2.rpy:743
 translate spanish d2cont_482a1577:
 
     # "During the entire time we were walking, we haven't actually spoken about much."
-    ""
+    "Durante todo el paseo, la verdad es que no hemos hablado de mucho."
 
 # game/d2.rpy:744
 translate spanish d2cont_72c1d0b2:
 
     # "Instead, it was a comfortable silence."
-    ""
+    "Ha sido más bien un silencio cómodo."
 
 # game/d2.rpy:745
 translate spanish d2cont_425a65b5:
 
     # "Together, there's no gap between us."
-    ""
+    "Juntos, no hay distancia entre nosotros."
 
 # game/d2.rpy:746
 translate spanish d2cont_7bb1bc79:
 
     # "Monika is snuggled up against me with her eyes closed."
-    ""
+    "Monika va pegada a mí, con los ojos cerrados."
 
 # game/d2.rpy:747
 translate spanish d2cont_f4ffa6bc:
 
     # "She leans her head on my shoulder as we walk."
-    ""
+    "Apoya la cabeza en mi hombro mientras caminamos."
 
 # game/d2.rpy:748
 translate spanish d2cont_0ddf3961:
 
     # "She is relying entirely on me to guide and protect her."
-    ""
+    "Confía en mí para que la guíe y la proteja."
 
 # game/d2.rpy:749
 translate spanish d2cont_73132b07:
 
     # "I let go of her hand and wrap my arm around her shoulder."
-    ""
+    "Le suelto la mano y le paso el brazo por los hombros."
 
 # game/d2.rpy:750
 translate spanish d2cont_fbf6eda6:
 
     # "We continue strolling along until we reach our house."
-    ""
+    "Seguimos paseando hasta llegar a casa."
 
 # game/d2.rpy:754
 translate spanish d2cont_df131f27:
 
     # "By the time we reach home, the sun is slowly setting over the horizon."
-    ""
+    "Cuando llegamos a casa, el sol ya se está poniendo en el horizonte."
 
 # game/d2.rpy:755
 translate spanish d2cont_b399b58b:
 
     # "Monika is still snuggled up against me."
-    ""
+    "Monika sigue pegada a mí."
 
 # game/d2.rpy:756
 translate spanish d2cont_a865f5db:
 
     # "I unlock the door, and we step inside."
-    ""
+    "Abro la puerta y entramos."
 
 # game/d2.rpy:759
 translate spanish d2cont_ccd96fea:
 
     # "I set down the backpack onto the couch."
-    ""
+    "Dejo la mochila en el sofá."
 
 # game/d2.rpy:760
 translate spanish d2cont_3034d8c2:
 
     # mc "Are we just having leftovers for supper then?"
-    mc ""
+    mc "¿Entonces cenamos las sobras?"
 
 # game/d2.rpy:761
 translate spanish d2cont_df4cc50a:
 
     # m "Yeah, let's just do that."
-    m ""
+    m "Sí, mejor eso."
 
 # game/d2.rpy:762
 translate spanish d2cont_729494d6:
 
     # m "I'm feeling a bit lazy today."
-    m ""
+    m "Hoy me siento un poco vaga."
 
 # game/d2.rpy:763
 translate spanish d2cont_e0d07204:
 
     # mc "Alright. I'll go warm it up."
-    mc ""
+    mc "Vale. Ahora lo caliento."
 
 # game/d2.rpy:764
 translate spanish d2cont_e74385d7:
 
     # m "Okay!"
-    m ""
+    m "¡Vale!"
 
 # game/d2.rpy:767
 translate spanish d2cont_3665e173:
 
     # "I grab some of today's lunch and slap it into the microwave."
-    ""
+    "Cojo un poco de lo que sobró de la comida y lo meto al microondas."
 
 # game/d2.rpy:768
 translate spanish d2cont_a9f99a9e:
 
     # "Too bad it's going to lose that fresh taste..."
-    ""
+    "Una pena que ya no sepa tan fresco..."
 
 # game/d2.rpy:769
 translate spanish d2cont_5970df73:
 
     # "But it's still good."
-    ""
+    "Pero sigue estando bueno."
 
 # game/d2.rpy:770
 translate spanish d2cont_35147f6f:
 
     # "The food finishes warming up, and I take it out."
-    ""
+    "Cuando termina de calentarse, lo saco."
 
 # game/d2.rpy:771
 translate spanish d2cont_ef9c5869:
 
     # "Monika walks into the room dressed in her PJs."
-    ""
+    "Monika entra en la sala ya con el pijama puesto."
 
 # game/d2.rpy:773
 translate spanish d2cont_f9dcf874:
 
     # m "Is it done?"
-    m ""
+    m "¿Ya está?"
 
 # game/d2.rpy:775
 translate spanish d2cont_b03b214d:
 
     # mc "Yep! Dig in!"
-    mc ""
+    mc "¡Listo! ¡A comer!"
 
 # game/d2.rpy:777
 translate spanish d2cont_3762ef75:
 
     # "We both eat our fill from the leftovers."
-    ""
+    "Cenamos los dos con las sobras."
 
 # game/d2.rpy:780
 translate spanish d2cont_cd86d917:
 
     # "I clean up the plates, and Monika goes into the living room and turns on the TV."
-    ""
+    "Recojo los platos y Monika se va al salón y pone la tele."
 
 # game/d2.rpy:781
 translate spanish d2cont_495fc3fe:
 
     # "I hear her sort through the channels."
-    ""
+    "La oigo haciendo zapping."
 
 # game/d2.rpy:782
 translate spanish d2cont_2e7b955a:
 
     # "I finish up cleaning, and go join her."
-    ""
+    "Termino de recoger y voy con ella."
 
 # game/d2.rpy:785
 translate spanish d2cont_64f12958:
 
     # "Monika relaxed herself, with her legs on the couch, and set a nice atmosphere to watch something together."
-    ""
+    "Monika se relaja, pone las piernas en el sofá y crea un ambiente perfecto para ver algo juntos."
 
 # game/d2.rpy:786
 translate spanish d2cont_8ee33de5:
 
     # "The only source of light is the TV which Monika has left on with a show that's about to begin."
-    ""
+    "La única luz es la de la tele, que Monika ha dejado puesta con un programa que está a punto de empezar."
 
 # game/d2.rpy:787
 translate spanish d2cont_30355e50:
 
     # mc "So, what are we watching?"
-    mc ""
+    mc "Entonces, ¿qué vamos a ver?"
 
 # game/d2.rpy:788
 translate spanish d2cont_e9e8e061:
 
     # m "I'm not sure, but this caught my attention."
-    m ""
+    m "No lo sé, pero esto me ha llamado la atención."
 
 # game/d2.rpy:789
 translate spanish d2cont_805f749b:
 
     # m "It's an anime about a bunch of school idols apparently."
-    m ""
+    m "Parece que es un anime de idols escolares o algo así."
 
 # game/d2.rpy:790
 translate spanish d2cont_dcf76a4b:
 
     # m "I think I've seen it before somewhere while I was looking through things online."
-    m ""
+    m "Creo que lo he visto antes por internet."
 
 # game/d2.rpy:791
 translate spanish d2cont_32c9a18c:
 
     # mc "Okay. Looks interesting..."
-    mc ""
+    mc "Vale, tiene buena pinta..."
 
 # game/d2.rpy:794
 translate spanish d2cont_d5535d27:
 
     # "I take a seat next to her."
-    ""
+    "Me siento a su lado."
 
 # game/d2.rpy:795
 translate spanish d2cont_bb0cd262:
 
     # "Monika starts the show, and we snuggle up next to each other."
-    ""
+    "Monika pone el programa y nos acurrucamos juntos."
 
 # game/d2.rpy:796
 translate spanish d2cont_4514294b:
 
     # m "To be honest, I haven't thought much about anime."
-    m ""
+    m "La verdad, nunca he pensado mucho en el anime."
 
 # game/d2.rpy:797
 translate spanish d2cont_e8b7f1ad:
 
     # m "I've always spent my time reading."
-    m ""
+    m "Siempre he preferido leer."
 
 # game/d2.rpy:798
 translate spanish d2cont_b72a1ed5:
 
     # m "Ahaha~"
-    m ""
+    m "Ja, ja, ja."
 
 # game/d2.rpy:799
 translate spanish d2cont_e890f826:
 
     # "The first episode begins, and the intro song begins to play."
-    ""
+    "Empieza el primer episodio y suena la canción de apertura."
 
 # game/d2.rpy:802
 translate spanish d2cont_ff38e6ea:
 
     # "Monika watches the TV with a very 'interested' expression."
-    ""
+    "Monika mira la tele con cara de estar muy interesada."
 
 # game/d2.rpy:803
 translate spanish d2cont_e376e379:
 
     # m "This seems like a nice show."
-    m ""
+    m "Parece que está bien."
 
 # game/d2.rpy:804
 translate spanish d2cont_473a88b5:
 
     # mc "Yeah, it does."
-    mc ""
+    mc "Sí, la verdad."
 
 # game/d2.rpy:807
 translate spanish d2cont_c0eb877b:
 
     # "We watch a few more minutes of it."
-    ""
+    "Vemos unos minutos más."
 
 # game/d2.rpy:808
 translate spanish d2cont_fafb1ad1:
 
     # "Eventually, we get to a point where the climax of the episode is nearing."
-    ""
+    "Al final llegamos al momento clave del episodio."
 
 # game/d2.rpy:811
 translate spanish d2cont_4e1765dc:
 
     # m "Ooh! I think another song is about to start!"
-    m ""
+    m "¡Uy! Creo que va a empezar otra canción."
 
 # game/d2.rpy:812
 translate spanish d2cont_89725d16:
 
     # "As if on cue, the girls in the show go on stage, and begin to perform."
-    ""
+    "Como si lo supieran, las chicas del anime salen al escenario y empiezan a actuar."
 
 # game/d2.rpy:813
 translate spanish d2cont_5070f2cc:
 
     # "The insert song starts up, and the girls start singing."
-    ""
+    "Empieza la canción y las chicas se ponen a cantar."
 
 # game/d2.rpy:814
 translate spanish d2cont_ab7421e0:
 
     # "TV" "{i}~I feel that we have a chance~{/i}"
-    "TV" ""
+    "TV" "Siento que tenemos una oportunidad"
 
 # game/d2.rpy:815
 translate spanish d2cont_b18871e9:
 
     # "TV" "{i}~Yes... let's push forward!~{/i}"
-    "TV" ""
+    "TV" "Sí... ¡vamos a por todas!"
 
 # game/d2.rpy:816
 translate spanish d2cont_cf3b5f9a:
 
     # "TV" "{i}~I don't want to regret it later, our future lies right ahead~{/i}"
-    "TV" ""
+    "TV" "No quiero arrepentirme luego, el futuro está delante de nosotros"
 
 # game/d2.rpy:817
 translate spanish d2cont_c95a05b0:
 
     # "Monika listens intently, and starts to bop her head a bit to the beat."
-    ""
+    "Monika escucha atenta y empieza a mover la cabeza al ritmo."
 
 # game/d2.rpy:818
 translate spanish d2cont_d0d52960:
 
     # m "It surprises me how well these songs are made."
-    m ""
+    m "Me sorprende lo bien hechas que están estas canciones."
 
 # game/d2.rpy:819
 translate spanish d2cont_ce173a69:
 
     # m "You can tell a lot of effort was put into the creation of it."
-    m ""
+    m "Se nota que le han puesto mucho curro."
 
 # game/d2.rpy:820
 translate spanish d2cont_af9ab36e:
 
     # m "The composing, singing, the animation..."
-    m ""
+    m "La composición, el canto, la animación..."
 
 # game/d2.rpy:821
 translate spanish d2cont_d9d4b60e:
 
     # m "It all fits in just so nicely!"
-    m ""
+    m "Todo encaja de maravilla."
 
 # game/d2.rpy:824
 translate spanish d2cont_a61b2ded:
 
     # "We continue watching."
-    ""
+    "Seguimos viendo el episodio."
 
 # game/d2.rpy:825
 translate spanish d2cont_51eb29bf:
 
     # "It's nice to see Monika's view in all this."
-    ""
+    "Me gusta ver cómo lo vive Monika."
 
 # game/d2.rpy:826
 translate spanish d2cont_ab4b1e9d:
 
     # "It still surprises me how much she knows about music."
-    ""
+    "Todavía me sorprende lo que sabe de música."
 
 # game/d2.rpy:827
 translate spanish d2cont_3a122af8:
 
     # "She still practices piano at school, but I didn't think she knew so much about it."
-    ""
+    "Sigue practicando piano en el cole, pero no pensaba que supiera tanto."
 
 # game/d2.rpy:828
 translate spanish d2cont_ccf57325:
 
     # "Soon enough, I think I'll buy her a piano when I get the chance."
-    ""
+    "En cuanto pueda, le compro un piano."
 
 # game/d2.rpy:829
 translate spanish d2cont_88c9a4d7:
 
     # "I think she'd like that..."
-    ""
+    "Seguro que le haría ilusión..."
 
 # game/d2.rpy:833
 translate spanish d2cont_3f2f73f2:
 
     # m "Hey, [player],"
-    m ""
+    m "Oye, [player],"
 
 # game/d2.rpy:834
 translate spanish d2cont_a4059fe9:
 
     # m "Do you watch anime?"
-    m ""
+    m "¿Tú ves anime?"
 
 # game/d2.rpy:837
 translate spanish d2cont_0b35a8dd:
 
     # m "Oh, nice."
-    m ""
+    m "Ah, qué bien."
 
 # game/d2.rpy:838
 translate spanish d2cont_3060dbfd:
 
     # m "How often do you watch it?"
-    m ""
+    m "¿Y cuánto lo ves?"
 
 # game/d2.rpy:841
 translate spanish d2cont_9c0103cd:
 
     # m "That's nice."
-    m ""
+    m "Eso está bien."
 
 # game/d2.rpy:842
 translate spanish d2cont_fff3d271:
 
     # m "Some of them, as far as I know, can be masterpieces."
-    m ""
+    m "Algunos, por lo que sé, pueden ser auténticas joyas."
 
 # game/d2.rpy:843
 translate spanish d2cont_99f5ffd8:
 
     # m "I prefer reading more though."
-    m ""
+    m "Aunque yo soy más de leer."
 
 # game/d2.rpy:844
 translate spanish d2cont_c1508881:
 
     # m "But I'd love to watch your favorite anime one day~"
-    m ""
+    m "Pero me encantaría ver tu anime favorito algún día"
 
 # game/d2.rpy:845
 translate spanish d2cont_3dbb8d0e:
 
     # m "Or maybe some romantic one..."
-    m ""
+    m "O alguno romántico..."
 
 # game/d2.rpy:846
 translate spanish d2cont_e49f1f75:
 
     # m "Hehe~"
-    m ""
+    m "Je, je."
 
 # game/d2.rpy:848
 translate spanish d2cont_33083b51:
 
     # m "Oh..."
-    m ""
+    m "Oh..."
 
 # game/d2.rpy:849
 translate spanish d2cont_c72779e3:
 
     # m "Like, for the whole day or only in the morning or evening?"
-    m ""
+    m "¿Pero te refieres a todo el día, solo por la mañana o por la noche?"
 
 # game/d2.rpy:852
 translate spanish d2cont_33083b51_1:
 
     # m "Oh..."
-    m ""
+    m "Oh..."
 
 # game/d2.rpy:853
 translate spanish d2cont_66c616ce:
 
     # m "Not that I can stop you or anything..."
-    m ""
+    m "No es que pueda decirte nada..."
 
 # game/d2.rpy:854
 translate spanish d2cont_493705a8:
 
     # m "It's just..."
-    m ""
+    m "Es solo que..."
 
 # game/d2.rpy:855
 translate spanish d2cont_f7ce89b3:
 
     # m "I don't think it's...{w=0.5}healthy..."
-    m ""
+    m "No creo que sea... muy sano..."
 
 # game/d2.rpy:856
 translate spanish d2cont_79a75f53:
 
     # m "Sorry..."
-    m ""
+    m "Perdona..."
 
 # game/d2.rpy:857
 translate spanish d2cont_0b6c9730:
 
     # m "I don't want to be rude..."
-    m ""
+    m "No quiero ser borde..."
 
 # game/d2.rpy:858
 translate spanish d2cont_12cdf801:
 
     # m "But could you watch it...{w=0.5}maybe a little bit less?"
-    m ""
+    m "Pero podrías ver... no sé, ¿un poco menos?"
 
 # game/d2.rpy:859
 translate spanish d2cont_39483fe2:
 
     # m "Your eyes need to relax too, and not only at night."
-    m ""
+    m "Tus ojos también necesitan descansar, y no solo por la noche."
 
 # game/d2.rpy:860
 translate spanish d2cont_dd97e600:
 
     # m "Okay?"
-    m ""
+    m "¿Vale?"
 
 # game/d2.rpy:861
 translate spanish d2cont_50806d2b:
 
     # m "Anyway, let's get back to the episode..."
-    m ""
+    m "Bueno, volvamos al episodio..."
 
 # game/d2.rpy:863
 translate spanish d2cont_3013c846:
 
     # m "Ah, ok!"
-    m ""
+    m "Ah, vale!"
 
 # game/d2.rpy:864
 translate spanish d2cont_ecf2e2d6:
 
     # m "That's a nice start of the day for you!"
-    m ""
+    m "¡Así da gusto empezar el día!"
 
 # game/d2.rpy:865
 translate spanish d2cont_59952075:
 
     # m "I'm sure I'd love to start my day lying on the bed with you watching something you like!"
-    m ""
+    m "Seguro que me encantaría empezar el día tumbada contigo viendo algo que te guste."
 
 # game/d2.rpy:867
 translate spanish d2cont_c1869aff:
 
     # m "Relaxation after a hard day?"
-    m ""
+    m "¿Relajarse después de un día duro?"
 
 # game/d2.rpy:868
 translate spanish d2cont_0f7f35fa:
 
     # m "Sounds nice!"
-    m ""
+    m "Suena bien"
 
 # game/d2.rpy:869
 translate spanish d2cont_4980add0:
 
     # m "I imagine watching anime with you before going to sleep~"
-    m ""
+    m "Me imagino viendo anime contigo antes de dormir."
 
 # game/d2.rpy:870
 translate spanish d2cont_1dab8da8:
 
     # m "Sorta like now~"
-    m ""
+    m "Como ahora, vaya..."
 
 # game/d2.rpy:871
 translate spanish d2cont_e49f1f75_1:
 
     # m "Hehe~"
-    m ""
+    m "Je, je."
 
 # game/d2.rpy:873
 translate spanish d2cont_55748d37:
 
     # m "Oh, ok."
-    m ""
+    m "Ah, vale."
 
 # game/d2.rpy:874
 translate spanish d2cont_ed7ea6a1:
 
     # m "Why so?"
-    m ""
+    m "¿Y eso?"
 
 # game/d2.rpy:877
 translate spanish d2cont_53d4e4df:
 
     # m "Oh, that's understandable."
-    m ""
+    m "Ah, eso lo entiendo."
 
 # game/d2.rpy:878
 translate spanish d2cont_1370dcd8:
 
     # m "Maybe you can watch it on weekends."
-    m ""
+    m "Quizá puedas verlo los fines de semana."
 
 # game/d2.rpy:879
 translate spanish d2cont_aa910757:
 
     # m "I would love to spend an evening with you like that~"
-    m ""
+    m "Me encantaría pasar una tarde así contigo."
 
 # game/d2.rpy:881
 translate spanish d2cont_ec7dbb1d:
 
     # m "Oh, understandable."
-    m ""
+    m "Ah, lo entiendo."
 
 # game/d2.rpy:882
 translate spanish d2cont_716d575e:
 
     # m "Everyone has their own tastes."
-    m ""
+    m "Cada uno tiene sus gustos."
 
 # game/d2.rpy:883
 translate spanish d2cont_41bc2c8a:
 
     # m "Maybe we could try to watch something romantic together that's not anime."
-    m ""
+    m "Quizá podríamos ver juntos algo romántico que no sea anime."
 
 # game/d2.rpy:884
 translate spanish d2cont_1f25ac7b:
 
     # m "I would love to do so!"
-    m ""
+    m "¡Me encantaría!"
 
 # game/d2.rpy:885
 translate spanish d2cont_35a057b3:
 
     # m "But for now, let's at least finish watching this series."
-    m ""
+    m "Pero por ahora, al menos vamos a terminar esta serie."
 
 # game/d2.rpy:889
 translate spanish d2cont_4e4ac85a:
 
     # "The episode concludes, and Monika yawns a bit."
-    ""
+    "Termina el episodio y Monika bosteza un poco."
 
 # game/d2.rpy:891
 translate spanish d2cont_73f0b29a:
 
     # m "I think we should head to bed now. It's getting late..."
-    m ""
+    m "Creo que deberíamos irnos a la cama ya. Se está haciendo tarde..."
 
 # game/d2.rpy:892
 translate spanish d2cont_a6d6b67e:
 
     # mc "Yeah, I think so too."
-    mc ""
+    mc "Sí, yo también lo creo."
 
 # game/d2.rpy:893
 translate spanish d2cont_008677b5:
 
     # "We slowly walk upstairs into our bedroom."
-    ""
+    "Subimos despacio a nuestra habitación."
 
 # game/d2.rpy:896
 translate spanish d2cont_132b35d7:
 
     # "I climb into bed, and Monika lays down next to me."
-    ""
+    "Me meto en la cama y Monika se tumba a mi lado."
 
 # game/d2.rpy:897
 translate spanish d2cont_bb6529de:
 
     # m "Goodnight sweetie~"
-    m ""
+    m "Buenas noches, cariño..."
 
 # game/d2.rpy:898
 translate spanish d2cont_f04b0316:
 
     # mc "Goodnight..."
-    mc ""
+    mc "Buenas noches..."
 
 # game/d2.rpy:899
 translate spanish d2cont_5a7d2403:
 
     # "We wrap our arms around each other, and I close my eyes."
-    ""
+    "Nos abrazamos y cierro los ojos."
 
 # game/d2.rpy:902
 translate spanish d2cont_d4d862ed:
 
     # "I begin to doze off, with a new day with Monika ahead of me..."
-    ""
+    "Me empiezo a quedar dormido, pensando en el nuevo día que me espera con Monika..."
 
 translate spanish strings:
 
     # game/d2.rpy:381
     old "Very good!"
-    new ""
+    new "¡De lujo!"
 
     # game/d2.rpy:381
     old "Not that great."
-    new ""
+    new "No es para tanto."
 
     # game/d2.rpy:397
     old "I don't like making food."
-    new ""
+    new "No me va mucho eso de cocinar."
 
     # game/d2.rpy:397
     old "I'm not sure I will make it good..."
-    new ""
+    new "No sé si me va a salir bien..."
 
     # game/d2.rpy:536
     old "You look wonderful!"
-    new ""
+    new "¡Estás increíble!"
 
     # game/d2.rpy:540
     old "Did the mod give you all these outfits?"
-    new ""
+    new "¿El mod te ha dado toda esa ropa?"
 
     # game/d2.rpy:544
     old "Can you show them to me?"
-    new ""
+    new "¿Me los enseñas?"
 
     # game/d2.rpy:547
     old "Sure!"
-    new ""
+    new "¡Claro!"
 
     # game/d2.rpy:613
     old "I love you so much..."
-    new ""
+    new "Te quiero muchísimo..."
 
     # game/d2.rpy:624
     old "Let's just stay like that for a while."
-    new ""
+    new "Vamos a quedarnos así un rato."
 
     # game/d2.rpy:633
     old "I love you too..."
-    new ""
+    new "Yo también te quiero..."
 
     # game/d2.rpy:670
     old "I wish so too..."
-    new ""
+    new "Ojalá yo también..."
 
     # game/d2.rpy:670
     old "I'm sure it'll be soon..."
-    new ""
+    new "Seguro que será pronto..."
 
     # game/d2.rpy:679
     old "I love you too, Monika."
-    new ""
+    new "Yo también te quiero, Monika."
 
     # game/d2.rpy:839
     old "Sometimes."
-    new ""
+    new "A veces."
 
     # game/d2.rpy:839
     old "Everyday."
-    new ""
+    new "Todos los días."
 
     # game/d2.rpy:850
     old "For the whole day."
-    new ""
+    new "Todo el día."
 
     # game/d2.rpy:850
     old "Only in the morning."
-    new ""
+    new "Solo por la mañana."
 
     # game/d2.rpy:850
     old "Only in the evening."
-    new ""
+    new "Solo por la noche."
 
     # game/d2.rpy:875
     old "I don't have time."
-    new ""
+    new "No tengo tiempo."
 
     # game/d2.rpy:875
     old "I just don't like it."
-    new ""
+    new "Es que no me gusta."
 
