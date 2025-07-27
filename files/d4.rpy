@@ -4,3427 +4,3427 @@
 translate spanish d4_4fdf1f8d:
 
     # "Ugh..."
-    ""
+    "Uf..."
 
 # game/d4.rpy:24
 translate spanish d4_6762f8fc:
 
     # "I slam the stop button on my alarm clock."
-    ""
+    "Apago el despertador de un manotazo."
 
 # game/d4.rpy:27
 translate spanish d4_4bb848f7:
 
     # "Monika slowly opens her eyes, and groans a bit."
-    ""
+    "Monika abre los ojos poco a poco y gruñe un poco."
 
 # game/d4.rpy:29
 translate spanish d4_e6682bec:
 
     # "She then wraps her arms around me, and closes her eyes again."
-    ""
+    "Luego me abraza y vuelve a cerrar los ojos."
 
 # game/d4.rpy:32
 translate spanish d4_1275ec6e:
 
     # m "Mmmmmm...let's just stay like this..."
-    m ""
+    m "Mmmmmm... vamos a quedarnos así un rato..."
 
 # game/d4.rpy:35
 translate spanish d4_99277a88:
 
     # mc "We can't! Remember, we have the festival today!"
-    mc ""
+    mc "¡No podemos! ¡Acuérdate de que hoy es el festival!"
 
 # game/d4.rpy:36
 translate spanish d4_9ffc5c12:
 
     # m "Mmmmmmmmmmmm....."
-    m ""
+    m "Mmmmmmmmmmmm....."
 
 # game/d4.rpy:39
 translate spanish d4_2d8ce0b7:
 
     # m "Fine..."
-    m ""
+    m "Vale..."
 
 # game/d4.rpy:42
 translate spanish d4_53e30a98:
 
     # "Monika slowly gets up."
-    ""
+    "Monika se levanta despacio."
 
 # game/d4.rpy:45
 translate spanish d4_8b52197d:
 
     # m "I'm going to go make some coffee."
-    m ""
+    m "Voy a preparar café."
 
 # game/d4.rpy:46
 translate spanish d4_743438a8:
 
     # m "Do you want some?"
-    m ""
+    m "¿Quieres?"
 
 # game/d4.rpy:48
 translate spanish d4_606e2d02:
 
     # mc "Sure."
-    mc ""
+    mc "Vale."
 
 # game/d4.rpy:51
 translate spanish d4_402f5d01:
 
     # "Monika goes downstairs."
-    ""
+    "Monika baja."
 
 # game/d4.rpy:52
 translate spanish d4_ea873a4a:
 
     # "I take the time to get myself changed and wash up."
-    ""
+    "Aprovecho para cambiarme y lavarme la cara."
 
 # game/d4.rpy:54
 translate spanish d4_1d7e3cb1:
 
     # "Monika comes back with two small cups of coffee in hand."
-    ""
+    "Monika vuelve con dos tazas de café en la mano."
 
 # game/d4.rpy:55
 translate spanish d4_cd0b78c0:
 
     # m "Ahh, much better."
-    m ""
+    m "Ahh, mucho mejor."
 
 # game/d4.rpy:56
 translate spanish d4_4cd9c37e:
 
     # m p_2b "Here's your cup!"
-    m p_2b ""
+    m p_2b "¡Toma, tu taza!"
 
 # game/d4.rpy:58
 translate spanish d4_6d04953c:
 
     # mc "Thanks!"
-    mc ""
+    mc "¡Gracias!"
 
 # game/d4.rpy:59
 translate spanish d4_d96a0aa5:
 
     # "We sip our coffee as we double check all our things we need for the festival today."
-    ""
+    "Tomamos el café mientras repasamos todo lo que necesitamos para el festival."
 
 # game/d4.rpy:60
 translate spanish d4_1bac4d22:
 
     # "Poems, schoolbag, money..."
-    ""
+    "Poemas, mochila, dinero..."
 
 # game/d4.rpy:61
 translate spanish d4_5a560ec8:
 
     # "...Everything looks like it's in order."
-    ""
+    "...Parece que está todo en orden."
 
 # game/d4.rpy:62
 translate spanish d4_b75ad85c:
 
     # mc "Monika, I'll go get a quick breakfast together while you get yourself ready."
-    mc ""
+    mc "Monika, preparo algo rápido de desayuno mientras tú te arreglas."
 
 # game/d4.rpy:63
 translate spanish d4_92af9bc0:
 
     # m p_1b "Okay. Thanks, [player]!"
-    m p_1b ""
+    m p_1b "Vale. ¡Gracias, [player]!"
 
 # game/d4.rpy:66
 translate spanish d4_bb0da07a:
 
     # "I go into the kitchen and grab the toaster."
-    ""
+    "Voy a la cocina y cojo la tostadora."
 
 # game/d4.rpy:67
 translate spanish d4_d265d482:
 
     # "I slap in two slices of bread, and get the jam from the fridge."
-    ""
+    "Meto dos rebanadas de pan y saco la mermelada de la nevera."
 
 # game/d4.rpy:68
 translate spanish d4_88f89b2c:
 
     # "{i}*ping*{/i}"
-    ""
+    "{i}*ping*{/i}"
 
 # game/d4.rpy:69
 translate spanish d4_e97230f5:
 
     # "I grab the two toasted slices, and throw on a spoonful of jam."
-    ""
+    "Cojo las tostadas y les echo una buena cucharada de mermelada."
 
 # game/d4.rpy:70
 translate spanish d4_35086dcf:
 
     # "I gently spread it on the bread, and throw in another two slices into the toaster."
-    ""
+    "La extiendo bien y pongo otras dos rebanadas en la tostadora."
 
 # game/d4.rpy:71
 translate spanish d4_e3bf307a:
 
     # "I also take some milk, pour two glasses of it, and warm it up."
-    ""
+    "También sirvo dos vasos de leche y los caliento un poco."
 
 # game/d4.rpy:72
 translate spanish d4_88f89b2c_1:
 
     # "{i}*ping*{/i}"
-    ""
+    "{i}*ping*{/i}"
 
 # game/d4.rpy:73
 translate spanish d4_26e81ee6:
 
     # "I grab the other two slices, and slap on some more jam."
-    ""
+    "Cojo las otras dos tostadas y les echo más mermelada."
 
 # game/d4.rpy:74
 translate spanish d4_738f3957:
 
     # "After I finish it all, I set it on the table."
-    ""
+    "Cuando termino, lo pongo todo en la mesa."
 
 # game/d4.rpy:75
 translate spanish d4_cc648c7c:
 
     # "Monika comes downstairs with the bags and supplies in her hands."
-    ""
+    "Monika baja con las bolsas y todo lo que necesitamos."
 
 # game/d4.rpy:76
 translate spanish d4_71909ccb:
 
     # "She sets them by the entrance, and comes into the kitchen."
-    ""
+    "Las deja en la entrada y viene a la cocina."
 
 # game/d4.rpy:78
 translate spanish d4_ba2bfe45:
 
     # m "Ooh~"
-    m ""
+    m "Ohhh"
 
 # game/d4.rpy:79
 translate spanish d4_49ffc14e:
 
     # m "Looks nice!"
-    m ""
+    m "¡Qué buena pinta!"
 
 # game/d4.rpy:80
 translate spanish d4_fccae559:
 
     # m 3l "Just don't expect me to run down the street with that in my mouth, I'm finishing it here!"
-    m 3l ""
+    m 3l "Ni de coña salgo corriendo con esto en la boca, ¡me lo como aquí!"
 
 # game/d4.rpy:82
 translate spanish d4_a89cbe3f:
 
     # mc "Ahaha!"
-    mc ""
+    mc "¡Jajaja!"
 
 # game/d4.rpy:83
 translate spanish d4_1b0b8a38:
 
     # mc "To be honest, That seems more like something Sayori would do."
-    mc ""
+    mc "La verdad, eso es más de Sayori."
 
 # game/d4.rpy:84
 translate spanish d4_a7844ccd:
 
     # m 3k "Haha!{w=0.5} Yeah, it would be!"
-    m 3k ""
+    m 3k "¡Jaja! ¡Totalmente!"
 
 # game/d4.rpy:86
 translate spanish d4_a8f3a11c:
 
     # "We sit down, and quickly scarf down the food."
-    ""
+    "Nos sentamos y nos zampamos el desayuno en un momento."
 
 # game/d4.rpy:87
 translate spanish d4_e87101fa:
 
     # mc "Okay, let's hurry, or we're going to be late!"
-    mc ""
+    mc "¡Venga, que como no espabilemos llegamos tarde!"
 
 # game/d4.rpy:88
 translate spanish d4_e2aa0e28:
 
     # m 1d "Yeah, leave the dishes on the counter, we'll wash them once we come home."
-    m 1d ""
+    m 1d "Sí, deja los platos en la encimera, ya los fregamos luego."
 
 # game/d4.rpy:89
 translate spanish d4_a49ed4f8:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d4.rpy:93
 translate spanish d4_e19c891e:
 
     # "I go and grab my stuff, and we double check our things again before we leave."
-    ""
+    "Voy a por mis cosas y repasamos todo otra vez antes de salir."
 
 # game/d4.rpy:94
 translate spanish d4_dc69114e:
 
     # "It seems like everything is here, I grab my bag, and half of the pamphlets."
-    ""
+    "Parece que está todo, cojo mi mochila y la mitad de los panfletos."
 
 # game/d4.rpy:95
 translate spanish d4_0deeeba0:
 
     # mc "Okay, let's go!"
-    mc ""
+    mc "¡Venga, vamos!"
 
 # game/d4.rpy:100
 translate spanish d4_4de287b0:
 
     # "We step outside."
-    ""
+    "Salimos fuera."
 
 # game/d4.rpy:102
 translate spanish d4_72c00d5e:
 
     # s "Heeeyyyy!"
-    s ""
+    s "¡Heeeyyyy!"
 
 # game/d4.rpy:106
 translate spanish d4_5da52f53:
 
     # "I turn around to see Sayori and MC waiting for us outside the fence."
-    ""
+    "Me giro y veo a Sayori y MC esperándonos fuera de la valla."
 
 # game/d4.rpy:108
 translate spanish d4_cdf93508:
 
     # s "Good morning!"
-    s ""
+    s "¡Buenos días!"
 
 # game/d4.rpy:111
 translate spanish d4_be0526b1:
 
     # m "Morning!"
-    m ""
+    m "¡Buenos días!"
 
 # game/d4.rpy:114
 translate spanish d4_da1c9d87:
 
     # s "Are you two ready for today?"
-    s ""
+    s "¿Estáis listos para hoy?"
 
 # game/d4.rpy:117
 translate spanish d4_32268744:
 
     # mc "Yep! I just gotta lock up real quick."
-    mc ""
+    mc "¡Sí! Solo cierro la puerta y ya."
 
 # game/d4.rpy:118
 translate spanish d4_413c22a4:
 
     # "I lock the door, and we head down the street towards the school."
-    ""
+    "Cierro la puerta y nos vamos hacia el cole."
 
 # game/d4.rpy:124
 translate spanish d4_9f8ebbef:
 
     # mc "So do you two have your posters done?"
-    mc ""
+    mc "¿Tenéis ya los carteles hechos?"
 
 # game/d4.rpy:126
 translate spanish d4_a43cdbaf:
 
     # p "Yeah we do!"
-    p ""
+    p "¡Sí, los tenemos!"
 
 # game/d4.rpy:128
 translate spanish d4_c9c5f061:
 
     # p 2y "We only managed to finish it last night though."
-    p 2y ""
+    p 2y "Pero los terminamos anoche a última hora."
 
 # game/d4.rpy:131
 translate spanish d4_60d41ea3:
 
     # s "Only because I slept in a bit too much..."
-    s ""
+    s "Solo porque me quedé dormida demasiado rato..."
 
 # game/d4.rpy:132
 translate spanish d4_6a9c731e:
 
     # s 5b "...And I kinda forgot until the last minute..."
-    s 5b ""
+    s 5b "...Y se me olvidó hasta el último momento..."
 
 # game/d4.rpy:135
 translate spanish d4_cde2eff5:
 
     # mc "Classic Sayori..."
-    mc ""
+    mc "Lo típico de Sayori..."
 
 # game/d4.rpy:138
 translate spanish d4_760b4c26:
 
     # s "Here!{w=0.5} Take a look!"
-    s ""
+    s "¡Mira! ¡Echa un vistazo!"
 
 # game/d4.rpy:139
 translate spanish d4_b78c1618:
 
     # "Sayori hands me a poster from her bag."
-    ""
+    "Sayori me da un cartel de su mochila."
 
 # game/d4.rpy:142
 translate spanish d4_98275a31:
 
     # mc "Nice, but..."
-    mc ""
+    mc "Está chulo, pero..."
 
 # game/d4.rpy:143
 translate spanish d4_339913ac:
 
     # mc "It does look a bit rushed."
-    mc ""
+    mc "Se nota que lo has hecho un poco a la carrera."
 
 # game/d4.rpy:144
 translate spanish d4_5a7b603f:
 
     # s 5b "Yeah..."
-    s 5b ""
+    s 5b "Ya..."
 
 # game/d4.rpy:145
 translate spanish d4_7702f2b3:
 
     # s 5a "Sorry..."
-    s 5a ""
+    s 5a "Perdón..."
 
 # game/d4.rpy:147
 translate spanish d4_ae31ede1:
 
     # mc "It's alright."
-    mc ""
+    mc "No pasa nada."
 
 # game/d4.rpy:149
 translate spanish d4_f774cd16:
 
     # "We continue on our way to school."
-    ""
+    "Seguimos nuestro camino al cole."
 
 # game/d4.rpy:150
 translate spanish d4_dac385af:
 
     # "As the entrance comes into view, I see the colorful balloons and decorations the student council put up."
-    ""
+    "Cuando ya vemos la entrada, veo los globos de colores y las decoraciones que ha puesto el consejo de estudiantes."
 
 # game/d4.rpy:151
 translate spanish d4_b2be9de0:
 
     # "We head on in, and make our way towards the clubroom."
-    ""
+    "Entramos y vamos directos al club."
 
 # game/d4.rpy:155
 translate spanish d4_1dba987a:
 
     # "As we all walk down the hallway, I see Yuri standing by the washroom entrance."
-    ""
+    "Mientras vamos por el pasillo, veo a Yuri esperando junto a la puerta del baño."
 
 # game/d4.rpy:156
 translate spanish d4_bff0aa03:
 
     # mc "Good morning!"
-    mc ""
+    mc "¡Buenos días!"
 
 # game/d4.rpy:157
 translate spanish d4_06a15eca:
 
     # y 2f "Oh! Good morning to you too!"
-    y 2f ""
+    y 2f "¡Oh! ¡Buenos días a ti también!"
 
 # game/d4.rpy:161
 translate spanish d4_ee5c5d90:
 
     # s "Morninggg!"
-    s ""
+    s "¡Buenos días!"
 
 # game/d4.rpy:162
 translate spanish d4_3419f7cb:
 
     # "Just then, Natsuki comes out of the washroom."
-    ""
+    "Justo entonces, Natsuki sale del baño."
 
 # game/d4.rpy:167
 translate spanish d4_4fa482d5:
 
     # n "When did all of you show up?"
-    n ""
+    n "¿Cuándo habéis llegado todos?"
 
 # game/d4.rpy:169
 translate spanish d4_aea06ea3:
 
     # mc "Just a few minutes ago."
-    mc ""
+    mc "Hace nada, un par de minutos."
 
 # game/d4.rpy:170
 translate spanish d4_e15fe165:
 
     # mc "Do you two also have your stuff?"
-    mc ""
+    mc "¿Vosotras también habéis traído vuestras cosas?"
 
 # game/d4.rpy:175
 translate spanish d4_2c551be3:
 
     # n "I have my cupcakes in this container here."
-    n ""
+    n "Yo he traído los cupcakes en este tupper."
 
 # game/d4.rpy:177
 translate spanish d4_323aa8bd:
 
     # "She holds up a clear, dual-layered plastic box with the cupcakes all neatly lined up in rows."
-    ""
+    "Levanta una caja de plástico transparente, de dos pisos, con los cupcakes bien colocados en filas."
 
 # game/d4.rpy:178
 translate spanish d4_ab998c06:
 
     # "They're decorated with cute icing and sprinkles."
-    ""
+    "Están decorados con glaseado y virutas de colores, súper monos."
 
 # game/d4.rpy:179
 translate spanish d4_ff38a2df:
 
     # mc "Ooh! They look tasty!"
-    mc ""
+    mc "¡Ooooh! ¡Tienen pintaza!"
 
 # game/d4.rpy:182
 translate spanish d4_179ef6d3:
 
     # y "And I have my banner in my bag."
-    y ""
+    y "Y yo llevo la pancarta en la mochila."
 
 # game/d4.rpy:184
 translate spanish d4_fbfad74c:
 
     # "She pulls out a purple splattered banner with the words written in gold paint:"
-    ""
+    "Saca una pancarta salpicada de morado, con las letras pintadas en dorado:"
 
 # game/d4.rpy:185
 translate spanish d4_cb1b6373:
 
     # "{i}Welcome to the Literature Club!{/i}"
-    ""
+    "¡Bienvenidos al Club de Literatura!"
 
 # game/d4.rpy:186
 translate spanish d4_500f12a1:
 
     # mc "Good choice of colors!"
-    mc ""
+    mc "¡Qué bien has elegido los colores!"
 
 # game/d4.rpy:187
 translate spanish d4_ac1a645c:
 
     # "I notice a small plastic bag to the side of her."
-    ""
+    "Veo que lleva también una bolsita de plástico al lado."
 
 # game/d4.rpy:188
 translate spanish d4_b7ec3c6c:
 
     # mc "What's in the bag?"
-    mc ""
+    mc "¿Qué llevas ahí?"
 
 # game/d4.rpy:190
 translate spanish d4_ea5a6244:
 
     # y "Oh,{w=0.5} that's a diffuser for essential oils."
-    y ""
+    y "Ah, eso es un difusor para aceites esenciales."
 
 # game/d4.rpy:191
 translate spanish d4_2755e438:
 
     # y "I also brought along a few aromatherapy candles."
-    y ""
+    y "Y también he traído unas velas de aromaterapia."
 
 # game/d4.rpy:193
 translate spanish d4_d22bdf64:
 
     # mc "Ah, okay."
-    mc ""
+    mc "Ah, vale."
 
 # game/d4.rpy:198
 translate spanish d4_c1a20a5a:
 
     # "We make our way towards the clubroom."
-    ""
+    "Vamos hacia el club."
 
 # game/d4.rpy:199
 translate spanish d4_082e129a:
 
     # "We pass by many classrooms with the students all beginning their preparations for what they are going to do."
-    ""
+    "Pasamos por varias clases donde los alumnos están empezando a preparar sus cosas."
 
 # game/d4.rpy:200
 translate spanish d4_6a706e07:
 
     # "I see some preparing outfits, others hanging up decorations, and some even painting."
-    ""
+    "Veo a unos preparando disfraces, otros colgando decoraciones y hasta algunos pintando."
 
 # game/d4.rpy:201
 translate spanish d4_59b97b00:
 
     # "We make it to the clubroom."
-    ""
+    "Llegamos al club."
 
 # game/d4.rpy:202
 translate spanish d4_2d89fb4c:
 
     # "There's a note on the door."
-    ""
+    "Hay una nota en la puerta."
 
 # game/d4.rpy:204
 translate spanish d4_06f6a4a1:
 
     # "Monika reads the note as well."
-    ""
+    "Monika también la lee."
 
 # game/d4.rpy:205
 translate spanish d4_a54f4a1e:
 
     # "Her eyes sparkle a little bit."
-    ""
+    "Se le iluminan los ojos un poco."
 
 # game/d4.rpy:207
 translate spanish d4_43959878:
 
     # m "Okay everyone!"
-    m ""
+    m "¡Bueno, chicos!"
 
 # game/d4.rpy:209
 translate spanish d4_e49df722:
 
     # m 3b "Let's head inside!"
-    m 3b ""
+    m 3b "¡Vamos para dentro!"
 
 # game/d4.rpy:213
 translate spanish d4_baaf263e:
 
     # "We step inside the clubroom and unpack our stuff."
-    ""
+    "Entramos al club y sacamos todas las cosas."
 
 # game/d4.rpy:215
 translate spanish d4_e74385d7:
 
     # m "Okay!"
-    m ""
+    m "¡Venga!"
 
 # game/d4.rpy:216
 translate spanish d4_e82f2f1d:
 
     # m "Let's get this place all ready for the festival!"
-    m ""
+    m "¡Vamos a dejar esto listo para el festival!"
 
 # game/d4.rpy:219
 translate spanish d4_72980fdf:
 
     # "I take out the pamphlets from my backpack, and start placing them on each of the tables."
-    ""
+    "Saco los panfletos de la mochila y los voy poniendo en cada mesa."
 
 # game/d4.rpy:220
 translate spanish d4_1bb840a4:
 
     # "Monika goes to sit down and starts getting some paperwork done."
-    ""
+    "Monika se sienta y se pone con unos papeles."
 
 # game/d4.rpy:221
 translate spanish d4_4ddbba16:
 
     # "Yuri takes out the banners and hangs them on the wall."
-    ""
+    "Yuri saca las pancartas y las cuelga en la pared."
 
 # game/d4.rpy:222
 translate spanish d4_6c69cbc7:
 
     # "Natsuki starts placing cupcakes on each table that I put a pamphlet on."
-    ""
+    "Natsuki va dejando cupcakes en cada mesa donde yo he puesto un panfleto."
 
 # game/d4.rpy:223
 translate spanish d4_796c0436:
 
     # "Sayori and MC walk out of the doors with their hands full of rolled up posters and pins."
-    ""
+    "Sayori y MC salen cargados con carteles enrollados y chapas."
 
 # game/d4.rpy:224
 translate spanish d4_b7b09296:
 
     # "Soon enough, the clubroom is nicely decorated and everything is in it's proper place."
-    ""
+    "Enseguida el club queda bien decorado y todo en su sitio."
 
 # game/d4.rpy:225
 translate spanish d4_b684cbdf:
 
     # "Natsuki and I go over to Yuri to see if she needs help."
-    ""
+    "Natsuki y yo vamos a ver si Yuri necesita ayuda."
 
 # game/d4.rpy:226
 translate spanish d4_93c3a6bc:
 
     # y "[player], could you grab that end for me?"
-    y ""
+    y "[player], ¿puedes coger ese lado por mí?"
 
 # game/d4.rpy:227
 translate spanish d4_39de506d:
 
     # mc "On it."
-    mc ""
+    mc "¡Voy!"
 
 # game/d4.rpy:228
 translate spanish d4_e2a0c32d:
 
     # "I lift up the other end of the banner."
-    ""
+    "Levanto el otro lado de la pancarta."
 
 # game/d4.rpy:229
 translate spanish d4_f18ddb27:
 
     # n "A bit more to the right, [player]."
-    n ""
+    n "Un poco más a la derecha, [player]."
 
 # game/d4.rpy:230
 translate spanish d4_24733292:
 
     # "I move it a bit right."
-    ""
+    "La muevo un poco a la derecha."
 
 # game/d4.rpy:231
 translate spanish d4_c45e8fba:
 
     # n "There we go!"
-    n ""
+    n "¡Así está!"
 
 # game/d4.rpy:232
 translate spanish d4_b83be6e3:
 
     # "I step down from the ladder and look at it."
-    ""
+    "Bajo de la escalera y lo miro."
 
 # game/d4.rpy:233
 translate spanish d4_c5654da0:
 
     # "It looks like it's in a nice position."
-    ""
+    "Parece que ha quedado bien colocado."
 
 # game/d4.rpy:234
 translate spanish d4_866a04b5:
 
     # "Yuri grabs her candles and starts placing them on the corners of the tables."
-    ""
+    "Yuri coge sus velas y las va poniendo en las esquinas de las mesas."
 
 # game/d4.rpy:235
 translate spanish d4_fcbd0a1f:
 
     # "Monika gets up and arranges her papers."
-    ""
+    "Monika se levanta y ordena sus papeles."
 
 # game/d4.rpy:236
 translate spanish d4_8a819ac0:
 
     # m "I'm going to run this down to the student council."
-    m ""
+    m "Voy a llevar esto al consejo de estudiantes."
 
 # game/d4.rpy:237
 translate spanish d4_7aab2470:
 
     # mc "Okay, I'll handle things here until you get back."
-    mc ""
+    mc "Vale, yo me encargo de esto hasta que vuelvas."
 
 # game/d4.rpy:238
 translate spanish d4_08c0a370:
 
     # m "Thanks, [player]!"
-    m ""
+    m "¡Gracias, [player]!"
 
 # game/d4.rpy:239
 translate spanish d4_ce8a4964:
 
     # "Monika goes out and I continue to help out with placing things in the clubroom."
-    ""
+    "Monika sale y yo sigo ayudando a colocar cosas en el club."
 
 # game/d4.rpy:240
 translate spanish d4_7993aeef:
 
     # "After a few minutes, she comes back and starts to clean up anything messy."
-    ""
+    "Al cabo de unos minutos, vuelve y empieza a recoger lo que queda desordenado."
 
 # game/d4.rpy:241
 translate spanish d4_429635f7:
 
     # "Soon enough, we finish up the decorations for the festival."
-    ""
+    "Enseguida terminamos de decorar para el festival."
 
 # game/d4.rpy:244
 translate spanish d4_84efc05d:
 
     # "And with that, we are pretty much set to start!"
-    ""
+    "¡Y con eso, ya lo tenemos todo listo para empezar!"
 
 # game/d4.rpy:245
 translate spanish d4_61b5a586:
 
     # "Sayori and MC walk in."
-    ""
+    "Sayori y MC entran."
 
 # game/d4.rpy:249
 translate spanish d4_f84df9ce:
 
     # s "Oooooh!"
-    s ""
+    s "¡Ooooh!"
 
 # game/d4.rpy:250
 translate spanish d4_07389c00:
 
     # s 3x "The clubroom looks so nice now!"
-    s 3x ""
+    s 3x "¡Qué bien ha quedado el club!"
 
 # game/d4.rpy:252
 translate spanish d4_51167472:
 
     # mc "Yeah I think so too!"
-    mc ""
+    mc "¡Sí, yo también lo creo!"
 
 # game/d4.rpy:254
 translate spanish d4_eb7aa1d8:
 
     # p "We finished putting up all the posters."
-    p ""
+    p "Ya hemos puesto todos los carteles."
 
 # game/d4.rpy:256
 translate spanish d4_0b9b5176:
 
     # mc "Great!"
-    mc ""
+    mc "¡Genial!"
 
 # game/d4.rpy:257
 translate spanish d4_97ce04e5:
 
     # mc "Now all we gotta do is wait for everything to start rolling."
-    mc ""
+    mc "Ahora solo queda esperar a que empiece todo."
 
 # game/d4.rpy:268
 translate spanish d4_1dbbfbd1:
 
     # m "Yeah."
-    m ""
+    m "Sí."
 
 # game/d4.rpy:269
 translate spanish d4_c920b9a0:
 
     # m "I think that's all we need to prepare!"
-    m ""
+    m "¡Creo que ya está todo preparado!"
 
 # game/d4.rpy:270
 translate spanish d4_366f5860:
 
     # m "Let's make this festival something to remember!"
-    m ""
+    m "¡Vamos a hacer que este festival sea inolvidable!"
 
 # game/d4.rpy:274
 translate spanish d4_12db8f65:
 
     # "We all take a seat at our tables and wait for students to come inside."
-    ""
+    "Nos sentamos todos en nuestras mesas y esperamos a que entren los demás alumnos."
 
 # game/d4.rpy:275
 translate spanish d4_dc671bdd:
 
     # "I'm not expecting too many to show up,{w=0.5} so-{nw}"
-    ""
+    "No espero que venga mucha gente, así que—"
 
 # game/d4.rpy:276
 translate spanish d4_49a34fc9:
 
     # "Girl 1" "\"...Hello!{w=0.5} Is this the literature club?\""
-    "Girl 1" ""
+    "Chica 1" "\"...¡Hola! ¿Este es el club de literatura?\""
 
 # game/d4.rpy:278
 translate spanish d4_c5bea387:
 
     # m "Yes!{w=0.5} It is!{w=0.5} Welcome!"
-    m ""
+    m "¡Sí! ¡Eso es! ¡Bienvenida!"
 
 # game/d4.rpy:280
 translate spanish d4_b4cd12e1:
 
     # "Girl 1" "\"...I noticed a poster you guys put up a few days ago...\""
-    "Girl 1" ""
+    "Chica 1" "\"Vi un cartel que pusisteis hace unos días...\""
 
 # game/d4.rpy:281
 translate spanish d4_281130fe:
 
     # "Girl 1" "\"And I thought I would write a poem to share.\""
-    "Girl 1" ""
+    "Chica 1" "\"Y pensé en escribir un poema para compartirlo.\""
 
 # game/d4.rpy:283
 translate spanish d4_dc8b29ad:
 
     # m "Great!{w=0.5} You can just take a seat for now, once we get a few more people to come in, we'll start the activities!"
-    m ""
+    m "¡Genial! Siéntate donde quieras, en cuanto venga más gente empezamos con las actividades."
 
 # game/d4.rpy:284
 translate spanish d4_a5c100a9:
 
     # "Girl 1" "\"Okay, thank you...\""
-    "Girl 1" ""
+    "Chica 1" "\"Vale, gracias...\""
 
 # game/d4.rpy:285
 translate spanish d4_4006bd82:
 
     # "She goes to sit down at an empty table."
-    ""
+    "Va y se sienta en una mesa vacía."
 
 # game/d4.rpy:286
 translate spanish d4_b3760504:
 
     # "She admires the cupcake a bit before taking a bite."
-    ""
+    "Se queda mirando el cupcake un rato antes de darle un bocado."
 
 # game/d4.rpy:287
 translate spanish d4_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/d4.rpy:288
 translate spanish d4_f9b2d7e5:
 
     # "After a few more minutes, students trickle in one by one."
-    ""
+    "Al cabo de unos minutos, van entrando más alumnos poco a poco."
 
 # game/d4.rpy:289
 translate spanish d4_f092580a:
 
     # "Once we get a fairly large portion of the desks filled with other students, Monika goes to the front of the room."
-    ""
+    "Cuando ya hay bastantes mesas ocupadas, Monika se pone delante de la clase."
 
 # game/d4.rpy:291
 translate spanish d4_90de9c4d:
 
     # m "Okay, everyone!"
-    m ""
+    m "¡Bueno, chicos!"
 
 # game/d4.rpy:292
 translate spanish d4_6d12bcfa:
 
     # m 1b "I think we can begin with our program now!"
-    m 1b ""
+    m 1b "¡Creo que ya podemos empezar con nuestro programa!"
 
 # game/d4.rpy:293
 translate spanish d4_b35b77f1:
 
     # "The room silences as she begins to speak."
-    ""
+    "La sala se queda en silencio cuando empieza a hablar."
 
 # game/d4.rpy:294
 translate spanish d4_f7e19ab0:
 
     # m 1r "{i}Ahem...{/i}"
-    m 1r ""
+    m 1r "Ejem..."
 
 # game/d4.rpy:295
 translate spanish d4_b6db9768:
 
     # m 1b "As many of you know, my name is Monika, and I'm the president of the Literature Club."
-    m 1b ""
+    m 1b "Como muchos sabéis, me llamo Monika y soy la presidenta del Club de Literatura."
 
 # game/d4.rpy:296
 translate spanish d4_a3210a23:
 
     # m "On behalf of all my members, I'd like to welcome everyone here to our event!"
-    m ""
+    m "En nombre de todos los miembros, quiero daros la bienvenida a nuestro evento."
 
 # game/d4.rpy:297
 translate spanish d4_bfbcd67d:
 
     # m "What we'll be doing is performing poems!"
-    m ""
+    m "¡Hoy vamos a recitar poemas!"
 
 # game/d4.rpy:298
 translate spanish d4_c9aef613:
 
     # m 2b "This is a small activity we like to do together on a somewhat daily basis."
-    m 2b ""
+    m 2b "Es una actividad que solemos hacer juntos casi a diario."
 
 # game/d4.rpy:299
 translate spanish d4_0f13a490:
 
     # m 3j "I hope some of you have written a poem to perform today!"
-    m 3j ""
+    m 3j "¡Espero que algunos hayáis escrito un poema para recitar hoy!"
 
 # game/d4.rpy:300
 translate spanish d4_f3444485:
 
     # m 3k "If you would like, you can even submit your poem, and we'll fill a wall with all your poems!"
-    m 3k ""
+    m 3k "Si queréis, podéis entregarnos vuestros poemas y llenaremos una pared con todos ellos."
 
 # game/d4.rpy:301
 translate spanish d4_ae607491:
 
     # m 1b "Now, without further ado, let's begin the poem sharing!"
-    m 1b ""
+    m 1b "Y ahora, sin más, ¡vamos a empezar a compartir poemas!"
 
 # game/d4.rpy:302
 translate spanish d4_eec1716a:
 
     # m "And seeming that I'm already up here, I'll start."
-    m ""
+    m "Bueno, ya que estoy aquí arriba, empiezo yo."
 
 # game/d4.rpy:306
 translate spanish d4_df0ed179:
 
     # "She takes out her poem and begins to recite it."
-    ""
+    "Saca su poema y empieza a recitarlo."
 
 # game/d4.rpy:308
 translate spanish d4_e00db98e:
 
     # m "I call this one, {i}'Pen and Paper'{/i}."
-    m ""
+    m "Este se llama 'Bolígrafo y papel'."
 
 # game/d4.rpy:309
 translate spanish d4_878ff713:
 
     # m 1q "..."
-    m 1q ""
+    m 1q "..."
 
 # game/d4.rpy:310
 translate spanish d4_1fe4398d:
 
     # m 1b "With brimming confidence I sit at a desk."
-    m 1b ""
+    m 1b "Con toda la confianza del mundo, me siento en el pupitre."
 
 # game/d4.rpy:311
 translate spanish d4_ae4f664e:
 
     # m 3d "The noise around coming with no end."
-    m 3d ""
+    m 3d "El ruido de alrededor no para nunca."
 
 # game/d4.rpy:312
 translate spanish d4_7ff429a4:
 
     # m 2b "One, two, and three."
-    m 2b ""
+    m 2b "Uno, dos y tres."
 
 # game/d4.rpy:313
 translate spanish d4_0efe2cac:
 
     # m 1b "Colored lights like a christmas tree."
-    m 1b ""
+    m 1b "Luces de colores como un árbol de Navidad."
 
 # game/d4.rpy:314
 translate spanish d4_f031e5f7:
 
     # m "Little balls of sunshine glimmering about."
-    m ""
+    m "Bolas pequeñitas de sol brillando por ahí."
 
 # game/d4.rpy:315
 translate spanish d4_ed93f457:
 
     # m 3k "Not one cloud around."
-    m 3k ""
+    m 3k "Ni una sola nube en el cielo."
 
 # game/d4.rpy:316
 translate spanish d4_326b0d02:
 
     # m 3d "Four and five step inside."
-    m 3d ""
+    m 3d "Cuatro y cinco entran en la sala."
 
 # game/d4.rpy:317
 translate spanish d4_783607c1:
 
     # m 1b "Bringing in a world yet unknown."
-    m 1b ""
+    m 1b "Trayendo un mundo que aún no conozco."
 
 # game/d4.rpy:318
 translate spanish d4_245152c9:
 
     # m 1r "I sit there achingly,"
-    m 1r ""
+    m 1r "Me quedo ahí sentada, con ganas,"
 
 # game/d4.rpy:319
 translate spanish d4_000cc331:
 
     # m 1i "Knowing it's not yet done."
-    m 1i ""
+    m 1i "Sabiendo que aún no está terminado."
 
 # game/d4.rpy:320
 translate spanish d4_96c843ee:
 
     # m 3p "Even if I see them all,"
-    m 3p ""
+    m 3p "Aunque los vea a todos,"
 
 # game/d4.rpy:321
 translate spanish d4_f04f13ad:
 
     # m 1r "There is still but one."
-    m 1r ""
+    m 1r "Todavía queda uno."
 
 # game/d4.rpy:322
 translate spanish d4_7d25b850:
 
     # m 1d "The cut through paper sits on my desk."
-    m 1d ""
+    m 1d "El corte en el papel está sobre mi mesa."
 
 # game/d4.rpy:323
 translate spanish d4_df263cb6:
 
     # m "Like a king in check."
-    m ""
+    m "Como un rey acorralado."
 
 # game/d4.rpy:324
 translate spanish d4_3f4b4d2c:
 
     # m 1n "I want to tear it."
-    m 1n ""
+    m 1n "Quiero romperlo."
 
 # game/d4.rpy:325
 translate spanish d4_23b0c74e:
 
     # m 1b "Let it be wide enough for me to go through."
-    m 1b ""
+    m 1b "Que sea lo bastante grande para poder pasar."
 
 # game/d4.rpy:326
 translate spanish d4_0d2da461:
 
     # m 3r "Yet when I do,"
-    m 3r ""
+    m 3r "Pero cuando lo hago,"
 
 # game/d4.rpy:327
 translate spanish d4_3dc45d6a:
 
     # m 1r "I still hurt you."
-    m 1r ""
+    m 1r "Sigo haciéndote daño."
 
 # game/d4.rpy:329
 translate spanish d4_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/d4.rpy:332
 translate spanish d4_ed2c5b92:
 
     # "Everyone claps as she finishes."
-    ""
+    "Todos aplauden cuando termina."
 
 # game/d4.rpy:339
 translate spanish d4_a84026f2:
 
     # "She steps away from the podium, and Sayori goes up."
-    ""
+    "Se aparta del atril y Sayori sube."
 
 # game/d4.rpy:342
 translate spanish d4_db7aca33:
 
     # s "Hello! I'm Sayori, the vice president of the club!"
-    s ""
+    s "¡Hola! Soy Sayori, la vicepresidenta del club."
 
 # game/d4.rpy:343
 translate spanish d4_100f630f:
 
     # s "Today I'll be reciting {i}'Slow Days'{/i}."
-    s ""
+    s "Hoy voy a recitar 'Días tranquilos'."
 
 # game/d4.rpy:344
 translate spanish d4_0f11f5a2:
 
     # s 1a "..."
-    s 1a ""
+    s 1a "..."
 
 # game/d4.rpy:345
 translate spanish d4_33d95567:
 
     # s 1b "Waking in the morning, with not a word to say."
-    s 1b ""
+    s 1b "Me despierto por la mañana, sin nada que decir."
 
 # game/d4.rpy:346
 translate spanish d4_8da077f7:
 
     # s 1x "From my house into the world, going about my day."
-    s 1x ""
+    s 1x "Salgo de casa al mundo, a lo que toque hoy."
 
 # game/d4.rpy:347
 translate spanish d4_d8ae260a:
 
     # s 2x "I might seem courageous, but once the sun goes down,"
-    s 2x ""
+    s 2x "Parezco valiente, pero cuando se pone el sol,"
 
 # game/d4.rpy:348
 translate spanish d4_ae80dc02:
 
     # s 3r "You'll find I'm the laziest person around."
-    s 3r ""
+    s 3r "Verás que soy la más perezosa de todas."
 
 # game/d4.rpy:349
 translate spanish d4_2a47176d:
 
     # s 1x "Skies above the city, shining against the clouds."
-    s 1x ""
+    s 1x "El cielo sobre la ciudad, brillando entre las nubes."
 
 # game/d4.rpy:350
 translate spanish d4_972714db:
 
     # s 2b "Planes are roaring up above, right under the shroud."
-    s 2b ""
+    s 2b "Aviones rugiendo arriba, justo bajo el manto de nubes."
 
 # game/d4.rpy:351
 translate spanish d4_3d6bb396:
 
     # s 1b "I write up my poem, leaning against the trees."
-    s 1b ""
+    s 1b "Escribo mi poema apoyada en los árboles."
 
 # game/d4.rpy:352
 translate spanish d4_c128c67b:
 
     # s 4r "Right now more than anything, I just wanna leave!"
-    s 4r ""
+    s 4r "Ahora mismo, lo que más quiero es largarme de aquí."
 
 # game/d4.rpy:353
 translate spanish d4_e5b13a46:
 
     # s 2x "Are you grilling fish? Somehow I can tell..."
-    s 2x ""
+    s 2x "¿Estás asando pescado? No sé cómo, pero lo noto..."
 
 # game/d4.rpy:354
 translate spanish d4_d2ba469b:
 
     # s 1x "Is that for dinner? What a lovely smell..."
-    s 1x ""
+    s 1x "¿Es para cenar? Qué bien huele..."
 
 # game/d4.rpy:355
 translate spanish d4_42e6482c:
 
     # s 2l "Hear my tummy rumble... It's crying out for food."
-    s 2l ""
+    s 2l "Mi tripa ruge... está pidiendo comida."
 
 # game/d4.rpy:356
 translate spanish d4_fcf113bc:
 
     # s 1x "I don't wanna bother you, I'm just in the mood."
-    s 1x ""
+    s 1x "No quiero molestar, es que me ha entrado el hambre."
 
 # game/d4.rpy:357
 translate spanish d4_061fb055:
 
     # s 3l "Why am I so stubborn? Why do I cry and moan?"
-    s 3l ""
+    s 3l "¿Por qué soy tan cabezota? ¿Por qué me quejo y lloro?"
 
 # game/d4.rpy:358
 translate spanish d4_58aff6c6:
 
     # s 1x "There's one thing I want right now:"
-    s 1x ""
+    s 1x "Solo quiero una cosa ahora mismo:"
 
 # game/d4.rpy:359
 translate spanish d4_1316f744:
 
     # s 4r "I wanna go home!"
-    s 4r ""
+    s 4r "¡Quiero irme a casa!"
 
 # game/d4.rpy:361
 translate spanish d4_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/d4.rpy:364
 translate spanish d4_99f41047:
 
     # "Sayori finishes, and everyone once again claps."
-    ""
+    "Sayori termina y todos vuelven a aplaudir."
 
 # game/d4.rpy:365
 translate spanish d4_d86e5f23:
 
     # "She steps back a bit and takes a deep breath before returning to her seat."
-    ""
+    "Da un paso atrás, respira hondo y vuelve a su sitio."
 
 # game/d4.rpy:372
 translate spanish d4_9d1454e6:
 
     # "Next up, Yuri steps forward."
-    ""
+    "Ahora le toca a Yuri."
 
 # game/d4.rpy:375
 translate spanish d4_d06130ed:
 
     # y "Ummm...good morning! M-My name is Y-Yuri..."
-    y ""
+    y "Ehm... ¡Buenos días! M-me llamo Yuri..."
 
 # game/d4.rpy:377
 translate spanish d4_0fb2d05f:
 
     # "She takes a deep breath."
-    ""
+    "Respira hondo."
 
 # game/d4.rpy:378
 translate spanish d4_9f2297e9:
 
     # y 3f "I'll be reciting {i}'Beach'{/i}."
-    y 3f ""
+    y 3f "Voy a recitar 'Playa'."
 
 # game/d4.rpy:379
 translate spanish d4_50b13177:
 
     # y 1k "..."
-    y 1k ""
+    y 1k "..."
 
 # game/d4.rpy:380
 translate spanish d4_e41a9191:
 
     # y 1h "A marvel millions of years in the making."
-    y 1h ""
+    y 1h "Una maravilla que lleva millones de años formándose."
 
 # game/d4.rpy:381
 translate spanish d4_7a31086b:
 
     # y 2f "Where the womb of Earth chaotically meets the surface."
-    y 2f ""
+    y 2f "Donde el vientre de la Tierra choca caóticamente con la superficie."
 
 # game/d4.rpy:382
 translate spanish d4_a7b1dd13:
 
     # y 2b "Under a clear blue sky, an expanse of bliss--"
-    y 2b ""
+    y 2b "Bajo un cielo azul, una extensión de felicidad—"
 
 # game/d4.rpy:383
 translate spanish d4_204a4f42:
 
     # y 1h "But beneath gray rolling clouds, an endless enigma."
-    y 1h ""
+    y 1h "Pero bajo nubes grises y rodantes, un enigma sin fin."
 
 # game/d4.rpy:384
 translate spanish d4_73f25476:
 
     # y 2k "The easiest world to get lost in"
-    y 2k ""
+    y 2k "El mundo más fácil en el que perderse"
 
 # game/d4.rpy:385
 translate spanish d4_165d97b2:
 
     # y 1j "Is one where everything can be found."
-    y 1j ""
+    y 1j "Es aquel donde se puede encontrar de todo."
 
 # game/d4.rpy:386
 translate spanish d4_a7e6a47f:
 
     # y 1b "One can only build a sand castle where the sand is wet."
-    y 1b ""
+    y 1b "Solo se puede hacer un castillo de arena donde la arena está mojada."
 
 # game/d4.rpy:387
 translate spanish d4_e95625c2:
 
     # y "But where the sand is wet, the tide comes."
-    y ""
+    y "Pero donde la arena está mojada, llega la marea."
 
 # game/d4.rpy:388
 translate spanish d4_f865fe0e:
 
     # y 2b "Will it gently lick at your foundations until you give in?"
-    y 2b ""
+    y 2b "¿La marea irá lamiendo los cimientos hasta que cedas?"
 
 # game/d4.rpy:389
 translate spanish d4_cbef71dc:
 
     # y 3r "Or will a sudden wave send you crashing down in the blink of an eye?"
-    y 3r ""
+    y 3r "¿O una ola repentina lo tirará todo abajo en un segundo?"
 
 # game/d4.rpy:390
 translate spanish d4_a535ebee:
 
     # y 1k "Either way, the outcome is the same."
-    y 1k ""
+    y 1k "De una forma u otra, el final es el mismo."
 
 # game/d4.rpy:391
 translate spanish d4_be18f0cb:
 
     # y 1b "Yet we still build sand castles."
-    y 1b ""
+    y 1b "Aun así, seguimos haciendo castillos de arena."
 
 # game/d4.rpy:392
 translate spanish d4_d8310c4b:
 
     # y "I stand where the foam wraps around my ankles."
-    y ""
+    y "Me quedo donde la espuma rodea mis tobillos."
 
 # game/d4.rpy:393
 translate spanish d4_dc755a31:
 
     # y 1j "Where my toes squish into the sand."
-    y 1j ""
+    y 1j "Donde los dedos de mis pies se hunden en la arena."
 
 # game/d4.rpy:394
 translate spanish d4_d32e6647:
 
     # y "The salty air is therapeutic."
-    y ""
+    y "El aire salado es terapéutico."
 
 # game/d4.rpy:395
 translate spanish d4_eea39225:
 
     # y "The breeze is gentle, yet powerful."
-    y ""
+    y "La brisa es suave, pero poderosa."
 
 # game/d4.rpy:396
 translate spanish d4_97210109:
 
     # y 1l "I sink my toes into the ultimate boundary line, tempted by the foamy tendrils."
-    y 1l ""
+    y 1l "Hundo los pies en la última frontera, tentada por los hilos de espuma."
 
 # game/d4.rpy:397
 translate spanish d4_a59e6c1d:
 
     # y 1b "Turn back, and I abandon my peace to erode at the shore."
-    y 1b ""
+    y 1b "Si me doy la vuelta, dejo que mi calma se desgaste en la orilla."
 
 # game/d4.rpy:398
 translate spanish d4_2c2fc400:
 
     # y "Drift forward, and I return to Earth forevermore."
-    y ""
+    y "Si avanzo, vuelvo a la tierra para siempre."
 
 # game/d4.rpy:400
 translate spanish d4_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/d4.rpy:403
 translate spanish d4_ed2c5b92_1:
 
     # "Everyone claps as she finishes."
-    ""
+    "Todos aplauden cuando termina."
 
 # game/d4.rpy:404
 translate spanish d4_6d0e6129:
 
     # "She steps away from the podium and slides down into her seat breathing a big sigh of relief."
-    ""
+    "Se aparta del atril y se deja caer en su sitio, soltando un suspiro de alivio."
 
 # game/d4.rpy:411
 translate spanish d4_3ce5a270:
 
     # "MC stands up, and steps forward to the podium."
-    ""
+    "MC se levanta y se acerca al atril."
 
 # game/d4.rpy:414
 translate spanish d4_3dfd85fa:
 
     # p "Hello! I'm MC. Uhh, I'm gonna be performing a poem called {i}'Good Things'{/i} By Barbara Vance."
-    p ""
+    p "¡Hola! Soy MC. Eh, voy a recitar un poema que se llama 'Las cosas buenas', de Barbara Vance."
 
 # game/d4.rpy:415
 translate spanish d4_ed316ca0:
 
     # p 1a "..."
-    p 1a ""
+    p 1a "..."
 
 # game/d4.rpy:416
 translate spanish d4_89be5221:
 
     # p 1c "I once heard an old man say,"
-    p 1c ""
+    p 1c "Una vez oí a un hombre mayor decir,"
 
 # game/d4.rpy:417
 translate spanish d4_6bc4ac8d:
 
     # p "Shaping vases out of clay"
-    p ""
+    p "Moldeando jarrones de barro"
 
 # game/d4.rpy:418
 translate spanish d4_6df2ef21:
 
     # p "Into subtle forms sublime,"
-    p ""
+    p "En formas sutiles y sublimes,"
 
 # game/d4.rpy:419
 translate spanish d4_c37b221a:
 
     # p "'Listen, son, good things take time.'"
-    p ""
+    p "'Escucha, hijo, las cosas buenas llevan su tiempo.'"
 
 # game/d4.rpy:420
 translate spanish d4_5e3770cd:
 
     # p 2c "All my life I've thought of this"
-    p 2c ""
+    p 2c "Toda mi vida he pensado en esto"
 
 # game/d4.rpy:421
 translate spanish d4_28807230:
 
     # p 1c "When a task was lacking bliss,"
-    p 1c ""
+    p 1c "Cuando una tarea no me hacía ilusión,"
 
 # game/d4.rpy:422
 translate spanish d4_b767506a:
 
     # p 1d "When the work seemed awfully tough"
-    p 1d ""
+    p 1d "Cuando el trabajo se me hacía cuesta arriba"
 
 # game/d4.rpy:423
 translate spanish d4_a382ffae:
 
     # p "And I thought I'd had enough."
-    p ""
+    p "Y pensaba que ya no podía más."
 
 # game/d4.rpy:424
 translate spanish d4_f3bd41aa:
 
     # p 2c "So I'd give a little more"
-    p 2c ""
+    p 2c "Así que le echaba un poco más de ganas"
 
 # game/d4.rpy:425
 translate spanish d4_90e24193:
 
     # p 1c "To what sometimes seemed a chore;"
-    p 1c ""
+    p 1c "A eso que a veces parecía un marrón;"
 
 # game/d4.rpy:426
 translate spanish d4_ce55a39e:
 
     # p "And, you know, without a doubt,"
-    p ""
+    p "Y, ya ves, sin ninguna duda,"
 
 # game/d4.rpy:427
 translate spanish d4_4bea436e:
 
     # p 1k "Good things always came about."
-    p 1k ""
+    p 1k "Al final, siempre llegaban cosas buenas."
 
 # game/d4.rpy:429
 translate spanish d4_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/d4.rpy:430
 translate spanish d4_66cacb08:
 
     # "He got that poem online."
-    ""
+    "Ese poema lo ha sacado de internet."
 
 # game/d4.rpy:433
 translate spanish d4_5f9942e6:
 
     # "He steps down from the podium as applause fills the room again."
-    ""
+    "Baja del atril mientras la sala vuelve a llenarse de aplausos."
 
 # game/d4.rpy:440
 translate spanish d4_be071d3e:
 
     # "Natsuki comes up and the podium and the room silences once more."
-    ""
+    "Natsuki sube al atril y la sala se queda en silencio otra vez."
 
 # game/d4.rpy:443
 translate spanish d4_799b7d3a:
 
     # n "Morning! I'm Natsuki. And I'll be reciting 'I'll be your beach!'."
-    n ""
+    n "¡Buenos días! Soy Natsuki. Y voy a recitar 'Seré tu playa'."
 
 # game/d4.rpy:445
 translate spanish d4_132d2244:
 
     # n "Your mind is so full of troubles and fears"
-    n ""
+    n "Tu cabeza está llena de líos y miedos"
 
 # game/d4.rpy:446
 translate spanish d4_d52847c0:
 
     # n "That diminished your wonder over the years"
-    n ""
+    n "Que han ido apagando tu ilusión con los años"
 
 # game/d4.rpy:447
 translate spanish d4_f8adbaa9:
 
     # n 1d "But today I have a special place"
-    n 1d ""
+    n 1d "Pero hoy tengo un sitio especial"
 
 # game/d4.rpy:448
 translate spanish d4_5e5800c4:
 
     # n "A beach for us to go."
-    n ""
+    n "Una playa a la que ir juntos."
 
 # game/d4.rpy:449
 translate spanish d4_036794ee:
 
     # n "A shore reaching beyond your sight"
-    n ""
+    n "Una orilla que se pierde más allá de donde ves"
 
 # game/d4.rpy:450
 translate spanish d4_a82eb47e:
 
     # n 5z "A sea that sparkles with brilliant light"
-    n 5z ""
+    n 5z "Un mar que brilla con una luz increíble"
 
 # game/d4.rpy:451
 translate spanish d4_97e66602:
 
     # n 1d "The walls in your mind will melt away"
-    n 1d ""
+    n 1d "Los muros de tu mente se desharán"
 
 # game/d4.rpy:452
 translate spanish d4_5871a0e9:
 
     # n "Before the sunny glow."
-    n ""
+    n "Con el calorcito del sol."
 
 # game/d4.rpy:453
 translate spanish d4_cd24900e:
 
     # n 2d "I'll be the beach that washes your worries away"
-    n 2d ""
+    n 2d "Seré la playa que se lleve tus preocupaciones"
 
 # game/d4.rpy:454
 translate spanish d4_380ea27e:
 
     # n 4d "I'll be the beach that you daydream about each day"
-    n 4d ""
+    n 4d "Seré la playa con la que sueñas despierto cada día"
 
 # game/d4.rpy:455
 translate spanish d4_1f68067c:
 
     # n 1z "I'll be the beach that makes your heart leap"
-    n 1z ""
+    n 1z "Seré la playa que te hace saltar el corazón"
 
 # game/d4.rpy:456
 translate spanish d4_b9b3d706:
 
     # n 1b "In a way you thought had left you long ago."
-    n 1b ""
+    n 1b "Como pensabas que ya no te pasaría nunca más."
 
 # game/d4.rpy:457
 translate spanish d4_77ae8d01:
 
     # n 2d "Let's bury your heavy thoughts in a pile of sand"
-    n 2d ""
+    n 2d "Vamos a enterrar tus malos rollos en la arena"
 
 # game/d4.rpy:458
 translate spanish d4_e1b322b6:
 
     # n 1l "Bathe in sunbeams and hold my hand"
-    n 1l ""
+    n 1l "Báñate en los rayos del sol y dame la mano"
 
 # game/d4.rpy:459
 translate spanish d4_12063ba1:
 
     # n 1d "Wash your insecurities in the salty sea"
-    n 1d ""
+    n 1d "Lava tus inseguridades en el mar salado"
 
 # game/d4.rpy:460
 translate spanish d4_a4c68c59:
 
     # n "And let me see you shine."
-    n ""
+    n "Y déjame verte brillar."
 
 # game/d4.rpy:461
 translate spanish d4_37bca1be:
 
     # n 2d "Let's leave your memories in a footprint trail"
-    n 2d ""
+    n 2d "Dejemos tus recuerdos en una hilera de huellas"
 
 # game/d4.rpy:462
 translate spanish d4_952bf263:
 
     # n 4z "Set you free in my windy sail"
-    n 4z ""
+    n 4z "Déjate llevar por mi vela al viento"
 
 # game/d4.rpy:463
 translate spanish d4_6fc449a3:
 
     # n 1l "And remember the reasons you're wonderful"
-    n 1l ""
+    n 1l "Y acuérdate de por qué eres genial"
 
 # game/d4.rpy:464
 translate spanish d4_5fdd09e1:
 
     # n 5t "When you press your lips to mine."
-    n 5t ""
+    n 5t "Cuando tus labios se junten con los míos."
 
 # game/d4.rpy:465
 translate spanish d4_cd24900e_1:
 
     # n 2d "I'll be the beach that washes your worries away"
-    n 2d ""
+    n 2d "Seré la playa que se lleve tus preocupaciones"
 
 # game/d4.rpy:466
 translate spanish d4_380ea27e_1:
 
     # n 4d "I'll be the beach that you daydream about each day"
-    n 4d ""
+    n 4d "Seré la playa con la que sueñas despierto cada día"
 
 # game/d4.rpy:467
 translate spanish d4_1f68067c_1:
 
     # n 1z "I'll be the beach that makes your heart leap"
-    n 1z ""
+    n 1z "Seré la playa que te hace saltar el corazón"
 
 # game/d4.rpy:468
 translate spanish d4_b9b3d706_1:
 
     # n 1b "In a way you thought had left you long ago."
-    n 1b ""
+    n 1b "Como pensabas que ya no te pasaría nunca más."
 
 # game/d4.rpy:469
 translate spanish d4_ebd13524:
 
     # n 1d "But if you let me by your side"
-    n 1d ""
+    n 1d "Pero si me dejas estar a tu lado"
 
 # game/d4.rpy:470
 translate spanish d4_3a0cd0d4:
 
     # n "Your own beach, your own escape"
-    n ""
+    n "Tendrás tu propia playa, tu propio refugio"
 
 # game/d4.rpy:471
 translate spanish d4_60499311:
 
     # n 1z "You'll learn to love yourself again."
-    n 1z ""
+    n 1z "Volverás a quererte otra vez."
 
 # game/d4.rpy:472
 translate spanish d4_d7cf02c2:
 
     # n 1a "..."
-    n 1a ""
+    n 1a "..."
 
 # game/d4.rpy:475
 translate spanish d4_1447f860:
 
     # "She steps down and clapping ensues."
-    ""
+    "Baja del atril y la gente empieza a aplaudir."
 
 # game/d4.rpy:482
 translate spanish d4_cc70f358:
 
     # "Lastly, I get up from my seat, and step forward."
-    ""
+    "Por último, me levanto de mi sitio y doy un paso al frente."
 
 # game/d4.rpy:484
 translate spanish d4_a8338e68:
 
     # "I glance over at Monika, who is smiling happily at me."
-    ""
+    "Miro a Monika, que me sonríe feliz."
 
 # game/d4.rpy:485
 translate spanish d4_c314d99b:
 
     # "I get a small boost in confidence as I see her smile."
-    ""
+    "Su sonrisa me da un empujoncito de confianza."
 
 # game/d4.rpy:486
 translate spanish d4_18f259ca:
 
     # "And so I begin."
-    ""
+    "Y así empiezo."
 
 # game/d4.rpy:489
 translate spanish d4_cd1658ca:
 
     # mc "Hello everyone! My name is [player]. Today I'll be performing 'life'."
-    mc ""
+    mc "¡Hola a todos! Soy [player]. Hoy voy a recitar 'vida'."
 
 # game/d4.rpy:491
 translate spanish d4_e8292883:
 
     # "Keeping Monika's encouraging smile in mind, I recite my poem."
-    ""
+    "Con la sonrisa de Monika en mente, recito mi poema."
 
 # game/d4.rpy:492
 translate spanish d4_dc3ec6ce:
 
     # "I passionately read out the words, and once I'm done I step down from the podium."
-    ""
+    "Leo las palabras con ganas y, cuando termino, bajo del atril."
 
 # game/d4.rpy:494
 translate spanish d4_38603d44:
 
     # "The crowd claps, and I sit back down in my seat."
-    ""
+    "El público aplaude y vuelvo a sentarme en mi sitio."
 
 # game/d4.rpy:495
 translate spanish d4_11464b55:
 
     # "As I sit, Monika stands up, winks at me, and steps up to the front of the clubroom."
-    ""
+    "Mientras me siento, Monika se levanta, me guiña un ojo y va al frente del club."
 
 # game/d4.rpy:499
 translate spanish d4_90de9c4d_1:
 
     # m "Okay, everyone!"
-    m ""
+    m "¡Bueno, chicos!"
 
 # game/d4.rpy:500
 translate spanish d4_01db03aa:
 
     # m 3b "That concludes the club's performances for now!"
-    m 3b ""
+    m 3b "¡Eso es todo por ahora con las actuaciones del club!"
 
 # game/d4.rpy:501
 translate spanish d4_0ebebdf6:
 
     # m "I'd like to invite everyone who wrote a poem to come up and share it too!"
-    m ""
+    m "¡Me gustaría invitar a todos los que habéis escrito un poema a que subáis y lo compartáis también!"
 
 # game/d4.rpy:502
 translate spanish d4_4ec9ac4e:
 
     # m "We'll go one by one so everyone can have a turn."
-    m ""
+    m "Iremos uno a uno para que todos tengáis vuestro momento."
 
 # game/d4.rpy:503
 translate spanish d4_2ac4446a:
 
     # m "Please raise your hand if you want to come up!"
-    m ""
+    m "¡Levantad la mano si queréis salir!"
 
 # game/d4.rpy:505
 translate spanish d4_f6d532f9:
 
     # "The clubroom goes silent for a moment before a girl from the crowd raises her hand."
-    ""
+    "La sala se queda en silencio un momento hasta que una chica del público levanta la mano."
 
 # game/d4.rpy:506
 translate spanish d4_7b5ccb70:
 
     # "Girl 1" "\"Umm...I'd like to share...\""
-    "Girl 1" ""
+    "Chica 1" "\"Eh... Me gustaría compartir el mío...\""
 
 # game/d4.rpy:508
 translate spanish d4_919b0cb8:
 
     # m "Sure! Please, go ahead!"
-    m ""
+    m "¡Claro! Adelante, por favor."
 
 # game/d4.rpy:511
 translate spanish d4_6d7eb189:
 
     # "Monika sits back down, and the girl begins reciting."
-    ""
+    "Monika se sienta y la chica empieza a recitar."
 
 # game/d4.rpy:512
 translate spanish d4_8d412fa7:
 
     # "As time passes, a few people in the room come and go and take turns reciting their poems."
-    ""
+    "Con el paso del tiempo, algunos van saliendo y recitando sus poemas por turnos."
 
 # game/d4.rpy:513
 translate spanish d4_920cdc2e:
 
     # "And the cupcakes Natsuki made all disappear from the box fairly quickly."
-    ""
+    "Y los cupcakes de Natsuki vuelan de la caja en un momento."
 
 # game/d4.rpy:514
 translate spanish d4_964c50e2:
 
     # "We only planned on sharing twice for our part of the festival to accommodate for people."
-    ""
+    "Solo planeamos compartir dos veces para que todos pudieran participar."
 
 # game/d4.rpy:515
 translate spanish d4_ae24aef6:
 
     # "Some people just sit and listen or read."
-    ""
+    "Algunos solo se sientan a escuchar o a leer."
 
 # game/d4.rpy:516
 translate spanish d4_8350bd00:
 
     # "Others start zipping down a poem to share."
-    ""
+    "Otros se ponen a escribir un poema para compartirlo."
 
 # game/d4.rpy:517
 translate spanish d4_9f95c107:
 
     # "Once we hit the 15 minute mark, we shared our poems once again."
-    ""
+    "Cuando pasan unos 15 minutos, volvemos a compartir nuestros poemas."
 
 # game/d4.rpy:519
 translate spanish d4_33d8a85c:
 
     # "We sit back down and continue observing all the people performing their poems they wrote."
-    ""
+    "Nos sentamos y seguimos viendo a los demás recitar sus poemas."
 
 # game/d4.rpy:520
 translate spanish d4_4f9080b3:
 
     # "I still never expected our club to be this popular!"
-    ""
+    "¡Nunca pensé que nuestro club se haría tan popular!"
 
 # game/d4.rpy:522
 translate spanish d4_e86317db:
 
     # "Monika is happily smiling and helping classmates to seats and watching the performances."
-    ""
+    "Monika sonríe feliz, ayuda a los compañeros a sentarse y disfruta de las actuaciones."
 
 # game/d4.rpy:523
 translate spanish d4_caf2f2dd:
 
     # "I can tell she's happy the event was so successful!"
-    ""
+    "Se nota que está contenta de que haya salido tan bien."
 
 # game/d4.rpy:526
 translate spanish d4_3fec1d7d:
 
     # "I sit back, relax, and listen to the poems written by students from other classes."
-    ""
+    "Me relajo y escucho los poemas de alumnos de otras clases."
 
 # game/d4.rpy:529
 translate spanish d4_5738c2a9:
 
     # "Soon enough, with about 5 minutes left, we start to clean up."
-    ""
+    "Enseguida, cuando quedan unos cinco minutos, empezamos a recoger."
 
 # game/d4.rpy:530
 translate spanish d4_1e304124:
 
     # "All the students slowly clear out of the room, and head to the next event."
-    ""
+    "Todos los alumnos van saliendo poco a poco y se van al siguiente evento."
 
 # game/d4.rpy:531
 translate spanish d4_ee0c51e4:
 
     # "The club members and I start cleaning up the mess left by the guests."
-    ""
+    "Los del club y yo empezamos a recoger todo lo que han dejado los invitados."
 
 # game/d4.rpy:533
 translate spanish d4_f08a3e5d:
 
     # m "Let's leave the decorations for tomorrow."
-    m ""
+    m "Dejamos las decoraciones para mañana."
 
 # game/d4.rpy:534
 translate spanish d4_c397b0bb:
 
     # m 4b "Good job on the Festival today everyone~!"
-    m 4b ""
+    m 4b "¡Buen trabajo hoy en el festival, chicos!"
 
 # game/d4.rpy:535
 translate spanish d4_c6004aaa:
 
     # m "I'd say it was a huge success!"
-    m ""
+    m "¡Diría que ha sido un exitazo!"
 
 # game/d4.rpy:542
 translate spanish d4_feb04bea:
 
     # s "Yeahhh! I had so much fun!"
-    s ""
+    s "¡Siiii! ¡Me lo he pasado genial!"
 
 # game/d4.rpy:545
 translate spanish d4_90892ec8:
 
     # n "I had fun too!"
-    n ""
+    n "¡Yo también me he divertido!"
 
 # game/d4.rpy:546
 translate spanish d4_19c23cbd:
 
     # n 5y "Even got to show off my baking skills..."
-    n 5y ""
+    n 5y "Y encima he podido lucirme con la repostería..."
 
 # game/d4.rpy:549
 translate spanish d4_815a8bd8:
 
     # y "Same here."
-    y ""
+    y "Igual por aquí."
 
 # game/d4.rpy:550
 translate spanish d4_bf20df91:
 
     # y 2d "I think it was a good experience to have!"
-    y 2d ""
+    y 2d "¡Creo que ha sido una experiencia muy buena!"
 
 # game/d4.rpy:553
 translate spanish d4_08c78fbf:
 
     # p "I had a good time."
-    p ""
+    p "Yo también me lo he pasado bien."
 
 # game/d4.rpy:554
 translate spanish d4_aff09cb5:
 
     # p 1k "We should try doing something similar next time!"
-    p 1k ""
+    p 1k "¡Deberíamos hacer algo parecido la próxima vez!"
 
 # game/d4.rpy:564
 translate spanish d4_7748f2da:
 
     # m "That I think we will!"
-    m ""
+    m "¡Eso seguro que lo haremos!"
 
 # game/d4.rpy:565
 translate spanish d4_11fd38e8:
 
     # m 4b "[player], how about you?"
-    m 4b ""
+    m 4b "[player], ¿y tú qué tal?"
 
 # game/d4.rpy:567
 translate spanish d4_c58fb46a:
 
     # m "Did you enjoy yourself?" nointeract
-    m "" nointeract
+    m "¿Te lo has pasado bien?" nointeract
 
 # game/d4.rpy:569
 translate spanish d4_697beb79:
 
     # m "Great!"
-    m ""
+    m "¡Genial!"
 
 # game/d4.rpy:571
 translate spanish d4_697beb79_1:
 
     # m "Great!"
-    m ""
+    m "¡Genial!"
 
 # game/d4.rpy:572
 translate spanish d4_c6e2d3ea:
 
     # m 5a "We'll have to do this again then, hehe~!"
-    m 5a ""
+    m 5a "¡Pues habrá que repetir, jeje!"
 
 # game/d4.rpy:573
 translate spanish d4_e719ebca:
 
     # m 3b "Okay, everyone!"
-    m 3b ""
+    m 3b "¡Bueno, chicos!"
 
 # game/d4.rpy:574
 translate spanish d4_3bd5451a:
 
     # m "I think that concludes today's activities!"
-    m ""
+    m "¡Creo que con esto terminamos por hoy!"
 
 # game/d4.rpy:575
 translate spanish d4_636efa01:
 
     # m "Good luck and have fun with the rest of the festival!"
-    m ""
+    m "¡Pasadlo bien en lo que queda de festival!"
 
 # game/d4.rpy:576
 translate spanish d4_e8e1905a:
 
     # m "I think the next one is the debate club's so you guys can head off to the theater if you want to watch."
-    m ""
+    m "Creo que lo siguiente es el club de debate, así que podéis ir al teatro si os apetece verlo."
 
 # game/d4.rpy:580
 translate spanish d4_fe31565c:
 
     # "Everyone leaves to go do their own things, while Monika and I stay behind to lock up."
-    ""
+    "Todos se van a lo suyo y Monika y yo nos quedamos para cerrar."
 
 # game/d4.rpy:727
 translate spanish d4_0011c2e1:
 
     # "Monika locks the door, and we make our way towards the theater."
-    ""
+    "Monika cierra la puerta y nos vamos hacia el teatro."
 
 # game/d4.rpy:728
 translate spanish d4_6bfa9be2:
 
     # m 1b "It's been a while since I've been in the debate club."
-    m 1b ""
+    m 1b "Hace tiempo que no paso por el club de debate."
 
 # game/d4.rpy:729
 translate spanish d4_c30a6ef8:
 
     # m 1d "I wonder what they've been arguing about since I left."
-    m 1d ""
+    m 1d "Me pregunto de qué habrán estado discutiendo desde que me fui."
 
 # game/d4.rpy:730
 translate spanish d4_2005b5c4:
 
     # m 1b "Bet they've started already."
-    m 1b ""
+    m 1b "Seguro que ya han empezado."
 
 # game/d4.rpy:732
 translate spanish d4_00a4abf8:
 
     # "We reach the door to the theater, and step inside."
-    ""
+    "Llegamos a la puerta del teatro y entramos."
 
 # game/d4.rpy:736
 translate spanish d4_0b059ca1:
 
     # "We take a seat, and wait for the debate to begin."
-    ""
+    "Nos sentamos y esperamos a que empiece el debate."
 
 # game/d4.rpy:737
 translate spanish d4_d1788ea6:
 
     # "Just a few seconds later, two students step on the stage."
-    ""
+    "A los pocos segundos, dos estudiantes suben al escenario."
 
 # game/d4.rpy:738
 translate spanish d4_f4dd098d:
 
     # "They're both wearing professional suits, and combed hair."
-    ""
+    "Van los dos con traje y bien peinados."
 
 # game/d4.rpy:739
 translate spanish d4_df6e5bac:
 
     # m "I think it's about to start."
-    m ""
+    m "Creo que está a punto de empezar."
 
 # game/d4.rpy:740
 translate spanish d4_516fa692:
 
     # "The announcer echoes over the theater."
-    ""
+    "La voz del presentador retumba por el teatro."
 
 # game/d4.rpy:741
 translate spanish d4_772c1c46:
 
     # "Announcer" "\"{i}Ahem,{/i}{w=0.5} this working...?\""
-    "Announcer" ""
+    "Presentador" "\"Ejem... ¿esto funciona...?\""
 
 # game/d4.rpy:742
 translate spanish d4_8b7e346d:
 
     # "Announcer" "\"It is! Good.\""
-    "Announcer" ""
+    "Presentador" "\"¡Sí, perfecto!\""
 
 # game/d4.rpy:743
 translate spanish d4_6c7f0db6:
 
     # "Announcer" "\"Welcome everyone to the debate club's performance!\""
-    "Announcer" ""
+    "Presentador" "\"¡Bienvenidos todos a la exhibición del club de debate!\""
 
 # game/d4.rpy:744
 translate spanish d4_81f4cf7a:
 
     # "Announcer" "\"Today, two of our students will be arguing about the impact of fossil fuels.\""
-    "Announcer" ""
+    "Presentador" "\"Hoy, dos alumnos debatirán sobre el impacto de los combustibles fósiles.\""
 
 # game/d4.rpy:745
 translate spanish d4_ba0dd337:
 
     # "Announcer" "\"Hopefully it'll give everyone here some insight into both sides.{w=0.5} And without further ado, you may begin.\""
-    "Announcer" ""
+    "Presentador" "\"Esperamos que así todos podáis ver los dos puntos de vista. Sin más, podéis empezar.\""
 
 # game/d4.rpy:747
 translate spanish d4_50579bcd:
 
     # "The two students begin their spiels, with a 2 minute timer in between them."
-    ""
+    "Los dos empiezan su discurso, con un cronómetro de dos minutos para cada uno."
 
 # game/d4.rpy:748
 translate spanish d4_6709df4f:
 
     # m "You know, when it comes to debates, it's almost a stereotype that its always full of big politicians with fancy stuff."
-    m ""
+    m "Sabes, con los debates siempre parece que solo hay políticos importantes y cosas de esas."
 
 # game/d4.rpy:749
 translate spanish d4_b9216427:
 
     # m "But it's really not the case."
-    m ""
+    m "Pero no es así para nada."
 
 # game/d4.rpy:750
 translate spanish d4_4ef7bd82:
 
     # m "Anyone can be good at debating, and it can be about anything."
-    m ""
+    m "Cualquiera puede debatir bien, y se puede debatir sobre cualquier cosa."
 
 # game/d4.rpy:751
 translate spanish d4_1be975a0:
 
     # m "It's funny, one time for a subject we chose to have a debate on whether or not soup was a drink."
-    m ""
+    m "Una vez, en clase, debatimos sobre si la sopa era una bebida o no. Tela."
 
 # game/d4.rpy:752
 translate spanish d4_6914ae5f:
 
     # m "It wasn't my idea, but it got fairly heated."
-    m ""
+    m "No fue idea mía, pero la cosa se puso bastante tensa."
 
 # game/d4.rpy:753
 translate spanish d4_6a881d24:
 
     # m "It turned out to be a draw in the end."
-    m ""
+    m "Al final quedó en empate."
 
 # game/d4.rpy:754
 translate spanish d4_0c3e422c:
 
     # m "I learned quite a bit about arguing back in those days."
-    m ""
+    m "En esos días aprendí bastante sobre cómo discutir."
 
 # game/d4.rpy:755
 translate spanish d4_5b7ba5ce:
 
     # m "But I'm glad I quit. Too much drama and stuff."
-    m ""
+    m "Pero me alegro de haberlo dejado. Demasiado drama y líos."
 
 # game/d4.rpy:756
 translate spanish d4_4ad2055f:
 
     # m "I don't regret making the literature club. It's much more fun than this."
-    m ""
+    m "No me arrepiento de haber montado el club de literatura. Esto es mucho más divertido."
 
 # game/d4.rpy:757
 translate spanish d4_97a081d7:
 
     # m "And I guess when you joined, that was the biggest debate I had in my head probably ever."
-    m ""
+    m "Y creo que cuando entraste tú, fue el mayor debate interno que he tenido nunca."
 
 # game/d4.rpy:758
 translate spanish d4_edeffb4d:
 
     # m "But I'll never regret falling in love with you~"
-    m ""
+    m "Pero de lo que nunca me arrepentiré es de enamorarme de ti."
 
 # game/d4.rpy:759
 translate spanish d4_0b915cc6:
 
     # "She leans onto my shoulder as the debate powers on."
-    ""
+    "Se apoya en mi hombro mientras el debate sigue."
 
 # game/d4.rpy:760
 translate spanish d4_b9edb932:
 
     # "Eventually things start getting a bit heated."
-    ""
+    "Al final la cosa se empieza a caldear."
 
 # game/d4.rpy:761
 translate spanish d4_b24d6ab9:
 
     # m "You know, I thought that by being in the debate club, that these guys would learn to argue."
-    m ""
+    m "Pensaba que estando en el club de debate aprenderían a discutir bien."
 
 # game/d4.rpy:762
 translate spanish d4_545465c3:
 
     # m "When I was there things never got so heated."
-    m ""
+    m "Cuando yo estaba nunca se ponía tan tenso."
 
 # game/d4.rpy:763
 translate spanish d4_4a8893ee:
 
     # m "Seems like things went downhill after I left."
-    m ""
+    m "Parece que la cosa ha ido a peor desde que me fui."
 
 # game/d4.rpy:764
 translate spanish d4_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/d4.rpy:765
 translate spanish d4_948c7153:
 
     # m "I think we should go. We wouldn't learn anything if we stayed longer."
-    m ""
+    m "Creo que deberíamos irnos. No vamos a aprender nada quedándonos más."
 
 # game/d4.rpy:766
 translate spanish d4_4f373aa2:
 
     # m "This is getting ridiculous."
-    m ""
+    m "Esto ya es un cachondeo."
 
 # game/d4.rpy:767
 translate spanish d4_a49ed4f8_1:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d4.rpy:770
 translate spanish d4_d0a24815:
 
     # "Monika quietly gets up from her seat, as do I."
-    ""
+    "Monika se levanta en silencio, y yo hago lo mismo."
 
 # game/d4.rpy:771
 translate spanish d4_d68352a4:
 
     # "She takes my hand and brings me out of the theater."
-    ""
+    "Me coge de la mano y salimos del teatro."
 
 # game/d4.rpy:777
 translate spanish d4_43d2f3f5:
 
     # m "Ahh~"
-    m ""
+    m "Aaaah..."
 
 # game/d4.rpy:778
 translate spanish d4_a571861f:
 
     # m 1b "It feels good to relax a bit after a debate."
-    m 1b ""
+    m 1b "Qué gusto da relajarse un poco después de un debate."
 
 # game/d4.rpy:779
 translate spanish d4_4671dd23:
 
     # m 1d "Anyway, I think the next thing is the baton club."
-    m 1d ""
+    m 1d "Bueno, creo que ahora toca lo del club de batutas."
 
 # game/d4.rpy:780
 translate spanish d4_c88fedb9:
 
     # m "But there's still like 20 minutes before that starts."
-    m ""
+    m "Pero aún quedan como 20 minutos para que empiece."
 
 # game/d4.rpy:785
 translate spanish d4_e75d0600:
 
     # mc "Do you want to take a look at the stalls the teachers set up?"
-    mc ""
+    mc "¿Te apetece echar un ojo a los puestos que han montado los profes?"
 
 # game/d4.rpy:786
 translate spanish d4_d00a958c:
 
     # m 1b "Sure."
-    m 1b ""
+    m 1b "Venga, vamos."
 
 # game/d4.rpy:788
 translate spanish d4_2648038c:
 
     # "We spend a few minutes walking around trying to look for the stalls."
-    ""
+    "Damos una vuelta buscando los puestos."
 
 # game/d4.rpy:789
 translate spanish d4_976cc832:
 
     # "As I peek out the window I notice they're set up in the courtyard."
-    ""
+    "Miro por la ventana y veo que están en el patio."
 
 # game/d4.rpy:790
 translate spanish d4_de9b1613:
 
     # "There aren't all too many of them."
-    ""
+    "No hay demasiados, la verdad."
 
 # game/d4.rpy:791
 translate spanish d4_adad8c6d:
 
     # "I could probably count them all on my hands."
-    ""
+    "Se pueden contar con los dedos de una mano."
 
 # game/d4.rpy:792
 translate spanish d4_dea6bcb4:
 
     # "I follow Monika outside."
-    ""
+    "Salgo fuera con Monika."
 
 # game/d4.rpy:795
 translate spanish d4_ecb1299f:
 
     # "All the stalls are food stalls with various different types to go around."
-    ""
+    "Todos los puestos son de comida, cada uno de una cosa distinta."
 
 # game/d4.rpy:796
 translate spanish d4_e400c056:
 
     # "One of the interns set one up too."
-    ""
+    "Hasta uno de los becarios ha montado uno."
 
 # game/d4.rpy:797
 translate spanish d4_10d2fbe0:
 
     # "It seems like he's selling rice balls."
-    ""
+    "Parece que está vendiendo bolas de arroz."
 
 # game/d4.rpy:799
 translate spanish d4_9b727d9e:
 
     # m "Hey [player]!"
-    m ""
+    m "¡Eh, [player]!"
 
 # game/d4.rpy:800
 translate spanish d4_ff7613ad:
 
     # m 3k "let's go get some of those!"
-    m 3k ""
+    m 3k "¡Vamos a pillar unas cuantas!"
 
 # game/d4.rpy:802
 translate spanish d4_606e2d02_1:
 
     # mc "Sure."
-    mc ""
+    mc "Vale."
 
 # game/d4.rpy:803
 translate spanish d4_8bd96443:
 
     # "We walk up to the stall, and he quickly composes himself."
-    ""
+    "Nos acercamos al puesto y el chico se pone serio de golpe."
 
 # game/d4.rpy:804
 translate spanish d4_729e5930:
 
     # "Intern" "\"H-{w=0.1}Hello!{w=0.5} Would you like to buy some jelly filled do-{w=0.5} I mean, onigiri?\""
-    "Intern" ""
+    "Becario" "\"H-{w=0.1}¡Hola!{w=0.5} ¿Queréis comprar unos bollos rellenos de me... digo, onigiris?\""
 
 # game/d4.rpy:805
 translate spanish d4_e04ab41e:
 
     # mc "Two please!"
-    mc ""
+    mc "¡Dos, por favor!"
 
 # game/d4.rpy:806
 translate spanish d4_862839a0:
 
     # "Intern" "\"Okay!{w=0.5} That'll be 4 dollars please!\""
-    "Intern" ""
+    "Becario" "\"¡Vale!{w=0.5} Son 4 dólares, por favor.\""
 
 # game/d4.rpy:807
 translate spanish d4_08ad240c:
 
     # mc "Here you go."
-    mc ""
+    mc "Aquí tienes."
 
 # game/d4.rpy:808
 translate spanish d4_4dcc2a32:
 
     # "Intern" "\"Thank you!\""
-    "Intern" ""
+    "Becario" "\"¡Gracias!\""
 
 # game/d4.rpy:809
 translate spanish d4_6441f176:
 
     # "Intern" "\"Here are your onigiris!\""
-    "Intern" ""
+    "Becario" "\"¡Aquí tenéis vuestros onigiris!\""
 
 # game/d4.rpy:810
 translate spanish d4_256ecc5b:
 
     # "He hands me the onigiris, and I give one to Monika."
-    ""
+    "Me da los onigiris y le paso uno a Monika."
 
 # game/d4.rpy:811
 translate spanish d4_b0e7faf7:
 
     # m 1k "Thanks!"
-    m 1k ""
+    m 1k "¡Gracias!"
 
 # game/d4.rpy:813
 translate spanish d4_4c85d272:
 
     # mc "See ya!"
-    mc ""
+    mc "¡Hasta luego!"
 
 # game/d4.rpy:814
 translate spanish d4_dbb9c445:
 
     # "Intern" "Have fun with the rest of the festival you two!"
-    "Intern" ""
+    "Becario" "¡Pasadlo bien en el resto del festival, pareja!"
 
 # game/d4.rpy:815
 translate spanish d4_8ca8b46b:
 
     # "We walk around for a bit."
-    ""
+    "Damos una vuelta por ahí."
 
 # game/d4.rpy:816
 translate spanish d4_a5aae2cd:
 
     # m 1d "[player], do you wanna start heading towards the gym?"
-    m 1d ""
+    m 1d "[player], ¿vamos tirando ya para el gimnasio?"
 
 # game/d4.rpy:817
 translate spanish d4_147a668c:
 
     # m "I think the next event starts in a few minutes."
-    m ""
+    m "Creo que lo siguiente empieza en nada."
 
 # game/d4.rpy:819
 translate spanish d4_6651ab87:
 
     # mc "Alright."
-    mc ""
+    mc "Vale."
 
 # game/d4.rpy:820
 translate spanish d4_4fc4bf20:
 
     # "Slowly walking towards the gym, we munch on our onigiris."
-    ""
+    "Vamos hacia el gimnasio comiéndonos los onigiris."
 
 # game/d4.rpy:824
 translate spanish d4_c0015c87:
 
     # "Walking down the hallway, I notice a few of the girls from the baton club make their way down to the gym too."
-    ""
+    "Por el pasillo veo que unas chicas del club de batutas también van para el gimnasio."
 
 # game/d4.rpy:825
 translate spanish d4_cb30f9bd:
 
     # "Monika perks up a bit as she sees them."
-    ""
+    "Monika se anima al verlas."
 
 # game/d4.rpy:827
 translate spanish d4_5d67eb08:
 
     # m "Good luck with the performance!"
-    m ""
+    m "¡Suerte con la actuación!"
 
 # game/d4.rpy:828
 translate spanish d4_b4549685:
 
     # "Baton Club Member" "\"Thanks!{w=0.5} We hope you'll enjoy it!\""
-    "Baton Club Member" ""
+    "Chica del club de batutas" "\"¡Gracias!{w=0.5} ¡Esperamos que os guste!\""
 
 # game/d4.rpy:831
 translate spanish d4_b876e357:
 
     # "The baton club members quickly step into the staging room."
-    ""
+    "Las del club de batutas entran rápido al vestuario."
 
 # game/d4.rpy:833
 translate spanish d4_e97cfaec:
 
     # "Monika and I take a seat on the bleachers."
-    ""
+    "Monika y yo nos sentamos en las gradas."
 
 # game/d4.rpy:834
 translate spanish d4_0fc0b748:
 
     # "We finish up the onigiris, and Monika leans back a bit."
-    ""
+    "Terminamos los onigiris y Monika se recuesta un poco."
 
 # game/d4.rpy:835
 translate spanish d4_9b55ff8e:
 
     # "We seem to be one of the first few people to sit down so it's fairly empty."
-    ""
+    "Parece que somos de los primeros en sentarnos, así que está bastante vacío."
 
 # game/d4.rpy:836
 translate spanish d4_c33b8961:
 
     # "But soon enough, people start rolling in as the event is about to begin."
-    ""
+    "Pero enseguida empieza a llegar gente porque el evento está a punto de empezar."
 
 # game/d4.rpy:838
 translate spanish d4_7c644f95:
 
     # "A few moments after the doors close, music begins to play, and the girls of the baton club bounce their way out of the staging area."
-    ""
+    "A los pocos minutos de cerrar las puertas, empieza la música y las chicas del club de batutas salen dando saltitos del vestuario."
 
 # game/d4.rpy:839
 translate spanish d4_2442116f:
 
     # "They move in unison spinning their batons along with the beat."
-    ""
+    "Se mueven todas a la vez girando las batutas al ritmo de la música."
 
 # game/d4.rpy:840
 translate spanish d4_76931025:
 
     # "Monika bobs her head with them."
-    ""
+    "Monika mueve la cabeza siguiendo el ritmo con ellas."
 
 # game/d4.rpy:841
 translate spanish d4_4a05ee90:
 
     # "They do a bunch of intricate moves, tossing their batons to each other, and catching them in sync."
-    ""
+    "Hacen un montón de movimientos chulos, lanzándose las batutas entre ellas y pillándolas a la vez."
 
 # game/d4.rpy:843
 translate spanish d4_60e9e6aa:
 
     # "Once the song finishes,{w=0.5} they bow and everyone claps as they run back into the staging room."
-    ""
+    "Cuando termina la canción, hacen una reverencia y todo el mundo aplaude mientras vuelven corriendo al vestuario."
 
 # game/d4.rpy:844
 translate spanish d4_66139f5f:
 
     # "After that short intermission, they come back out, and another song begins to play."
-    ""
+    "Después de esa pausa, vuelven a salir y empieza otra canción."
 
 # game/d4.rpy:846
 translate spanish d4_ebdd5f26:
 
     # "Monika seems to really enjoy watching them twirl around the batons."
-    ""
+    "Monika parece estar disfrutando un montón viendo cómo giran las batutas."
 
 # game/d4.rpy:847
 translate spanish d4_9a202bd9:
 
     # "And to be honest, the music is pretty good too."
-    ""
+    "Y la verdad, la música está bastante bien también."
 
 # game/d4.rpy:848
 translate spanish d4_a3c2bffc:
 
     # m "I bet they could make it to nationals with their skills."
-    m ""
+    m "Apuesto a que con ese nivel llegan a la final nacional."
 
 # game/d4.rpy:849
 translate spanish d4_10dee4ef:
 
     # mc "You think so?"
-    mc ""
+    mc "¿Tú crees?"
 
 # game/d4.rpy:850
 translate spanish d4_a6deffd5:
 
     # m "Mhm~"
-    m ""
+    m "Sí, sí."
 
 # game/d4.rpy:851
 translate spanish d4_50df6753:
 
     # m "It doesn't look easy to twirl those things around for so long."
-    m ""
+    m "No parece nada fácil estar tanto rato girando esas cosas."
 
 # game/d4.rpy:852
 translate spanish d4_e2d67271:
 
     # m "Ooh!"
-    m ""
+    m "¡Oye!"
 
 # game/d4.rpy:853
 translate spanish d4_cafb3d55:
 
     # m "Guess what I heard~"
-    m ""
+    m "A que no sabes lo que me han contado."
 
 # game/d4.rpy:854
 translate spanish d4_ed479315:
 
     # m "Apparently one of the film club members has a crush on one of the girls up there."
-    m ""
+    m "Parece que uno del club de cine está pillado por una de las chicas de ahí arriba."
 
 # game/d4.rpy:855
 translate spanish d4_0bca522b:
 
     # m "I'm not sure who though."
-    m ""
+    m "Pero no sé quién es, la verdad."
 
 # game/d4.rpy:856
 translate spanish d4_ace526c1:
 
     # m "I just remember overhearing that during break at some point."
-    m ""
+    m "Solo recuerdo haberlo oído por ahí en un descanso."
 
 # game/d4.rpy:857
 translate spanish d4_30c10c69:
 
     # mc "I wish him luck in getting her!"
-    mc ""
+    mc "¡Pues que tenga suerte el chaval!"
 
 # game/d4.rpy:858
 translate spanish d4_45d9cd96:
 
     # m "Ehehe~"
-    m ""
+    m "Je, je."
 
 # game/d4.rpy:859
 translate spanish d4_9f5a3db2:
 
     # "I try to eye out the film club and look for the guy."
-    ""
+    "Intento echar un vistazo al club de cine a ver si veo al chico."
 
 # game/d4.rpy:860
 translate spanish d4_a20cefa7_3:
 
     # "..."
-    ""
+    "..."
 
 # game/d4.rpy:861
 translate spanish d4_3a6a267e:
 
     # "There he is."
-    ""
+    "Ahí está."
 
 # game/d4.rpy:862
 translate spanish d4_9ee70655:
 
     # mc "I think that might be him over there."
-    mc ""
+    mc "Creo que es ese de ahí."
 
 # game/d4.rpy:863
 translate spanish d4_4612ccab:
 
     # "I can see him bobbing around and he's actually recording it both on the camera and his phone."
-    ""
+    "Le veo moviéndose y está grabando con la cámara y el móvil a la vez."
 
 # game/d4.rpy:864
 translate spanish d4_fac15e8b:
 
     # m "Yeah it looks like it."
-    m ""
+    m "Sí, tiene toda la pinta."
 
 # game/d4.rpy:865
 translate spanish d4_8dcd8afd:
 
     # "As I look back on to the baton club, they move on with their performance."
-    ""
+    "Vuelvo a mirar al club de batutas y siguen con la actuación."
 
 # game/d4.rpy:866
 translate spanish d4_57a113b0:
 
     # "One of the members peeks over in the film club's direction and winks."
-    ""
+    "Una de las chicas mira hacia el club de cine y le guiña un ojo."
 
 # game/d4.rpy:867
 translate spanish d4_1d583249:
 
     # "I look at the club, and the guy who I pointed out earlier blushes a bit and shows a thumbs up to her."
-    ""
+    "Miro al club y el chico que señalé antes se pone rojo y le hace un gesto de pulgar arriba."
 
 # game/d4.rpy:868
 translate spanish d4_20283ed7:
 
     # m "Those two are definitely into each other~"
-    m ""
+    m "Esos dos están coladitos el uno por el otro."
 
 # game/d4.rpy:869
 translate spanish d4_b0ab0677:
 
     # mc "Oh yeah they are."
-    mc ""
+    mc "Vamos, clarísimo."
 
 # game/d4.rpy:872
 translate spanish d4_a1e47a51:
 
     # "The performance continues, and the final song ends."
-    ""
+    "La actuación sigue y termina la última canción."
 
 # game/d4.rpy:873
 translate spanish d4_8ffa2796:
 
     # "Everyone applauds, and shuffles out of the gym on to the next event."
-    ""
+    "Todo el mundo aplaude y se va saliendo del gimnasio para el siguiente evento."
 
 # game/d4.rpy:874
 translate spanish d4_25a15a6d:
 
     # "As I look back while holding hands with Monika, I notice the two who were looking at each other."
-    ""
+    "Mientras salgo de la mano de Monika, veo a los dos que se miraban antes."
 
 # game/d4.rpy:875
 translate spanish d4_d3fad8f2:
 
     # "They embrace, and the girl happily jumps."
-    ""
+    "Se abrazan y la chica da un salto de alegría."
 
 # game/d4.rpy:876
 translate spanish d4_7ef43d6f:
 
     # "He did it."
-    ""
+    "Lo ha conseguido."
 
 # game/d4.rpy:877
 translate spanish d4_a28ae58c:
 
     # "What a legend."
-    ""
+    "Vaya crack."
 
 # game/d4.rpy:879
 translate spanish d4_3a434459:
 
     # "Monika checks on what I'm looking at."
-    ""
+    "Monika mira a ver qué estoy mirando."
 
 # game/d4.rpy:880
 translate spanish d4_8f101479:
 
     # m 1b "Ooh~!"
-    m 1b ""
+    m 1b "¡Anda!"
 
 # game/d4.rpy:881
 translate spanish d4_c212a31d:
 
     # m 3k "It happened!"
-    m 3k ""
+    m 3k "¡Ha pasado!"
 
 # game/d4.rpy:882
 translate spanish d4_df5c00fc:
 
     # m 1j "Hehehe~"
-    m 1j ""
+    m 1j "Je, je, je."
 
 # game/d4.rpy:884
 translate spanish d4_889a54ee:
 
     # "Monika hugs me as we walk out."
-    ""
+    "Monika me abraza mientras salimos."
 
 # game/d4.rpy:885
 translate spanish d4_25b142ab:
 
     # m 1k "But focus on me a bit instead okay?"
-    m 1k ""
+    m 1k "Pero ahora céntrate un poco en mí, ¿vale?"
 
 # game/d4.rpy:887
 translate spanish d4_1f384ef6:
 
     # mc "Haha~ As you wish."
-    mc ""
+    mc "Jajaja, lo que tú digas."
 
 # game/d4.rpy:888
 translate spanish d4_5141f001:
 
     # m 1j "Ufufu~"
-    m 1j ""
+    m 1j "Jejeje."
 
 # game/d4.rpy:892
 translate spanish d4_bcea609a:
 
     # mc "So where's our next stop?"
-    mc ""
+    mc "¿Y ahora a dónde vamos?"
 
 # game/d4.rpy:893
 translate spanish d4_19631841:
 
     # m 1b "I think...let me check..."
-    m 1b ""
+    m 1b "Creo que... déjame mirar..."
 
 # game/d4.rpy:894
 translate spanish d4_3baa0bbc:
 
     # m 1d "Oh, the anime club!"
-    m 1d ""
+    m 1d "¡Ah, el club de anime!"
 
 # game/d4.rpy:896
 translate spanish d4_bd870210:
 
     # mc "Didn't MC want to join that club before Sayori bribed him with cupcakes?"
-    mc ""
+    mc "¿No quería MC apuntarse a ese club antes de que Sayori le sobornara con cupcakes?"
 
 # game/d4.rpy:897
 translate spanish d4_6f87bdb2:
 
     # m 1b "Yep, that's the one."
-    m 1b ""
+    m 1b "Sí, ese mismo."
 
 # game/d4.rpy:898
 translate spanish d4_73904118:
 
     # m 1d "I wonder what they have planned though."
-    m 1d ""
+    m 1d "A saber qué tendrán preparado."
 
 # game/d4.rpy:899
 translate spanish d4_391d4b45:
 
     # m "We're supposed to go to their clubroom by the looks of it."
-    m ""
+    m "Parece que tenemos que ir a su aula."
 
 # game/d4.rpy:900
 translate spanish d4_d4b0848b:
 
     # m "I can lead the way."
-    m ""
+    m "Yo te llevo."
 
 # game/d4.rpy:902
 translate spanish d4_28f7d7a2:
 
     # mc "Alright, let's go!"
-    mc ""
+    mc "Venga, vamos."
 
 # game/d4.rpy:903
 translate spanish d4_3efdca24:
 
     # "We make our way towards the anime club."
-    ""
+    "Nos vamos hacia el club de anime."
 
 # game/d4.rpy:907
 translate spanish d4_ca377dfc:
 
     # "Monika leads me along until we reach an open door with the anime club written on the sign."
-    ""
+    "Monika me guía hasta que llegamos a una puerta abierta con el cartel de club de anime."
 
 # game/d4.rpy:908
 translate spanish d4_2345ae95:
 
     # m 1d "This seems to be the place."
-    m 1d ""
+    m 1d "Parece que es aquí."
 
 # game/d4.rpy:909
 translate spanish d4_c0c8d94d:
 
     # m "Bit less hectic than I remember."
-    m ""
+    m "Está menos loco de lo que recordaba."
 
 # game/d4.rpy:910
 translate spanish d4_5778301d:
 
     # m 1b "On Friday I heard from one of our classmates that a fight broke out in here with wooden katanas."
-    m 1b ""
+    m 1b "El viernes me contó un compañero que aquí hubo una pelea con katanas de madera."
 
 # game/d4.rpy:911
 translate spanish d4_83dd1f71:
 
     # m "But anyway, it looks like everything's calm in here."
-    m ""
+    m "Pero bueno, ahora parece que está todo tranquilo."
 
 # game/d4.rpy:912
 translate spanish d4_538b5743:
 
     # "We step inside, and look around."
-    ""
+    "Entramos y echamos un vistazo."
 
 # game/d4.rpy:915
 translate spanish d4_e2e3a1ff:
 
     # "The club members have all set up a small stand each with either a tray of food, or some items they bought."
-    ""
+    "Cada miembro del club ha montado un puestecito con comida o cosas que han traído."
 
 # game/d4.rpy:916
 translate spanish d4_8e7359f2:
 
     # "All of them are heavily decorated with anime pictures and cardboard cutouts of different waifus."
-    ""
+    "Todos están llenos de pósters de anime y recortes de cartón de waifus varias."
 
 # game/d4.rpy:917
 translate spanish d4_1ccafbbd:
 
     # mc "These guys really are dedicated."
-    mc ""
+    mc "Estos sí que se lo curran."
 
 # game/d4.rpy:918
 translate spanish d4_1dbbfbd1_1:
 
     # m "Yeah."
-    m ""
+    m "Ya ves."
 
 # game/d4.rpy:919
 translate spanish d4_39eb6e3d:
 
     # m "I can see why Natsuki didn't want to join."
-    m ""
+    m "Ahora entiendo por qué Natsuki no quería apuntarse."
 
 # game/d4.rpy:920
 translate spanish d4_4c518f11:
 
     # m "I'm betting she's gonna have a look though."
-    m ""
+    m "Aunque seguro que luego viene a cotillear."
 
 # game/d4.rpy:921
 translate spanish d4_04c05cce:
 
     # mc "Yeah, she does like this kind of stuff."
-    mc ""
+    mc "Sí, estas cosas le molan."
 
 # game/d4.rpy:922
 translate spanish d4_44d17c12:
 
     # mc "Wanna get some food then?"
-    mc ""
+    mc "¿Pillamos algo de comer?"
 
 # game/d4.rpy:923
 translate spanish d4_912606f9:
 
     # m "Yep!"
-    m ""
+    m "¡Claro!"
 
 # game/d4.rpy:924
 translate spanish d4_2463c708:
 
     # "We slowly make our way around, and I get one of everything for us to share."
-    ""
+    "Vamos dando una vuelta y cojo un poco de todo para compartir."
 
 # game/d4.rpy:928
 translate spanish d4_b321f89f:
 
     # "We step outside, and find a bench to sit down on."
-    ""
+    "Salimos fuera y buscamos un banco para sentarnos."
 
 # game/d4.rpy:929
 translate spanish d4_53f902fa:
 
     # m 1j "Mmm~"
-    m 1j ""
+    m 1j "Mmm..."
 
 # game/d4.rpy:930
 translate spanish d4_ccf532fe:
 
     # m 1b "These are pretty good!"
-    m 1b ""
+    m 1b "¡Esto está bastante bueno!"
 
 # game/d4.rpy:931
 translate spanish d4_c313c84e:
 
     # m "Here~!"
-    m ""
+    m "Toma, prueba esto."
 
 # game/d4.rpy:933
 translate spanish d4_41c55208:
 
     # "She gives me half of a cookie which looks to be decorated in the look of a girl with blue twintails."
-    ""
+    "Me da media galleta decorada como una chica de coletas azules."
 
 # game/d4.rpy:934
 translate spanish d4_58de8faf:
 
     # "I take a bite of it."
-    ""
+    "Le doy un bocado."
 
 # game/d4.rpy:935
 translate spanish d4_f30a6005:
 
     # "Not bad."
-    ""
+    "No está mal."
 
 # game/d4.rpy:936
 translate spanish d4_c8e0cef4:
 
     # m 1b "See?"
-    m 1b ""
+    m 1b "¿Ves?"
 
 # game/d4.rpy:938
 translate spanish d4_cf1adef2:
 
     # mc "Yeah."
-    mc ""
+    mc "Sí."
 
 # game/d4.rpy:939
 translate spanish d4_a20cefa7_4:
 
     # "..."
-    ""
+    "..."
 
 # game/d4.rpy:940
 translate spanish d4_068a3394:
 
     # m 1d "So apparently, I heard that there are schools on boats now."
-    m 1d ""
+    m 1d "Por lo visto ahora hay colegios que están en barcos."
 
 # game/d4.rpy:941
 translate spanish d4_759e9a45:
 
     # m "And they also have tankery clubs where they drive tanks around and shoot things."
-    m ""
+    m "Y tienen clubes de tanques donde van conduciendo tanques y disparando por ahí."
 
 # game/d4.rpy:943
 translate spanish d4_a31340dd:
 
     # mc "Really?"
-    mc ""
+    mc "¿En serio?"
 
 # game/d4.rpy:944
 translate spanish d4_575f36e1:
 
     # m 1k "No, Hehe~ I'm just kidding."
-    m 1k ""
+    m 1k "No, que va, era broma."
 
 # game/d4.rpy:946
 translate spanish d4_75a18929:
 
     # mc "Thank goodness."
-    mc ""
+    mc "Menos mal."
 
 # game/d4.rpy:947
 translate spanish d4_d883c494:
 
     # mc "It sounds like a whacky anime plot."
-    mc ""
+    mc "Eso suena a argumento de anime loco."
 
 # game/d4.rpy:948
 translate spanish d4_7f265377:
 
     # m 1b "Yeah, I just saw a post on Reddit with some anime girls in tanks."
-    m 1b ""
+    m 1b "Sí, lo vi en Reddit, unas chicas de anime en tanques."
 
 # game/d4.rpy:949
 translate spanish d4_5a430203:
 
     # m 1d "Some guy in the comment replies told some other guy the backstory after someone asked for the context."
-    m 1d ""
+    m 1d "Uno en los comentarios le contó la historia a otro que preguntó de qué iba."
 
 # game/d4.rpy:950
 translate spanish d4_9ffbe5fb:
 
     # m 3b "And I think it is actually an anime, it's called...{w=0.5}uh..."
-    m 3b ""
+    m 3b "Y creo que sí que es un anime, se llama... eh..."
 
 # game/d4.rpy:951
 translate spanish d4_9be31396:
 
     # m 1l "...I forgot the name of it!"
-    m 1l ""
+    m 1l "...¡Se me ha olvidado el nombre!"
 
 # game/d4.rpy:953
 translate spanish d4_698d7569:
 
     # mc "Wow."
-    mc ""
+    mc "Vaya."
 
 # game/d4.rpy:954
 translate spanish d4_73a59da2:
 
     # mc "I bet one of the guys in the anime club would know what it is."
-    mc ""
+    mc "Seguro que alguno del club de anime lo sabe."
 
 # game/d4.rpy:955
 translate spanish d4_d9ef34bc:
 
     # m 1b "Probably."
-    m 1b ""
+    m 1b "Seguro."
 
 # game/d4.rpy:956
 translate spanish d4_96fafe85:
 
     # m "I think I'll ask them sometime in class."
-    m ""
+    m "Ya les preguntaré un día en clase."
 
 # game/d4.rpy:957
 translate spanish d4_b4b29195:
 
     # m 3b "But we still have to finish that one idol anime."
-    m 3b ""
+    m 3b "Pero aún tenemos que terminar ese anime de idols."
 
 # game/d4.rpy:959
 translate spanish d4_a0241f40:
 
     # mc "Fair."
-    mc ""
+    mc "Cierto."
 
 # game/d4.rpy:960
 translate spanish d4_a660677d:
 
     # "We munch on our snacks a bit, and watch as people pass by."
-    ""
+    "Picamos un poco y vemos pasar a la gente."
 
 # game/d4.rpy:961
 translate spanish d4_4697ad26:
 
     # mc "Do you know where we have to go next?"
-    mc ""
+    mc "¿Sabes a dónde tenemos que ir ahora?"
 
 # game/d4.rpy:962
 translate spanish d4_278792ae:
 
     # m 1d "Uhh...yeah let me check..."
-    m 1d ""
+    m 1d "Ehh... sí, espera que mire..."
 
 # game/d4.rpy:963
 translate spanish d4_d215ca9d:
 
     # m 1b "Up next is all the sports clubs."
-    m 1b ""
+    m 1b "Ahora tocan todos los clubes de deportes."
 
 # game/d4.rpy:965
 translate spanish d4_e23e4435:
 
     # mc "Sports clubs?"
-    mc ""
+    mc "¿Clubes de deportes?"
 
 # game/d4.rpy:966
 translate spanish d4_2b714256:
 
     # mc "That's gonna be in the gym again right?"
-    mc ""
+    mc "Eso será otra vez en el gimnasio, ¿no?"
 
 # game/d4.rpy:967
 translate spanish d4_b62f8c69:
 
     # m 1d "Should be."
-    m 1d ""
+    m 1d "Se supone que sí."
 
 # game/d4.rpy:968
 translate spanish d4_b260a7ef:
 
     # m "I don't think we're allowed to set up nets and whatnot outside."
-    m ""
+    m "No creo que nos dejen montar redes y esas cosas fuera."
 
 # game/d4.rpy:970
 translate spanish d4_ef729a61:
 
     # mc "Do you want to start going?"
-    mc ""
+    mc "¿Quieres que vayamos ya?"
 
 # game/d4.rpy:971
 translate spanish d4_897b41f4:
 
     # m 1d "Sure."
-    m 1d ""
+    m 1d "Venga, vamos."
 
 # game/d4.rpy:973
 translate spanish d4_5c14dde5:
 
     # "We get up from the bench and make our way back towards the gym."
-    ""
+    "Nos levantamos del banco y volvemos hacia el gimnasio."
 
 # game/d4.rpy:976
 translate spanish d4_161c4382:
 
     # "We retake our spot on the bleachers, and Monika leans up against me."
-    ""
+    "Volvemos a sentarnos en las gradas y Monika se apoya en mí."
 
 # game/d4.rpy:977
 translate spanish d4_e99a300c:
 
     # "Once the gym fills up a bit, the boy's basketball team captain walks out with the girl's team captain."
-    ""
+    "Cuando el gimnasio se va llenando, salen los capitanes de los equipos de baloncesto, el de chicos y la de chicas."
 
 # game/d4.rpy:978
 translate spanish d4_cf613e49:
 
     # "Boys Captain" "\"Thanks everyone for coming!\""
-    "Boys Captain" ""
+    "Capitán chicos" "\"¡Gracias a todos por venir!\""
 
 # game/d4.rpy:979
 translate spanish d4_dfc96ad5:
 
     # "Boys Captain" "\"Let me explain how everything will work.\""
-    "Boys Captain" ""
+    "Capitán chicos" "\"Os explico cómo va a ir esto.\""
 
 # game/d4.rpy:980
 translate spanish d4_ccca8def:
 
     # "Boys Captain" "\"Each team will split in two, and verse each other in one match in their respective sport.\""
-    "Boys Captain" ""
+    "Capitán chicos" "\"Cada equipo se divide en dos y se enfrentan en un partido de su deporte.\""
 
 # game/d4.rpy:981
 translate spanish d4_e9ae456e:
 
     # "Boys Captain" "\"The first one to score on the other side wins.\""
-    "Boys Captain" ""
+    "Capitán chicos" "\"El primero que marque gana.\""
 
 # game/d4.rpy:982
 translate spanish d4_9b281996:
 
     # "Boys Captain" "\"The games will be short, and we'll rotate through each team and sport after each match.\""
-    "Boys Captain" ""
+    "Capitán chicos" "\"Los partidos serán cortos y vamos rotando de equipo y deporte después de cada uno.\""
 
 # game/d4.rpy:983
 translate spanish d4_ba274e51:
 
     # "Girls Captain" "\"Once every team has had a chance to go up against one another, we'll all get together and have a huge game of dodgeball!\""
-    "Girls Captain" ""
+    "Capitana chicas" "\"Cuando todos hayan jugado, haremos un balón prisionero gigante entre todos!\""
 
 # game/d4.rpy:984
 translate spanish d4_185452de:
 
     # "Girls Captain" "\"If anyone wants to participate in that, you can just come down and join in!\""
-    "Girls Captain" ""
+    "Capitana chicas" "\"Si alguien quiere apuntarse, solo tiene que bajar y unirse!\""
 
 # game/d4.rpy:985
 translate spanish d4_011f6c13:
 
     # "Girls Captain" "\"Without further ado, let's get this started!\""
-    "Girls Captain" ""
+    "Capitana chicas" "\"¡Pues nada, vamos a empezar!\""
 
 # game/d4.rpy:986
 translate spanish d4_abfe01b1:
 
     # "The girl's captain runs back into the changing room, and the boys basketball team jogs out and goes to their respective sides."
-    ""
+    "La capitana de las chicas vuelve al vestuario y el equipo de baloncesto de chicos sale y se coloca en su lado."
 
 # game/d4.rpy:987
 translate spanish d4_b3ad3df2:
 
     # "Blue vs Green."
-    ""
+    "Azules contra verdes."
 
 # game/d4.rpy:988
 translate spanish d4_fe6dcc75:
 
     # "The whistle blows, and the teams scramble to get the ball."
-    ""
+    "Suena el silbato y los equipos se lanzan a por el balón."
 
 # game/d4.rpy:989
 translate spanish d4_60b50ca9:
 
     # "Blue manages to snag the ball and run for a score on green."
-    ""
+    "Los azules pillan el balón y corren a marcar a los verdes."
 
 # game/d4.rpy:990
 translate spanish d4_ba6038ad:
 
     # "They miss, and green takes the ball."
-    ""
+    "Fallan y los verdes se hacen con el balón."
 
 # game/d4.rpy:991
 translate spanish d4_dfae51dd:
 
     # "After that, blue fiercely defends the basket, but green gets a longshot in."
-    ""
+    "Luego los azules defienden a muerte, pero los verdes meten un triple desde lejos."
 
 # game/d4.rpy:992
 translate spanish d4_fa08dc88:
 
     # "Sure, it was a 3-pointer, but I don't think that counts as that in this."
-    ""
+    "Bueno, ha sido un triple, pero aquí no creo que cuente como tal."
 
 # game/d4.rpy:993
 translate spanish d4_283804d2:
 
     # "The crowd cheers as green takes the win."
-    ""
+    "El público aplaude cuando ganan los verdes."
 
 # game/d4.rpy:994
 translate spanish d4_73bb6c51:
 
     # "They swap out with the girls team after that, and they also run to their respective sides."
-    ""
+    "Luego les toca a las chicas, que también se colocan en sus sitios."
 
 # game/d4.rpy:995
 translate spanish d4_911dc7e8:
 
     # "Blue vs Green again."
-    ""
+    "Otra vez azules contra verdes."
 
 # game/d4.rpy:996
 translate spanish d4_021a5de7:
 
     # "Once the whistle blows, Monika pokes me."
-    ""
+    "Cuando suena el silbato, Monika me da un codazo."
 
 # game/d4.rpy:998
 translate spanish d4_3aa5e6af:
 
     # m "If you get any ideas [player], I might get a bit jealous~"
-    m ""
+    m "Como te pongas a mirar mucho, igual me pongo celosa, [player]."
 
 # game/d4.rpy:999
 translate spanish d4_4681ce16:
 
     # mc "Don't worry, Monika, I only have eyes for you~"
-    mc ""
+    mc "Tranquila, Monika, que yo solo te miro a ti."
 
 # game/d4.rpy:1000
 translate spanish d4_c1063eef:
 
     # m "Smooth~"
-    m ""
+    m "Qué arte tienes..."
 
 # game/d4.rpy:1003
 translate spanish d4_d5dc0da8:
 
     # "The girls also scrimmage over the ball."
-    ""
+    "Las chicas también se pelean por el balón."
 
 # game/d4.rpy:1004
 translate spanish d4_bb3463cd:
 
     # "They lunge at it, and take it from under the other team."
-    ""
+    "Se lanzan a por él y se lo quitan a las otras."
 
 # game/d4.rpy:1005
 translate spanish d4_2a2bc754:
 
     # "The match ends with a fast victory for the blue team."
-    ""
+    "El partido acaba rápido con victoria para las azules."
 
 # game/d4.rpy:1006
 translate spanish d4_65ab300b:
 
     # "As that ends, both volleyball teams come out, and start going at it."
-    ""
+    "Cuando termina, salen los equipos de voleibol y se ponen a jugar."
 
 # game/d4.rpy:1007
 translate spanish d4_052ba0b0:
 
     # "They play without a net, and just boys vs girls."
-    ""
+    "Juegan sin red, chicos contra chicas."
 
 # game/d4.rpy:1008
 translate spanish d4_3e7f90ed:
 
     # "They treat it though as if there actually was a net there."
-    ""
+    "Pero lo hacen como si hubiera una red de verdad."
 
 # game/d4.rpy:1009
 translate spanish d4_24093027:
 
     # "One of the girls manage to land a spike as they score a point."
-    ""
+    "Una de las chicas mete un remate y marca punto."
 
 # game/d4.rpy:1010
 translate spanish d4_c9ec4f0e:
 
     # "They take the win, but it's pretty clear the guys weren't trying too hard."
-    ""
+    "Ganan ellas, pero se nota que los chicos no se han esforzado mucho."
 
 # game/d4.rpy:1011
 translate spanish d4_d3b97831:
 
     # "Everyone's pretty excited to start the dodgeball game, and as they bring the ball into the storage room, they carry out a large bag full of dodgeballs."
-    ""
+    "Todo el mundo está deseando jugar al balón prisionero, y cuando guardan el balón, sacan una bolsa enorme llena de pelotas."
 
 # game/d4.rpy:1012
 translate spanish d4_2c5de2e7:
 
     # "They also bring out some large mats."
-    ""
+    "También sacan unas colchonetas grandes."
 
 # game/d4.rpy:1013
 translate spanish d4_f8fd044f:
 
     # "The volleyball captain speaks up."
-    ""
+    "El capitán de voleibol toma la palabra."
 
 # game/d4.rpy:1014
 translate spanish d4_7a6944ab:
 
     # "Volleyball Captain" "\"We're doing a version with cover as well to make it more challenging!\""
-    "Volleyball Captain" ""
+    "Capitán voleibol" "\"Vamos a jugar con coberturas para que sea más difícil!\""
 
 # game/d4.rpy:1015
 translate spanish d4_2d92293a:
 
     # "Volleyball Captain" "\"But once you knock a mat down, it stays down!\""
-    "Volleyball Captain" ""
+    "Capitán voleibol" "\"Si tiras una colchoneta, se queda en el suelo!\""
 
 # game/d4.rpy:1016
 translate spanish d4_5d050137:
 
     # "Volleyball Captain" "\"If you get hit, you are to lie down on the floor and play dead.\""
-    "Volleyball Captain" ""
+    "Capitán voleibol" "\"Si te dan, te tumbas en el suelo y te haces el muerto.\""
 
 # game/d4.rpy:1017
 translate spanish d4_990ceccd:
 
     # "Volleyball Captain" "\"You guys know the rest of the rules.\""
-    "Volleyball Captain" ""
+    "Capitán voleibol" "\"El resto de normas ya os las sabéis.\""
 
 # game/d4.rpy:1018
 translate spanish d4_c8c0a448:
 
     # "Volleyball Captain" "\"Alright! Let's go, everyone!\""
-    "Volleyball Captain" ""
+    "Capitán voleibol" "\"¡Venga, vamos allá!\""
 
 # game/d4.rpy:1019
 translate spanish d4_ade36e97:
 
     # "Volleyball Captain" "\"Split up boys vs girls.\""
-    "Volleyball Captain" ""
+    "Capitán voleibol" "\"Chicos contra chicas.\""
 
 # game/d4.rpy:1022
 translate spanish d4_a9ba0d1f:
 
     # "I look at Monika."
-    ""
+    "Miro a Monika."
 
 # game/d4.rpy:1025
 translate spanish d4_6fb04d89:
 
     # mc "Wanna go?"
-    mc ""
+    mc "¿Te animas?"
 
 # game/d4.rpy:1026
 translate spanish d4_bc2021fa:
 
     # m 3k "Yeah I do!"
-    m 3k ""
+    m 3k "¡Claro que sí!"
 
 # game/d4.rpy:1027
 translate spanish d4_cb73dbd0:
 
     # m forward lpoint rdown sedu om oe "Get ready to be decimated!"
-    m forward lpoint rdown sedu om oe ""
+    m forward lpoint rdown sedu om oe "¡Prepárate para que te arrase!"
 
 # game/d4.rpy:1029
 translate spanish d4_9948c917:
 
     # mc "Not if I can help it."
-    mc ""
+    mc "Eso será si yo te dejo."
 
 # game/d4.rpy:1032
 translate spanish d4_feeaa1ab:
 
     # "I take off my blazer and vest, and Monika does the same."
-    ""
+    "Me quito la chaqueta y el chaleco, y Monika hace lo mismo."
 
 # game/d4.rpy:1033
 translate spanish d4_f47282a7:
