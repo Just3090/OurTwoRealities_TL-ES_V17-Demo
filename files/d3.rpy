@@ -418,7 +418,7 @@ translate spanish d3_5b79fba9:
 translate spanish d3_83b5041f:
 
     # "{i}What will it take,{w=0.5} just to find that special day~{/i}"
-    "{i}Qué hará falta para encontrar ese día tan especial{/i}"
+    "{i}What will it take,{w=0.5} just to find that special day{/i}"
 
 # game/d3.rpy:117
 translate spanish d3_aa53fc06:
