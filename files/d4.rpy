@@ -16,7 +16,7 @@ translate spanish d4_6762f8fc:
 translate spanish d4_4bb848f7:
 
     # "Monika slowly opens her eyes, and groans a bit."
-    "Monika abre los ojos poco a poco y gruñe un poco."
+    "Monika abre los ojos poco a poco y gruñe un pelín."
 
 # game/d4.rpy:29
 translate spanish d4_e6682bec:
@@ -28,7 +28,7 @@ translate spanish d4_e6682bec:
 translate spanish d4_1275ec6e:
 
     # m "Mmmmmm...let's just stay like this..."
-    m "Mmmmmm... vamos a quedarnos así un rato..."
+    m "Mmmm... vamos a quedarnos así un rato..."
 
 # game/d4.rpy:35
 translate spanish d4_99277a88:
@@ -40,7 +40,7 @@ translate spanish d4_99277a88:
 translate spanish d4_9ffc5c12:
 
     # m "Mmmmmmmmmmmm....."
-    m "Mmmmmmmmmmmm....."
+    m "Mmmm....."
 
 # game/d4.rpy:39
 translate spanish d4_2d8ce0b7:
@@ -154,7 +154,7 @@ translate spanish d4_d265d482:
 translate spanish d4_88f89b2c:
 
     # "{i}*ping*{/i}"
-    "{i}*ping*{/i}"
+    "{b}*ping*{/b}"
 
 # game/d4.rpy:69
 translate spanish d4_e97230f5:
@@ -178,7 +178,7 @@ translate spanish d4_e3bf307a:
 translate spanish d4_88f89b2c_1:
 
     # "{i}*ping*{/i}"
-    "{i}*ping*{/i}"
+    "{b}*ping*{/b}"
 
 # game/d4.rpy:73
 translate spanish d4_26e81ee6:
@@ -208,7 +208,7 @@ translate spanish d4_71909ccb:
 translate spanish d4_ba2bfe45:
 
     # m "Ooh~"
-    m "Ohhh"
+    m "Ohhh..."
 
 # game/d4.rpy:79
 translate spanish d4_49ffc14e:
@@ -226,7 +226,7 @@ translate spanish d4_fccae559:
 translate spanish d4_a89cbe3f:
 
     # mc "Ahaha!"
-    mc "¡Jajaja!"
+    mc "¡Ja, ja, ja!"
 
 # game/d4.rpy:83
 translate spanish d4_1b0b8a38:
@@ -238,7 +238,7 @@ translate spanish d4_1b0b8a38:
 translate spanish d4_a7844ccd:
 
     # m 3k "Haha!{w=0.5} Yeah, it would be!"
-    m 3k "¡Jaja! ¡Totalmente!"
+    m 3k "¡Ja, ja! ¡Totalmente!"
 
 # game/d4.rpy:86
 translate spanish d4_a8f3a11c:
@@ -310,7 +310,7 @@ translate spanish d4_cdf93508:
 translate spanish d4_be0526b1:
 
     # m "Morning!"
-    m "¡Buenos días!"
+    m "¡Buenas!"
 
 # game/d4.rpy:114
 translate spanish d4_da1c9d87:
@@ -394,7 +394,7 @@ translate spanish d4_339913ac:
 translate spanish d4_5a7b603f:
 
     # s 5b "Yeah..."
-    s 5b "Ya..."
+    s 5b "Je, je..."
 
 # game/d4.rpy:145
 translate spanish d4_7702f2b3:
@@ -412,7 +412,7 @@ translate spanish d4_ae31ede1:
 translate spanish d4_f774cd16:
 
     # "We continue on our way to school."
-    "Seguimos nuestro camino al cole."
+    "Seguimos nuestro camino al insti."
 
 # game/d4.rpy:150
 translate spanish d4_dac385af:
@@ -838,13 +838,13 @@ translate spanish d4_12db8f65:
 translate spanish d4_dc671bdd:
 
     # "I'm not expecting too many to show up,{w=0.5} so-{nw}"
-    "No espero que venga mucha gente, así que—"
+    "No espero que venga mucha gente, así que..."
 
 # game/d4.rpy:276
 translate spanish d4_49a34fc9:
 
     # "Girl 1" "\"...Hello!{w=0.5} Is this the literature club?\""
-    "Chica 1" "\"...¡Hola! ¿Este es el club de literatura?\""
+    "Chica 1" "\"¡Hola! ¿Este es el club de literatura?\""
 
 # game/d4.rpy:278
 translate spanish d4_c5bea387:
@@ -910,7 +910,7 @@ translate spanish d4_f092580a:
 translate spanish d4_90de9c4d:
 
     # m "Okay, everyone!"
-    m "¡Bueno, chicos!"
+    m "¡Vale, compis!"
 
 # game/d4.rpy:292
 translate spanish d4_6d12bcfa:
@@ -1018,91 +1018,91 @@ translate spanish d4_7ff429a4:
 translate spanish d4_0efe2cac:
 
     # m 1b "Colored lights like a christmas tree."
-    m 1b "Luces de colores como un árbol de Navidad."
+    m 1b "{i}Luces de colores como un árbol de Navidad.{/i}"
 
 # game/d4.rpy:314
 translate spanish d4_f031e5f7:
 
     # m "Little balls of sunshine glimmering about."
-    m "Bolas pequeñitas de sol brillando por ahí."
+    m "{i}Bolas pequeñitas de sol brillando por ahí.{/i}"
 
 # game/d4.rpy:315
 translate spanish d4_ed93f457:
 
     # m 3k "Not one cloud around."
-    m 3k "Ni una sola nube en el cielo."
+    m 3k "{i}Ni una sola nube en el cielo.{/i}"
 
 # game/d4.rpy:316
 translate spanish d4_326b0d02:
 
     # m 3d "Four and five step inside."
-    m 3d "Cuatro y cinco entran en la sala."
+    m 3d "{i}Cuatro y cinco entran en la sala.{/i}"
 
 # game/d4.rpy:317
 translate spanish d4_783607c1:
 
     # m 1b "Bringing in a world yet unknown."
-    m 1b "Trayendo un mundo que aún no conozco."
+    m 1b "{i}Trayendo un mundo que aún no conozco.{/i}"
 
 # game/d4.rpy:318
 translate spanish d4_245152c9:
 
     # m 1r "I sit there achingly,"
-    m 1r "Me quedo ahí sentada, con ganas,"
+    m 1r "{i}Me quedo ahí sentada, con ganas,{/i}"
 
 # game/d4.rpy:319
 translate spanish d4_000cc331:
 
     # m 1i "Knowing it's not yet done."
-    m 1i "Sabiendo que aún no está terminado."
+    m 1i "{i}sabiendo que aún no está terminado.{/i}"
 
 # game/d4.rpy:320
 translate spanish d4_96c843ee:
 
     # m 3p "Even if I see them all,"
-    m 3p "Aunque los vea a todos,"
+    m 3p "{i}Aunque los vea a todos,{/i}"
 
 # game/d4.rpy:321
 translate spanish d4_f04f13ad:
 
     # m 1r "There is still but one."
-    m 1r "Todavía queda uno."
+    m 1r "{i}todavía queda uno.{/i}"
 
 # game/d4.rpy:322
 translate spanish d4_7d25b850:
 
     # m 1d "The cut through paper sits on my desk."
-    m 1d "El corte en el papel está sobre mi mesa."
+    m 1d "{i}El corte en el papel está sobre mi mesa.{/i}"
 
 # game/d4.rpy:323
 translate spanish d4_df263cb6:
 
     # m "Like a king in check."
-    m "Como un rey acorralado."
+    m "{i}Como un rey acorralado.{/i}"
 
 # game/d4.rpy:324
 translate spanish d4_3f4b4d2c:
 
     # m 1n "I want to tear it."
-    m 1n "Quiero romperlo."
+    m 1n "{i}Quiero romperlo.{/i}"
 
 # game/d4.rpy:325
 translate spanish d4_23b0c74e:
 
     # m 1b "Let it be wide enough for me to go through."
-    m 1b "Que sea lo bastante grande para poder pasar."
+    m 1b "{i}Que sea lo bastante grande para poder pasar.{/i}"
 
 # game/d4.rpy:326
 translate spanish d4_0d2da461:
 
     # m 3r "Yet when I do,"
-    m 3r "Pero cuando lo hago,"
+    m 3r "{i}Pero cuando lo hago,{/i}"
 
 # game/d4.rpy:327
 translate spanish d4_3dc45d6a:
 
     # m 1r "I still hurt you."
-    m 1r "Sigo haciéndote daño."
+    m 1r "{i}sigo haciéndote daño.{/i}"
 
 # game/d4.rpy:329
 translate spanish d4_e612037c:
@@ -1144,43 +1144,43 @@ translate spanish d4_0f11f5a2:
 translate spanish d4_33d95567:
 
     # s 1b "Waking in the morning, with not a word to say."
-    s 1b "Me despierto por la mañana, sin nada que decir."
+    s 1b "{i}Me despierto por la mañana, sin nada que decir.{/i}"
 
 # game/d4.rpy:346
 translate spanish d4_8da077f7:
 
     # s 1x "From my house into the world, going about my day."
-    s 1x "Salgo de casa al mundo, a lo que toque hoy."
+    s 1x "{i}Salgo de casa al mundo, a lo que toque hoy.{/i}"
 
 # game/d4.rpy:347
 translate spanish d4_d8ae260a:
 
     # s 2x "I might seem courageous, but once the sun goes down,"
-    s 2x "Parezco valiente, pero cuando se pone el sol,"
+    s 2x "{i}Parezco valiente, pero cuando se pone el sol,{/i}"
 
 # game/d4.rpy:348
 translate spanish d4_ae80dc02:
 
     # s 3r "You'll find I'm the laziest person around."
-    s 3r "Verás que soy la más perezosa de todas."
+    s 3r "{i}verás que soy la más perezosa de todas.{/i}"
 
 # game/d4.rpy:349
 translate spanish d4_2a47176d:
 
     # s 1x "Skies above the city, shining against the clouds."
-    s 1x "El cielo sobre la ciudad, brillando entre las nubes."
+    s 1x "{i}El cielo sobre la ciudad, brillando entre las nubes.{/i}"
 
 # game/d4.rpy:350
 translate spanish d4_972714db:
 
     # s 2b "Planes are roaring up above, right under the shroud."
-    s 2b "Aviones rugiendo arriba, justo bajo el manto de nubes."
+    s 2b "{i}Aviones rugiendo arriba, justo bajo el manto de nubes.{/i}"
 
 # game/d4.rpy:351
 translate spanish d4_3d6bb396:
 
     # s 1b "I write up my poem, leaning against the trees."
-    s 1b "Escribo mi poema apoyada en los árboles."
+    s 1b "{i}Escribo mi poema apoyada en los árboles.{/i}"
 
 # game/d4.rpy:352
 translate spanish d4_c128c67b:
@@ -1192,43 +1192,43 @@ translate spanish d4_c128c67b:
 translate spanish d4_e5b13a46:
 
     # s 2x "Are you grilling fish? Somehow I can tell..."
-    s 2x "¿Estás asando pescado? No sé cómo, pero lo noto..."
+    s 2x "{i}¿Estás asando pescado? No sé cómo, pero lo noto...{/i}"
 
 # game/d4.rpy:354
 translate spanish d4_d2ba469b:
 
     # s 1x "Is that for dinner? What a lovely smell..."
-    s 1x "¿Es para cenar? Qué bien huele..."
+    s 1x "{i}¿Es para cenar? Qué bien huele...{/i}"
 
 # game/d4.rpy:355
 translate spanish d4_42e6482c:
 
     # s 2l "Hear my tummy rumble... It's crying out for food."
-    s 2l "Mi tripa ruge... está pidiendo comida."
+    s 2l "{i}Mi tripa ruge... está pidiendo comida.{/i}"
 
 # game/d4.rpy:356
 translate spanish d4_fcf113bc:
 
     # s 1x "I don't wanna bother you, I'm just in the mood."
-    s 1x "No quiero molestar, es que me ha entrado el hambre."
+    s 1x "{i}No quiero molestar, es que me ha entrado el hambre.{/i}"
 
 # game/d4.rpy:357
 translate spanish d4_061fb055:
 
     # s 3l "Why am I so stubborn? Why do I cry and moan?"
-    s 3l "¿Por qué soy tan cabezota? ¿Por qué me quejo y lloro?"
+    s 3l "{i}¿Por qué soy tan cabezota? ¿Por qué me quejo y lloro?{/i}"
 
 # game/d4.rpy:358
 translate spanish d4_58aff6c6:
 
     # s 1x "There's one thing I want right now:"
-    s 1x "Solo quiero una cosa ahora mismo:"
+    s 1x "{i}Solo quiero una cosa ahora mismo:{/i}"
 
 # game/d4.rpy:359
 translate spanish d4_1316f744:
 
     # s 4r "I wanna go home!"
-    s 4r "¡Quiero irme a casa!"
+    s 4r "{i}¡Quiero irme a casa!{/i}"
 
 # game/d4.rpy:361
 translate spanish d4_e1554201:
@@ -1282,115 +1282,115 @@ translate spanish d4_50b13177:
 translate spanish d4_e41a9191:
 
     # y 1h "A marvel millions of years in the making."
-    y 1h "Una maravilla que lleva millones de años formándose."
+    y 1h "{i}Una maravilla que lleva millones de años formándose.{/i}"
 
 # game/d4.rpy:381
 translate spanish d4_7a31086b:
 
     # y 2f "Where the womb of Earth chaotically meets the surface."
-    y 2f "Donde el vientre de la Tierra choca caóticamente con la superficie."
+    y 2f "{i}Donde el vientre de la Tierra choca caóticamente con la superficie.{/i}"
 
 # game/d4.rpy:382
 translate spanish d4_a7b1dd13:
 
     # y 2b "Under a clear blue sky, an expanse of bliss--"
-    y 2b "Bajo un cielo azul, una extensión de felicidad—"
+    y 2b "{i}Bajo un cielo azul, una extensión de felicidad...{/i}"
 
 # game/d4.rpy:383
 translate spanish d4_204a4f42:
 
     # y 1h "But beneath gray rolling clouds, an endless enigma."
-    y 1h "Pero bajo nubes grises y rodantes, un enigma sin fin."
+    y 1h "{i}Pero bajo nubes grises y rodantes, un enigma sin fin.{/i}"
 
 # game/d4.rpy:384
 translate spanish d4_73f25476:
 
     # y 2k "The easiest world to get lost in"
-    y 2k "El mundo más fácil en el que perderse"
+    y 2k "{i}El mundo más fácil en el que perderse,{/i}"
 
 # game/d4.rpy:385
 translate spanish d4_165d97b2:
 
     # y 1j "Is one where everything can be found."
-    y 1j "Es aquel donde se puede encontrar de todo."
+    y 1j "{i}es aquel donde se puede encontrar de todo.{/i}"
 
 # game/d4.rpy:386
 translate spanish d4_a7e6a47f:
 
     # y 1b "One can only build a sand castle where the sand is wet."
-    y 1b "Solo se puede hacer un castillo de arena donde la arena está mojada."
+    y 1b "{i}Solo se puede hacer un castillo de arena donde la arena está mojada.{/i}"
 
 # game/d4.rpy:387
 translate spanish d4_e95625c2:
 
     # y "But where the sand is wet, the tide comes."
-    y "Pero donde la arena está mojada, llega la marea."
+    y "{i}Pero donde la arena está mojada, llega la marea.{/i}"
 
 # game/d4.rpy:388
 translate spanish d4_f865fe0e:
 
     # y 2b "Will it gently lick at your foundations until you give in?"
-    y 2b "¿La marea irá lamiendo los cimientos hasta que cedas?"
+    y 2b "{i}¿La marea irá lamiendo los cimientos hasta que cedas?{/i}"
 
 # game/d4.rpy:389
 translate spanish d4_cbef71dc:
 
     # y 3r "Or will a sudden wave send you crashing down in the blink of an eye?"
-    y 3r "¿O una ola repentina lo tirará todo abajo en un segundo?"
+    y 3r "{i}¿O una ola repentina lo tirará todo abajo en un segundo?{/i}"
 
 # game/d4.rpy:390
 translate spanish d4_a535ebee:
 
     # y 1k "Either way, the outcome is the same."
-    y 1k "De una forma u otra, el final es el mismo."
+    y 1k "{i}De una forma u otra, el final es el mismo.{/i}"
 
 # game/d4.rpy:391
 translate spanish d4_be18f0cb:
 
     # y 1b "Yet we still build sand castles."
-    y 1b "Aun así, seguimos haciendo castillos de arena."
+    y 1b "{i}Aun así, seguimos haciendo castillos de arena.{/i}"
 
 # game/d4.rpy:392
 translate spanish d4_d8310c4b:
 
     # y "I stand where the foam wraps around my ankles."
-    y "Me quedo donde la espuma rodea mis tobillos."
+    y "{i}Me quedo donde la espuma rodea mis tobillos.{/i}"
 
 # game/d4.rpy:393
 translate spanish d4_dc755a31:
 
     # y 1j "Where my toes squish into the sand."
-    y 1j "Donde los dedos de mis pies se hunden en la arena."
+    y 1j "{i}Donde los dedos de mis pies se hunden en la arena.{/i}"
 
 # game/d4.rpy:394
 translate spanish d4_d32e6647:
 
     # y "The salty air is therapeutic."
-    y "El aire salado es terapéutico."
+    y "{i}El aire salado es terapéutico.{/i}"
 
 # game/d4.rpy:395
 translate spanish d4_eea39225:
 
     # y "The breeze is gentle, yet powerful."
-    y "La brisa es suave, pero poderosa."
+    y "{i}La brisa es suave, pero poderosa.{/i}"
 
 # game/d4.rpy:396
 translate spanish d4_97210109:
 
     # y 1l "I sink my toes into the ultimate boundary line, tempted by the foamy tendrils."
-    y 1l "Hundo los pies en la última frontera, tentada por los hilos de espuma."
+    y 1l "{i}Hundo los pies en la última frontera, tentada por los hilos de espuma.{/i}"
 
 # game/d4.rpy:397
 translate spanish d4_a59e6c1d:
 
     # y 1b "Turn back, and I abandon my peace to erode at the shore."
-    y 1b "Si me doy la vuelta, dejo que mi calma se desgaste en la orilla."
+    y 1b "{i}Si me doy la vuelta, dejo que mi calma se desgaste en la orilla.{/i}"
 
 # game/d4.rpy:398
 translate spanish d4_2c2fc400:
 
     # y "Drift forward, and I return to Earth forevermore."
-    y "Si avanzo, vuelvo a la tierra para siempre."
+    y "{i}Si avanzo, vuelvo a la tierra para siempre.{/i}"
 
 # game/d4.rpy:400
 translate spanish d4_71a86863:
@@ -1432,73 +1432,73 @@ translate spanish d4_ed316ca0:
 translate spanish d4_89be5221:
 
     # p 1c "I once heard an old man say,"
-    p 1c "Una vez oí a un hombre mayor decir,"
+    p 1c "{i}Una vez oí a un hombre mayor decir,{/i}"
 
 # game/d4.rpy:417
 translate spanish d4_6bc4ac8d:
 
     # p "Shaping vases out of clay"
-    p "Moldeando jarrones de barro"
+    p "{i}moldeando jarrones de barro{/i}"
 
 # game/d4.rpy:418
 translate spanish d4_6df2ef21:
 
     # p "Into subtle forms sublime,"
-    p "En formas sutiles y sublimes,"
+    p "{i}en formas sutiles y sublimes,{/i}"
 
 # game/d4.rpy:419
 translate spanish d4_c37b221a:
 
     # p "'Listen, son, good things take time.'"
-    p "'Escucha, hijo, las cosas buenas llevan su tiempo.'"
+    p "{i}'Escucha, hijo, las cosas buenas llevan su tiempo.'{/i}"
 
 # game/d4.rpy:420
 translate spanish d4_5e3770cd:
 
     # p 2c "All my life I've thought of this"
-    p 2c "Toda mi vida he pensado en esto"
+    p 2c "{i}Toda mi vida he pensado en esto{/i}"
 
 # game/d4.rpy:421
 translate spanish d4_28807230:
 
     # p 1c "When a task was lacking bliss,"
-    p 1c "Cuando una tarea no me hacía ilusión,"
+    p 1c "{i}Cuando una tarea no me hacía ilusión,{/i}"
 
 # game/d4.rpy:422
 translate spanish d4_b767506a:
 
     # p 1d "When the work seemed awfully tough"
-    p 1d "Cuando el trabajo se me hacía cuesta arriba"
+    p 1d "{i}cuando el trabajo se me hacía cuesta arriba{/i}"
 
 # game/d4.rpy:423
 translate spanish d4_a382ffae:
 
     # p "And I thought I'd had enough."
-    p "Y pensaba que ya no podía más."
+    p "{i}y pensaba que ya no podía más.{/i}"
 
 # game/d4.rpy:424
 translate spanish d4_f3bd41aa:
 
     # p 2c "So I'd give a little more"
-    p 2c "Así que le echaba un poco más de ganas"
+    p 2c "{i}Así que le echaba un poco más de ganas.{/i}"
 
 # game/d4.rpy:425
 translate spanish d4_90e24193:
 
     # p 1c "To what sometimes seemed a chore;"
-    p 1c "A eso que a veces parecía un marrón;"
+    p 1c "{i}A eso que a veces parecía un marrón;{/i}"
 
 # game/d4.rpy:426
 translate spanish d4_ce55a39e:
 
     # p "And, you know, without a doubt,"
-    p "Y, ya ves, sin ninguna duda,"
+    p "{i}y, ya ves, sin ninguna duda.{/i}"
 
 # game/d4.rpy:427
 translate spanish d4_4bea436e:
 
     # p 1k "Good things always came about."
-    p 1k "Al final, siempre llegaban cosas buenas."
+    p 1k "{i}Al final, siempre llegaban cosas buenas.{/i}"
 
 # game/d4.rpy:429
 translate spanish d4_a20cefa7_1:
@@ -1534,163 +1534,163 @@ translate spanish d4_799b7d3a:
 translate spanish d4_132d2244:
 
     # n "Your mind is so full of troubles and fears"
-    n "Tu cabeza está llena de líos y miedos"
+    n "{i}Tu cabeza está llena de líos y miedos.{/i}"
 
 # game/d4.rpy:446
 translate spanish d4_d52847c0:
 
     # n "That diminished your wonder over the years"
-    n "Que han ido apagando tu ilusión con los años"
+    n "{i}Que han ido apagando tu ilusión con los años{/i}"
 
 # game/d4.rpy:447
 translate spanish d4_f8adbaa9:
 
     # n 1d "But today I have a special place"
-    n 1d "Pero hoy tengo un sitio especial"
+    n 1d "{i}Pero hoy tengo un sitio especial{/i}"
 
 # game/d4.rpy:448
 translate spanish d4_5e5800c4:
 
     # n "A beach for us to go."
-    n "Una playa a la que ir juntos."
+    n "{i}una playa a la que ir juntos.{/i}"
 
 # game/d4.rpy:449
 translate spanish d4_036794ee:
 
     # n "A shore reaching beyond your sight"
-    n "Una orilla que se pierde más allá de donde ves"
+    n "{i}Una orilla que se pierde más allá de donde ves{/i}"
 
 # game/d4.rpy:450
 translate spanish d4_a82eb47e:
 
     # n 5z "A sea that sparkles with brilliant light"
-    n 5z "Un mar que brilla con una luz increíble"
+    n 5z "{i}un mar que brilla con una luz increíble{/i}"
 
 # game/d4.rpy:451
 translate spanish d4_97e66602:
 
     # n 1d "The walls in your mind will melt away"
-    n 1d "Los muros de tu mente se desharán"
+    n 1d "{i}sos muros de tu mente se desharán{/i}"
 
 # game/d4.rpy:452
 translate spanish d4_5871a0e9:
 
     # n "Before the sunny glow."
-    n "Con el calorcito del sol."
+    n "{i}con el calorcito del sol.{/i}"
 
 # game/d4.rpy:453
 translate spanish d4_cd24900e:
 
     # n 2d "I'll be the beach that washes your worries away"
-    n 2d "Seré la playa que se lleve tus preocupaciones"
+    n 2d "{i}Seré la playa que se lleve tus preocupaciones,{/i}"
 
 # game/d4.rpy:454
 translate spanish d4_380ea27e:
 
     # n 4d "I'll be the beach that you daydream about each day"
-    n 4d "Seré la playa con la que sueñas despierto cada día"
+    n 4d "{i}seré la playa con la que sueñas despierto cada día,{/i}"
 
 # game/d4.rpy:455
 translate spanish d4_1f68067c:
 
     # n 1z "I'll be the beach that makes your heart leap"
-    n 1z "Seré la playa que te hace saltar el corazón"
+    n 1z "{i}seré la playa que te hace saltar el corazón,{/i}"
 
 # game/d4.rpy:456
 translate spanish d4_b9b3d706:
 
     # n 1b "In a way you thought had left you long ago."
-    n 1b "Como pensabas que ya no te pasaría nunca más."
+    n 1b "{i}como pensabas que ya no te pasaría nunca más.{/i}"
 
 # game/d4.rpy:457
 translate spanish d4_77ae8d01:
 
     # n 2d "Let's bury your heavy thoughts in a pile of sand"
-    n 2d "Vamos a enterrar tus malos rollos en la arena"
+    n 2d "{i}Vamos a enterrar tus malos rollos en la arena,{/i}"
 
 # game/d4.rpy:458
 translate spanish d4_e1b322b6:
 
     # n 1l "Bathe in sunbeams and hold my hand"
-    n 1l "Báñate en los rayos del sol y dame la mano"
+    n 1l "{i}báñate en los rayos del sol y dame la mano,{/i}"
 
 # game/d4.rpy:459
 translate spanish d4_12063ba1:
 
     # n 1d "Wash your insecurities in the salty sea"
-    n 1d "Lava tus inseguridades en el mar salado"
+    n 1d "{i}lava tus inseguridades en el mar salado,{/i}"
 
 # game/d4.rpy:460
 translate spanish d4_a4c68c59:
 
     # n "And let me see you shine."
-    n "Y déjame verte brillar."
+    n "{i}y déjame verte brillar.{/i}"
 
 # game/d4.rpy:461
 translate spanish d4_37bca1be:
 
     # n 2d "Let's leave your memories in a footprint trail"
-    n 2d "Dejemos tus recuerdos en una hilera de huellas"
+    n 2d "{i}Dejemos tus recuerdos en una hilera de huellas,{/i}"
 
 # game/d4.rpy:462
 translate spanish d4_952bf263:
 
     # n 4z "Set you free in my windy sail"
-    n 4z "Déjate llevar por mi vela al viento"
+    n 4z "{i}déjate llevar por mi vela al viento,{/i}"
 
 # game/d4.rpy:463
 translate spanish d4_6fc449a3:
 
     # n 1l "And remember the reasons you're wonderful"
-    n 1l "Y acuérdate de por qué eres genial"
+    n 1l "{i}y acuérdate de por qué eres genial,{/i}"
 
 # game/d4.rpy:464
 translate spanish d4_5fdd09e1:
 
     # n 5t "When you press your lips to mine."
-    n 5t "Cuando tus labios se junten con los míos."
+    n 5t "{i}cuando tus labios se junten con los míos.{/i}"
 
 # game/d4.rpy:465
 translate spanish d4_cd24900e_1:
 
     # n 2d "I'll be the beach that washes your worries away"
-    n 2d "Seré la playa que se lleve tus preocupaciones"
+    n 2d "{i}Seré la playa que se lleve tus preocupaciones,{/i}"
 
 # game/d4.rpy:466
 translate spanish d4_380ea27e_1:
 
     # n 4d "I'll be the beach that you daydream about each day"
-    n 4d "Seré la playa con la que sueñas despierto cada día"
+    n 4d "{i}seré la playa con la que sueñas despierto cada día,{/i}"
 
 # game/d4.rpy:467
 translate spanish d4_1f68067c_1:
 
     # n 1z "I'll be the beach that makes your heart leap"
-    n 1z "Seré la playa que te hace saltar el corazón"
+    n 1z "{i}seré la playa que te hace saltar el corazón,{/i}"
 
 # game/d4.rpy:468
 translate spanish d4_b9b3d706_1:
 
     # n 1b "In a way you thought had left you long ago."
-    n 1b "Como pensabas que ya no te pasaría nunca más."
+    n 1b "{i}como pensabas que ya no te pasaría nunca más.{/i}"
 
 # game/d4.rpy:469
 translate spanish d4_ebd13524:
 
     # n 1d "But if you let me by your side"
-    n 1d "Pero si me dejas estar a tu lado"
+    n 1d "{i}Pero si me dejas estar a tu lado,{/i}"
 
 # game/d4.rpy:470
 translate spanish d4_3a0cd0d4:
 
     # n "Your own beach, your own escape"
-    n "Tendrás tu propia playa, tu propio refugio"
+    n "{i}tendrás tu propia playa, tu propio refugio.{/i}"
 
 # game/d4.rpy:471
 translate spanish d4_60499311:
 
     # n 1z "You'll learn to love yourself again."
-    n 1z "Volverás a quererte otra vez."
+    n 1z "{i}Volverás a quererte otra vez.{/i}"
 
 # game/d4.rpy:472
 translate spanish d4_d7cf02c2:
@@ -1762,7 +1762,7 @@ translate spanish d4_11464b55:
 translate spanish d4_90de9c4d_1:
 
     # m "Okay, everyone!"
-    m "¡Bueno, chicos!"
+    m "¡Vale, compis!"
 
 # game/d4.rpy:500
 translate spanish d4_01db03aa:
@@ -1918,7 +1918,7 @@ translate spanish d4_c6004aaa:
 translate spanish d4_feb04bea:
 
     # s "Yeahhh! I had so much fun!"
-    s "¡Siiii! ¡Me lo he pasado genial!"
+    s "¡Siii! ¡Me lo he pasado genial!"
 
 # game/d4.rpy:545
 translate spanish d4_90892ec8:
@@ -1990,7 +1990,7 @@ translate spanish d4_697beb79_1:
 translate spanish d4_c6e2d3ea:
 
     # m 5a "We'll have to do this again then, hehe~!"
-    m 5a "¡Pues habrá que repetir, jeje!"
+    m 5a "¡Pues habrá que repetir, je, je!"
 
 # game/d4.rpy:573
 translate spanish d4_e719ebca:
@@ -2140,7 +2140,7 @@ translate spanish d4_4ef7bd82:
 translate spanish d4_1be975a0:
 
     # m "It's funny, one time for a subject we chose to have a debate on whether or not soup was a drink."
-    m "Una vez, en clase, debatimos sobre si la sopa era una bebida o no. Tela."
+    m "Una vez, en clase, debatimos sobre si la sopa era una bebida o no."
 
 # game/d4.rpy:752
 translate spanish d4_6914ae5f:
@@ -2362,7 +2362,7 @@ translate spanish d4_8bd96443:
 translate spanish d4_729e5930:
 
     # "Intern" "\"H-{w=0.1}Hello!{w=0.5} Would you like to buy some jelly filled do-{w=0.5} I mean, onigiri?\""
-    "Becario" "\"H-{w=0.1}¡Hola!{w=0.5} ¿Queréis comprar unos bollos rellenos de me... digo, onigiris?\""
+    "Becario" "\"¡H-{w=0.1}Hola!{w=0.5} ¿Queréis comprar unos bollos rellenos de mer... digo, onigiris?\""
 
 # game/d4.rpy:805
 translate spanish d4_e04ab41e:
@@ -2374,7 +2374,7 @@ translate spanish d4_e04ab41e:
 translate spanish d4_862839a0:
 
     # "Intern" "\"Okay!{w=0.5} That'll be 4 dollars please!\""
-    "Becario" "\"¡Vale!{w=0.5} Son 4 dólares, por favor.\""
+    "Becario" "\"¡Vale!{w=0.5} Son 4 euros, por favor.\""
 
 # game/d4.rpy:807
 translate spanish d4_08ad240c:
@@ -2584,7 +2584,7 @@ translate spanish d4_e2d67271:
 translate spanish d4_cafb3d55:
 
     # m "Guess what I heard~"
-    m "A que no sabes lo que me han contado."
+    m "A que no sabes lo que me han contado..."
 
 # game/d4.rpy:854
 translate spanish d4_ed479315:
@@ -2674,7 +2674,7 @@ translate spanish d4_1d583249:
 translate spanish d4_20283ed7:
 
     # m "Those two are definitely into each other~"
-    m "Esos dos están coladitos el uno por el otro."
+    m "Esos dos están coladitos el uno por el otro..."
 
 # game/d4.rpy:869
 translate spanish d4_b0ab0677:
@@ -2758,13 +2758,13 @@ translate spanish d4_25b142ab:
 translate spanish d4_1f384ef6:
 
     # mc "Haha~ As you wish."
-    mc "Jajaja, lo que tú digas."
+    mc "Ja, ja, ja, lo que tú digas."
 
 # game/d4.rpy:888
 translate spanish d4_5141f001:
 
     # m 1j "Ufufu~"
-    m 1j "Jejeje."
+    m 1j "Je, je, je."
 
 # game/d4.rpy:892
 translate spanish d4_bcea609a:
@@ -2992,7 +2992,7 @@ translate spanish d4_068a3394:
 translate spanish d4_759e9a45:
 
     # m "And they also have tankery clubs where they drive tanks around and shoot things."
-    m "Y tienen clubes de tanques donde van conduciendo tanques y disparando por ahí."
+    m "Y tienen clubes de tanques, donde van conduciendo tanques y disparando por ahí."
 
 # game/d4.rpy:943
 translate spanish d4_a31340dd:
@@ -3047,6 +3047,7 @@ translate spanish d4_698d7569:
 
     # mc "Wow."
     mc "Vaya."
+    mc "¿Acaso será Girls und Panzer...?"
 
 # game/d4.rpy:954
 translate spanish d4_73a59da2:
@@ -3274,7 +3275,7 @@ translate spanish d4_021a5de7:
 translate spanish d4_3aa5e6af:
 
     # m "If you get any ideas [player], I might get a bit jealous~"
-    m "Como te pongas a mirar mucho, igual me pongo celosa, [player]."
+    m "Como te pongas a mirar mucho, igual me pongo celosa, [player]..."
 
 # game/d4.rpy:999
 translate spanish d4_4681ce16:
