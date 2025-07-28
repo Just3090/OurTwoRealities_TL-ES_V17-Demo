@@ -3509,7 +3509,7 @@ translate spanish d4_3720bd63:
 translate spanish d4_0e977fa9:
 
     # mc "...Probably."
-    mc "...Bueno, eso creo."
+    mc "... Bueno, eso creo."
 
 # game/d4.rpy:1056
 translate spanish d4_cc1ec48a:
@@ -3611,7 +3611,8 @@ translate spanish d4_4ecb9710:
 translate spanish d4_0a8bf153:
 
     # mc "Keep...the fight going...for me..."
-    mc "Sigue... luchando... por mí..."
+    mc "Sigue... luchando..."
+    mc "por mí..."
 
 # game/d4.rpy:1076
 translate spanish d4_789173ad:
@@ -4043,7 +4044,7 @@ translate spanish d4_03fa75a1:
 translate spanish d4_6f149f12:
 
     # "A tear drops as she falls to the ground with a calm smile on her face."
-    "Se le escapa una lágrima mientras cae al suelo con una sonrisa tranquila."
+    "Se le escapa una lágrima mientras cae al suelo con una sonrisa muy tranquila..."
 
 # game/d4.rpy:1204
 translate spanish d4_a20cefa7_5:
@@ -4787,7 +4788,7 @@ translate spanish exitgym_fb6731e9:
 translate spanish exitgym_90bf9e05:
 
     # m 1d "...I think."
-    m 1d "...Creo."
+    m 1d "Creo..."
 
 # game/d4.rpy:1410
 translate spanish exitgym_16ba370a:
@@ -4835,7 +4836,7 @@ translate spanish exitgym_2abd55b1:
 translate spanish exitgym_a31340dd:
 
     # mc "Really?"
-    mc "¿En serio?"
+    mc "¿De verdad? Es que no me lo creo."
 
 # game/d4.rpy:1422
 translate spanish exitgym_86e6756c:
@@ -4991,7 +4992,7 @@ translate spanish exitgym_27b5b9d4:
 translate spanish exitgym_e8663bc5:
 
     # "Girl 3" "\"Hiii!\""
-    "Chica 3" "\"¡Hola!\""
+    "Chica 3" "\"¡Holiwis!\""
 
 # game/d4.rpy:1454
 translate spanish exitgym_9dd77b75:
@@ -5279,7 +5280,7 @@ translate spanish exitgym_56173570:
 translate spanish exitgym_71cc1b25:
 
     # mc "Yes please!"
-    mc "¡Sí, por favor!"
+    mc "Sí, por favor."
 
 # game/d4.rpy:1517
 translate spanish exitgym_667375ea:
@@ -5477,13 +5478,13 @@ translate spanish exitgym_5ccdf320:
 translate spanish exitgym_b0cb1fe4:
 
     # "Waitress" "\"No worries, I'll leave you two to enjoy your food.\""
-    "Waitress" "No pasa nada, las dejo para que disfruten su comida."
+    "Camarera" "\"No pasa nada, las dejo para que disfruten su comida.\""
 
 # game/d4.rpy:1556
 translate spanish exitgym_5c62be3c:
 
     # "Waitress" "\"And if you see Natsuki, let her know we could have really used her here.\""
-    "Waitress" "Y si ven a Natsuki, díganle que nos hubiera venido de perlas tenerla aquí."
+    "Camarera" "\"Y si ven a Natsuki, díganle que nos hubiera venido de perlas tenerla aquí.\""
 
 # game/d4.rpy:1557
 translate spanish exitgym_0cf71cc6:
@@ -5525,7 +5526,7 @@ translate spanish exitgym_04da9b66:
 translate spanish exitgym_c6ad638e:
 
     # "Waitress" "\"That'll be 6 dollars.\""
-    "Waitress" "Son seis dólares, por favor."
+    "Camarera" "\"Son seis euros, por favor.\""
 
 # game/d4.rpy:1565
 translate spanish exitgym_7a7f7d2b:
@@ -5537,7 +5538,7 @@ translate spanish exitgym_7a7f7d2b:
 translate spanish exitgym_b72e2764:
 
     # "Waitress" "\"Thank you! And please come again!\""
-    "Waitress" "¡Gracias! ¡Y vuelvan pronto!"
+    "Camarera" "\"¡Gracias! ¡Y vuelvan pronto!\""
 
 # game/d4.rpy:1567
 translate spanish exitgym_3eedc7bd:
@@ -5627,7 +5628,7 @@ translate spanish exitgym_b9c7a97e:
 translate spanish exitgym_b5006898:
 
     # m 2q "Hmmm..."
-    m 2q "Hmmm..."
+    m 2q "Mmmm..."
 
 # game/d4.rpy:1591
 translate spanish exitgym_fc3e171f:
@@ -5681,7 +5682,7 @@ translate spanish exitgym_4eb20ee4:
 translate spanish exitgym_878277ae:
 
     # m "Hmm?"
-    m "¿Hmm?"
+    m "¿Mmm?"
 
 # game/d4.rpy:1602
 translate spanish exitgym_c375c315:
@@ -5771,7 +5772,7 @@ translate spanish exitgym_85ef9feb:
 translate spanish exitgym_612b00f2:
 
     # "{i}12:50{/i}"
-    "{i}12:50{/i}"
+    "12:50."
 
 # game/d4.rpy:1626
 translate spanish exitgym_7eb69b02:
@@ -5873,7 +5874,7 @@ translate spanish exitgym_552b2168:
 translate spanish exitgym_26a304c0:
 
     # "Hmmm..."
-    "Hmmm..."
+    "Mmmm..."
 
 # game/d4.rpy:1653
 translate spanish exitgym_f82f627c:
@@ -5891,7 +5892,7 @@ translate spanish exitgym_61e349ec:
 translate spanish exitgym_68eb1d5f:
 
     # "Waitress" "\"A grilled cheese, and a sandwich...\""
-    "Camarera" "\"Un sándwich de queso y uno vegetal...\""
+    "Camarera" "\"Un sándwich de queso y otro de vegetal...\""
 
 # game/d4.rpy:1657
 translate spanish exitgym_05827728:
@@ -5939,7 +5940,7 @@ translate spanish exitgym_1af78fb4:
 translate spanish exitgym_8f91eb8c:
 
     # "{i}*slap*{/i}"
-    "{i}*zasca*{/i}"
+    "*zasca*"
 
 # game/d4.rpy:1668
 translate spanish exitgym_f8cccdfa:
@@ -5999,7 +6000,7 @@ translate spanish exitgym_ad160a04:
 translate spanish exitgym_bcdd9101:
 
     # "Student" "\"O-Okay. Sorry...\""
-    "Alumno" "\"O-Ok. Perdón...\""
+    "Alumno" "\"V-Vale. Perdón...\""
 
 # game/d4.rpy:1679
 translate spanish exitgym_90540ca9:
@@ -6059,7 +6060,7 @@ translate spanish exitgym_9e381e39:
 translate spanish exitgym_859e212d:
 
     # n 5bd "Enjoy your food!"
-    n 5bd "¡Que aproveche!"
+    n 5bd "¡Provecho!"
 
 # game/d4.rpy:1697
 translate spanish exitgym_cfb2761c:
@@ -6137,7 +6138,7 @@ translate spanish exitgym_5340584f:
 translate spanish exitgym_745328fc:
 
     # n "Tsk... You two..."
-    n "Tsk... Si es que..."
+    n "Hmph... Si es que..."
 
 # game/d4.rpy:1718
 translate spanish exitgym_a2761acd:
@@ -6407,7 +6408,7 @@ translate spanish exitgym_80dda983:
 translate spanish exitgym_9bbb7f9a:
 
     # "Narrator" "\"Uhuhu... this should be fun...\""
-    "Narrador" "\"Jejeje... esto va a estar divertido...\""
+    "Narrador" "\"Je, je, je... esto va a estar divertido...\""
 
 # game/d4.rpy:1787
 translate spanish exitgym_eca4c014:
@@ -6539,13 +6540,13 @@ translate spanish exitgym_1ea039e8:
 translate spanish exitgym_2371dd43:
 
     # "Skeleton" "\"Raaagh!\""
-    "Esqueleto" "\"¡Raaagh!\""
+    "Esqueleto" "\"¡Raaawr!\""
 
 # game/d4.rpy:1815
 translate spanish exitgym_a8000a6f:
 
     # m "Eep!"
-    m "¡Ay!"
+    m "¡Aaayyy!"
 
 # game/d4.rpy:1816
 translate spanish exitgym_85f63e70:
@@ -6587,7 +6588,7 @@ translate spanish exitgym_346c6e1d:
 translate spanish exitgym_a15414a9:
 
     # "...It's eating the flesh of another student."
-    "...de que está comiéndose a otro alumno."
+    "de que está comiéndose a otro alumno."
 
 # game/d4.rpy:1823
 translate spanish exitgym_dc308a42:
@@ -6737,7 +6738,7 @@ translate spanish exitgym_73ba5d30:
 translate spanish exitgym_1bc31e38:
 
     # "???" "\"HISSSSSSSSS\""
-    "???" "\"HISSSSSSSSS\""
+    "???" "\"JAAAAAAAAAA\""
 
 # game/d4.rpy:1852
 translate spanish exitgym_86f91d2d:
@@ -6755,7 +6756,7 @@ translate spanish exitgym_c90b7e85:
 translate spanish exitgym_335ee38b:
 
     # "???" "\"Hiss..*cough* hahaha!\""
-    "???" "\"Hiss... *tos* ¡jajaja!\""
+    "???" "\"Jaaa... *tos* ¡ja, ja, ja!\""
 
 # game/d4.rpy:1859
 translate spanish exitgym_c48ce5cb:
@@ -7007,7 +7008,7 @@ translate spanish exitgym_faa35d8b:
 translate spanish exitgym_3efd635c:
 
     # "We stay like that for another good few minutes."
-    "Nos quedamos así otro buen rato."
+    "Nos quedamos así otro momentito."
 
 # game/d4.rpy:1930
 translate spanish exitgym_ecb87a04:
