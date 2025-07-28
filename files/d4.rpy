@@ -7104,565 +7104,565 @@ translate spanish exitgym_9f49e9be:
 translate spanish exitgym_feee3257:
 
     # mc "Sure! We'll take a box of 6 please!"
-    mc ""
+    mc "¡Claro! Ponme una caja de seis, por favor."
 
 # game/d4.rpy:1966
 translate spanish exitgym_959e9a67:
 
     # p "Coming right up!"
-    p ""
+    p "¡Ahora mismo!"
 
 # game/d4.rpy:1968
 translate spanish exitgym_fda6a192:
 
     # "MC starts frying up our takoyaki."
-    ""
+    "MC se pone a freír nuestros takoyaki."
 
 # game/d4.rpy:1969
 translate spanish exitgym_c9322013:
 
     # "He gathers them up and gives them to the other student who puts them in a box."
-    ""
+    "Los va sacando y se los pasa al otro chico, que los mete en una caja."
 
 # game/d4.rpy:1970
 translate spanish exitgym_fe7eefd5:
 
     # "Student" "Here you go! That'll be 3 dollars please!"
-    "Student" ""
+    "Alumno" "Aquí tienes, son tres euros, por favor."
 
 # game/d4.rpy:1971
 translate spanish exitgym_08ad240c:
 
     # mc "Here you go."
-    mc ""
+    mc "Toma."
 
 # game/d4.rpy:1972
 translate spanish exitgym_56539ef3:
 
     # "Student" "Thank you! Have a good day!"
-    "Student" ""
+    "Alumno" "¡Gracias! ¡Que tengas buen día!"
 
 # game/d4.rpy:1973
 translate spanish exitgym_7a8bfc12:
 
     # mc "You too!"
-    mc ""
+    mc "Igualmente."
 
 # game/d4.rpy:1974
 translate spanish exitgym_81355129:
 
     # mc "See ya later MC!"
-    mc ""
+    mc "¡Nos vemos luego, MC!"
 
 # game/d4.rpy:1976
 translate spanish exitgym_9a52359c:
 
     # p "Bye!"
-    p ""
+    p "¡Hasta luego!"
 
 # game/d4.rpy:1980
 translate spanish exitgym_a9aa9b27:
 
     # "We go and sit down on the bench we were at earlier."
-    ""
+    "Vamos y nos sentamos en el banco de antes."
 
 # game/d4.rpy:1981
 translate spanish exitgym_0589aa0b:
 
     # "Monika opens up the box, and pokes a toothpick in the takoyaki."
-    ""
+    "Monika abre la caja y pincha un takoyaki con un palillo."
 
 # game/d4.rpy:1983
 translate spanish exitgym_db433d27:
 
     # "She blows on it and takes a bite."
-    ""
+    "Le sopla un poco y le da un bocado."
 
 # game/d4.rpy:1984
 translate spanish exitgym_89294748:
 
     # m 1k "Mmm~! This is good!"
-    m 1k ""
+    m 1k "¡Mmm! ¡Esto está buenísimo!"
 
 # game/d4.rpy:1985
 translate spanish exitgym_94bf49cb:
 
     # m 3b "Here..."
-    m 3b ""
+    m 3b "Toma..."
 
 # game/d4.rpy:1987
 translate spanish exitgym_ae62d067:
 
     # "She pokes another one on the toothpick, and gives it to me."
-    ""
+    "Pincha otro y me lo da."
 
 # game/d4.rpy:1989
 translate spanish exitgym_e2f7ccba:
 
     # "I blow on it, and take a bite."
-    ""
+    "Le soplo un poco y lo pruebo."
 
 # game/d4.rpy:1990
 translate spanish exitgym_a869968f:
 
     # "It really was good."
-    ""
+    "Está de escándalo."
 
 # game/d4.rpy:1991
 translate spanish exitgym_e39f40f0:
 
     # mc "I don't think I've ever had this kind of takoyaki before."
-    mc ""
+    mc "Creo que nunca había probado un takoyaki así."
 
 # game/d4.rpy:1992
 translate spanish exitgym_8c9921cf:
 
     # m 1b "Neither have I."
-    m 1b ""
+    m 1b "Yo tampoco."
 
 # game/d4.rpy:1993
 translate spanish exitgym_3f28674e:
 
     # m "But it's good, right?"
-    m ""
+    m "Pero está rico, ¿a que sí?"
 
 # game/d4.rpy:1995
 translate spanish exitgym_84233fa6:
 
     # mc "Yeah, it is!"
-    mc ""
+    mc "Sí, está genial."
 
 # game/d4.rpy:1996
 translate spanish exitgym_7d98ce62:
 
     # "We eat the takoyaki, and are thoroughly satisfied."
-    ""
+    "Nos comemos el takoyaki y nos quedamos la mar de contentos."
 
 # game/d4.rpy:1997
 translate spanish exitgym_e7497eb0:
 
     # mc "So, what do you want to do now?"
-    mc ""
+    mc "Bueno, ¿y ahora qué te apetece hacer?"
 
 # game/d4.rpy:1998
 translate spanish exitgym_ef9f88bb:
 
     # m 1d "I'm not sure."
-    m 1d ""
+    m 1d "No sé..."
 
 # game/d4.rpy:1999
 translate spanish exitgym_f646028b:
 
     # m "The concerts don't start for another hour, so we have some time to kill..."
-    m ""
+    m "Los conciertos no empiezan hasta dentro de una hora, así que tenemos tiempo de sobra..."
 
 # game/d4.rpy:2002
 translate spanish exitgym_f294cf9f:
 
     # s "Heeeyyy!"
-    s ""
+    s "¡Heeeyyy!"
 
 # game/d4.rpy:2003
 translate spanish exitgym_743df557:
 
     # "Out of nowhere, Sayori and Yuri run towards us."
-    ""
+    "De repente, Sayori y Yuri vienen corriendo hacia nosotros."
 
 # game/d4.rpy:2007
 translate spanish exitgym_ae2de021:
 
     # s "Haah{w=0.5}...haah.."
-    s ""
+    s "Uf... uf..."
 
 # game/d4.rpy:2011
 translate spanish exitgym_e81ac283:
 
     # s "Monika, Are you okay?!"
-    s ""
+    s "¡Monika, estás bien?!"
 
 # game/d4.rpy:2012
 translate spanish exitgym_da92ffac:
 
     # s "Once you left the haunted house I heard sniffling."
-    s ""
+    s "Cuando saliste de la casa del terror te oímos sorber por la nariz."
 
 # game/d4.rpy:2013
 translate spanish exitgym_4b23226c:
 
     # s "We didn't scare you that badly did we?"
-    s ""
+    s "No te asustamos tanto, ¿no?"
 
 # game/d4.rpy:2016
 translate spanish exitgym_c9b26aff:
 
     # y "I heard some mumbling too and you buried your face in [player]'s shoulders..."
-    y ""
+    y "Yo también te oí murmurar y te vi esconder la cara en el hombro de [player]..."
 
 # game/d4.rpy:2019
 translate spanish exitgym_1c4102e4:
 
     # m "Don't worry, I'm fine now."
-    m ""
+    m "No os preocupéis, ya estoy bien."
 
 # game/d4.rpy:2020
 translate spanish exitgym_f2ffe433:
 
     # m 1l "I guess I'm just not too good with horror, haha..."
-    m 1l ""
+    m 1l "Supongo que no se me da muy bien esto del terror, ja, ja..."
 
 # game/d4.rpy:2023
 translate spanish exitgym_5b32afa4:
 
     # s 4w "We're sorryyyy!"
-    s 4w ""
+    s 4w "¡Perdónnnn!"
 
 # game/d4.rpy:2026
 translate spanish exitgym_40ff77f7:
 
     # m "Aww, come here you guys..."
-    m ""
+    m "Anda, venid aquí vosotras..."
 
 # game/d4.rpy:2030
 translate spanish exitgym_087f7b1e:
 
     # "They all do a group hug."
-    ""
+    "Se dan un abrazo en grupo."
 
 # game/d4.rpy:2031
 translate spanish exitgym_92b52129:
 
     # "Leaving me awkwardly sitting on the bench quietly."
-    ""
+    "Y yo me quedo ahí sentado en el banco, cortado."
 
 # game/d4.rpy:2032
 translate spanish exitgym_e5e547dd:
 
     # m "[player], are you not joining in?"
-    m ""
+    m "[player], ¿no te unes?"
 
 # game/d4.rpy:2033
 translate spanish exitgym_606e2d02:
 
     # mc "Sure."
-    mc ""
+    mc "Venga, va."
 
 # game/d4.rpy:2037
 translate spanish exitgym_393bbc9b:
 
     # "I squeeze in and we all do a big group hug."
-    ""
+    "Me meto en medio y nos damos un buen abrazo en grupo."
 
 # game/d4.rpy:2038
 translate spanish exitgym_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/d4.rpy:2042
 translate spanish exitgym_7ec20641:
 
     # mc "Alright, we good now?"
-    mc ""
+    mc "Bueno, ¿ya estamos todos bien?"
 
 # game/d4.rpy:2044
 translate spanish exitgym_56ca4b2e:
 
     # s "Mhm!"
-    s ""
+    s "¡Sí!"
 
 # game/d4.rpy:2045
 translate spanish exitgym_11d6288e:
 
     # s 2r "Okay, we're gonna head back now. You two have fun!"
-    s 2r ""
+    s 2r "Bueno, nos volvemos ya. ¡Pasadlo bien vosotros dos!"
 
 # game/d4.rpy:2048
 translate spanish exitgym_19584393:
 
     # m "Alright! See you later!"
-    m ""
+    m "¡Vale! ¡Nos vemos luego!"
 
 # game/d4.rpy:2051
 translate spanish exitgym_082b5f39:
 
     # y "Goodbye!"
-    y ""
+    y "¡Adiós!"
 
 # game/d4.rpy:2052
 translate spanish exitgym_4c85d272:
 
     # mc "See ya!"
-    mc ""
+    mc "¡Hasta luego!"
 
 # game/d4.rpy:2058
 translate spanish exitgym_ed4ed65f:
 
     # "Sayori and Yuri head back to their class, and Monika sits back down with me."
-    ""
+    "Sayori y Yuri se van a su clase y Monika se vuelve a sentar conmigo."
 
 # game/d4.rpy:2060
 translate spanish exitgym_b9c7b98f:
 
     # mc "Wanna walk around for a bit before the concerts start?"
-    mc ""
+    mc "¿Te apetece dar una vuelta antes de que empiecen los conciertos?"
 
 # game/d4.rpy:2061
 translate spanish exitgym_d00a958c:
 
     # m 1b "Sure."
-    m 1b ""
+    m 1b "Venga, vamos."
 
 # game/d4.rpy:2064
 translate spanish exitgym_19368bc5:
 
     # "We get up, and take a small walk around the exterior festival grounds."
-    ""
+    "Nos levantamos y damos una vuelta por fuera, por la zona del festival."
 
 # game/d4.rpy:2065
 translate spanish exitgym_a8187e7c:
 
     # "There's multiple people selling their wares and dishes."
-    ""
+    "Hay un montón de gente vendiendo cosas y comida."
 
 # game/d4.rpy:2066
 translate spanish exitgym_4369cf20:
 
     # "I buy a few snacks from one of the vending machines."
-    ""
+    "Me pillo unos snacks en una máquina expendedora."
 
 # game/d4.rpy:2067
 translate spanish exitgym_a28a9f73:
 
     # "Gonna save those for later..."
-    ""
+    "Eso me lo guardo para luego..."
 
 # game/d4.rpy:2068
 translate spanish exitgym_7d6670ed:
 
     # "We walk up to the souvenir shop by the Industrial Arts students."
-    ""
+    "Nos acercamos a la tienda de recuerdos que han montado los de Artes Industriales."
 
 # game/d4.rpy:2069
 translate spanish exitgym_dd8d2624:
 
     # "Student" "\"Hello! See anything you like?\""
-    "Student" ""
+    "Alumno" "\"¡Hola! ¿Os gusta algo de aquí?\""
 
 # game/d4.rpy:2070
 translate spanish exitgym_90c556c1:
 
     # m 1b "Ooh! They're all so pretty!"
-    m 1b ""
+    m 1b "¡Uy! ¡Son todos súper bonitos!"
 
 # game/d4.rpy:2073
 translate spanish exitgym_13ffff73:
 
     # "One catches my eye."
-    ""
+    "Uno me llama la atención."
 
 # game/d4.rpy:2074
 translate spanish exitgym_40e68ac3:
 
     # "It's a nice necklace with an emerald green gem embedded in a piece of wood."
-    ""
+    "Es un collar muy chulo con una piedra verde esmeralda incrustada en madera."
 
 # game/d4.rpy:2075
 translate spanish exitgym_fca63e94:
 
     # "I look at the price tag."
-    ""
+    "Miro la etiqueta del precio."
 
 # game/d4.rpy:2076
 translate spanish exitgym_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/d4.rpy:2077
 translate spanish exitgym_c3871ef4:
 
     # "What a bargain!"
-    ""
+    "¡Menuda ganga!"
 
 # game/d4.rpy:2078
 translate spanish exitgym_11955314:
 
     # "It's actually surprisingly cheap for how well made it is!"
-    ""
+    "La verdad es que está tirado de precio para lo bien hecho que está."
 
 # game/d4.rpy:2079
 translate spanish exitgym_eb5c6ba4:
 
     # "My wallet breathes a huge sigh of relief."
-    ""
+    "Mi cartera respira tranquila."
 
 # game/d4.rpy:2080
 translate spanish exitgym_00990c6f:
 
     # "While Monika looks at the other souvenir shops, I point to the cashier which one I'll buy."
-    ""
+    "Mientras Monika mira otras cosas, le señalo al de la caja cuál quiero."
 
 # game/d4.rpy:2081
 translate spanish exitgym_01cf3f4a:
 
     # "He silently nods, takes the money, and hands me the necklace."
-    ""
+    "Él asiente, coge el dinero y me da el collar."
 
 # game/d4.rpy:2082
 translate spanish exitgym_84f5da98:
 
     # "This guy can really read the mood."
-    ""
+    "Este tío sabe captar el momento."
 
 # game/d4.rpy:2084
 translate spanish exitgym_7556a112:
 
     # "Hmm...Should I give it to her now?"
-    ""
+    "Mmm... ¿Se lo doy ya?"
 
 # game/d4.rpy:2089
 translate spanish exitgym_4eb20ee4_1:
 
     # mc "Hey, Monika..."
-    mc ""
+    mc "Oye, Monika..."
 
 # game/d4.rpy:2090
 translate spanish exitgym_e33f3a25:
 
     # m 1c "Hmm?"
-    m 1c ""
+    m 1c "¿Sí?"
 
 # game/d4.rpy:2091
 translate spanish exitgym_d090a6be:
 
     # mc "Turn around for a second."
-    mc ""
+    mc "Gírate un momento."
 
 # game/d4.rpy:2092
 translate spanish exitgym_49e455c9:
 
     # m forward ldown rhip sedu om oe "Hmmm? Alriiight..."
-    m forward ldown rhip sedu om oe ""
+    m forward ldown rhip sedu om oe "¿Mmm? Bueno, vale..."
 
 # game/d4.rpy:2095
 translate spanish exitgym_6eb194af:
 
     # "She turns around."
-    ""
+    "Se da la vuelta."
 
 # game/d4.rpy:2096
 translate spanish exitgym_60a6cd6e:
 
     # "I quickly take the necklace, and put it on Monika."
-    ""
+    "Saco el collar rápido y se lo pongo a Monika."
 
 # game/d4.rpy:2098
 translate spanish exitgym_f04aaa2b:
 
     # m "Ah?"
-    m ""
+    m "¿Eh?"
 
 # game/d4.rpy:2099
 translate spanish exitgym_6fff6079:
 
     # m "Oh, [player]..."
-    m ""
+    m "Oh, [player]..."
 
 # game/d4.rpy:2100
 translate spanish exitgym_da954d48:
 
     # m "Thank you so much for this!"
-    m ""
+    m "¡Muchísimas gracias por esto!"
 
 # game/d4.rpy:2102
 translate spanish exitgym_1767c034:
 
     # mc "Anything for you!"
-    mc ""
+    mc "Lo que sea por ti."
 
 # game/d4.rpy:2103
 translate spanish exitgym_54a5ce58:
 
     # mc "You look beautiful with it!"
-    mc ""
+    mc "Te queda genial, estás guapísima."
 
 # game/d4.rpy:2108
 translate spanish exitgym_7eeea62c:
 
     # "Hmm... I will try to find a better moment to give it."
-    ""
+    "Mmm... Mejor busco otro momento para dárselo."
 
 # game/d4.rpy:2111
 translate spanish exitgym_4ddd963c:
 
     # mc "I think the concerts are gonna start soon, so we should get going."
-    mc ""
+    mc "Creo que los conciertos van a empezar ya, deberíamos ir tirando."
 
 # game/d4.rpy:2112
 translate spanish exitgym_51088249:
 
     # m 1b "Yeah we should!"
-    m 1b ""
+    m 1b "¡Sí, vamos!"
 
 # game/d4.rpy:2114
 translate spanish exitgym_28790fa9:
 
     # "I nod to the cashier, and he salutes to me as Monika and I head off towards the auditorium."
-    ""
+    "Le hago un gesto al de la caja y él me saluda mientras Monika y yo vamos al auditorio."
 
 # game/d4.rpy:2117
 translate spanish exitgym_334abd37:
 
     # "As we get there, there's a long line of people waiting to get in."
-    ""
+    "Cuando llegamos, hay una cola enorme para entrar."
 
 # game/d4.rpy:2118
 translate spanish exitgym_2d8d2563:
 
     # "We get in line, and wait for our turn."
-    ""
+    "Nos ponemos en la cola y esperamos nuestro turno."
 
 # game/d4.rpy:2119
 translate spanish exitgym_ef56e336:
 
     # "Student" "\"Hello!\""
-    "Student" ""
+    "Alumno" "\"¡Hola!\""
 
 # game/d4.rpy:2120
 translate spanish exitgym_98318dc3:
 
     # "Student" "\"You two here for the concert?\""
-    "Student" ""
+    "Alumno" "\"¿Venís al concierto?\""
 
 # game/d4.rpy:2121
 translate spanish exitgym_63ba6681:
 
     # mc "Yes we are."
-    mc ""
+    mc "Sí, eso es."
 
 # game/d4.rpy:2122
 translate spanish exitgym_ed533af2:
 
     # "Student" "\"Okay! The entrance fee is 1 dollar per person.\""
-    "Student" ""
+    "Alumno" "\"Vale, es un euro por persona.\""
 
 # game/d4.rpy:2123
 translate spanish exitgym_08ad240c_1:
 
     # mc "Here you go."
-    mc ""
+    mc "Aquí tienes."
 
 # game/d4.rpy:2124
 translate spanish exitgym_3dfa81f4:
 
     # "Student" "\"Great! You can go on in!\""
-    "Student" ""
+    "Alumno" "\"¡Perfecto! ¡Podéis pasar!\""
 
 # game/d4.rpy:2125
 translate spanish exitgym_e9721ff3_2:
 
     # mc "Thank you!"
-    mc ""
+    mc "¡Gracias!"
 
 # game/d4.rpy:2129
 translate spanish exitgym_3795708a:
