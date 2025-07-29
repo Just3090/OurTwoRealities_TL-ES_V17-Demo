@@ -7908,13 +7908,13 @@ translate spanish exitgym_4aa8ce31:
 translate spanish exitgym_384854bc:
 
     # "Lead Guitarist" "\"When I look at you, my heart always goes thump-thump\""
-    "Guitarrista" "\"Cuando te miro, el corazón me va a mil\""
+    "Guitarrista" "\"{i}Cuando te miro, el corazón me va a mil.{/i}\""
 
 # game/d4.rpy:2176
 translate spanish exitgym_97ece7f0:
 
     # "Lead Guitarist" "\"This shaking feeling is fluffy-fluffy, like a marshmallow\""
-    "Guitarrista" "\"Esta sensación es blandita, blandita, como una nube\""
+    "Guitarrista" "\"{i}Esta sensación es blandita, blandita, como una nube.{/i}\""
 
 # game/d4.rpy:2177
 translate spanish exitgym_26fad739:
@@ -8334,7 +8334,7 @@ translate spanish exitgym_d3107ef6:
 translate spanish exitgym_f51ddee8:
 
     # m "...I just want to have you for myself during the dance."
-    m "...me apetece tenerte solo para mí mientras bailamos."
+    m "me apetece tenerte solo para mí mientras bailamos."
 
 # game/d4.rpy:2274
 translate spanish exitgym_606e2d02_1:
@@ -8772,7 +8772,7 @@ translate spanish exitgym_135f56bc:
 translate spanish exitgym_5a3c09de:
 
     # m "'Kay"
-    m "Ok."
+    m "Vale."
 
 # game/d4.rpy:2393
 translate spanish exitgym_2ef971f6:
@@ -8808,7 +8808,7 @@ translate spanish exitgym_3d3f478e:
 translate spanish exitgym_fde69687:
 
     # "I sit down next to Monika."
-    "Me siento al lado de Monika."
+    "Me siento a un lado suyo."
 
 # game/d4.rpy:2404
 translate spanish exitgym_6ce54a70:
@@ -8874,7 +8874,7 @@ translate spanish exitgym_92d1a582:
 translate spanish exitgym_c8dce198:
 
     # m p_1j "Mhm~"
-    m p_1j "Sí."
+    m p_1j "Sipirili."
 
 # game/d4.rpy:2425
 translate spanish exitgym_454a2c33:
@@ -8946,7 +8946,7 @@ translate spanish exitgym_0e6ae1dd:
 translate spanish exitgym_cf1adef2_4:
 
     # mc "Yeah."
-    mc "Sí."
+    mc "Sí..."
 
 # game/d4.rpy:2448
 translate spanish exitgym_c50714f4:
