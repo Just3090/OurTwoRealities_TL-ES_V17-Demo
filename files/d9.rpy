@@ -4,205 +4,205 @@
 translate spanish d9_31587c24:
 
     # "My eyes slowly open to the brightness of the room."
-    ""
+    "Abro los ojos lentamente, acostumbrándome al brillo del cuarto."
 
 # game/d9.rpy:14
 translate spanish d9_f5c73e61:
 
     # "Monika keeps her arms wrapped around me tightly."
-    ""
+    "Los brazos de Monika siguen abrazándome con fuerza."
 
 # game/d9.rpy:15
 translate spanish d9_ab9b896b:
 
     # "Her breathing is gentle."
-    ""
+    "Respira con suavidad."
 
 # game/d9.rpy:16
 translate spanish d9_5bdcf13d:
 
     # "I notice her ever so slighty peeking a tiny bit under her eyelashes."
-    ""
+    "Noto que abre los ojos ligeramente, ocultando sus pupilas entre las pestañas."
 
 # game/d9.rpy:18
 translate spanish d9_82ff2d39:
 
     # "She smiles and snuggles up even more."
-    ""
+    "Sonríe y se acurruca más en mí."
 
 # game/d9.rpy:21
 translate spanish d9_7fb61470:
 
     # m "Don't forget that you owe me some cuddle time~"
-    m ""
+    m "No te olvides de que me debes muchos abracitos..."
 
 # game/d9.rpy:24
 translate spanish d9_cfcc2293:
 
     # mc "I know."
-    mc ""
+    mc "Lo sé."
 
 # game/d9.rpy:25
 translate spanish d9_50562afc:
 
     # "Her embrace is warm, and I can't help but relax."
-    ""
+    "Sus brazos están calentitos, lo que hace que me sienta relajado."
 
 # game/d9.rpy:28
 translate spanish d9_12298b57:
 
     # "I wrap my own arms around her and close my eyes."
-    ""
+    "Abrazo a Monika y cierro los ojos."
 
 # game/d9.rpy:31
 translate spanish d9_9eac5ce7:
 
     # "Wait a minute..."
-    ""
+    "Espera..."
 
 # game/d9.rpy:34
 translate spanish d9_ac932db2:
 
     # "I check the clock on my wall."
-    ""
+    "Echo un vistazo al reloj de pared."
 
 # game/d9.rpy:35
 translate spanish d9_c907c506:
 
     # "10:23."
-    ""
+    "10:23."
 
 # game/d9.rpy:36
 translate spanish d9_4906b24e:
 
     # "How long did we sleep in?"
-    ""
+    "¿Cuánto hemos dormido?"
 
 # game/d9.rpy:37
 translate spanish d9_95ae8389:
 
     # mc "Hey Monika, don't forget we have that picnic downtown today."
-    mc ""
+    mc "Oye, Monika, te recuerdo que hoy tenemos un picnic en el centro de la ciudad."
 
 # game/d9.rpy:39
 translate spanish d9_112b667a:
 
     # m "Huh?"
-    m ""
+    m "¿Qué?"
 
 # game/d9.rpy:40
 translate spanish d9_b8e23e97:
 
     # m "What time..."
-    m ""
+    m "Pero, ¿qué hora...?"
 
 # game/d9.rpy:41
 translate spanish d9_342c4735:
 
     # m "Oh crap!"
-    m ""
+    m "¡Ay, mierda!"
 
 # game/d9.rpy:47
 translate spanish d9_256fc055:
 
     # m "That was nice."
-    m ""
+    m "Me ha gustado, que lo sepas."
 
 # game/d9.rpy:48
 translate spanish d9_d10f2654:
 
     # m p_1g "I just wish it would have lasted a bit longer."
-    m p_1g ""
+    m p_1g "Ojalá hubiese durado un poquito más."
 
 # game/d9.rpy:50
 translate spanish d9_cf1adef2:
 
     # mc "Yeah."
-    mc ""
+    mc "Pues sí."
 
 # game/d9.rpy:51
 translate spanish d9_7785d736:
 
     # m p_1d "I'm gonna go get changed."
-    m p_1d ""
+    m p_1d "Voy a cambiarme."
 
 # game/d9.rpy:53
 translate spanish d9_a49ed4f8:
 
     # mc "Okay."
-    mc ""
+    mc "Genial."
 
 # game/d9.rpy:56
 translate spanish d9_4d8ba578:
 
     # "She steps into the washroom."
-    ""
+    "Monika entra al baño."
 
 # game/d9.rpy:57
 translate spanish d9_971dc2d1:
 
     # "I take the time to change as well."
-    ""
+    "Aprovecho y me cambio yo también."
 
 # game/d9.rpy:58
 translate spanish d9_2d4f59b3:
 
     # mc "Hey Monika,{w=0.5} I'm gonna go get breakfast ready."
-    mc ""
+    mc "Monika, voy a preparar el desayuno."
 
 # game/d9.rpy:59
 translate spanish d9_7951c138:
 
     # m "What are you gonna make?"
-    m ""
+    m "¿Qué vas a hacer?"
 
 # game/d9.rpy:60
 translate spanish d9_b1eeacdb:
 
     # mc "I'm not sure, I'll see what we have in the fridge."
-    mc ""
+    mc "Pues ni idea, miraré en la nevera e iré sobre la marcha."
 
 # game/d9.rpy:61
 translate spanish d9_30a66545:
 
     # m "Okay."
-    m ""
+    m "Vale."
 
 # game/d9.rpy:64
 translate spanish d9_7dcd67a5:
 
     # "I walk down and open the fridge."
-    ""
+    "Voy escaleras abajo y abro la nevera."
 
 # game/d9.rpy:65
 translate spanish d9_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/d9.rpy:66
 translate spanish d9_1935bf8d:
 
     # "Ooh!"
-    ""
+    "¡Oh!"
 
 # game/d9.rpy:67
 translate spanish d9_2dc249ce:
 
     # "I'll make some breakfast sandwiches."
-    ""
+    "Pues hoy toca hacer bocadillos para desayunar."
 
 # game/d9.rpy:68
 translate spanish d9_8a55ac14:
 
     # "I grab a pot and take 2 eggs from the fridge."
-    ""
+    "Cojo una olla y saco dos huevos de la nevera."
 
 # game/d9.rpy:69
 translate spanish d9_e9e4de5f:
 
     # "I set it on the stove and put the eggs in to boil."
-    ""
+    "Pongo la olla en el fuego, junto a los huevos, para que hiervan."
 
 # game/d9.rpy:70
 translate spanish d9_b201458e:
