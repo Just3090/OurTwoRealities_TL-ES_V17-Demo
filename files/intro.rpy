@@ -4,7 +4,7 @@
 translate spanish intro1_cee6addf:
 
     # m "...Why?"
-    m "...¿Por qué?"
+    m "... ¿Por qué?"
 
 # game/intro.rpy:16
 translate spanish intro1_af6a36c0:
@@ -28,7 +28,7 @@ translate spanish intro1_02a3f69d:
 translate spanish intro1_613850ef:
 
     # m "...Wait..."
-    m "...Espera..."
+    m "Espera..."
 
 # game/intro.rpy:20
 translate spanish intro1_dbc66fe6:
@@ -46,7 +46,7 @@ translate spanish intro1_b6eeb88f:
 translate spanish intro1_d0f02271:
 
     # m "Did-"
-    m "¿Has-"
+    m "¿Has...?"
 
 # game/intro.rpy:23
 translate spanish intro1_bdaa2eb7:
@@ -58,7 +58,7 @@ translate spanish intro1_bdaa2eb7:
 translate spanish intro1_87b978a4:
 
     # m "...Uh...alright then."
-    m "...Eh... vale entonces."
+    m "... Eh... vale entonces."
 
 # game/intro.rpy:31
 translate spanish intro1_cb238603:
@@ -82,13 +82,13 @@ translate spanish intro1_4a672d15:
 translate spanish intro1_888a7327:
 
     # m "...Sorry for bothering you..."
-    m "...Perdona por molestarte..."
+    m "Perdona por molestarte..."
 
 # game/intro.rpy:35
 translate spanish intro1_a0175a54:
 
     # m "...Goodbye..."
-    m "...Adiós..."
+    m "Adiós..."
 
 # game/intro.rpy:39
 translate spanish intro1_ecb61379:
@@ -112,7 +112,7 @@ translate spanish intro1_2333518f:
 translate spanish intro1_ecd3e288:
 
     # m "But why?"
-    m "¿Pero por qué?"
+    m "Pero, ¿por qué?"
 
 # game/intro.rpy:44
 translate spanish intro1_cec4b622:
@@ -136,7 +136,7 @@ translate spanish intro1_424fdc9a:
 translate spanish intro1_1e859661:
 
     # m "...What?"
-    m "...¿Cómo?"
+    m "¿Cómo...?"
 
 # game/intro.rpy:55
 translate spanish intro1_e612037c:
@@ -190,13 +190,13 @@ translate spanish intro1_c8837687:
 translate spanish intro1_200ccf16:
 
     # m "...I love you."
-    m "...Te quiero."
+    m "Te quiero."
 
 # game/intro.rpy:76
 translate spanish intro1_5c746c2b:
 
     # m "Ahaha~!"
-    m "¡Ahaha~!"
+    m "¡Ja, ja, ja!"
 
 # game/intro.rpy:77
 translate spanish intro1_708fb52e:
@@ -214,19 +214,19 @@ translate spanish intro1_6aa9b959:
 translate spanish intro1_e9c29ec5:
 
     # m "{i}...And in your reality, if I don't know how to love you,{/i}"
-    m "{i}...Y en tu realidad, si no sé cómo quererte,{/i}"
+    m "Y en tu realidad, si no sé cómo quererte,"
 
 # game/intro.rpy:80
 translate spanish intro1_7b0318b0:
 
     # m "{i}...I'll leave you be.{/i}"
-    m "{i}...te dejaré en paz.{/i}"
+    m "te dejaré en paz."
 
 # game/intro.rpy:81
 translate spanish intro1_7bbc7884:
 
     # m "...I guess I never deserved to have you."
-    m "...Supongo que nunca merecí tenerte."
+    m "Supongo que nunca merecí tenerte."
 
 # game/intro.rpy:82
 translate spanish intro1_2d895932:
@@ -238,7 +238,7 @@ translate spanish intro1_2d895932:
 translate spanish intro1_87a7aef8:
 
     # m "...And if this makes you happy..."
-    m "...Y si esto te hace feliz..."
+    m "Y si esto te hace feliz..."
 
 # game/intro.rpy:84
 translate spanish intro1_b898d382:
@@ -346,7 +346,7 @@ translate spanish intro1_96e2cd22:
 translate spanish intro1_ab7936d5:
 
     # m "...Don't forget that I love you!"
-    m "...¡No te olvides de que te quiero!"
+    m "¡No te olvides de que te quiero!"
 
 translate spanish strings:
 
