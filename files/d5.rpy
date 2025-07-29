@@ -4,943 +4,943 @@
 translate spanish d5_2f8a32f1:
 
     # "{i}Ding dong{/i}"
-    ""
+    "Ding dong."
 
 # game/d5.rpy:11
 translate spanish d5_1d05566e:
 
     # "Hmm?{w=0.5} What's that noise?"
-    ""
+    "¿Eh?{w=0.5} ¿Qué es ese ruido?"
 
 # game/d5.rpy:14
 translate spanish d5_61dd2c4c:
 
     # "I groggily wake up and Monika gets up as well."
-    ""
+    "Me despierto medio dormido y Monika también se levanta."
 
 # game/d5.rpy:16
 translate spanish d5_90c09ee9:
 
     # m "{i}*Yawn*{/i}"
-    m ""
+    m "*Bostezo*"
 
 # game/d5.rpy:17
 translate spanish d5_cd98033d:
 
     # m forward pj ldown rdown anno om oe "Who is it this early in the morning...?"
-    m forward pj ldown rdown anno om oe ""
+    m forward pj ldown rdown anno om oe "¿Quién será a estas horas...?"
 
 # game/d5.rpy:19
 translate spanish d5_d9d17723:
 
     # mc "No idea..."
-    mc ""
+    mc "Ni idea..."
 
 # game/d5.rpy:20
 translate spanish d5_7c0afac4:
 
     # "I head downstairs, and Monika follows."
-    ""
+    "Bajo las escaleras y Monika viene detrás."
 
 # game/d5.rpy:24
 translate spanish d5_79d9a3c5:
 
     # "I open the door."
-    ""
+    "Abro la puerta."
 
 # game/d5.rpy:28
 translate spanish d5_ee5c5d90:
 
     # s "Morninggg!"
-    s ""
+    s "¡Bueeenas!"
 
 # game/d5.rpy:30
 translate spanish d5_db67ede6:
 
     # mc "Morning, what's got you two up so early?"
-    mc ""
+    mc "Buenos días, ¿qué hacéis tan pronto por aquí?"
 
 # game/d5.rpy:32
 translate spanish d5_75dd373d:
 
     # s "Wellll, we were thinking..."
-    s ""
+    s "Pues estábamos pensando..."
 
 # game/d5.rpy:33
 translate spanish d5_29a3dda1:
 
     # s 2x "You know the other day when you guys helped us with the pancake incident?"
-    s 2x ""
+    s 2x "¿Os acordáis el otro día cuando nos echasteis una mano con lo de las tortitas?"
 
 # game/d5.rpy:34
 translate spanish d5_57236f60:
 
     # s 4r "Well, me and MC talked for a bit and decided to invite you guys over for breakfast!"
-    s 4r ""
+    s 4r "Pues MC y yo estuvimos hablando y hemos decidido invitaros a desayunar."
 
 # game/d5.rpy:36
 translate spanish d5_8ca23027:
 
     # mc "Alright, I'm cool with it."
-    mc ""
+    mc "Vale, me apunto."
 
 # game/d5.rpy:37
 translate spanish d5_72ec90c8:
 
     # m "Sure! I'm coming too!"
-    m ""
+    m "¡Claro! ¡Yo también voy!"
 
 # game/d5.rpy:39
 translate spanish d5_bc38df36:
 
     # s "Yaay! Okay, we'll see you in a bit!"
-    s ""
+    s "¡Bieeen! ¡Pues nos vemos en un rato!"
 
 # game/d5.rpy:41
 translate spanish d5_0e1bdc7c:
 
     # mc "See you two later."
-    mc ""
+    mc "Nos vemos luego."
 
 # game/d5.rpy:45
 translate spanish d5_dfbf0d4f:
 
     # "I close the door and step back inside."
-    ""
+    "Cierro la puerta y vuelvo a entrar."
 
 # game/d5.rpy:47
 translate spanish d5_a6a72646:
 
     # m "Who'd have thought that Sayori would wake up earlier than us?"
-    m ""
+    m "¿Quién iba a decir que Sayori se levantaría antes que nosotros?"
 
 # game/d5.rpy:49
 translate spanish d5_6910ec60:
 
     # mc "Hah, yeah, I wasn't expecting it!"
-    mc ""
+    mc "Ya ves, ni me lo imaginaba."
 
 # game/d5.rpy:50
 translate spanish d5_abde6d05:
 
     # mc "Let's go get changed and whatnot then head over to Sayori's."
-    mc ""
+    mc "Vamos a cambiarnos y esas cosas, y tiramos para casa de Sayori."
 
 # game/d5.rpy:51
 translate spanish d5_eae7b540:
 
     # m p_2j "Mhm~"
-    m p_2j ""
+    m p_2j "Ajá."
 
 # game/d5.rpy:54
 translate spanish d5_b3e12a14:
 
     # "We head back upstairs."
-    ""
+    "Subimos otra vez."
 
 # game/d5.rpy:57
 translate spanish d5_c741a325:
 
     # "Monika steps into the bathroom again, while I change in here."
-    ""
+    "Monika entra otra vez al baño y yo me cambio aquí."
 
 # game/d5.rpy:58
 translate spanish d5_dc0eaaa8:
 
     # "Still though, a peek wouldn't-{nw}"
-    ""
+    "Aunque bueno, echar un vistazo no estaría mal...{nw}"
 
 # game/d5.rpy:59
 translate spanish d5_87a85189:
 
     # m "No lewd thoughts!"
-    m ""
+    m "¡Nada de pensamientos raros!"
 
 # game/d5.rpy:60
 translate spanish d5_60bb0f6b:
 
     # "Welp, it was worth a shot."
-    ""
+    "Bueno, por intentarlo que no quede."
 
 # game/d5.rpy:61
 translate spanish d5_29df9d77:
 
     # "I change and gather up my supplies."
-    ""
+    "Me cambio y cojo mis cosas."
 
 # game/d5.rpy:62
 translate spanish d5_7fb7a4eb:
 
     # "I head back downstairs."
-    ""
+    "Bajo otra vez."
 
 # game/d5.rpy:65
 translate spanish d5_05018e17:
 
     # "I wait a few minutes for Monika to come down."
-    ""
+    "Espero unos minutos a que baje Monika."
 
 # game/d5.rpy:67
 translate spanish d5_f2da239a:
 
     # m "Hey! Good to go?"
-    m ""
+    m "¡Eh! ¿Listo?"
 
 # game/d5.rpy:69
 translate spanish d5_f2ff1023:
 
     # mc "Yep! Let's not keep Sayori and MC waiting."
-    mc ""
+    mc "Sí, no hagamos esperar a Sayori y MC."
 
 # game/d5.rpy:70
 translate spanish d5_1feefaaa:
 
     # "We grab our things, and head out the door."
-    ""
+    "Cogemos las cosas y salimos."
 
 # game/d5.rpy:74
 translate spanish d5_d86cf752:
 
     # "I lock up as usual, and we head on over."
-    ""
+    "Cierro la puerta como siempre y nos vamos para allá."
 
 # game/d5.rpy:78
 translate spanish d5_5e9ccd95:
 
     # "We reach Sayori's house."
-    ""
+    "Llegamos a casa de Sayori."
 
 # game/d5.rpy:79
 translate spanish d5_5a45de34:
 
     # "I ring the doorbell."
-    ""
+    "Toco el timbre."
 
 # game/d5.rpy:80
 translate spanish d5_38d154c6:
 
     # s "Come in!"
-    s ""
+    s "¡Pasad!"
 
 # game/d5.rpy:82
 translate spanish d5_b6edf347:
 
     # "I open the door, and step inside."
-    ""
+    "Abro la puerta y entro."
 
 # game/d5.rpy:86
 translate spanish d5_14df5b9b:
 
     # "Monika closes the door behind us."
-    ""
+    "Monika cierra la puerta detrás de nosotros."
 
 # game/d5.rpy:87
 translate spanish d5_325935ca:
 
     # "MC is in the kitchen while Sayori gets up from the couch to greet us."
-    ""
+    "MC está en la cocina y Sayori se levanta del sofá para saludarnos."
 
 # game/d5.rpy:89
 translate spanish d5_8f1feb0a:
 
     # s "Hey guys!"
-    s ""
+    s "¡Hola, chicos!"
 
 # game/d5.rpy:91
 translate spanish d5_7f814ad9:
 
     # p "Good Morning!"
-    p ""
+    p "¡Buenos días!"
 
 # game/d5.rpy:92
 translate spanish d5_3c4f6da4:
 
     # p "I'll have everything ready in a minute."
-    p ""
+    p "En un minuto lo tengo todo listo."
 
 # game/d5.rpy:93
 translate spanish d5_a3ef5b48:
 
     # mc "Okay!"
-    mc ""
+    mc "Vale."
 
-# game/d5.rpy:94
+## game/d5.rpy:94
 translate spanish d5_13d71369:
 
     # "We all head over to the kitchen."
-    ""
+    "Nos vamos todos a la cocina."
 
 # game/d5.rpy:99
 translate spanish d5_ea772bda:
 
     # "We take a seat at the table and start chatting."
-    ""
+    "Nos sentamos a la mesa y empezamos a charlar."
 
 # game/d5.rpy:101
 translate spanish d5_5b05b2ea:
 
     # m "Sooo,{w=0.5} what did you two do during the festival yesterday?"
-    m ""
+    m "Bueno, ¿y qué hicisteis vosotros dos en el festival ayer?"
 
 # game/d5.rpy:104
 translate spanish d5_9c1d1622:
 
     # s "Ohoho,{w=0.5} let me tell you a story,{w=0.5} Monika!"
-    s ""
+    s "Je, je, je, ¡déjame contarte una historia, Monika!"
 
 # game/d5.rpy:105
 translate spanish d5_181a78fa:
 
     # s 1c "So we went around for a bit, right?"
-    s 1c ""
+    s 1c "Pues estuvimos dando una vuelta, ¿vale?"
 
 # game/d5.rpy:106
 translate spanish d5_50dcc645:
 
     # s "And we pass by the Anime club's room!"
-    s ""
+    s "Y pasamos por el aula del club de anime."
 
 # game/d5.rpy:107
 translate spanish d5_0cf1a6e6:
 
     # s 1x "There was some music playing, and mumbling in the room."
-    s 1x ""
+    s 1x "Se oía música y gente murmurando dentro."
 
 # game/d5.rpy:108
 translate spanish d5_440e2463:
 
     # s 3j "And MC was like {i}\"I know this one!\"{/i}"
-    s 3j ""
+    s 3j "Y va MC y suelta: \"¡Esta me la sé!\""
 
 # game/d5.rpy:109
 translate spanish d5_b647ebd9:
 
     # s turned ldown rdown neut mc e4c b1d "So this idiot opens the door and blurts out the name of the song and the anime it came from."
-    s turned ldown rdown neut mc e4c b1d ""
+    s turned ldown rdown neut mc e4c b1d "Así que este pringado abre la puerta y suelta el nombre de la canción y del anime en voz alta."
 
 # game/d5.rpy:110
 translate spanish d5_e60ace5d:
 
     # s 2x "The room falls silent, and then some guy says he got it right!"
-    s 2x ""
+    s 2x "Se quedan todos callados y uno dice que ha acertado."
 
 # game/d5.rpy:111
 translate spanish d5_2983b54c:
 
     # s 1l "I found out later that they were guessing anime openings."
-    s 1l ""
+    s 1l "Luego me enteré de que estaban jugando a adivinar openings de anime."
 
 # game/d5.rpy:113
 translate spanish d5_99004178:
 
     # p "You guys are talking about me as if I'm not even here!"
-    p ""
+    p "¡Que estoy aquí delante, eh!"
 
 # game/d5.rpy:115
 translate spanish d5_d768ec51:
 
     # s "Shush!"
-    s ""
+    s "¡Chitón!"
 
 # game/d5.rpy:116
 translate spanish d5_2bacd2fb:
 
     # s 4j "I'm telling a story!"
-    s 4j ""
+    s 4j "¡Que estoy contando una historia!"
 
 # game/d5.rpy:118
 translate spanish d5_61e57a92:
 
     # p "Hehe, okay..."
-    p ""
+    p "Je, je, vale..."
 
 # game/d5.rpy:120
 translate spanish d5_83736107:
 
     # s "So anyway, I had to go prepare for the haunted house my class was doing, so I said goodbye to MC and went off."
-    s ""
+    s "Bueno, que tuve que irme a preparar la casa del terror de mi clase, así que dejé a MC y me fui."
 
 # game/d5.rpy:121
 translate spanish d5_015fea80:
 
     # s 4m "And while I was gone, in the short span of lunch, he managed to become an honorary member of the club, learn to handle a katana, and restart a war over who best girl is!"
-    s 4m ""
+    s 4m "Y mientras yo no estaba, en lo que dura el recreo, va y se hace miembro honorífico del club, aprende a manejar una katana y monta otra vez la guerra de quién es la mejor waifu."
 
 # game/d5.rpy:122
 translate spanish d5_4a8c33d6:
 
     # s 1x "So then...{w=0.5}{nw}"
-    s 1x ""
+    s 1x "Y entonces..."
 
 # game/d5.rpy:125
 translate spanish d5_73a80065:
 
     # s "So then...{fast}Ooh!"
-    s ""
+    s "Y entonces... ¡Uy!"
 
 # game/d5.rpy:129
 translate spanish d5_de83f1ad:
 
     # "MC comes over from the counter."
-    ""
+    "MC viene desde la encimera."
 
 # game/d5.rpy:130
 translate spanish d5_85530cb4:
 
     # "He sets down a bunch of plates with various foods."
-    ""
+    "Deja un montón de platos con comida variada."
 
 # game/d5.rpy:132
 translate spanish d5_74ac6d82:
 
     # p "We got bread, salami, and a whole bunch of other stuff!"
-    p ""
+    p "Hay pan, salami y un montón de cosas más."
 
 # game/d5.rpy:133
 translate spanish d5_5eb02265:
 
     # p 5l "Dig in!"
-    p 5l ""
+    p 5l "¡A comer!"
 
 # game/d5.rpy:137
 translate spanish d5_a01e336e:
 
     # "We start filling our plates with the ingredients laid out."
-    ""
+    "Empezamos a llenar los platos con todo lo que hay."
 
 # game/d5.rpy:138
 translate spanish d5_77a326f9:
 
     # "And as such, we eat to our heart's content."
-    ""
+    "Y nada, comemos hasta hartarnos."
 
 # game/d5.rpy:141
 translate spanish d5_af61cfd6:
 
     # s "Anyway-"
-    s ""
+    s "Bueno, a lo que iba..."
 
 # game/d5.rpy:144
 translate spanish d5_94f7a468:
 
     # p "Not much actually happened."
-    p ""
+    p "En verdad tampoco pasó gran cosa."
 
 # game/d5.rpy:147
 translate spanish d5_42bf5687:
 
     # p 1c "Besides, I already joined the Literature club!"
-    p 1c ""
+    p 1c "Además, ¡ya me he apuntado al club de literatura!"
 
 # game/d5.rpy:148
 translate spanish d5_c0f680fe:
 
     # p 1l "No going back now!"
-    p 1l ""
+    p 1l "¡Ya no hay marcha atrás!"
 
 # game/d5.rpy:151
 translate spanish d5_56ca4b2e:
 
     # s "Mhm!"
-    s ""
+    s "Eso es."
 
 # game/d5.rpy:154
 translate spanish d5_e3d1d9e0:
 
     # m "Good, because otherwise I'd have had to get Sayori to drag you back to the club."
-    m ""
+    m "Bien, porque si no, habría tenido que pedirle a Sayori que te arrastrara de vuelta al club."
 
 # game/d5.rpy:157
 translate spanish d5_a012ac5a:
 
     # m 3n "But uhh,{w=0.5} everyone..."
-    m 3n ""
+    m 3n "Pero bueno, chicos..."
 
 # game/d5.rpy:158
 translate spanish d5_eda188bf:
 
     # m 3l "Not to be a downer, but look at the time..."
-    m 3l ""
+    m 3l "No es por cortar el rollo, pero mirad la hora..."
 
 # game/d5.rpy:161
 translate spanish d5_9dbab550:
 
     # s "Oh no! We're gonna be late!"
-    s ""
+    s "¡Ay madre! ¡Que llegamos tarde!"
 
 # game/d5.rpy:168
 translate spanish d5_37e2022d:
 
     # "Everyone rushes to get cleaned up and throw the leftovers into the fridge."
-    ""
+    "Todos nos ponemos a recoger y a meter las sobras en la nevera a toda leche."
 
 # game/d5.rpy:169
 translate spanish d5_7bc101f3:
 
     # "I quickly pass everyone their bag, and we charge out the door."
-    ""
+    "Reparto las mochilas a toda prisa y salimos pitando."
 
 # game/d5.rpy:172
 translate spanish d5_c90537e1:
 
     # "MC locks up the door, and we start running."
-    ""
+    "MC cierra la puerta y echamos a correr."
 
 # game/d5.rpy:175
 translate spanish d5_1717fc47:
 
     # "We start making our way towards the school as fast as humanly possible."
-    ""
+    "Vamos hacia el insti todo lo rápido que podemos."
 
 # game/d5.rpy:176
 translate spanish d5_e553eebd:
 
     # m "You know, [player],{w=0.5} it's at times like this where I wish I still had access to my console!"
-    m ""
+    m "¿Sabes, [player]? En momentos como este echo de menos tener mi consola a mano."
 
 # game/d5.rpy:179
 translate spanish d5_41d3e1c5:
 
     # m "Yeah,{w=0.5} if only..."
-    m ""
+    m "Ya... ojalá..."
 
 # game/d5.rpy:181
 translate spanish d5_a3d3b84c:
 
     # m "Dang."
-    m ""
+    m "Vaya tela."
 
 # game/d5.rpy:183
 translate spanish d5_8c74867f:
 
     # m "Back to running!"
-    m ""
+    m "¡A seguir corriendo!"
 
 # game/d5.rpy:186
 translate spanish d5_4b1fc100:
 
     # "We arrive at the school gate."
-    ""
+    "Llegamos a la puerta del insti."
 
 # game/d5.rpy:187
 translate spanish d5_091a6a88:
 
     # "Almost as soon as we step inside, the bell rings."
-    ""
+    "Nada más entrar, suena la campana."
 
 # game/d5.rpy:188
 translate spanish d5_58c7992e:
 
     # s "See ya later!"
-    s ""
+    s "¡Nos vemos!"
 
 # game/d5.rpy:189
 translate spanish d5_86d347c9:
 
     # m "See you!"
-    m ""
+    m "¡Hasta luego!"
 
 # game/d5.rpy:190
 translate spanish d5_9a52359c:
 
     # p "Bye!"
-    p ""
+    p "¡Adiós!"
 
 # game/d5.rpy:191
 translate spanish d5_b32e8497:
 
     # mc "See you later!"
-    mc ""
+    mc "¡Nos vemos luego!"
 
 # game/d5.rpy:192
 translate spanish d5_6e968cb7:
 
     # "Monika and I run off to class."
-    ""
+    "Monika y yo salimos pitando a clase."
 
 # game/d5.rpy:197
 translate spanish d5_4c2061be:
 
     # "I take a seat, and Monika does too."
-    ""
+    "Me siento y Monika también."
 
 # game/d5.rpy:200
 translate spanish d5_6cda2274:
 
     # "As always, class ends with the ring of the bell."
-    ""
+    "Como siempre, la clase termina con la campana."
 
 # game/d5.rpy:201
 translate spanish d5_a4236fc7:
 
     # "I pack up my stuff, and look over at Monika."
-    ""
+    "Recojo mis cosas y miro a Monika."
 
 # game/d5.rpy:203
 translate spanish d5_850da547:
 
     # mc "Good to go?"
-    mc ""
+    mc "¿Listo?"
 
 # game/d5.rpy:204
 translate spanish d5_87a979e4:
 
     # m 1b "Yep!"
-    m 1b ""
+    m 1b "¡Eso es!"
 
 # game/d5.rpy:206
 translate spanish d5_09154442:
 
     # "We get up, and walk over to the clubroom."
-    ""
+    "Nos levantamos y vamos al club."
 
 # game/d5.rpy:210
 translate spanish d5_27bb1d92:
 
     # "There are plenty of students running around."
-    ""
+    "Hay un montón de estudiantes de aquí para allá."
 
 # game/d5.rpy:211
 translate spanish d5_b983a899:
 
     # "Most of them are helping clean up the mess from yesterday's festival."
-    ""
+    "La mayoría están recogiendo el lío del festival de ayer."
 
 # game/d5.rpy:212
 translate spanish d5_12e8201b:
 
     # "As such, we have some work to do at the clubroom too."
-    ""
+    "Así que a nosotros también nos toca currar en el club."
 
 # game/d5.rpy:213
 translate spanish d5_5a7a4b82:
 
     # "We step inside."
-    ""
+    "Entramos."
 
 # game/d5.rpy:216
 translate spanish d5_cffd00cc:
 
     # "It seems like we showed up at almost the same time as everyone else."
-    ""
+    "Parece que hemos llegado casi a la vez que los demás."
 
 # game/d5.rpy:217
 translate spanish d5_607a724d:
 
     # "They unpack their things and start cleaning up."
-    ""
+    "Sacan sus cosas y se ponen a limpiar."
 
 # game/d5.rpy:219
 translate spanish d5_7457fae5:
 
     # "Natsuki's at the back of the room."
-    ""
+    "Natsuki está al fondo del aula."
 
 # game/d5.rpy:220
 translate spanish d5_ece2d4c2:
 
     # "She puts on blue gloves."
-    ""
+    "Se pone unos guantes azules."
 
 # game/d5.rpy:221
 translate spanish d5_de354f06:
 
     # "Seems that she's handling the garbage pile up and cleaning the floors."
-    ""
+    "Parece que le ha tocado encargarse de la basura y de limpiar el suelo."
 
 # game/d5.rpy:225
 translate spanish d5_3f8cdd4b:
 
     # "Sayori is getting wipes and scrapers for the candles."
-    ""
+    "Sayori está cogiendo toallitas y rascadores para las velas."
 
 # game/d5.rpy:226
 translate spanish d5_381d5d88:
 
     # "She hums a tune while she works."
-    ""
+    "Tararea mientras trabaja."
 
 # game/d5.rpy:230
 translate spanish d5_cbd9988b:
 
     # "Yuri goes into the closet to grab a step stool."
-    ""
+    "Yuri entra al armario a por un taburete."
 
 # game/d5.rpy:231
 translate spanish d5_e46df8fb:
 
     # "She sets it at the foot of the banner."
-    ""
+    "Lo pone justo debajo de la pancarta."
 
 # game/d5.rpy:235
 translate spanish d5_7ec58ef8:
 
     # "Monika goes to her desk and starts to sort out the club's documents."
-    ""
+    "Monika va a su mesa y empieza a ordenar los papeles del club."
 
 # game/d5.rpy:236
 translate spanish d5_6132f4fb:
 
     # "She pulls out a small stack and begins to get them all signed and ready to hand in."
-    ""
+    "Saca un pequeño montón y se pone a firmarlos y a prepararlos para entregarlos."
 
 # game/d5.rpy:240
 translate spanish d5_a95c810a:
 
     # "MC walks into the room."
-    ""
+    "MC entra en el aula."
 
 # game/d5.rpy:241
 translate spanish d5_2b507774:
 
     # "He gets his things together and goes over to help Sayori."
-    ""
+    "Recoge sus cosas y va a ayudar a Sayori."
 
 # game/d5.rpy:245
 translate spanish d5_6c88e2bc:
 
     # y "[player], could you help me with the banner please?"
-    y ""
+    y "¿[player], me echas una mano con la pancarta?"
 
 # game/d5.rpy:247
 translate spanish d5_b9710c73:
 
     # mc "Sure thing."
-    mc ""
+    mc "Claro."
 
 # game/d5.rpy:250
 translate spanish d5_a3054a2a:
 
     # "I go over to Yuri and help her take down the huge banner."
-    ""
+    "Voy con Yuri y la ayudo a quitar la pancarta enorme."
 
 # game/d5.rpy:251
 translate spanish d5_63000867:
 
     # "We get it down, and she puts it in her bag."
-    ""
+    "La bajamos y la guarda en su bolsa."
 
 # game/d5.rpy:252
 translate spanish d5_f9a3d373:
 
     # "I go over to Monika."
-    ""
+    "Me acerco a Monika."
 
 # game/d5.rpy:254
 translate spanish d5_087056e9:
 
     # mc "Need any help?"
-    mc ""
+    mc "¿Necesitas ayuda?"
 
 # game/d5.rpy:255
 translate spanish d5_46f1d33d:
 
     # m 1d "I could use some."
-    m 1d ""
+    m 1d "Me vendría bien, sí."
 
 # game/d5.rpy:256
 translate spanish d5_ffceb216:
 
     # m "Can you bring these to the student council for me please?"
-    m ""
+    m "¿Puedes llevar estos papeles al consejo estudiantil por mí?"
 
 # game/d5.rpy:258
 translate spanish d5_606e2d02:
 
     # mc "Sure."
-    mc ""
+    mc "Vale."
 
 # game/d5.rpy:259
 translate spanish d5_5e03e3d6:
 
     # m 1b "Thanks!"
-    m 1b ""
+    m 1b "¡Gracias!"
 
 # game/d5.rpy:262
 translate spanish d5_74a7b9ae:
 
     # "I head over to the student council room."
-    ""
+    "Voy al aula del consejo estudiantil."
 
 # game/d5.rpy:263
 translate spanish d5_93b13dfa:
 
     # "I knock on the door."
-    ""
+    "Llamo a la puerta."
 
 # game/d5.rpy:264
 translate spanish d5_d949247c:
 
     # "The president opens the door."
-    ""
+    "Abre la puerta la presidenta."
 
 # game/d5.rpy:265
 translate spanish d5_df04007c:
 
     # mc "Hello! I'm here to hand over some documents."
-    mc ""
+    mc "¡Hola! Vengo a entregar unos papeles."
 
 # game/d5.rpy:266
 translate spanish d5_9101c94e:
 
     # "Miyuki" "\"Okay, I can take them here if you'd like.\""
-    "Miyuki" ""
+    "Miyuki" "\"Vale, me los puedes dar aquí si quieres.\""
 
 # game/d5.rpy:267
 translate spanish d5_08ad240c:
 
     # mc "Here you go."
-    mc ""
+    mc "Aquí tienes."
 
 # game/d5.rpy:268
 translate spanish d5_da80d23e:
 
     # "Miyuki" "\"Thank you!\""
-    "Miyuki" ""
+    "Miyuki" "\"¡Gracias!\""
 
 # game/d5.rpy:269
 translate spanish d5_97927e51:
 
     # "I head back to the clubroom."
-    ""
+    "Vuelvo al aula del club."
 
 # game/d5.rpy:272
 translate spanish d5_0a2be53c:
 
     # "The clubroom is mostly cleaned up by now."
-    ""
+    "El aula del club ya está casi recogida."
 
 # game/d5.rpy:273
 translate spanish d5_b5e57668:
 
     # "There is still a bit of garbage scattered around on the floor though."
-    ""
+    "Aunque todavía queda algo de basura por el suelo."
 
 # game/d5.rpy:274
 translate spanish d5_9f86f2c0:
 
     # "I go over to the closet and grab a pair of blue gloves from the box."
-    ""
+    "Voy al armario y cojo unos guantes azules de la caja."
 
 # game/d5.rpy:275
 translate spanish d5_03216b8b:
 
     # "While Natsuki's handling brooming up the loose things, I go and find a mop."
-    ""
+    "Mientras Natsuki barre lo que queda, yo busco una fregona."
 
 # game/d5.rpy:276
 translate spanish d5_941d1122:
 
     # "I get the areas that Natsuki broomed up, and make sure any marks on the floor get cleaned off."
-    ""
+    "Repaso las zonas que ha barrido Natsuki y me aseguro de quitar las manchas del suelo."
 
 # game/d5.rpy:277
 translate spanish d5_8eac17a3:
 
     # "Thankfully, it doesn't take that long, so I finish it without a hitch."
-    ""
+    "Por suerte, no tardo mucho y lo dejo listo sin problemas."
 
 # game/d5.rpy:278
 translate spanish d5_d8cefd4f:
 
     # "And from the looks of things, I think everyone else is also done thier duties."
-    ""
+    "Y por lo que veo, los demás también han acabado lo suyo."
 
 # game/d5.rpy:281
 translate spanish d5_90de9c4d:
 
     # m "Okay, everyone!"
-    m ""
+    m "¡Bueno, chicos!"
 
 # game/d5.rpy:282
 translate spanish d5_7312f8ec:
 
     # m "I have an idea!"
-    m ""
+    m "¡Se me ha ocurrido algo!"
 
 # game/d5.rpy:283
 translate spanish d5_3e1a8932:
 
     # m 1b "Why don't we celebrate finishing the festival yesterday!"
-    m 1b ""
+    m 1b "¿Por qué no celebramos que ayer terminamos el festival?"
 
 # game/d5.rpy:284
 translate spanish d5_7536ee38:
 
     # m "What do you all think of going to a cafe tomorrow for our club activity?"
-    m ""
+    m "¿Qué os parece si mañana vamos a una cafetería como actividad del club?"
 
 # game/d5.rpy:286
 translate spanish d5_8eef71a8:
 
     # s "Ooh! Yeah I'm in!"
-    s ""
+    s "¡Oh! ¡Yo me apunto!"
 
 # game/d5.rpy:287
 translate spanish d5_5b5fdb77:
 
     # m 1b "Everyone else ok with that?"
-    m 1b ""
+    m 1b "¿Los demás estáis de acuerdo?"
 
 # game/d5.rpy:289
 translate spanish d5_3dac65cd:
 
     # mc "I'm cool with it."
-    mc ""
+    mc "Por mí, perfecto."
 
 # game/d5.rpy:290
 translate spanish d5_bb7f7cf6:
 
     # p "Same."
-    p ""
+    p "Igual."
 
 # game/d5.rpy:291
 translate spanish d5_136529cb:
 
     # y "Sure."
-    y ""
+    y "Claro."
 
 # game/d5.rpy:292
 translate spanish d5_684c35fa:
 
     # n "Okay!"
-    n ""
+    n "¡Vale!"
 
 # game/d5.rpy:293
 translate spanish d5_29f5d344:
 
     # m 1b "Okay!{w=0.5} Then it's decided!"
-    m 1b ""
+    m 1b "¡Genial! ¡Pues decidido!"
 
 # game/d5.rpy:294
 translate spanish d5_a888894d:
 
     # m 3k "Tomorrow we'll go to a cafe to celebrate!"
-    m 3k ""
+    m 3k "¡Mañana nos vamos a una cafetería a celebrarlo!"
 
 # game/d5.rpy:295
 translate spanish d5_012db33b:
 
     # m "I'll try to find something nearby tonight where we can go."
-    m ""
+    m "Esta noche busco algún sitio cerca donde podamos ir."
 
 # game/d5.rpy:296
 translate spanish d5_62417925:
 
     # m "Until then though, I think this is all we're doing for today."
-    m ""
+    m "Pero por hoy, creo que ya hemos hecho bastante."
 
 # game/d5.rpy:299
 translate spanish d5_e1b0d13a:
 
     # "Everyone grabs their things."
-    ""
+    "Todos recogemos nuestras cosas."
 
 # game/d5.rpy:301
 translate spanish d5_e17ab511:
 
     # mc "Ready to head home?"
-    mc ""
+    mc "¿Listos para irnos a casa?"
 
 # game/d5.rpy:302
 translate spanish d5_b0bd12ae:
