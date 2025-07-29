@@ -34,7 +34,7 @@ translate spanish d1_4ed6ba8a:
 translate spanish d1_fce244ad_1:
 
     # "???" "...[player]..."
-    "???" "...[player]..."
+    "???" "... [player]..."
 
 # game/d1.rpy:12
 translate spanish d1_bb03cc26:
@@ -82,7 +82,7 @@ translate spanish d1_d59b92d5:
 translate spanish d1_3d18075d:
 
     # m "Remember the 'hole in the wall' I wrote about?"
-    m "¿Te acuerdas del 'agujero en la pared' del que escribí?"
+    m "¿Te acuerdas del 'agujero en la pared' del que escribí en aquel poema?"
 
 # game/d1.rpy:35
 translate spanish d1_22288ad7:
@@ -100,7 +100,7 @@ translate spanish d1_6a580e6b:
 translate spanish d1_6cc2e82b:
 
     # m "His interactions are yours."
-    m "Sus movidas son las tuyas."
+    m "Tú eres él, y él eres tú."
 
 # game/d1.rpy:38
 translate spanish d1_1bef7c8e:
@@ -130,7 +130,7 @@ translate spanish d1_54293133:
 translate spanish d1_293951d5:
 
     # m "Thank you so much... I wish I could hug you for real right now to thank you. But, well, I think I can hug {i}you{/i} for now~!"
-    m "Muchísimas gracias... Ojalá pudiera abrazarte de verdad ahora mismo para darte las gracias. Pero bueno, por ahora te abrazaré a 'ti'!"
+    m "Muchísimas gracias... Ojalá pudiera abrazarte de verdad ahora mismo para darte las gracias. Pero bueno, ¡por ahora, te abrazaré a 'ti'!"
 
 # game/d1.rpy:52
 translate spanish d1_07c2bb7d:
@@ -148,7 +148,7 @@ translate spanish d1_eb192c8b:
 translate spanish d1_5e552911:
 
     # m "And the mod makes anyone around us, including this avatar of your's, to ignore any speech or questions I direct towards {i}you{/i}."
-    m "Y el mod hace que cualquiera a nuestro alrededor, incluido ese prota tuyo, pase de cualquier cosa que yo te diga o te pregunte a {i}ti{/i}."
+    m "Y el mod hace que cualquiera a nuestro alrededor, incluido ese prota tuyo, pase de cualquier cosa que yo te diga o te pregunte a 'ti'."
 
 # game/d1.rpy:55
 translate spanish d1_f0db4c8f:
@@ -160,13 +160,13 @@ translate spanish d1_f0db4c8f:
 translate spanish d1_fc7e0413:
 
     # m "So don't be too surprised by it."
-    m "Así que no te sorprendas demasiado por eso."
+    m "Así que no te sorprendas demasiado si ocurre."
 
 # game/d1.rpy:57
 translate spanish d1_81b8fdde:
 
     # m "The mod made a few changes to the script too."
-    m "El mod también ha hecho algunos cambios en el guion."
+    m "El mod también ha hecho algunos cambios en el guión."
 
 # game/d1.rpy:60
 translate spanish d1_c62ec1cc:
@@ -178,13 +178,13 @@ translate spanish d1_c62ec1cc:
 translate spanish d1_ed22cfee:
 
     # m "And because it's done that, it gave me and everyone else new memories."
-    m "Y por eso, nos ha dado recuerdos nuevos a todos, incluyéndome a mí."
+    m "Y, por eso, nos ha dado recuerdos nuevos a todos, incluyéndome a mí."
 
 # game/d1.rpy:64
 translate spanish d1_1dbbfbd1:
 
     # m "Yeah."
-    m "Sí."
+    m "Sí..."
 
 # game/d1.rpy:65
 translate spanish d1_c7b22ec9:
@@ -196,25 +196,25 @@ translate spanish d1_c7b22ec9:
 translate spanish d1_d6f5b479:
 
     # m "The game world follows a script."
-    m "El mundo del juego sigue un guion."
+    m "El mundo del juego sigue un guión."
 
 # game/d1.rpy:69
 translate spanish d1_0c664643:
 
     # m "So when you change the script, everything in the world changes along with it."
-    m "Así que si cambias el guion, todo en el mundo cambia con él."
+    m "Así que si cambias el guión, todo en el mundo cambia con él."
 
 # game/d1.rpy:70
 translate spanish d1_3e8563fc:
 
     # m "For example, if you write in the script that we were dating for two years,"
-    m "Por ejemplo, si pones en el guion que llevamos saliendo dos años,"
+    m "Por ejemplo, si pones en el guión que llevamos saliendo dos años,"
 
 # game/d1.rpy:73
 translate spanish d1_d0326968:
 
     # m "Then I would get memories of spending the last two years with you."
-    m "Entonces yo tendría recuerdos de haber pasado esos dos años contigo."
+    m "entonces yo tendría recuerdos de haber pasado esos dos años contigo."
 
 # game/d1.rpy:74
 translate spanish d1_ac465e6b:
@@ -226,7 +226,7 @@ translate spanish d1_ac465e6b:
 translate spanish d1_5398b5fd:
 
     # m "But now in the mod, the script is a bit different."
-    m "Pero ahora, en el mod, el guion es un poco distinto."
+    m "Pero ahora, en el mod, el guión es un poco distinto."
 
 # game/d1.rpy:78
 translate spanish d1_83881154:
@@ -238,7 +238,7 @@ translate spanish d1_83881154:
 translate spanish d1_4bb3f649:
 
     # m "But I also have a few new memories of what happened during the club."
-    m "Pero también tengo algunos recuerdos nuevos de lo que pasó en el club."
+    m "pero también tengo algunos recuerdos nuevos de lo que pasó en el club."
 
 # game/d1.rpy:80
 translate spanish d1_f25feb56:
@@ -256,13 +256,13 @@ translate spanish d1_d9852719:
 translate spanish d1_7035b7a9:
 
     # m "MC and Natsuki are the only ones in a class without any other club members."
-    m "MC y Natsuki son los únicos que están en una clase sin más miembros del club."
+    m "Vamos, que 'el protagonista' y Natsuki son los únicos que están en una clase sin más miembros del club."
 
 # game/d1.rpy:83
 translate spanish d1_1c9ca678:
 
     # m "Of course, MC was still dragged to the club by Sayori on that fateful day."
-    m "Eso sí, MC sigue siendo arrastrado al club por Sayori aquel día fatídico."
+    m "Eso sí, dicho 'protagonista' sigue siendo arrastrado al club por Sayori aquel día fatídico."
 
 # game/d1.rpy:84
 translate spanish d1_f959cd21:
@@ -280,7 +280,7 @@ translate spanish d1_9e464b10:
 translate spanish d1_f02ccad3:
 
     # m "The mod also gave the original MC a body and his own character."
-    m "El mod también le ha dado al MC original un cuerpo y su propia personalidad."
+    m "El mod también le ha dado al protagonista original un cuerpo y su propia personalidad."
 
 # game/d1.rpy:87
 translate spanish d1_ae5e1b7b:
@@ -292,7 +292,7 @@ translate spanish d1_ae5e1b7b:
 translate spanish d1_0a4e474f:
 
     # m "We never had any parents, so the mod gave us the original MC's house as a place to stay."
-    m "Nunca tuvimos padres, así que el mod nos ha dado la casa del MC original para vivir."
+    m "Nunca tuvimos padres, así que el mod nos ha dado la casa del prota original para vivir."
 
 # game/d1.rpy:89
 translate spanish d1_5e185425:
@@ -340,13 +340,13 @@ translate spanish d1_73fe8f5d:
 translate spanish d1_433e1288:
 
     # m "Aw, that's sweet."
-    m "Ay, qué mono."
+    m "Ay, qué mono..."
 
 # game/d1.rpy:103
 translate spanish d1_64f6a565:
 
     # m "By the looks of things, I think he and Sayori are also living together."
-    m "Y por lo que veo, creo que también viven juntos."
+    m "Y, por lo que veo, creo que también viven juntos."
 
 # game/d1.rpy:104
 translate spanish d1_45b766c7:
@@ -406,7 +406,7 @@ translate spanish d1_5c746c2b_1:
 translate spanish d1_46fcba2a:
 
     # m "You get flustered so easily~"
-    m "Te pones nervioso enseguida"
+    m "Te pones nervioso enseguida, ¿eh?"
 
 # game/d1.rpy:133
 translate spanish d1_f18740ff:
