@@ -7668,1379 +7668,1379 @@ translate spanish exitgym_e9721ff3_2:
 translate spanish exitgym_3795708a:
 
     # "We step inside, and there's a whole lotta people already here."
-    ""
+    "Entramos y esto ya está hasta arriba de gente."
 
 # game/d4.rpy:2130
 translate spanish exitgym_beb6f8f8:
 
     # "I spot an empty row to the right of us."
-    ""
+    "Veo una fila vacía a la derecha."
 
 # game/d4.rpy:2131
 translate spanish exitgym_4f65bc67:
 
     # mc "Let's sit here."
-    mc ""
+    mc "Vamos a sentarnos aquí."
 
 # game/d4.rpy:2132
 translate spanish exitgym_9d23bd43_2:
 
     # m "Sure."
-    m ""
+    m "Vale."
 
 # game/d4.rpy:2133
 translate spanish exitgym_484f0b92:
 
     # "We step into the middle of the row and sit down."
-    ""
+    "Nos metemos por el medio y nos sentamos."
 
 # game/d4.rpy:2134
 translate spanish exitgym_b4485cc2:
 
     # "More students slowly make their way into the auditorium."
-    ""
+    "Poco a poco va entrando más gente al auditorio."
 
 # game/d4.rpy:2135
 translate spanish exitgym_47390eff:
 
     # "The doors close, and we sit there waiting."
-    ""
+    "Cierran las puertas y nos quedamos esperando."
 
 # game/d4.rpy:2136
 translate spanish exitgym_cbbc618e:
 
     # "Soon enough, the curtains get raised and the crowd claps."
-    ""
+    "Al poco, se levantan las cortinas y la gente aplaude."
 
 # game/d4.rpy:2137
 translate spanish exitgym_66f37151:
 
     # "The school band and choir get revealed from under them."
-    ""
+    "Aparecen la banda y el coro del insti."
 
 # game/d4.rpy:2138
 translate spanish exitgym_e59a8a04:
 
     # "The conductor speaks up."
-    ""
+    "El director de orquesta toma la palabra."
 
 # game/d4.rpy:2139
 translate spanish exitgym_794b8fec:
 
     # "Conductor" "\"Thank you everyone for being here!\""
-    "Conductor" ""
+    "Director" "\"¡Gracias a todos por venir!\""
 
 # game/d4.rpy:2140
 translate spanish exitgym_c5bb496d:
 
     # "Conductor" "\"For our first song we will perform the main theme of {i}\"GATE, and thus the JSDF fought there.\"{/i}.\""
-    "Conductor" ""
+    "Director" "\"Para empezar, vamos a tocar el tema principal de 'GATE, y así luchó allí la JSDF'.\""
 
 # game/d4.rpy:2142
 translate spanish exitgym_605a648b:
 
     # "He raises the wand, and the band begins to play."
-    ""
+    "Levanta la batuta y la banda empieza a tocar."
 
 # game/d4.rpy:2143
 translate spanish exitgym_4c7a9d50:
 
     # "The concert goes on, and we listen to the wonderful music the band plays."
-    ""
+    "El concierto sigue y escuchamos la música tan chula que tocan."
 
 # game/d4.rpy:2144
 translate spanish exitgym_e515aa9a:
 
     # "Monika listens and seems to enjoy the music."
-    ""
+    "Monika escucha y parece que le está gustando mucho."
 
 # game/d4.rpy:2145
 translate spanish exitgym_fd52e77d:
 
     # "I'm happy she likes it so much."
-    ""
+    "Me alegra que le guste tanto."
 
 # game/d4.rpy:2148
 translate spanish exitgym_eea5a279:
 
     # "An hour passes as the final song concludes."
-    ""
+    "Pasa una hora y termina la última canción."
 
 # game/d4.rpy:2150
 translate spanish exitgym_7fb097c7:
 
     # "The crowd claps once again."
-    ""
+    "El público vuelve a aplaudir."
 
 # game/d4.rpy:2151
 translate spanish exitgym_29d4fe4e:
 
     # "Conductor" "\"Thank you everyone for coming out today!\""
-    "Conductor" ""
+    "Director" "\"¡Gracias a todos por venir hoy!\""
 
 # game/d4.rpy:2152
 translate spanish exitgym_18a9a7a1:
 
     # "Conductor" "\"But stay where you are!\""
-    "Conductor" ""
+    "Director" "\"¡Pero no os vayáis todavía!\""
 
 # game/d4.rpy:2153
 translate spanish exitgym_dcb3a410:
 
     # "Conductor" "\"Next up the school's Light Music club will be performing!\""
-    "Conductor" ""
+    "Director" "\"Ahora le toca al club de música ligera del insti.\""
 
 # game/d4.rpy:2154
 translate spanish exitgym_5953ec95:
 
     # "Conductor" "\"They will start in like five minutes just so we can pack up here.\""
-    "Conductor" ""
+    "Director" "\"Empiezan en cinco minutos, en lo que recogemos esto.\""
 
 # game/d4.rpy:2155
 translate spanish exitgym_58f4a412:
 
     # "The curtains close, as I hear the scramble of stands and instruments rushing to get off the stage."
-    ""
+    "Se cierran las cortinas y se oye el trajín de atriles y cacharros saliendo del escenario."
 
 # game/d4.rpy:2156
 translate spanish exitgym_0f6dfa50:
 
     # m "I never thought they'd play an anime opening at a school concert."
-    m ""
+    m "Nunca pensé que tocarían una intro de anime en un concierto del insti."
 
 # game/d4.rpy:2157
 translate spanish exitgym_b793d8a4:
 
     # m "I'm not complaining though. They pulled it off great."
-    m ""
+    m "Pero oye, les ha quedado de lujo."
 
 # game/d4.rpy:2158
 translate spanish exitgym_9c408a4f:
 
     # m "I should really practice my piano more, then maybe I could play something more for you~"
-    m ""
+    m "Tengo que practicar más el piano, a ver si así te puedo tocar algo más chulo."
 
 # game/d4.rpy:2159
 translate spanish exitgym_dc02b7b5:
 
     # "A few moments later, the curtains begin to rise again."
-    ""
+    "Al rato, se vuelven a abrir las cortinas."
 
 # game/d4.rpy:2161
 translate spanish exitgym_87602d9d:
 
     # "The school's light music club gets revealed."
-    ""
+    "Aparece el club de música ligera del insti."
 
 # game/d4.rpy:2162
 translate spanish exitgym_388f8cb0:
 
     # "Lead Guitarist" "\"Hello Everyone!\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"¡Hola a todos!\""
 
 # game/d4.rpy:2163
 translate spanish exitgym_f29ec7c1:
 
     # "Lead Guitarist" "\"We started the Light Music Club with our goal set on the Music Festival.\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"Montamos el club de música ligera pensando en el festival de música.\""
 
 # game/d4.rpy:2164
 translate spanish exitgym_0a0825f3:
 
     # "Lead Guitarist" "\"Sometimes we worked part time to get the money for our instruments.\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"A veces currábamos a media jornada para ahorrar para los instrumentos.\""
 
 # game/d4.rpy:2165
 translate spanish exitgym_02338407:
 
     # "Lead Guitarist" "\"Every day, we have tea in our clubroom and chit-chat\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"Todos los días tomamos té en el club y charlamos un rato.\""
 
 # game/d4.rpy:2166
 translate spanish exitgym_5b567a6d:
 
     # "Lead Guitarist" "\"We even held a training camp at Mugi's vacation home.\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"Hasta hicimos un campamento de entrenamiento en la casa de vacaciones de Mugi.\""
 
 # game/d4.rpy:2167
 translate spanish exitgym_4039c597:
 
     # "Lead Guitarist" "\"Then we even had a freshman who wanted to join us!\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"Y luego se nos unió una novata que quería entrar también.\""
 
 # game/d4.rpy:2168
 translate spanish exitgym_217c9478:
 
     # "Lead Guitarist" "\"There's no way we can say that we've been practicing really hard.\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"No vamos a decir que nos hemos matado a ensayar, la verdad.\""
 
 # game/d4.rpy:2169
 translate spanish exitgym_39eda77f:
 
     # "Lead Guitarist" "\"But this is...\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"Pero esto es...\""
 
 # game/d4.rpy:2170
 translate spanish exitgym_a1c1d76b:
 
     # "Lead Guitarist" "\"This very auditorium is our Music Festival!\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"¡Este auditorio es nuestro propio festival de música!\""
 
 # game/d4.rpy:2171
 translate spanish exitgym_f11cb714:
 
     # "Lead Guitarist" "\"We'll sing our best to the very end!\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"¡Vamos a darlo todo hasta el final!\""
 
 # game/d4.rpy:2172
 translate spanish exitgym_57ea22b2:
 
     # "Lead Guitarist" "\"{i}Fluffy Time{/i}\"!"
-    "Lead Guitarist" ""
+    "Guitarrista" "\"¡Fluffy Time!\""
 
 # game/d4.rpy:2174
 translate spanish exitgym_4aa8ce31:
 
     # "They start playing one of the songs they composed."
-    ""
+    "Empiezan a tocar una de sus canciones propias."
 
 # game/d4.rpy:2175
 translate spanish exitgym_384854bc:
 
     # "Lead Guitarist" "\"When I look at you, my heart always goes thump-thump\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"Cuando te miro, el corazón me va a mil\""
 
 # game/d4.rpy:2176
 translate spanish exitgym_97ece7f0:
 
     # "Lead Guitarist" "\"This shaking feeling is fluffy-fluffy, like a marshmallow\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"Esta sensación es blandita, blandita, como una nube\""
 
 # game/d4.rpy:2177
 translate spanish exitgym_26fad739:
 
     # "They continue singing and put on a great performance."
-    ""
+    "Siguen cantando y lo hacen de lujo."
 
 # game/d4.rpy:2179
 translate spanish exitgym_5455aec2:
 
     # "Monika watches with a smile on her face and cheers along with the crowd."
-    ""
+    "Monika mira con una sonrisa y anima junto al resto."
 
 # game/d4.rpy:2182
 translate spanish exitgym_aced4cfe:
 
     # "I smile as we all wave along with everyone."
-    ""
+    "Sonrío mientras todos saludamos y movemos los brazos con el resto."
 
 # game/d4.rpy:2183
 translate spanish exitgym_3db09653:
 
     # "The song ends, and they take a bow."
-    ""
+    "Termina la canción y hacen una reverencia."
 
 # game/d4.rpy:2185
 translate spanish exitgym_a65e1d3a:
 
     # "Lead Guitarist" "\"Up next...\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"Y ahora...\""
 
 # game/d4.rpy:2188
 translate spanish exitgym_34bf0743:
 
     # "The concert goes on, and we all cheer as the end of it approaches."
-    ""
+    "El concierto sigue y todos aplaudimos cuando se va acabando."
 
 # game/d4.rpy:2189
 translate spanish exitgym_827bf318:
 
     # "Lead Guitarist" "\"Thank you everyone for coming out!\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"¡Gracias a todos por venir!\""
 
 # game/d4.rpy:2190
 translate spanish exitgym_c9baec6a:
 
     # "Lead Guitarist" "\"Let's do another!\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"¡Vamos a tocar otra!\""
 
 # game/d4.rpy:2191
 translate spanish exitgym_e7cd9864:
 
     # "Drummer" "\"No, Yui! We're out of time!\""
-    "Drummer" ""
+    "Batería" "\"¡No, Yui! ¡Se nos ha acabado el tiempo!\""
 
 # game/d4.rpy:2192
 translate spanish exitgym_700a4489:
 
     # "Lead Guitarist" "\"Aww, Alright!\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"Jo, bueno, vale...\""
 
 # game/d4.rpy:2193
 translate spanish exitgym_0bbb7a9f:
 
     # "Lead Guitarist" "\"Thank you everyone!\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"¡Gracias a todos!\""
 
 # game/d4.rpy:2194
 translate spanish exitgym_a8dcb4d1:
 
     # "Lead Guitarist" "\"See ya later!\""
-    "Lead Guitarist" ""
+    "Guitarrista" "\"¡Hasta la próxima!\""
 
 # game/d4.rpy:2195
 translate spanish exitgym_e395b827:
 
     # "The curtains close again as they leave the stage."
-    ""
+    "Se cierran las cortinas otra vez cuando se van del escenario."
 
 # game/d4.rpy:2196
 translate spanish exitgym_b20ba8ea:
 
     # m "It's nice to know other clubs are also more focused on having fun with their members."
-    m ""
+    m "Mola ver que hay otros clubes que también se centran en pasarlo bien con los suyos."
 
 # game/d4.rpy:2197
 translate spanish exitgym_fb1f1649:
 
     # m "Not just tunnelvisioning and just simply doing that the club is about."
-    m ""
+    m "No solo en ir a piñón fijo con lo de siempre."
 
 # game/d4.rpy:2198
 translate spanish exitgym_85a5c037:
 
     # m "{i}*cough*{/i} Like one particular debate club..."
-    m ""
+    m "Ejem... como cierto club de debate..."
 
 # game/d4.rpy:2199
 translate spanish exitgym_88317c2f:
 
     # m "Maybe at some point we'll all be able to have some sort of party together with the light music club."
-    m ""
+    m "A lo mejor algún día podemos montar una fiesta con el club de música ligera."
 
 # game/d4.rpy:2200
 translate spanish exitgym_10a15da9:
 
     # m "I'll have to think about it..."
-    m ""
+    m "Habrá que pensarlo..."
 
 # game/d4.rpy:2202
 translate spanish exitgym_64ec3be3:
 
     # "Announcer" "\"Next up is the school's Idol Club!\""
-    "Announcer" ""
+    "Presentador" "\"¡Ahora le toca al club de idols del insti!\""
 
 # game/d4.rpy:2203
 translate spanish exitgym_f85bf491:
 
     # "The curtains raise again as 5 girls in flashy dresses pop out from underneath."
-    ""
+    "Se levantan las cortinas y salen cinco chicas con vestidos llamativos."
 
 # game/d4.rpy:2204
 translate spanish exitgym_842ef1bb:
 
     # "Lead Singer" "\"Hi!\""
-    "Lead Singer" ""
+    "Vocalista" "\"¡Hola!\""
 
 # game/d4.rpy:2205
 translate spanish exitgym_165438d5:
 
     # "The crowd cheers as she speaks."
-    ""
+    "El público aplaude cuando habla."
 
 # game/d4.rpy:2206
 translate spanish exitgym_24973f45:
 
     # "Lead Singer" "\"Thank you to everyone who showed up here today!\""
-    "Lead Singer" ""
+    "Vocalista" "\"¡Gracias a todos los que habéis venido hoy!\""
 
 # game/d4.rpy:2207
 translate spanish exitgym_d572b50f:
 
     # "Lead Singer" "\"We practiced day and night for this!\""
-    "Lead Singer" ""
+    "Vocalista" "\"¡Hemos ensayado día y noche para esto!\""
 
 # game/d4.rpy:2208
 translate spanish exitgym_43785f9a:
 
     # "Lead Singer" "\"Usually on the rooftop because the gym was occupied.\""
-    "Lead Singer" ""
+    "Vocalista" "\"Casi siempre en la azotea, porque el gimnasio estaba ocupado.\""
 
 # game/d4.rpy:2209
 translate spanish exitgym_543a75b9:
 
     # "Lead Singer" "\"Day after day, rain or shine, we would still try our hardest.\""
-    "Lead Singer" ""
+    "Vocalista" "\"Día tras día, lloviera o hiciera sol, dándolo todo.\""
 
 # game/d4.rpy:2210
 translate spanish exitgym_b9c0cabe:
 
     # "Lead Singer" "\"So being here today means the world to us!\""
-    "Lead Singer" ""
+    "Vocalista" "\"Así que estar aquí hoy significa mucho para nosotras.\""
 
 # game/d4.rpy:2211
 translate spanish exitgym_a77e83c1:
 
     # "Lead Singer" "\"I hope you'll enjoy!\""
-    "Lead Singer" ""
+    "Vocalista" "\"¡Esperamos que os guste!\""
 
 # game/d4.rpy:2213
 translate spanish exitgym_e548dd12:
 
     # "The song begins, and they dance their hearts out."
-    ""
+    "Empieza la canción y lo dan todo bailando."
 
 # game/d4.rpy:2214
 translate spanish exitgym_5cd1847b:
 
     # "Everyone waves their arms along with the music."
-    ""
+    "Todo el mundo mueve los brazos al ritmo de la música."
 
 # game/d4.rpy:2215
 translate spanish exitgym_623ee016:
 
     # "Monika and I join in as well."
-    ""
+    "Monika y yo también nos animamos."
 
 # game/d4.rpy:2216
 translate spanish exitgym_3eb28914:
 
     # "As the song ends, they breathe deep breaths, and prepare for the next one."
-    ""
+    "Cuando termina la canción, respiran hondo y se preparan para la siguiente."
 
 # game/d4.rpy:2220
 translate spanish exitgym_2cc56eb8:
 
     # "They finish their final song, as they bow."
-    ""
+    "Terminan la última canción y hacen una reverencia."
 
 # game/d4.rpy:2221
 translate spanish exitgym_a45ecc86:
 
     # "Lead Singer" "\"Thanks for coming out everyone!\""
-    "Lead Singer" ""
+    "Vocalista" "\"¡Gracias por venir, gente!\""
 
 # game/d4.rpy:2222
 translate spanish exitgym_24189df4:
 
     # "The curtains fall once more."
-    ""
+    "Las cortinas caen otra vez."
 
 # game/d4.rpy:2223
 translate spanish exitgym_eb50751e:
 
     # m "This reminds me of that anime we're watching."
-    m ""
+    m "Esto me recuerda al anime que estamos viendo."
 
 # game/d4.rpy:2224
 translate spanish exitgym_7a02cb27:
 
     # m "Idols with their upbeat songs and dancing..."
-    m ""
+    m "Idols con sus canciones animadas y bailes..."
 
 # game/d4.rpy:2225
 translate spanish exitgym_542b64c5:
 
     # m "I see where they got the inspiration for it."
-    m ""
+    m "Ya veo de dónde sacaron la inspiración."
 
 # game/d4.rpy:2227
 translate spanish exitgym_4b39f9db:
 
     # "Announcer" "\"Up next is the Drama club!\""
-    "Announcer" ""
+    "Presentador" "\"¡Ahora le toca al club de teatro!\""
 
 # game/d4.rpy:2228
 translate spanish exitgym_c06a8591:
 
     # "The curtains rise to reveal..."
-    ""
+    "Se levantan las cortinas y aparece..."
 
 # game/d4.rpy:2229
 translate spanish exitgym_9850f53c:
 
     # "Nothing."
-    ""
+    "Nada."
 
 # game/d4.rpy:2230
 translate spanish exitgym_9487d671:
 
     # "I'm not sure how that's surprising though."
-    ""
+    "Aunque tampoco me sorprende mucho."
 
 # game/d4.rpy:2231
 translate spanish exitgym_3f3092a2:
 
     # "Soon enough, some students in costumes walk out and put on a comedy skit."
-    ""
+    "Al poco salen unos estudiantes disfrazados y hacen un sketch de humor."
 
 # game/d4.rpy:2232
 translate spanish exitgym_6a8500fd:
 
     # "Monika chuckles at some parts, and I laugh when something funny happens."
-    ""
+    "Monika se ríe en algunas partes y yo también cuando pasa algo gracioso."
 
 # game/d4.rpy:2236
 translate spanish exitgym_1572fac4:
 
     # "After a few skits, and a long play, the drama club walks out, takes a bow, and steps off the stage as the curtains close."
-    ""
+    "Después de varios sketches y una obra larga, el club de teatro sale, hace una reverencia y se va mientras cierran las cortinas."
 
 # game/d4.rpy:2237
 translate spanish exitgym_3a03c5d5:
 
     # "Announcer" "\"And that's all for today folks!\""
-    "Announcer" ""
+    "Presentador" "\"¡Eso es todo por hoy!\""
 
 # game/d4.rpy:2238
 translate spanish exitgym_2ba5fbf2:
 
     # "Announcer" "\"Thank you for coming out and joining us this evening!\""
-    "Announcer" ""
+    "Presentador" "\"¡Gracias por venir y acompañarnos esta tarde!\""
 
 # game/d4.rpy:2239
 translate spanish exitgym_f818e734:
 
     # "Announcer" "\"A bonfire dance will be held in the courtyard in about ten minutes from now.\""
-    "Announcer" ""
+    "Presentador" "\"En unos diez minutos habrá un baile alrededor de la hoguera en el patio.\""
 
 # game/d4.rpy:2240
 translate spanish exitgym_ad689fc9:
 
     # "Announcer" "\"Goodnight everyone!\""
-    "Announcer" ""
+    "Presentador" "\"¡Buenas noches a todos!\""
 
 # game/d4.rpy:2243
 translate spanish exitgym_3e5ea50b:
 
     # "I hold onto Monika's hand as we walk out the auditorium doors."
-    ""
+    "Le cojo la mano a Monika mientras salimos del auditorio."
 
 # game/d4.rpy:2248
 translate spanish exitgym_db35cef4:
 
     # m "Aww that was so fun!"
-    m ""
+    m "¡Jo, qué bien me lo he pasado!"
 
 # game/d4.rpy:2251
 translate spanish exitgym_cd53e6dd:
 
     # mc "Yeah, those are a talented bunch!"
-    mc ""
+    mc "Sí, hay mucho talento ahí."
 
 # game/d4.rpy:2252
 translate spanish exitgym_9cd3d89a:
 
     # m 1j "Mhm~!"
-    m 1j ""
+    m 1j "¡Ya ves!"
 
 # game/d4.rpy:2254
 translate spanish exitgym_5329f902:
 
     # "As it seems, the festival is over."
-    ""
+    "Parece que el festival se ha acabado."
 
 # game/d4.rpy:2255
 translate spanish exitgym_d2b169fd:
 
     # "Students are starting to close up their shops."
-    ""
+    "Los estudiantes empiezan a recoger sus puestos."
 
 # game/d4.rpy:2256
 translate spanish exitgym_2c60ab28:
 
     # "As we walk out to the courtyard, a tall stack of logs is in the middle of a dirt patch."
-    ""
+    "Al salir al patio, vemos un montón de troncos apilados en medio de un descampado."
 
 # game/d4.rpy:2257
 translate spanish exitgym_29b2ef02:
 
     # "Students start to gather around it."
-    ""
+    "La gente empieza a juntarse alrededor."
 
 # game/d4.rpy:2258
 translate spanish exitgym_f672dba8:
 
     # m 4b "Let's go!"
-    m 4b ""
+    m 4b "¡Vamos!"
 
 # game/d4.rpy:2260
 translate spanish exitgym_9b361741:
 
     # "We make our way towards the group as the sun begins to set."
-    ""
+    "Nos acercamos al grupo mientras el sol empieza a ponerse."
 
 # game/d4.rpy:2263
 translate spanish exitgym_5da4045e:
 
     # "We take a seat on some grass just off the patch."
-    ""
+    "Nos sentamos en la hierba, un poco apartados."
 
 # game/d4.rpy:2264
 translate spanish exitgym_5e0bb99f:
 
     # "I take out my water bottle and grab a small drink from it."
-    ""
+    "Saco mi botella de agua y le doy un trago."
 
 # game/d4.rpy:2265
 translate spanish exitgym_56ea57ea:
 
     # "Monika takes the bottle from my hand when I finish drinking and takes a sip."
-    ""
+    "Cuando termino, Monika me quita la botella y bebe un poco también."
 
 # game/d4.rpy:2266
 translate spanish exitgym_037e08da:
 
     # m "Looks like they're about to light it."
-    m ""
+    m "Parece que ya van a encenderla."
 
 # game/d4.rpy:2267
 translate spanish exitgym_cf1adef2_2:
 
     # mc "Yeah."
-    mc ""
+    mc "Sí."
 
 # game/d4.rpy:2268
 translate spanish exitgym_51731925:
 
     # mc "We're gonna be dancing right?"
-    mc ""
+    mc "Vamos a bailar, ¿no?"
 
 # game/d4.rpy:2269
 translate spanish exitgym_912606f9_1:
 
     # m "Yep!"
-    m ""
+    m "Eso es."
 
 # game/d4.rpy:2270
 translate spanish exitgym_0b3237a2:
 
     # m "But if you don't mind, I don't want to join in the group dance."
-    m ""
+    m "Pero si no te importa, prefiero no meterme en el baile en grupo."
 
 # game/d4.rpy:2271
 translate spanish exitgym_56c3991c:
 
     # mc "Why not?"
-    mc ""
+    mc "¿Y eso?"
 
 # game/d4.rpy:2272
 translate spanish exitgym_d3107ef6:
 
     # m "Well..."
-    m ""
+    m "Pues..."
 
 # game/d4.rpy:2273
 translate spanish exitgym_f51ddee8:
 
     # m "...I just want to have you for myself during the dance."
-    m ""
+    m "...me apetece tenerte solo para mí mientras bailamos."
 
 # game/d4.rpy:2274
 translate spanish exitgym_606e2d02_1:
 
     # mc "Sure."
-    mc ""
+    mc "Vale."
 
 # game/d4.rpy:2275
 translate spanish exitgym_af5fb03e:
 
     # m "Thanks, [player]~"
-    m ""
+    m "Gracias, [player]."
 
 # game/d4.rpy:2276
 translate spanish exitgym_6b1ff5c9:
 
     # "She leans her head on my shoulder."
-    ""
+    "Apoya la cabeza en mi hombro."
 
 # game/d4.rpy:2277
 translate spanish exitgym_f672816f:
 
     # "Someone walks up to the stack of logs carrying a long stick."
-    ""
+    "Alguien se acerca a la pila de troncos con un palo largo."
 
 # game/d4.rpy:2278
 translate spanish exitgym_e478c501:
 
     # "One of the teachers lights the stick, and the student shoves it into the log stack."
-    ""
+    "Uno de los profes prende el palo y el alumno lo mete entre los troncos."
 
 # game/d4.rpy:2279
 translate spanish exitgym_6e9e85aa:
 
     # "The stack begins to smoke, as a bright flame pops out from between the logs."
-    ""
+    "La pila empieza a echar humo y enseguida sale una llama entre los troncos."
 
 # game/d4.rpy:2280
 translate spanish exitgym_49b165d0:
 
     # "We watch as the stack begins to burn, forming a large cone of fire coming from the top."
-    ""
+    "Vemos cómo empieza a arder y se forma un cono de fuego enorme."
 
 # game/d4.rpy:2281
 translate spanish exitgym_737bae24:
 
     # "It's a beautiful sight."
-    ""
+    "Es una pasada verlo."
 
 # game/d4.rpy:2282
 translate spanish exitgym_acdeed0b:
 
     # "People begin to gather around the flame."
-    ""
+    "La gente se va acercando a la hoguera."
 
 # game/d4.rpy:2283
 translate spanish exitgym_56c6d4d6:
 
     # "The sun slowly gets enveloped by the horizon."
-    ""
+    "El sol se va escondiendo poco a poco tras el horizonte."
 
 # game/d4.rpy:2284
 translate spanish exitgym_bdcba925:
 
     # "Monika gets up from the ground and sticks her hands out."
-    ""
+    "Monika se levanta y me tiende las manos."
 
 # game/d4.rpy:2286
 translate spanish exitgym_07b55d75:
 
     # m "Let's go, [player]~"
-    m ""
+    m "Venga, [player], vamos."
 
 # game/d4.rpy:2287
 translate spanish exitgym_96c33365:
 
     # m "We have a dance to get to!"
-    m ""
+    m "¡Nos toca bailar!"
 
 # game/d4.rpy:2288
 translate spanish exitgym_25416059:
 
     # "I take her hand, and she pulls me up."
-    ""
+    "Le cojo la mano y me levanta."
 
 # game/d4.rpy:2293
 translate spanish exitgym_733b0c39:
 
     # "Music begins to play, as people slowly pair up to dance."
-    ""
+    "Empieza la música y la gente se va emparejando para bailar."
 
 # game/d4.rpy:2295
 translate spanish exitgym_b71f9001:
 
     # m "Ready?"
-    m ""
+    m "¿Listo?"
 
 # game/d4.rpy:2296
 translate spanish exitgym_cf1adef2_3:
 
     # mc "Yeah."
-    mc ""
+    mc "Sí."
 
 # game/d4.rpy:2298
 translate spanish exitgym_ab2b254e:
 
     # "We lock hands, and Monika gets up close to me as we begin to dance around the fire."
-    ""
+    "Nos cogemos de las manos y Monika se acerca mientras empezamos a bailar alrededor del fuego."
 
 # game/d4.rpy:2299
 translate spanish exitgym_ffc949c8:
 
     # "A bunch of people gather around in a circle around the flame."
-    ""
+    "Un montón de gente se pone en círculo alrededor de la hoguera."
 
 # game/d4.rpy:2300
 translate spanish exitgym_353742a0:
 
     # "Monika and I stay out of the way of them as they begin to dance around it."
-    ""
+    "Monika y yo nos quedamos aparte mientras los demás bailan en círculo."
 
 # game/d4.rpy:2301
 translate spanish exitgym_e05cd285:
 
     # "She picks up the pace a bit as the music speeds up."
-    ""
+    "Ella acelera un poco el paso cuando la música va más rápido."
 
 # game/d4.rpy:2302
 translate spanish exitgym_15040acb:
 
     # "We dance our hearts out as the music plays."
-    ""
+    "Bailamos a tope mientras suena la música."
 
 # game/d4.rpy:2303
 translate spanish exitgym_d36b040b:
 
     # "Everyone has a great time as the music slows down and the finale plays."
-    ""
+    "Todos lo pasamos genial mientras la música se va calmando y llega el final."
 
 # game/d4.rpy:2307
 translate spanish exitgym_a1e59bfa:
 
     # "As the final note plays, I decided to catch this moment."
-    ""
+    "Cuando suena la última nota, decido guardar este momento."
 
 # game/d4.rpy:2308
 translate spanish exitgym_27ef9ff2:
 
     # mc "Monika, close your eyes, please."
-    mc ""
+    mc "Monika, cierra los ojos un momento."
 
 # game/d4.rpy:2309
 translate spanish exitgym_296f9305:
 
     # m 1c "Oh, ok."
-    m 1c ""
+    m 1c "Vale."
 
 # game/d4.rpy:2311
 translate spanish exitgym_a57c7243:
 
     # "She closes her eyes with a smile on her face."
-    ""
+    "Cierra los ojos con una sonrisa."
 
 # game/d4.rpy:2312
 translate spanish exitgym_214e92c7:
 
     # "I take the necklace and place it around Monika's neck."
-    ""
+    "Saco el collar y se lo pongo a Monika."
 
 # game/d4.rpy:2313
 translate spanish exitgym_b96729bf:
 
     # mc "Now, open them."
-    mc ""
+    mc "Ahora, ábrelos."
 
 # game/d4.rpy:2315
 translate spanish exitgym_97afc985:
 
     # "When Monika opened her eyes, they widened greatly."
-    ""
+    "Cuando Monika abre los ojos, se le quedan como platos."
 
 # game/d4.rpy:2317
 translate spanish exitgym_a6fe115a:
 
     # "She looks at me."
-    ""
+    "Me mira."
 
 # game/d4.rpy:2318
 translate spanish exitgym_9b261ff2:
 
     # m "[player]..."
-    m ""
+    m "[player]..."
 
 # game/d4.rpy:2320
 translate spanish exitgym_99604f73:
 
     # "She leans in."
-    ""
+    "Se acerca a mí."
 
 # game/d4.rpy:2323
 translate spanish exitgym_e86cf889:
 
     # "As the final note plays, Monika leans in."
-    ""
+    "Justo al acabar la música, Monika se acerca más."
 
 # game/d4.rpy:2334
 translate spanish exitgym_c1fe0e53:
 
     # "We pull apart, as we hear clapping and cheering coming from around us."
-    ""
+    "Nos separamos al oír aplausos y vítores a nuestro alrededor."
 
 # game/d4.rpy:2336
 translate spanish exitgym_efd062cf:
 
     # "Monika blushes when she realizes we're in the middle of the crowd."
-    ""
+    "Monika se pone roja al darse cuenta de que estamos en medio de todo el mundo."
 
 # game/d4.rpy:2337
 translate spanish exitgym_caa7dd32:
 
     # "Everyone calms down a bit after a few seconds."
-    ""
+    "Al cabo de unos segundos, la gente se tranquiliza."
 
 # game/d4.rpy:2339
 translate spanish exitgym_e2a79a94:
 
     # "We embrace for a while as people move on."
-    ""
+    "Nos abrazamos un rato mientras la gente se va."
 
 # game/d4.rpy:2340
 translate spanish exitgym_f4c0d47c:
 
     # mc "This was amazing."
-    mc ""
+    mc "Esto ha sido increíble."
 
 # game/d4.rpy:2341
 translate spanish exitgym_94227f47:
 
     # m "Yeah it was..."
-    m ""
+    m "Ya ves..."
 
 # game/d4.rpy:2342
 translate spanish exitgym_652f256f:
 
     # "I stand there with my arms wrapped around her, and the fire blazing behind us."
-    ""
+    "Me quedo ahí, abrazado a ella, con la hoguera de fondo."
 
 # game/d4.rpy:2343
 translate spanish exitgym_df5946d4:
 
     # "Her embrace is warm and gentle."
-    ""
+    "Su abrazo es cálido y suave."
 
 # game/d4.rpy:2344
 translate spanish exitgym_c9b97360:
 
     # "I feel as if I could fall asleep like this."
-    ""
+    "Podría quedarme dormido así."
 
 # game/d4.rpy:2345
 translate spanish exitgym_970dca7e:
 
     # "But sadly I can't."
-    ""
+    "Pero por desgracia no puede ser."
 
 # game/d4.rpy:2348
 translate spanish exitgym_2c946fe7:
 
     # "The school grounds begin to run thin of people as they walk home."
-    ""
+    "El patio se va quedando vacío mientras la gente se va a casa."
 
 # game/d4.rpy:2349
 translate spanish exitgym_f33d3dc5:
 
     # mc "Wanna start heading home?"
-    mc ""
+    mc "¿Nos vamos ya para casa?"
 
 # game/d4.rpy:2350
 translate spanish exitgym_5e3aa02d:
 
     # m 1l "Yeah,{w=0.5} I guess it is starting to get late."
-    m 1l ""
+    m 1l "Sí, que ya va siendo hora."
 
 # game/d4.rpy:2352
 translate spanish exitgym_f0f318b3:
 
     # mc "Alright, let's get going then."
-    mc ""
+    mc "Venga, pues vamos."
 
 # game/d4.rpy:2354
 translate spanish exitgym_d84d3aa5:
 
     # "We make our way to the school gate, and hold hands as we walk home."
-    ""
+    "Vamos hasta la puerta del insti y volvemos a casa de la mano."
 
 # game/d4.rpy:2358
 translate spanish exitgym_31a79e34:
 
     # "The moon shines as we make our way home."
-    ""
+    "La luna brilla mientras volvemos a casa."
 
 # game/d4.rpy:2360
 translate spanish exitgym_70061a03:
 
     # "We walk arm in arm silently."
-    ""
+    "Caminamos en silencio, cogidos del brazo."
 
 # game/d4.rpy:2361
 translate spanish exitgym_0e9acf10:
 
     # "I take out the snacks I bought earlier."
-    ""
+    "Saco los snacks que compré antes."
 
 # game/d4.rpy:2362
 translate spanish exitgym_0a518566:
 
     # "I open a bag of chips, and share it with Monika."
-    ""
+    "Abro una bolsa de patatas y la comparto con Monika."
 
 # game/d4.rpy:2363
 translate spanish exitgym_9c6123fa:
 
     # mc "Today was fun!"
-    mc ""
+    mc "¡Hoy ha estado genial!"
 
 # game/d4.rpy:2364
 translate spanish exitgym_762a56ca:
 
     # m "Mhm~!"
-    m ""
+    m "¡Sí!"
 
 # game/d4.rpy:2365
 translate spanish exitgym_0804ba58:
 
     # m 1l "I wish the school would hold more events like this."
-    m 1l ""
+    m 1l "Ojalá hicieran más cosas así en el insti."
 
 # game/d4.rpy:2367
 translate spanish exitgym_73376b6c_1:
 
     # mc "Yeah that'd be fun."
-    mc ""
+    mc "Sí, molaría mucho."
 
 # game/d4.rpy:2368
 translate spanish exitgym_642663fc:
 
     # "We munch on the chips as we walk down the street."
-    ""
+    "Vamos picando patatas mientras bajamos por la calle."
 
 # game/d4.rpy:2372
 translate spanish exitgym_95a1f812:
 
     # "I walk up to the door, and unlock it."
-    ""
+    "Llego a la puerta y la abro."
 
 # game/d4.rpy:2374
 translate spanish exitgym_088c37d5:
 
     # "I open it and let Monika inside."
-    ""
+    "La abro y dejo pasar a Monika."
 
 # game/d4.rpy:2378
 translate spanish exitgym_43d2f3f5:
 
     # m "Ahh~"
-    m ""
+    m "Ahhh..."
 
 # game/d4.rpy:2379
 translate spanish exitgym_b2b9cbf7:
 
     # "Monika drops her bag and jumps onto the couch."
-    ""
+    "Monika suelta la mochila y se tira al sofá."
 
 # game/d4.rpy:2380
 translate spanish exitgym_11663bc7:
 
     # m "It feels good to be home!"
-    m ""
+    m "¡Qué gusto estar en casa!"
 
 # game/d4.rpy:2381
 translate spanish exitgym_5ce09775:
 
     # mc "Mhm."
-    mc ""
+    mc "Ya ves."
 
 # game/d4.rpy:2382
 translate spanish exitgym_56602ff4:
 
     # "I pick up her bag, and unpack all our stuff into the kitchen."
-    ""
+    "Recojo su mochila y dejo todas las cosas en la cocina."
 
 # game/d4.rpy:2385
 translate spanish exitgym_aa487aca:
 
     # "I put all the leftover food and snacks on the counter."
-    ""
+    "Dejo la comida y los snacks que sobraron en la encimera."
 
 # game/d4.rpy:2386
 translate spanish exitgym_b40232a0:
 
     # m "I'm going upstairs to get changed."
-    m ""
+    m "Voy arriba a cambiarme."
 
 # game/d4.rpy:2387
 translate spanish exitgym_a49ed4f8_2:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d4.rpy:2388
 translate spanish exitgym_9a3ab6d9:
 
     # "She heads upstairs."
-    ""
+    "Sube las escaleras."
 
 # game/d4.rpy:2389
 translate spanish exitgym_90457803:
 
     # "I stay here and clean up the kitchen a bit."
-    ""
+    "Yo me quedo abajo y recojo un poco la cocina."
 
 # game/d4.rpy:2390
 translate spanish exitgym_d90f8e56:
 
     # "Monika comes back down and lays down on the couch."
-    ""
+    "Monika baja y se tumba en el sofá."
 
 # game/d4.rpy:2391
 translate spanish exitgym_135f56bc:
 
     # mc "Alright, my turn."
-    mc ""
+    mc "Bueno, me toca a mí."
 
 # game/d4.rpy:2392
 translate spanish exitgym_5a3c09de:
 
     # m "'Kay"
-    m ""
+    m "Ok."
 
 # game/d4.rpy:2393
 translate spanish exitgym_2ef971f6:
 
     # "I go upstairs."
-    ""
+    "Subo arriba."
 
 # game/d4.rpy:2396
 translate spanish exitgym_561b9437:
 
     # "I change into my sleepwear."
-    ""
+    "Me pongo el pijama."
 
 # game/d4.rpy:2397
 translate spanish exitgym_6ce8a0be:
 
     # "While I'm at it, I put away our bags."
-    ""
+    "Ya de paso, guardo las mochilas."
 
 # game/d4.rpy:2398
 translate spanish exitgym_5ccf44c0:
 
     # "I go back downstairs."
-    ""
+    "Bajo otra vez."
 
 # game/d4.rpy:2401
 translate spanish exitgym_3d3f478e:
 
     # "Monika scrolls through the channels and finds the anime we were watching on Saturday."
-    ""
+    "Monika va cambiando de canal y encuentra el anime que veíamos el sábado."
 
 # game/d4.rpy:2403
 translate spanish exitgym_fde69687:
 
     # "I sit down next to Monika."
-    ""
+    "Me siento al lado de Monika."
 
 # game/d4.rpy:2404
 translate spanish exitgym_6ce54a70:
 
     # m p_1b "Wanna keep watching that anime?"
-    m p_1b ""
+    m p_1b "¿Te apetece seguir viendo el anime?"
 
 # game/d4.rpy:2406
 translate spanish exitgym_3dac65cd:
 
     # mc "I'm cool with it."
-    mc ""
+    mc "Por mí, perfecto."
 
 # game/d4.rpy:2407
 translate spanish exitgym_18468c79:
 
     # m p_2k "Nice!"
-    m p_2k ""
+    m p_2k "¡Genial!"
 
 # game/d4.rpy:2410
 translate spanish exitgym_51b40117:
 
     # "I hit the lights, and she presses play."
-    ""
+    "Apago la luz y ella le da al play."
 
 # game/d4.rpy:2413
 translate spanish exitgym_d759bdf2:
 
     # "The show starts again."
-    ""
+    "Vuelve a empezar el anime."
 
 # game/d4.rpy:2416
 translate spanish exitgym_fd91e7f7:
 
     # "Monika takes a few chips from earlier and stuffs a few in her mouth."
-    ""
+    "Monika coge unas patatas de antes y se las mete en la boca."
 
 # game/d4.rpy:2417
 translate spanish exitgym_2eca2216:
 
     # "I grab a few for myself, and together we quietly watch."
-    ""
+    "Yo también pillo unas cuantas y nos quedamos viendo la serie en silencio."
 
 # game/d4.rpy:2418
 translate spanish exitgym_8fea3736:
 
     # "Soon enough, the insert song comes up, and Monika jams out to it a bit."
-    ""
+    "Al poco suena la canción del anime y Monika se pone a moverse un poco al ritmo."
 
 # game/d4.rpy:2419
 translate spanish exitgym_9c7296e5:
 
     # "And then, the credits once again roll, and we snuggle up together as the ending plays."
-    ""
+    "Y cuando salen los créditos otra vez, nos acurrucamos mientras suena el ending."
 
 # game/d4.rpy:2423
 translate spanish exitgym_92d1a582:
 
     # mc "That was nice."
-    mc ""
+    mc "Ha estado guay."
 
 # game/d4.rpy:2424
 translate spanish exitgym_c8dce198:
 
     # m p_1j "Mhm~"
-    m p_1j ""
+    m p_1j "Sí."
 
 # game/d4.rpy:2425
 translate spanish exitgym_454a2c33:
 
     # mc "I'll take the snacks back to the kitchen."
-    mc ""
+    mc "Voy a llevar los snacks a la cocina."
 
 # game/d4.rpy:2426
 translate spanish exitgym_62b441ca:
 
     # m p_1b "Alright."
-    m p_1b ""
+    m p_1b "Vale."
 
 # game/d4.rpy:2427
 translate spanish exitgym_d49dbe90:
 
     # m p_2k "I'll be upstairs waiting for you."
-    m p_2k ""
+    m p_2k "Te espero arriba."
 
 # game/d4.rpy:2429
 translate spanish exitgym_a49ed4f8_3:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d4.rpy:2432
 translate spanish exitgym_aaba1245:
 
     # "I put the snacks on the counter, cover them, and I turn off the lights."
-    ""
+    "Dejo los snacks en la encimera, los tapo y apago la luz."
 
 # game/d4.rpy:2435
 translate spanish exitgym_3873a7e1:
 
     # "I head upstairs."
-    ""
+    "Subo arriba."
 
 # game/d4.rpy:2439
 translate spanish exitgym_95fd9335:
 
     # "Monika lays in bed, and opens the covers for me."
-    ""
+    "Monika está tumbada en la cama y me levanta la sábana para que entre."
 
 # game/d4.rpy:2440
 translate spanish exitgym_a75ed6ab:
 
     # m "C'mon, I'm tired from today..."
-    m ""
+    m "Venga, que estoy molida de todo el día..."
 
 # game/d4.rpy:2441
 translate spanish exitgym_4c38d943:
 
     # mc "Just a second."
-    mc ""
+    mc "Un segundo."
 
 # game/d4.rpy:2443
 translate spanish exitgym_aba4b4d8:
 
     # "I flick the light switch, and snuggle up against Monika."
-    ""
+    "Apago la luz y me acurruco con Monika."
 
 # game/d4.rpy:2446
 translate spanish exitgym_0e6ae1dd:
 
     # m "Today was fun..."
-    m ""
+    m "Hoy ha estado muy bien..."
 
 # game/d4.rpy:2447
 translate spanish exitgym_cf1adef2_4:
 
     # mc "Yeah."
-    mc ""
+    mc "Sí."
 
 # game/d4.rpy:2448
 translate spanish exitgym_c50714f4:
 
     # mc "Goodnight, Monika."
-    mc ""
+    mc "Buenas noches, Monika."
 
 # game/d4.rpy:2449
 translate spanish exitgym_5b68fb88:
 
     # m "Goodnight, [player]~"
-    m ""
+    m "Buenas noches, [player]."
 
 # game/d4.rpy:2450
 translate spanish exitgym_5413d5ef:
 
     # "I then doze off, with our arms wrapped around each other."
-    ""
+    "Me quedo dormido, abrazados los dos."
 
 translate spanish strings:
 
     # game/d4.rpy:1020
     old "Play."
-    new ""
+    new "Jugar."
 
     # game/d4.rpy:1020
     old "Sit on the sidelines."
-    new ""
+    new "Quedarse en el banquillo."
 
     # game/d4.rpy:1065
     old "Hit Monika"
-    new ""
+    new "Darle a Monika"
 
     # game/d4.rpy:1065
     old "Hit Natsuki"
-    new ""
+    new "Darle a Natsuki"
 
     # game/d4.rpy:1117
     old "Hit Yuri"
-    new ""
+    new "Darle a Yuri"
 
     # game/d4.rpy:1117
     old "Hit Sayori"
-    new ""
+    new "Darle a Sayori"
 
     # game/d4.rpy:1886
     old "Don't worry, I'm here for you."
-    new ""
+    new "No te preocupes, estoy aquí contigo."
 
     # game/d4.rpy:1891
     old "Better?"
-    new ""
+    new "¿Mejor?"
 
     # game/d4.rpy:1897
     old "I'm sorry..."
-    new ""
+    new "Perdona..."
 
     # game/d4.rpy:1897
     old "You know that it wasn't for real."
-    new ""
+    new "Sabes que no era de verdad."
 
     # game/d4.rpy:1906
     old "You won't make them again, I know it."
-    new ""
+    new "No vas a volver a cometerlos, lo sé."
 
     # game/d4.rpy:1906
     old "Don't worry, it's all in the past."
-    new ""
+    new "No te rayes, eso ya es agua pasada."
 
     # game/d4.rpy:1914
     old "{i}Hug tighter{/i}"
-    new ""
+    new "{i}Abrazar más fuerte{/i}"
 
     # game/d4.rpy:1914
     old "Monika, you won't."
-    new ""
+    new "Monika, no lo harás."
 
     # game/d4.rpy:1919
     old "You'll be ok. You will never make these mistakes again."
-    new ""
+    new "Vas a estar bien. No vas a volver a cometer esos errores."
 
     # game/d4.rpy:1935
     old "Okay, let's go take a walk around the food stalls for a bit."
-    new ""
+    new "Vale, vamos a dar una vuelta por los puestos de comida un rato."
 
     # game/d4.rpy:1937
     old "That should take your mind off of it."
-    new ""
+    new "Así se te va de la cabeza."
 
     # game/d4.rpy:2085
     old "Give it now."
-    new ""
+    new "Dárselo ahora."
 
     # game/d4.rpy:2085
     old "Give it later."
-    new ""
+    new "Dárselo luego."
 
