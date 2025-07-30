@@ -220,7 +220,7 @@ translate spanish d1_d0326968:
 translate spanish d1_ac465e6b:
 
     # m "Back in the original game, I was still tied to the script one way or another."
-    m "En el juego original, seguía estando atada al guion de una forma u otra."
+    m "En el juego original, seguía estando atada al guión de una forma u otra."
 
 # game/d1.rpy:77
 translate spanish d1_5398b5fd:
