@@ -2050,29 +2050,29 @@ translate spanish strings:
 
     # game/d7.rpy:80
     old "There are finals?!"
-    new ""
+    new "¿¡Que hay finales!?"
 
     # game/d7.rpy:89
     old "I didn't think we had them here."
-    new ""
+    new "No pensaba que aquí también tuviéramos de eso."
 
     # game/d7.rpy:96
     old "Good."
-    new ""
+    new "Bien."
 
     # game/d7.rpy:96
     old "Average."
-    new ""
+    new "Normalito."
 
     # game/d7.rpy:96
     old "Not so good."
-    new ""
+    new "No muy bien."
 
     # game/d7.rpy:96
     old "I already finished it."
-    new ""
+    new "Yo ya lo terminé."
 
     # game/d7.rpy:96
     old "I dropped out."
-    new ""
+    new "Dejé el insti."
 
