@@ -208,1153 +208,1153 @@ translate spanish d9_e9e4de5f:
 translate spanish d9_b201458e:
 
     # "I grab 2 slices of bread and spread some butter on them."
-    ""
+    "Cojo dos rebanadas de pan y les unto mantequilla."
 
 # game/d9.rpy:71
 translate spanish d9_d88c4866:
 
     # "I take 2 lettuce leaves and put them on the bread."
-    ""
+    "Pongo dos hojas de lechuga encima del pan."
 
 # game/d9.rpy:72
 translate spanish d9_376a9a67:
 
     # "I chop up a tomato, and a bit of a cucumber."
-    ""
+    "Corto un tomate y un poco de pepino."
 
 # game/d9.rpy:73
 translate spanish d9_a6cfa478:
 
     # "Setting those on the stacks, I take the pot with the eggs off the heat."
-    ""
+    "Pongo eso en los bocatas y quito la olla con los huevos del fuego."
 
 # game/d9.rpy:74
 translate spanish d9_40b1049d:
 
     # "Monika comes downstairs."
-    ""
+    "Monika baja."
 
 # game/d9.rpy:76
 translate spanish d9_2685f7f4:
 
     # m "Ooh!{w=0.5} It looks good!"
-    m ""
+    m "¡Oh! ¡Tiene buena pinta!"
 
 # game/d9.rpy:78
 translate spanish d9_c94dc26e:
 
     # mc "It's not done yet!"
-    mc ""
+    mc "¡Que aún no está listo!"
 
 # game/d9.rpy:81
 translate spanish d9_76ebbdce:
 
     # "She takes a seat at the table."
-    ""
+    "Se sienta en la mesa."
 
 # game/d9.rpy:82
 translate spanish d9_bc967831:
 
     # "I cut the eggs up into slices and set them on the stacks."
-    ""
+    "Corto los huevos en rodajas y los pongo en los bocatas."
 
 # game/d9.rpy:83
 translate spanish d9_218cbc0f:
 
     # "I grab a few radishes, chop them up, and place them on too."
-    ""
+    "Cojo unos rábanos, los corto y los añado también."
 
 # game/d9.rpy:84
 translate spanish d9_f5d3d697:
 
     # "I grab some cheese from the fridge and grate it on top of everything."
-    ""
+    "Saco queso de la nevera y lo rallo por encima de todo."
 
 # game/d9.rpy:85
 translate spanish d9_38733588:
 
     # "The end result is two thick sandwiches with cheese spilling over the sides."
-    ""
+    "Al final quedan dos bocatas bien gordos, con el queso desbordando por los lados."
 
 # game/d9.rpy:86
 translate spanish d9_e500732c:
 
     # "I carefully set them on plates, and bring them over to Monika."
-    ""
+    "Los pongo con cuidado en platos y se los llevo a Monika."
 
 # game/d9.rpy:88
 translate spanish d9_ba2bfe45:
 
     # m "Ooh~"
-    m ""
+    m "¡Oh!"
 
 # game/d9.rpy:89
 translate spanish d9_53f193c6:
 
     # m h1_1b "Looks good!"
-    m h1_1b ""
+    m h1_1b "¡Qué buena pinta!"
 
 # game/d9.rpy:91
 translate spanish d9_8c96164d:
 
     # mc "Thanks! Let's dig in then!"
-    mc ""
+    mc "¡Gracias! ¡Pues a comer!"
 
 # game/d9.rpy:93
 translate spanish d9_5429bafc:
 
     # "Monika carefully picks up the sandwich and takes a bite out of it."
-    ""
+    "Monika coge el bocata con cuidado y le da un bocado."
 
 # game/d9.rpy:95
 translate spanish d9_594519e4:
 
     # "Little bits of cheese and a radish slice slide off the sandwich as her eyes shine."
-    ""
+    "Se le cae un poco de queso y una rodaja de rábano mientras se le iluminan los ojos."
 
 # game/d9.rpy:96
 translate spanish d9_1b6e0c0f:
 
     # "I chuckle a bit."
-    ""
+    "Me río un poco."
 
 # game/d9.rpy:98
 translate spanish d9_a8e9d92e:
 
     # "She munches down, and I eat my own sandwich too."
-    ""
+    "Ella sigue comiendo y yo me pongo con el mío."
 
 # game/d9.rpy:101
 translate spanish d9_120429a2:
 
     # "I throw our plates in the dishwasher."
-    ""
+    "Meto los platos en el lavavajillas."
 
 # game/d9.rpy:102
 translate spanish d9_256b2fa6:
 
     # mc "Hey Monika, what do you wanna bring to the picnic today?"
-    mc ""
+    mc "Oye, Monika, ¿qué te apetece llevar hoy al picnic?"
 
 # game/d9.rpy:104
 translate spanish d9_6d1d2d28:
 
     # m "Hmm..."
-    m ""
+    m "Mmm..."
 
 # game/d9.rpy:105
 translate spanish d9_4cc050c6:
 
     # m h1_3d "How about a caesar salad?"
-    m h1_3d ""
+    m h1_3d "¿Qué tal una ensalada césar?"
 
 # game/d9.rpy:107
 translate spanish d9_a49ed4f8_1:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d9.rpy:108
 translate spanish d9_87502622:
 
     # mc "I'll get started on that."
-    mc ""
+    mc "Me pongo con eso."
 
 # game/d9.rpy:111
 translate spanish d9_c14e8470:
 
     # "She takes out her phone and taps away at it."
-    ""
+    "Saca el móvil y se pone a mirar cosas."
 
 # game/d9.rpy:112
 translate spanish d9_a5619eee:
 
     # m "Oh!{w=0.5} Sayori texted me earlier and said she's gonna bring a watermelon."
-    m ""
+    m "¡Ah! Sayori me ha escrito antes y dice que va a traer una sandía."
 
 # game/d9.rpy:113
 translate spanish d9_11f5cd4c:
 
     # mc "Alright cool!"
-    mc ""
+    mc "¡Genial!"
 
 # game/d9.rpy:114
 translate spanish d9_496e57a7:
 
     # mc "Is anyone else bringing anything?"
-    mc ""
+    mc "¿Alguien más va a llevar algo?"
 
 # game/d9.rpy:115
 translate spanish d9_b1626b56:
 
     # m "Not that I know."
-    m ""
+    m "Que yo sepa, no."
 
 # game/d9.rpy:116
 translate spanish d9_04e80f32:
 
     # mc "Hmm... maybe a plain caesar salad won't be enough."
-    mc ""
+    mc "Mmm... igual con solo la césar nos quedamos cortos."
 
 # game/d9.rpy:117
 translate spanish d9_31a0a988:
 
     # mc "I'll make a potato salad too."
-    mc ""
+    mc "Voy a hacer también una ensaladilla de patata."
 
 # game/d9.rpy:118
 translate spanish d9_30a66545_1:
 
     # m "Okay."
-    m ""
+    m "Vale."
 
 # game/d9.rpy:119
 translate spanish d9_05685156:
 
     # "I start to prepare the salads."
-    ""
+    "Me pongo a preparar las ensaladas."
 
 # game/d9.rpy:120
 translate spanish d9_f9fbfe2c:
 
     # "Monika's phone rings."
-    ""
+    "Suena el móvil de Monika."
 
 # game/d9.rpy:121
 translate spanish d9_f937c389:
 
     # m "It's Yuri."
-    m ""
+    m "Es Yuri."
 
 # game/d9.rpy:122
 translate spanish d9_cd1ec842:
 
     # "She answers and steps out of the kitchen."
-    ""
+    "Contesta y sale de la cocina."
 
 # game/d9.rpy:123
 translate spanish d9_ef876594:
 
     # m "Hello?"
-    m ""
+    m "¿Sí?"
 
 # game/d9.rpy:124
 translate spanish d9_d878fafe:
 
     # m "Oh!{w=0.5} Okay!"
-    m ""
+    m "¡Ah! ¡Vale!"
 
 # game/d9.rpy:125
 translate spanish d9_dcab7c09:
 
     # m "Wait, since when do you have that?"
-    m ""
+    m "¿Pero desde cuándo tienes eso?"
 
 # game/d9.rpy:126
 translate spanish d9_82ea4d2e:
 
     # m "Oh, wow!"
-    m ""
+    m "¡Vaya!"
 
 # game/d9.rpy:127
 translate spanish d9_985ee7b7:
 
     # m "Sure!{w=0.5} We'll meet you outside then."
-    m ""
+    m "¡Claro! Nos vemos fuera entonces."
 
 # game/d9.rpy:128
 translate spanish d9_d348519e:
 
     # m "See ya!"
-    m ""
+    m "¡Hasta ahora!"
 
 # game/d9.rpy:129
 translate spanish d9_8c6fdc2d:
 
     # "Monika hangs up."
-    ""
+    "Monika cuelga."
 
 # game/d9.rpy:131
 translate spanish d9_0c009be0:
 
     # m "Yuri said that she can drive us down to the park."
-    m ""
+    m "Yuri dice que nos puede llevar al parque en coche."
 
 # game/d9.rpy:133
 translate spanish d9_8452bc56:
 
     # mc "Yuri has a driver's license?!"
-    mc ""
+    mc "¿¡Yuri tiene carnet de conducir!?"
 
 # game/d9.rpy:134
 translate spanish d9_a6a1cca7:
 
     # m h1_1d "I know!{w=0.5} It's news to me too!"
-    m h1_1d ""
+    m h1_1d "¡Ya ves! Yo tampoco lo sabía."
 
 # game/d9.rpy:135
 translate spanish d9_4dee219e:
 
     # m "But anyway, she said she'll meet us outside in 2 hours."
-    m ""
+    m "Pero bueno, que nos espera fuera en dos horas."
 
 # game/d9.rpy:136
 translate spanish d9_7528aa9e:
 
     # m "She's bringing her family's minivan."
-    m ""
+    m "Va a traer la furgoneta de su familia."
 
 # game/d9.rpy:138
 translate spanish d9_7d082941:
 
     # mc "Okay. {w=0.5}Can you help me with the salads?"
-    mc ""
+    mc "Vale. ¿Me echas una mano con las ensaladas?"
 
 # game/d9.rpy:139
 translate spanish d9_503d0432:
 
     # m h1_1b "Of course!"
-    m h1_1b ""
+    m h1_1b "¡Por supuesto!"
 
 # game/d9.rpy:142
 translate spanish d9_cd1c6f9c:
 
     # "She starts making the potato salad while I finish the caesar salad."
-    ""
+    "Ella se pone con la ensaladilla de patata y yo termino la césar."
 
 # game/d9.rpy:143
 translate spanish d9_a88e3dca:
 
     # "I cover the salad and help Monika finish her end."
-    ""
+    "Cubro la ensalada y ayudo a Monika con la suya."
 
 # game/d9.rpy:144
 translate spanish d9_a3481192:
 
     # "I cover that too, and set them aside."
-    ""
+    "Cubro esa también y las dejo a un lado."
 
 # game/d9.rpy:145
 translate spanish d9_c5a292c1:
 
     # m "I'm gonna go get changed into something a bit nicer."
-    m ""
+    m "Voy a cambiarme y me pongo algo más mono."
 
 # game/d9.rpy:146
 translate spanish d9_a49ed4f8_2:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d9.rpy:147
 translate spanish d9_7f370ed8:
 
     # "I go and grab a few utensils and place them in a plastic bag while Monika goes upstairs."
-    ""
+    "Cojo unos cubiertos y los meto en una bolsa de plástico mientras Monika sube arriba."
 
 # game/d9.rpy:148
 translate spanish d9_f4f76cf1:
 
     # "I set everything on the counter, and step out of the kitchen."
-    ""
+    "Dejo todo en la encimera y salgo de la cocina."
 
 # game/d9.rpy:151
 translate spanish d9_1bb0288b:
 
     # "I grab a backpack and put in the essentials."
-    ""
+    "Cojo una mochila y meto lo imprescindible."
 
 # game/d9.rpy:152
 translate spanish d9_cd7038a6:
 
     # "Monika comes downstairs carrying her notebook and pen."
-    ""
+    "Monika baja con su libreta y un boli."
 
 # game/d9.rpy:154
 translate spanish d9_47fe607a:
 
     # "She puts it in along with a few other things."
-    ""
+    "Lo mete en la mochila junto con otras cosas."
 
 # game/d9.rpy:155
 translate spanish d9_e253bdd2:
 
     # m o2_1d "I think that's all we really need."
-    m o2_1d ""
+    m o2_1d "Creo que con esto ya tenemos todo lo que hace falta."
 
 # game/d9.rpy:156
 translate spanish d9_8391a83c:
 
     # mc "Got any ideas for what we could do for the activities?"
-    mc ""
+    mc "¿Se te ocurre algo para hacer de actividades?"
 
 # game/d9.rpy:157
 translate spanish d9_2d3f96ca:
 
     # m forward redskirt ldown rdown dist cm oe "Hmmmm..."
-    m forward redskirt ldown rdown dist cm oe ""
+    m forward redskirt ldown rdown dist cm oe "Mmmm..."
 
 # game/d9.rpy:158
 translate spanish d9_e32a716d:
 
     # m o2_1d "I'll go sit down for a bit and think."
-    m o2_1d ""
+    m o2_1d "Voy a sentarme un rato a pensar."
 
 # game/d9.rpy:159
 translate spanish d9_a49ed4f8_3:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d9.rpy:162
 translate spanish d9_8801a9dc:
 
     # "She takes her notebook back out and takes a seat on the couch."
-    ""
+    "Saca la libreta y se sienta en el sofá."
 
 # game/d9.rpy:163
 translate spanish d9_5444f8f6:
 
     # "In the meantime, I go back in the kitchen."
-    ""
+    "Mientras tanto, vuelvo a la cocina."
 
 # game/d9.rpy:166
 translate spanish d9_87840a59:
 
     # "I grab a few plastic bottles and fill them up with water."
-    ""
+    "Cojo unas botellas de plástico y las lleno de agua."
 
 # game/d9.rpy:170
 translate spanish d9_5ed36ce1:
 
     # "I place them in the backpack, and take a seat next to Monika."
-    ""
+    "Las meto en la mochila y me siento al lado de Monika."
 
 # game/d9.rpy:172
 translate spanish d9_9a51da31:
 
     # mc "Any luck?"
-    mc ""
+    mc "¿Has tenido alguna idea?"
 
 # game/d9.rpy:173
 translate spanish d9_1eb1ca8c:
 
     # m o2_1d "No, not yet..."
-    m o2_1d ""
+    m o2_1d "Nada, todavía no..."
 
 # game/d9.rpy:174
 translate spanish d9_9392bc15:
 
     # m "What about you?"
-    m ""
+    m "¿Y tú?"
 
 # game/d9.rpy:176
 translate spanish d9_051074ec:
 
     # mc "Maybe we could play some tag or something."
-    mc ""
+    mc "Podríamos jugar al pilla-pilla o algo así."
 
 # game/d9.rpy:177
 translate spanish d9_bdc8fe15:
 
     # m o2_1c "Hmm..."
-    m o2_1c ""
+    m o2_1c "Mmm..."
 
 # game/d9.rpy:178
 translate spanish d9_4f577ac5:
 
     # "She writes it down in her notebook."
-    ""
+    "Lo apunta en su libreta."
 
 # game/d9.rpy:180
 translate spanish d9_ca0b43ac:
 
     # "We spend a few more minutes laying on the couch and writing down any ideas that come to mind."
-    ""
+    "Nos quedamos unos minutos más tirados en el sofá, apuntando cualquier idea que se nos ocurre."
 
 # game/d9.rpy:182
 translate spanish d9_6b715564:
 
     # "I take a look at the clock."
-    ""
+    "Miro el reloj."
 
 # game/d9.rpy:183
 translate spanish d9_c7105254:
 
     # "Yuri should be arriving pretty soon."
-    ""
+    "Yuri debería llegar en nada."
 
 # game/d9.rpy:184
 translate spanish d9_5ae1691d:
 
     # mc "Hey Monika, let's pack it up. Yuri's gonna be here any minute."
-    mc ""
+    mc "Oye, Monika, vamos recogiendo. Yuri llega en cualquier momento."
 
 # game/d9.rpy:185
 translate spanish d9_9a88225d:
 
     # m o2_1d "Okay."
-    m o2_1d ""
+    m o2_1d "Vale."
 
 # game/d9.rpy:188
 translate spanish d9_4d4348a3:
 
     # "Monika quickly puts her notebook in the bag."
-    ""
+    "Monika mete la libreta en la mochila rápido."
 
 # game/d9.rpy:189
 translate spanish d9_87994f11:
 
     # "I pick up one of the salad bowls, and she grabs one as well."
-    ""
+    "Cojo uno de los boles de ensalada y ella coge el otro."
 
 # game/d9.rpy:190
 translate spanish d9_77de0fb6:
 
     # "I throw the backpack over my shoulder, and put on my shoes."
-    ""
+    "Me cuelgo la mochila y me pongo los zapatos."
 
 # game/d9.rpy:191
 translate spanish d9_8807baca:
 
     # "Monika does the same, and we make our way out the door."
-    ""
+    "Monika hace lo mismo y salimos por la puerta."
 
 # game/d9.rpy:198
 translate spanish d9_0ccb6836:
 
     # "I lock up the door, we head to the gate."
-    ""
+    "Cierro la puerta y vamos hacia la verja."
 
 # game/d9.rpy:199
 translate spanish d9_189042e6:
 
     # "Soon, Yuri pulls up in a black minivan."
-    ""
+    "Al poco, Yuri aparece con una furgoneta negra."
 
 # game/d9.rpy:200
 translate spanish d9_5d1c85b3:
 
     # "Natsuki is riding shotgun it seems."
-    ""
+    "Parece que Natsuki va de copiloto."
 
 # game/d9.rpy:201
 translate spanish d9_a433b867:
 
     # "She unlocks the doors, and we open it."
-    ""
+    "Desbloquea las puertas y entramos."
 
 # game/d9.rpy:202
 translate spanish d9_457b46ed:
 
     # m o2_1k "Hey!"
-    m o2_1k ""
+    m o2_1k "¡Ey!"
 
 # game/d9.rpy:204
 translate spanish d9_90d84405:
 
     # n "Yo!"
-    n ""
+    n "¡Ey!"
 
 # game/d9.rpy:205
 translate spanish d9_c4357997:
 
     # y "Hello, where are Sayori and MC?"
-    y ""
+    y "Hola, ¿dónde están Sayori y MC?"
 
 # game/d9.rpy:206
 translate spanish d9_de613e00:
 
     # mc "I'll go over and call them out."
-    mc ""
+    mc "Voy a llamarles."
 
 # game/d9.rpy:207
 translate spanish d9_e7069a81:
 
     # y "Okay. {w=0.5}Monika, you can put the stuff in the back."
-    y ""
+    y "Vale. Monika, puedes dejar las cosas atrás."
 
 # game/d9.rpy:208
 translate spanish d9_6ab12a26:
 
     # m o2_1b "Thanks, Yuri!"
-    m o2_1b ""
+    m o2_1b "¡Gracias, Yuri!"
 
 # game/d9.rpy:210
 translate spanish d9_1fcdaec8:
 
     # "I hand Monika the salad and backpack before going over to Sayori's house."
-    ""
+    "Le paso la ensalada y la mochila a Monika antes de ir a casa de Sayori."
 
 # game/d9.rpy:213
 translate spanish d9_5a45de34:
 
     # "I ring the doorbell."
-    ""
+    "Toco el timbre."
 
 # game/d9.rpy:215
 translate spanish d9_698169e8:
 
     # "MC opens the door, and I see Sayori putting her shoes on behind him."
-    ""
+    "MC abre la puerta y veo a Sayori poniéndose los zapatos detrás."
 
 # game/d9.rpy:216
 translate spanish d9_c30ecb88:
 
     # mc "You guys ready to go?"
-    mc ""
+    mc "¿Listos para salir?"
 
 # game/d9.rpy:217
 translate spanish d9_82324ae6:
 
     # p 1bc "Yeah, we'll be out in a minute."
-    p 1bc ""
+    p 1bc "Sí, salimos en un minuto."
 
 # game/d9.rpy:220
 translate spanish d9_e91e4cd1:
 
     # "Sayori steps out carrying the watermelon, and MC locks the door behind them."
-    ""
+    "Sayori sale con la sandía y MC cierra la puerta."
 
 # game/d9.rpy:221
 translate spanish d9_f1e5dce1:
 
     # "We make our way to Yuri's car."
-    ""
+    "Vamos hacia el coche de Yuri."
 
 # game/d9.rpy:224
 translate spanish d9_16632300:
 
     # s "Heeyyy!"
-    s ""
+    s "¡Heeey!"
 
 # game/d9.rpy:225
 translate spanish d9_886148b8:
 
     # "Sayori puts the watermelon in the trunk."
-    ""
+    "Sayori mete la sandía en el maletero."
 
 # game/d9.rpy:226
 translate spanish d9_63f74f93:
 
     # "She steps into the minivan, and MC follows her."
-    ""
+    "Se sube a la furgo y MC detrás."
 
 # game/d9.rpy:227
 translate spanish d9_817e5f0a:
 
     # "They take a seat in the back, and I sit down in the middle beside Monika."
-    ""
+    "Ellos se sientan atrás y yo me pongo en el medio, al lado de Monika."
 
 # game/d9.rpy:228
 translate spanish d9_af141e03:
 
     # "I close the door, and buckle my seat belt."
-    ""
+    "Cierro la puerta y me pongo el cinturón."
 
 # game/d9.rpy:229
 translate spanish d9_7c5d66b8:
 
     # y "Are we good to go?"
-    y ""
+    y "¿Estamos todos?"
 
 # game/d9.rpy:230
 translate spanish d9_f660d83d:
 
     # m "I think that's everything."
-    m ""
+    m "Creo que sí, ya está todo."
 
 # game/d9.rpy:231
 translate spanish d9_a87f69dd:
 
     # y "Okay then."
-    y ""
+    y "Vale, pues vamos."
 
 # game/d9.rpy:232
 translate spanish d9_ee9806fe:
 
     # "She puts it into drive, and we're off."
-    ""
+    "Arranca y nos ponemos en marcha."
 
 # game/d9.rpy:235
 translate spanish d9_36971c7a:
 
     # "It's a smooth ride along the road."
-    ""
+    "El viaje va tranquilo."
 
 # game/d9.rpy:236
 translate spanish d9_5174d03b:
 
     # s "I'm so excited!"
-    s ""
+    s "¡Qué ganas tengo!"
 
 # game/d9.rpy:237
 translate spanish d9_e1b84362:
 
     # n "Same here."
-    n ""
+    n "Yo igual."
 
 # game/d9.rpy:238
 translate spanish d9_4070647f:
 
     # n "I also have a little surprise for when we get there!"
-    n ""
+    n "Además, tengo una sorpresita para cuando lleguemos."
 
 # game/d9.rpy:239
 translate spanish d9_1b87ac40:
 
     # s "Ooh!{w=0.5} What is it?{w=0.2} What is it?"
-    s ""
+    s "¡Oh! ¿Qué es? ¿Qué es?"
 
 # game/d9.rpy:240
 translate spanish d9_e476303d:
 
     # n "I'm not gonna tell you yet!{w=0.5} That'd ruin the surprise!"
-    n ""
+    n "¡No te lo voy a decir todavía! ¡Si no, no hay sorpresa!"
 
 # game/d9.rpy:241
 translate spanish d9_eef79b66:
 
     # n "But I know for a fact that you're gonna like this, Sayori!"
-    n ""
+    n "Pero sé fijo que te va a gustar, Sayori."
 
 # game/d9.rpy:242
 translate spanish d9_21cfb702:
 
     # s "Mmmmmmmm... fiiiine."
-    s ""
+    s "Mmmmm... bueno, vale."
 
 # game/d9.rpy:243
 translate spanish d9_9191a4e4:
 
     # "We reach the park entrance, and Yuri parks in a nearby parking lot."
-    ""
+    "Llegamos a la entrada del parque y Yuri aparca cerca."
 
 # game/d9.rpy:244
 translate spanish d9_7742b515:
 
     # "We exit the minivan, and grab our things from the back."
-    ""
+    "Bajamos de la furgo y cogemos las cosas del maletero."
 
 # game/d9.rpy:245
 translate spanish d9_9bdbc48d:
 
     # "Sayori once again carries the watermelon, and Monika and I take the salads."
-    ""
+    "Sayori lleva otra vez la sandía y Monika y yo cogemos las ensaladas."
 
 # game/d9.rpy:246
 translate spanish d9_7c798a0a:
 
     # mc "Here, I can take this."
-    mc ""
+    mc "Dame, que lo llevo yo."
 
 # game/d9.rpy:247
 translate spanish d9_8a11674a:
 
     # m "Thanks [player]!"
-    m ""
+    m "¡Gracias, [player]!"
 
 # game/d9.rpy:248
 translate spanish d9_90bb6659:
 
     # "I take the salad bowl from Monika, and carry pretty much everything that is ours."
-    ""
+    "Le cojo el bol de ensalada a Monika y me encargo de casi todo lo nuestro."
 
 # game/d9.rpy:249
 translate spanish d9_9bb1b66c:
 
     # "Natsuki holds a white box, and Yuri and MC take their backpacks."
-    ""
+    "Natsuki lleva una caja blanca, y Yuri y MC cogen sus mochilas."
 
 # game/d9.rpy:250
 translate spanish d9_df006718:
 
     # "We make our way towards the entrance."
-    ""
+    "Vamos hacia la entrada."
 
 # game/d9.rpy:253
 translate spanish d9_026471ae:
 
     # "We spot a picnic table near a few trees."
-    ""
+    "Vemos una mesa de picnic cerca de unos árboles."
 
 # game/d9.rpy:254
 translate spanish d9_bfe6a4ae:
 
     # mc "Let's go over there."
-    mc ""
+    mc "Vamos allí."
 
 # game/d9.rpy:255
 translate spanish d9_713e4e2f:
 
     # "We walk over and set our things on the table."
-    ""
+    "Nos acercamos y dejamos las cosas en la mesa."
 
 # game/d9.rpy:256
 translate spanish d9_44fd2391:
 
     # "I unpack the things from my backpack, and put the salads next to Natsuki's box."
-    ""
+    "Saco las cosas de la mochila y pongo las ensaladas al lado de la caja de Natsuki."
 
 # game/d9.rpy:260
 translate spanish d9_82f8cc64:
 
     # "After that, I sit down next to Monika."
-    ""
+    "Después, me siento al lado de Monika."
 
 # game/d9.rpy:261
 translate spanish d9_6f1b6547:
 
     # s 3br "All this looks so good!"
-    s 3br ""
+    s 3br "¡Qué pintaza tiene todo esto!"
 
 # game/d9.rpy:263
 translate spanish d9_a7652cd8:
 
     # p "Yeah it does."
-    p ""
+    p "Ya ves."
 
 # game/d9.rpy:264
 translate spanish d9_d383fa84:
 
     # p "You guys want me to cut the watermelon?"
-    p ""
+    p "¿Queréis que corte la sandía?"
 
 # game/d9.rpy:265
 translate spanish d9_d0213666:
 
     # n 1bd "Yeah let's do it!"
-    n 1bd ""
+    n 1bd "¡Venga, dale!"
 
 # game/d9.rpy:266
 translate spanish d9_023fcea1:
 
     # "MC goes and looks in his backpack."
-    ""
+    "MC va a mirar en su mochila."
 
 # game/d9.rpy:270
 translate spanish d9_25b9a305:
 
     # p "Aw crap..."
-    p ""
+    p "Joder..."
 
 # game/d9.rpy:271
 translate spanish d9_315150ca:
 
     # p "Where is it..."
-    p ""
+    p "¿Dónde está...?"
 
 # game/d9.rpy:272
 translate spanish d9_bcd1130d:
 
     # p "Sayori, did you pack a knife by chance?"
-    p ""
+    p "Sayori, ¿tú metiste un cuchillo por casualidad?"
 
 # game/d9.rpy:273
 translate spanish d9_73dd51c1:
 
     # s 1bc "Uhh...I don't think I did..."
-    s 1bc ""
+    s 1bc "Eh... creo que no..."
 
 # game/d9.rpy:275
 translate spanish d9_f7f37e6b:
 
     # y 1sf "Hold on a second, I think I have one."
-    y 1sf ""
+    y 1sf "Espera un momento, creo que tengo uno."
 
 # game/d9.rpy:278
 translate spanish d9_0d8422c6:
 
     # "Yuri quickly runs over to her car."
-    ""
+    "Yuri sale pitando hacia su coche."
 
 # game/d9.rpy:280
 translate spanish d9_a7a3ae79:
 
     # "She comes back with a knife set."
-    ""
+    "Vuelve con un juego de cuchillos."
 
 # game/d9.rpy:281
 translate spanish d9_d9c2745d:
 
     # y 1sb "Here."
-    y 1sb ""
+    y 1sb "Toma."
 
 # game/d9.rpy:283
 translate spanish d9_ff4db190:
 
     # "She unsheathes it and hands the knife over to MC."
-    ""
+    "Saca el cuchillo de la funda y se lo da a MC."
 
 # game/d9.rpy:284
 translate spanish d9_6aaac5d1:
 
     # "He cuts the watermelon up, and sets the slices on a plate."
-    ""
+    "Corta la sandía y pone las rodajas en un plato."
 
 # game/d9.rpy:285
 translate spanish d9_319cdb34:
 
     # p "Thanks Yuri."
-    p ""
+    p "Gracias, Yuri."
 
 # game/d9.rpy:286
 translate spanish d9_83796697:
 
     # y 1sb "No problem. I brought a whole bunch of stuff in case we needed it."
-    y 1sb ""
+    y 1sb "De nada. He traído un montón de cosas por si acaso."
 
 # game/d9.rpy:287
 translate spanish d9_0131955f:
 
     # y "I also brought a badminton set."
-    y ""
+    y "También he traído un set de bádminton."
 
 # game/d9.rpy:289
 translate spanish d9_4af7908b:
 
     # n 1bd "Awesome! We can play a few rounds after we eat!"
-    n 1bd ""
+    n 1bd "¡Qué guay! ¡Podemos echar unas partidas después de comer!"
 
 # game/d9.rpy:291
 translate spanish d9_2f2894de:
 
     # m "I'm in!"
-    m ""
+    m "¡Yo me apunto!"
 
 # game/d9.rpy:292
 translate spanish d9_7bf5de05:
 
     # s 1br "Yeah!"
-    s 1br ""
+    s 1br "¡Sí!"
 
 # game/d9.rpy:294
 translate spanish d9_6418a576:
 
     # mc "But let's eat! We have ceasar salad and potato salad."
-    mc ""
+    mc "¡Pero primero a comer! Hay ensalada césar y ensaladilla de patata."
 
 # game/d9.rpy:295
 translate spanish d9_dc7fc557:
 
     # "I lift up the plastic wrap, and everyone grabs a plate and fork."
-    ""
+    "Quito el plástico y todos pillan un plato y un tenedor."
 
 # game/d9.rpy:296
 translate spanish d9_2dec0053:
 
     # "We take a bit of each, and start munching away."
-    ""
+    "Nos servimos un poco de cada y empezamos a zampar."
 
 # game/d9.rpy:299
 translate spanish d9_984a87d6:
 
     # n "Do you guys wanna hear what happened last week at my family's shop?"
-    n ""
+    n "¿Queréis que os cuente lo que pasó la semana pasada en la tienda de mis padres?"
 
 # game/d9.rpy:300
 translate spanish d9_36fa1b2e:
 
     # n 1bc "So I was sitting in the back, doing a bit of math homework..."
-    n 1bc ""
+    n 1bc "Pues estaba yo en la trastienda, haciendo deberes de mates..."
 
 # game/d9.rpy:303
 translate spanish d9_26ddd19a:
 
     # n "And a guy walks into the store looking for bread."
-    n ""
+    n "Y entra un tío buscando pan."
 
 # game/d9.rpy:304
 translate spanish d9_28ae0aeb:
 
     # n "My mom welcomes him in..."
-    n ""
+    n "Mi madre le saluda..."
 
 # game/d9.rpy:306
 translate spanish d9_bc2a44ac:
 
     # n 2be "Then he tells her to shut up and that he wants some bread!"
-    n 2be ""
+    n 2be "¡Y va y le suelta que se calle y que quiere pan!"
 
 # game/d9.rpy:307
 translate spanish d9_8b48e619:
 
     # n 1bc "My mom, being calm in the situation, tells him we don't have that kind of bread."
-    n 1bc ""
+    n 1bc "Mi madre, tan tranquila, le dice que no tenemos ese tipo de pan."
 
 # game/d9.rpy:308
 translate spanish d9_cd688946:
 
     # n 1bf "She starts telling him what we have,{w=0.5} then he interrupts her saying to take the gluten out!"
-    n 1bf ""
+    n 1bf "Empieza a decirle lo que sí tenemos, y el tío la corta diciendo que le quite el gluten."
 
 # game/d9.rpy:309
 translate spanish d9_fa57e5f5:
 
     # n "My mom says it's gluten free."
-    n ""
+    n "Mi madre le dice que es sin gluten."
 
 # game/d9.rpy:310
 translate spanish d9_05b66d4b:
 
     # n 1be "Then he starts yelling that he doesn't care if it's free!"
-    n 1be ""
+    n 1be "¡Y el tío gritando que le da igual si es gratis!"
 
 # game/d9.rpy:311
 translate spanish d9_9642e649:
 
     # n "She then starts to get a bit angry at him."
-    n ""
+    n "Ahí mi madre ya empieza a cabrearse."
 
 # game/d9.rpy:312
 translate spanish d9_ed924bb2:
 
     # n 1bf "Then the guy pulls out his dollar store camera saying he's gonna record it."
-    n 1bf ""
+    n 1bf "Y el tío saca una cámara cutre diciendo que lo va a grabar todo."
 
 # game/d9.rpy:313
 translate spanish d9_ce672374:
 
     # n 1bc "My dad walks in, and the guy asks what the hell he wants."
-    n 1bc ""
+    n 1bc "Entra mi padre y el tío le suelta que qué narices quiere."
 
 # game/d9.rpy:314
 translate spanish d9_1734a180:
 
     # n 1bb "Then my dad yells that he's the manager."
-    n 1bb ""
+    n 1bb "Y mi padre le grita que él es el encargado."
 
 # game/d9.rpy:315
 translate spanish d9_7373127d:
 
     # n 1be "The guy then tells him to take the gluten out of the bread."
-    n 1be ""
+    n 1be "Y el tío le dice que le quite el gluten al pan."
 
 # game/d9.rpy:316
 translate spanish d9_17529c40:
 
     # n "My dad tells him that we can't take it out of the bread."
-    n ""
+    n "Mi padre le dice que eso no se puede hacer."
 
 # game/d9.rpy:317
 translate spanish d9_c64c22b8:
 
     # n 1bf "Then he rants on about how we are stupid."
-    n 1bf ""
+    n 1bf "Y empieza a soltar que somos unos inútiles."
 
 # game/d9.rpy:318
 translate spanish d9_d7a8017e:
 
     # n 1bc "My dad tells him we have crackers with no gluten."
-    n 1bc ""
+    n 1bc "Mi padre le dice que tenemos galletas sin gluten."
 
 # game/d9.rpy:319
 translate spanish d9_9810193e:
 
     # n 1be "Says he doesn't want crackers."
-    n 1be ""
+    n 1be "Dice que no quiere galletas."
 
 # game/d9.rpy:320
 translate spanish d9_7cfbe1e5:
 
     # n "My dad asks him if he wants the gluten or not."
-    n ""
+    n "Mi padre le pregunta si quiere gluten o no."
 
 # game/d9.rpy:321
 translate spanish d9_3b822d08:
 
     # n "He says no."
-    n ""
+    n "Dice que no."
 
 # game/d9.rpy:322
 translate spanish d9_be466bdc:
 
     # n "My dad lists off the stuff gluten free, again."
-    n ""
+    n "Mi padre le vuelve a decir lo que hay sin gluten."
 
 # game/d9.rpy:323
 translate spanish d9_842a0d5e:
 
     # n 1bf "The guy gets mad again."
-    n 1bf ""
+    n 1bf "Y el tío se cabrea otra vez."
 
 # game/d9.rpy:324
 translate spanish d9_ad1ef116:
 
     # n "My mom threatens to call the police on him."
-    n ""
+    n "Mi madre le dice que llama a la poli como siga así."
 
 # game/d9.rpy:325
 translate spanish d9_4ce30b63:
 
     # n 1be "He gets mad again and says that everything in our store sucks because of the gluten."
-    n 1be ""
+    n 1be "Se pone a gritar otra vez y dice que todo en la tienda es una mierda por culpa del gluten."
 
 # game/d9.rpy:326
 translate spanish d9_2f66845c:
 
     # n "My mom says we have crackers without gluten, again."
-    n ""
+    n "Mi madre le repite que hay galletas sin gluten."
 
 # game/d9.rpy:327
 translate spanish d9_57f27d16:
 
     # n 1bf "Says he'll take those."
-    n 1bf ""
+    n 1bf "Dice que se lleva esas."
 
 # game/d9.rpy:328
 translate spanish d9_eb79c430:
 
     # n 1bb "My dad tells him it's 5 bucks."
-    n 1bb ""
+    n 1bb "Mi padre le dice que son cinco pavos."
 
 # game/d9.rpy:329
 translate spanish d9_2276d3f0:
 
     # n 4bc "And you know what happened?"
-    n 4bc ""
+    n 4bc "¿Y sabes qué pasó?"
 
 # game/d9.rpy:330
 translate spanish d9_cd3776cf:
 
     # n 1bp "The guy says he won't pay for it, and walks out of the store."
-    n 1bp ""
+    n 1bp "El tío dice que no lo paga y se larga de la tienda."
 
 # game/d9.rpy:332
 translate spanish d9_23210a99:
 
     # n 1bo "Like what the hell!"
-    n 1bo ""
+    n 1bo "¡Pero esto qué es!"
 
 # game/d9.rpy:333
 translate spanish d9_eabc56cc:
 
     # n 2be "Who does this kind of stuff?"
-    n 2be ""
+    n 2be "¿Quién hace esas cosas?"
 
 # game/d9.rpy:335
 translate spanish d9_a38b2f3a:
 
     # m "Did everything turn out okay in the end?"
-    m ""
+    m "¿Y al final todo bien?"
 
 # game/d9.rpy:336
 translate spanish d9_95f6bfce:
 
     # n 1bb "Yeah. I just hope he doesn't ever come back."
-    n 1bb ""
+    n 1bb "Sí, pero espero que no vuelva nunca más."
 
 # game/d9.rpy:337
 translate spanish d9_17e28af0:
 
     # n 5bx "Tssk... what a piece of crap..."
-    n 5bx ""
+    n 5bx "Pfff... vaya elemento..."
 
 # game/d9.rpy:339
 translate spanish d9_46d6a264:
 
     # n 1bl "Well anyways,{w=0.5} speaking of the bakery, I'm sure you all wanna see what I brought today!"
-    n 1bl ""
+    n 1bl "Bueno, cambiando de tema, seguro que queréis ver lo que he traído hoy de la pastelería."
 
 # game/d9.rpy:340
 translate spanish d9_db5db3a3:
