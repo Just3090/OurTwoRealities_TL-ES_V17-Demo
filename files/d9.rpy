@@ -3166,7 +3166,7 @@ translate spanish d9_d22bdf64:
 translate spanish d9_f6e7fbf2:
 
     # "{i}*PING*{/i}"
-    "{i}¡Ping!{/i}"
+    "{b}¡Ping!{/b}"
 
 # game/d9.rpy:1013
 translate spanish d9_2a6d7f6d:
@@ -3502,7 +3502,7 @@ translate spanish d9_e65c3374:
 translate spanish d9_608527a6:
 
     # "...And the ideas we came up with this morning."
-    "...Y las ideas que apuntamos esta mañana."
+    "Y las ideas que apuntamos esta mañana..."
 
 # game/d9.rpy:1102
 translate spanish d9_abb49dff:
@@ -3532,7 +3532,7 @@ translate spanish d9_8b5bcbfd:
 translate spanish d9_2357e1a0:
 
     # "{i}I love you, [player]~ ♡{/i}"
-    "{i}Te quiero, [player] ♡{/i}"
+    "Te quiero, [player]."
 
 # game/d9.rpy:1107
 translate spanish d9_a20cefa7_2:
@@ -3682,33 +3682,33 @@ translate spanish strings:
 
     # game/d9.rpy:882
     old "I'm sorry, but we're gonna be busy tomorrow."
-    new ""
+    new "Lo siento, pero mañana vamos a estar liados."
 
     # game/d9.rpy:932
     old "Reveal location."
-    new ""
+    new "Decir el sitio."
 
     # game/d9.rpy:932
     old "Keep it a secret."
-    new ""
+    new "Que sea sorpresa."
 
     # game/d9.rpy:1039
     old "So..."
-    new ""
+    new "Bueno..."
 
     # game/d9.rpy:1041
     old "We have to go buy a swimsuit for you tomorrow?"
-    new ""
+    new "¿Entonces mañana toca ir a por un bañador para ti?"
 
     # game/d9.rpy:1051
     old "We'll fit it in somehow."
-    new ""
+    new "Ya lo apañaremos de alguna forma."
 
     # game/d9.rpy:1096
     old "Flip through it."
-    new ""
+    new "Echarle un vistazo."
 
     # game/d9.rpy:1096
     old "Don't flip through it."
-    new ""
+    new "Mejor no mirar."
 
