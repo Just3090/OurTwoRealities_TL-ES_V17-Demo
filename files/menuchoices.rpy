@@ -4,101 +4,101 @@ translate spanish strings:
 
     # game/menuchoices.rpy:2
     old "Regular Coffee"
-    new ""
+    new "Café solo"
 
     # game/menuchoices.rpy:2
     old "Latte"
-    new ""
+    new "Café con leche"
 
     # game/menuchoices.rpy:2
     old "Cappuccino"
-    new ""
+    new "Capuchino"
 
     # game/menuchoices.rpy:2
     old "Espresso Shot"
-    new ""
+    new "Café expreso"
 
     # game/menuchoices.rpy:2
     old "Americano"
-    new ""
+    new "Americano"
 
     # game/menuchoices.rpy:2
     old "Next"
-    new ""
+    new "Siguiente"
 
     # game/menuchoices.rpy:27
     old "Dark Roast"
-    new ""
+    new "Tostado fuerte"
 
     # game/menuchoices.rpy:27
     old "Decaf"
-    new ""
+    new "Descafeinado"
 
     # game/menuchoices.rpy:27
     old "Hot Chocolate"
-    new ""
+    new "Chocolate caliente"
 
     # game/menuchoices.rpy:27
     old "Mocha"
-    new ""
+    new "Moca"
 
     # game/menuchoices.rpy:27
     old "Back"
-    new ""
+    new "Atrás"
 
     # game/menuchoices.rpy:50
     old "Orange Juice"
-    new ""
+    new "Zumo de naranja"
 
     # game/menuchoices.rpy:50
     old "Apple Juice"
-    new ""
+    new "Zumo de manzana"
 
     # game/menuchoices.rpy:50
     old "French Vanilla"
-    new ""
+    new "Vainilla francesa"
 
     # game/menuchoices.rpy:50
     old "Iced Coffee"
-    new ""
+    new "Café con hielo"
 
     # game/menuchoices.rpy:73
     old "Macchiato"
-    new ""
+    new "Macchiato"
 
     # game/menuchoices.rpy:73
     old "Lemonade"
-    new ""
+    new "Limonada"
 
     # game/menuchoices.rpy:73
     old "Cola"
-    new ""
+    new "Cola"
 
     # game/menuchoices.rpy:73
     old "Water"
-    new ""
+    new "Agua"
 
     # game/menuchoices.rpy:188
     old "Mint"
-    new ""
+    new "Menta"
 
     # game/menuchoices.rpy:188
     old "Chocolate"
-    new ""
+    new "Chocolate"
 
     # game/menuchoices.rpy:188
     old "Vanilla"
-    new ""
+    new "Vainilla"
 
     # game/menuchoices.rpy:188
     old "Strawberry"
-    new ""
+    new "Fresa"
 
     # game/menuchoices.rpy:188
     old "Cookies and Cream"
-    new ""
+    new "Galleta y nata"
 
     # game/menuchoices.rpy:188
     old "Rocky Road"
-    new ""
+    new "Rocky Road"
 
