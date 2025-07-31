@@ -82,7 +82,7 @@ translate spanish d10_4ffeafb3:
 translate spanish d10_45d9cd96:
 
     # m "Ehehe~"
-    m "Je, je, je."
+    m "Je, je, je..."
 
 # game/d10.rpy:44
 translate spanish d10_d412d667:
@@ -124,13 +124,13 @@ translate spanish d10_2b1aa9c7:
 translate spanish d10_45d9cd96_1:
 
     # m "Ehehe~"
-    m "Je, je, je."
+    m "Je, je, je..."
 
 # game/d10.rpy:59
 translate spanish d10_45d9cd96_2:
 
     # m "Ehehe~"
-    m "Je, je, je."
+    m "Je, je, je..."
 
 # game/d10.rpy:68
 translate spanish d10_d1162b1f:
@@ -556,7 +556,7 @@ translate spanish d10date_20eefdb6:
 translate spanish d10date_45d9cd96:
 
     # m "Ehehe~"
-    m "Je, je, je."
+    m "Je, je."
 
 # game/d10.rpy:201
 translate spanish d10date_48837bcc:
@@ -598,7 +598,7 @@ translate spanish d10date_658c932a:
 translate spanish d10date_cf1adef2:
 
     # mc "Yeah."
-    mc "Eso es."
+    mc "Eso mismo."
 
 # game/d10.rpy:211
 translate spanish d10date_d1e0f923:
@@ -634,7 +634,7 @@ translate spanish d10date_08c94694:
 translate spanish d10date_a7429060:
 
     # m "You know."
-    m "Ya tú sabes."
+    m "Es el mismo camino..."
 
 # game/d10.rpy:217
 translate spanish d10date_82775e9e:
@@ -1048,13 +1048,13 @@ translate spanish d10p2_995e8f06:
 translate spanish d10p2_2d0cd735:
 
     # m "...But I think the best spot for a date would be beside you in your reality, [player]~"
-    m "...Pero creo que el mejor sitio para una cita es a tu lado, en tu mundo, [player]."
+    m "Pero creo que el mejor sitio para una cita es a tu lado, en tu mundo, [player]."
 
 # game/d10.rpy:359
 translate spanish d10p2_45d9cd96:
 
     # m "Ehehe~"
-    m "Je, je, je."
+    m "Je, je..."
 
 # game/d10.rpy:362
 translate spanish d10p2_4ed68a14:
@@ -1282,7 +1282,7 @@ translate spanish d10p2_85ef9feb:
 translate spanish d10p2_21ebdb65:
 
     # "{i}2:13{/i}"
-    "{i}2:13{/i}"
+    "2:13."
 
 # game/d10.rpy:448
 translate spanish d10p2_8c1a3d0b:
@@ -1504,7 +1504,7 @@ translate spanish d10p2_5bb6434e:
 translate spanish d10p2_207306a6:
 
     # m "Ehehe~ I love doing that."
-    m "Je, je, je. Me encanta hacer eso."
+    m "Je, je. Me encanta hacer eso."
 
 # game/d10.rpy:510
 translate spanish d10p2_d99afb13:
@@ -1756,7 +1756,7 @@ translate spanish d10p2_5148ecba:
 translate spanish d10p2_05228702:
 
     # "Cashier" "\"Your total is 32 dollars.\""
-    "Dependienta" "\"Son 32 dólares.\""
+    "Dependienta" "\"Son 32 euros.\""
 
 # game/d10.rpy:571
 translate spanish d10p2_fd34b7e9:
@@ -1768,7 +1768,7 @@ translate spanish d10p2_fd34b7e9:
 translate spanish d10p2_bcefe92e:
 
     # "Cashier" "\"Thank you for shopping with us!\""
-    "Dependienta" "\"¡Gracias por vuestra compra!\""
+    "Dependienta" "\"¡Gracias por su preferencia!\""
 
 # game/d10.rpy:573
 translate spanish d10p2_b19706d2:
@@ -1852,7 +1852,7 @@ translate spanish d10p2_0563a183:
 translate spanish d10p2_c50bef98:
 
     # m o1_2k "Hehe~"
-    m o1_2k "Je, je, je."
+    m o1_2k "Je, je..."
 
 # game/d10.rpy:596
 translate spanish d10p2_e6a3a783:
@@ -1876,7 +1876,7 @@ translate spanish d10p2_1de02c94:
 translate spanish d10p2_634151f3:
 
     # m o1_1j "Ehehe~"
-    m o1_1j "Je, je, je."
+    m o1_1j "Je, je..."
 
 # game/d10.rpy:601
 translate spanish d10p2_a319222c:
@@ -1912,7 +1912,7 @@ translate spanish d10p2_35586ef5:
 translate spanish d10p2_634151f3_1:
 
     # m o1_1j "Ehehe~"
-    m o1_1j "Je, je, je."
+    m o1_1j "Je, je."
 
 # game/d10.rpy:608
 translate spanish d10p2_bb682cd1:
@@ -2350,7 +2350,7 @@ translate spanish d10p2_62c336d4:
 translate spanish d10p2_634151f3_2:
 
     # m o1_1j "Ehehe~"
-    m o1_1j "Je, je, je."
+    m o1_1j "Je, je."
 
 # game/d10.rpy:741
 translate spanish d10p2_5205fc64:
@@ -2440,7 +2440,7 @@ translate spanish d10p2_bec51f6a:
 translate spanish d10p2_1098b28d:
 
     # m p_1e "Aww~{w=0.5} [player]~"
-    m p_1e "Ains... [player]..."
+    m p_1e "Ayyy... [player]..."
 
 # game/d10.rpy:772
 translate spanish d10p2_bb800a91:
@@ -2500,7 +2500,7 @@ translate spanish d10p2_5fba6f36:
 translate spanish d10p2_d9ee910e:
 
     # m p_1b "That was good."
-    m p_1b "Qué rico."
+    m p_1b "Todo estuvo muy bueno."
 
 # game/d10.rpy:786
 translate spanish d10p2_49643baf:
@@ -2548,19 +2548,19 @@ translate spanish d10p2_395e6fde:
 translate spanish d10p2_8f687b93:
 
     # m "Hehe~ I'm guessing that's because you get to see me in a swimsuit, right [player]?"
-    m "Je, je, je. Seguro que es porque me vas a ver en bañador, ¿eh, [player]?"
+    m "Je, je. Seguro que es porque me vas a ver en bañador, ¿eh, [player]?"
 
 # game/d10.rpy:803
 translate spanish d10p2_e49f1f75:
 
     # m "Hehe~"
-    m "Je, je, je."
+    m "A que si, ¿¿eh??"
 
 # game/d10.rpy:804
 translate spanish d10p2_d33b2ba6:
 
     # m "Goodnight, my love~"
-    m "Buenas noches, amor."
+    m "Pero en fin, buenas noches, amor.."
 
 # game/d10.rpy:805
 translate spanish d10p2_969b7f5a:
@@ -3274,7 +3274,7 @@ translate spanish d10event_92129fcd:
 translate spanish d10event_cae9d893:
 
     # s "Mmmmmm..."
-    s "Mmmmmm..."
+    s "Mmmm..."
 
 # game/d10.rpy:1044
 translate spanish d10event_ee733baa:
@@ -3610,7 +3610,7 @@ translate spanish d10event_54925795:
 translate spanish d10event_029a5353:
 
     # s "Just resting a bit, hehehe!"
-    s "Solo descanso un poco, je, je, je."
+    s "Solo descanso un poco, ¿vale?`"
 
 # game/d10.rpy:1142
 translate spanish d10event_3814e23e:
@@ -3766,7 +3766,7 @@ translate spanish d10event_f1b23c25:
 translate spanish d10event_f549c879:
 
     # m o2_1d "Mmmmmm.... I'm not sure. I think both would be nice places to visit."
-    m o2_1d "Mmmmmm... No sé, creo que los dos sitios molan para ir."
+    m o2_1d "Mmmm... No sé, creo que los dos sitios molan para ir."
 
 # game/d10.rpy:1189
 translate spanish d10event_e3ac69ab:
@@ -3808,7 +3808,7 @@ translate spanish d10event_f8e90831:
 translate spanish d10event_7322fa73:
 
     # m o2_2k "Uhmmmmmm... I think an aquarium!"
-    m o2_2k "Ummmm... ¡Creo que un acuario!"
+    m o2_2k "Ehhh... ¡Creo que un acuario!"
 
 # game/d10.rpy:1203
 translate spanish d10event_b804455d:
@@ -3820,13 +3820,13 @@ translate spanish d10event_b804455d:
 translate spanish d10event_9413f59e:
 
     # m o2_1j "...Hehe~"
-    m o2_1j "...Je, je, je."
+    m o2_1j "Je, je..."
 
 # game/d10.rpy:1205
 translate spanish d10event_79e3925d:
 
     # n 5bf "What do you mean, hehe?!"
-    n 5bf "¿Cómo que je, je, je?!"
+    n 5bf "¿Cómo que 'je, je'?!"
 
 # game/d10.rpy:1206
 translate spanish d10event_4e2bd04e:
@@ -3850,7 +3850,7 @@ translate spanish d10event_f8e90831_1:
 translate spanish d10event_73746fb8:
 
     # m o2_2k "Uhmmmmmm... I think a theme park!"
-    m o2_2k "Ummmm... ¡Creo que un parque de atracciones!"
+    m o2_2k "Ehhh... ¡Creo que un parque de atracciones!"
 
 # game/d10.rpy:1214
 translate spanish d10event_b804455d_1:
@@ -3862,13 +3862,13 @@ translate spanish d10event_b804455d_1:
 translate spanish d10event_9413f59e_1:
 
     # m o2_1j "...Hehe~"
-    m o2_1j "...Je, je, je."
+    m o2_1j "...Je, je."
 
 # game/d10.rpy:1216
 translate spanish d10event_79e3925d_1:
 
     # n 5bf "What do you mean, hehe?!"
-    n 5bf "¿Cómo que je, je, je?!"
+    n 5bf "¿Cómo que 'je, je'?!"
 
 # game/d10.rpy:1217
 translate spanish d10event_4e2bd04e_1:
@@ -4534,7 +4534,7 @@ translate spanish d10event_5bb6434e:
 translate spanish d10event_fd7109b7:
 
     # m o2_1k "Ehehe~ I love doing that."
-    m o2_1k "Je, je, me encanta hacer eso."
+    m o2_1k "Uyyy, me encanta hacer eso."
 
 # game/d10.rpy:1439
 translate spanish d10event_a86d9439:
@@ -4672,7 +4672,7 @@ translate spanish d10event_8f3ecaa0:
 translate spanish d10event_64fb2160:
 
     # mc "I-I will?"
-    mc "¿Sí... seguro?"
+    mc "¿Sí... segura?"
 
 # game/d10.rpy:1474
 translate spanish d10event_5e59ecf2:
@@ -4696,7 +4696,7 @@ translate spanish d10event_82997025:
 translate spanish d10event_c66ffd37:
 
     # "In the meantime, I make the biggest poker face in existence to try and hide my embarrassment."
-    "Mientras tanto, pongo la mejor cara de póker del mundo para disimular la vergüenza."
+    "Mientras tanto, pongo la mejor cara de marihuano del mundo para disimular la vergüenza."
 
 # game/d10.rpy:1481
 translate spanish d10event_a49038e7:
@@ -4774,7 +4774,7 @@ translate spanish d10event_5148ecba:
 translate spanish d10event_05228702:
 
     # "Cashier" "\"Your total is 32 dollars.\""
-    "Dependienta" "\"Son 32 dólares.\""
+    "Dependienta" "\"Son 32 euros.\""
 
 # game/d10.rpy:1497
 translate spanish d10event_fd34b7e9:
@@ -4870,7 +4870,7 @@ translate spanish d10event_0563a183:
 translate spanish d10event_0ceed240:
 
     # m o2_2k "Hehe~"
-    m o2_2k "Je, je, je."
+    m o2_2k "Je, je..."
 
 # game/d10.rpy:1522
 translate spanish d10event_e6a3a783:
@@ -4894,7 +4894,7 @@ translate spanish d10event_64ae4672:
 translate spanish d10event_f8a8c95c_1:
 
     # m o2_1j "Ehehe~"
-    m o2_1j "Je, je, je."
+    m o2_1j "Je, je."
 
 # game/d10.rpy:1527
 translate spanish d10event_10297c46:
@@ -4930,7 +4930,7 @@ translate spanish d10event_d8259e90:
 translate spanish d10event_f8a8c95c_2:
 
     # m o2_1j "Ehehe~"
-    m o2_1j "Je, je, je."
+    m o2_1j "Je, je."
 
 # game/d10.rpy:1534
 translate spanish d10event_bb682cd1:
@@ -5098,7 +5098,7 @@ translate spanish d10event_e4fee279:
 translate spanish d10event_20217207:
 
     # m o2_1j "Same here. Plus a little extra~"
-    m o2_1j "Yo igual. Y alguna cosilla más, je, je, je."
+    m o2_1j "Yo igual. Y alguna cosilla más, je, je..."
 
 # game/d10.rpy:1576
 translate spanish d10event_c68e5783:
@@ -5284,7 +5284,7 @@ translate spanish d10event_62c336d4:
 translate spanish d10event_f8a8c95c_3:
 
     # m o2_1j "Ehehe~"
-    m o2_1j "Je, je, je."
+    m o2_1j "Je, je..."
 
 # game/d10.rpy:1645
 translate spanish d10event_5205fc64:
@@ -5374,7 +5374,7 @@ translate spanish d10event_bec51f6a:
 translate spanish d10event_1098b28d:
 
     # m p_1e "Aww~{w=0.5} [player]~"
-    m p_1e "Ains... [player]..."
+    m p_1e "Ayyy... [player]..."
 
 # game/d10.rpy:1676
 translate spanish d10event_bb800a91:
@@ -5488,13 +5488,13 @@ translate spanish d10event_8f687b93:
 translate spanish d10event_e49f1f75:
 
     # m "Hehe~"
-    m "Je, je, je."
+    m "A que si, ¿¿eh??."
 
 # game/d10.rpy:1708
 translate spanish d10event_d33b2ba6:
 
     # m "Goodnight, my love~"
-    m "Buenas noches, amor."
+    m "Pero en fin, buenas noches, amor..."
 
 # game/d10.rpy:1709
 translate spanish d10event_969b7f5a:
