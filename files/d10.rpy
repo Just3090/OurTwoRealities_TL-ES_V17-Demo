@@ -16,19 +16,19 @@ translate spanish d10_194febc9:
 translate spanish d10_73511cee:
 
     # "I do the same to her."
-    "Yo la abrazo igual."
+    "No me quedo atrás y la abrazo yo también."
 
 # game/d10.rpy:19
 translate spanish d10_ef239fb3:
 
     # m "Mmmmm~"
-    m "Mmmm..."
+    m "Mmm..."
 
 # game/d10.rpy:22
 translate spanish d10_8cb92b80:
 
     # "I close my eyes as we embrace."
-    "Cierro los ojos mientras nos abrazamos."
+    "Voy cerrando lentamente los ojos mientras estamos así..."
 
 # game/d10.rpy:23
 translate spanish d10_c815cdc8:
@@ -40,25 +40,25 @@ translate spanish d10_c815cdc8:
 translate spanish d10_8e77cae1:
 
     # m "I can't wait to do this when I come over to your reality, [player]."
-    m "Tengo unas ganas locas de hacer esto contigo en tu mundo, [player]."
+    m "Tengo unas ganas loquísimas de hacer esto mismo cuando visite tu mundo, [player]."
 
 # game/d10.rpy:28
 translate spanish d10_ec9f6167:
 
     # m "Just you and me..."
-    m "Solo tú y yo..."
+    m "Solos, tú y yo..."
 
 # game/d10.rpy:29
 translate spanish d10_0d0f8073:
 
     # m "...Spending our time together like this..."
-    m "...Pasando el tiempo juntos así..."
+    m "... Pasando el tiempo juntos así..."
 
 # game/d10.rpy:30
 translate spanish d10_a9d5588a:
 
     # m "Mmmm~ I'm getting excited just thinking about it~! Hehehe~"
-    m "Mmmm... Solo de pensarlo ya me emociono. Je, je, je."
+    m "Mmm... Solo de pensarlo, ya me emociono. Je, je, je."
 
 # game/d10.rpy:31
 translate spanish d10_c238d97e:
@@ -112,7 +112,7 @@ translate spanish d10_5df9ed68:
 translate spanish d10_6803d4f4:
 
     # m "Besides, you delayed this for long enough!"
-    m "¡Encima lo has estado retrasando bastante!"
+    m "¡No tengas la cara dura de escaparte después de posponerme este momento una y otra vez!"
 
 # game/d10.rpy:52
 translate spanish d10_2b1aa9c7:
@@ -148,7 +148,7 @@ translate spanish d10_ddad6a55:
 translate spanish d10_90d7369a:
 
     # m "Mmmmmm~"
-    m "Mmmm..."
+    m "Mmm..."
 
 # game/d10.rpy:74
 translate spanish d10_0c358dd3:
@@ -220,7 +220,7 @@ translate spanish d10_f9a4de9a:
 translate spanish d10_8a0fef18:
 
     # m p_1b "'Kay!"
-    m p_1b "¡Vale!"
+    m p_1b "¡Valep!"
 
 # game/d10.rpy:96
 translate spanish d10_5ae6fdf5:
@@ -346,7 +346,7 @@ translate spanish d10_c3c43de2:
 translate spanish d10_357bc79c:
 
     # mc "You really are an amazing cook, Monika!"
-    mc "¡De verdad que cocinas de lujo, Monika!"
+    mc "Vaya cocinera tengo por novia. ¡Me dejas con la boca abierta!"
 
 # game/d10.rpy:126
 translate spanish d10_8c8c435d:
@@ -358,7 +358,7 @@ translate spanish d10_8c8c435d:
 translate spanish d10_dff8ab2d:
 
     # m h1_1l "It's just some simple eggs anyway!"
-    m h1_1l "¡Si solo son unos huevos, tampoco tiene misterio!"
+    m h1_1l "¡Si solo son unos huevos, tampoco tiene mucho misterio!"
 
 # game/d10.rpy:129
 translate spanish d10_29cc0e31:
@@ -370,7 +370,7 @@ translate spanish d10_29cc0e31:
 translate spanish d10_2669e98d:
 
     # m h1_1k "Anytime, [player]~"
-    m h1_1k "Cuando quieras, [player]."
+    m h1_1k "A ti, [player]."
 
 # game/d10.rpy:133
 translate spanish d10_ffb67573:
@@ -388,7 +388,7 @@ translate spanish d10date_85de62b3:
 translate spanish d10date_0767d418:
 
     # m "Hmmmm..."
-    m "Mmmm..."
+    m "Mmm..."
 
 # game/d10.rpy:149
 translate spanish d10date_55e0ea16:
@@ -466,7 +466,7 @@ translate spanish d10date_f7dc905f:
 translate spanish d10date_e15545a9:
 
     # mc "Yeah, I'll just quickly grab my wallet."
-    mc "Sí, solo cojo la cartera y vamos."
+    mc "Sí. Déjame coger la cartera y vamos tirando."
 
 # game/d10.rpy:172
 translate spanish d10date_0de1638f:
@@ -538,7 +538,7 @@ translate spanish d10date_bf746bd9:
 translate spanish d10date_30db4cad:
 
     # m o1_2d "Oh? Yeah I changed it. The other one ran out."
-    m o1_2d "¿Ah? Sí, he cambiado, que el otro se acabó."
+    m o1_2d "¿Qué? Ah, claro. Es que el otro se me acabó."
 
 # game/d10.rpy:198
 translate spanish d10date_8d39fa0d:
@@ -556,13 +556,13 @@ translate spanish d10date_20eefdb6:
 translate spanish d10date_45d9cd96:
 
     # m "Ehehe~"
-    m "Je, je."
+    m "Je, je, je..."
 
 # game/d10.rpy:201
 translate spanish d10date_48837bcc:
 
     # m "I'm glad~"
-    m "Me alegro."
+    m "Me alegro muchísimo."
 
 # game/d10.rpy:203
 translate spanish d10date_48094787:
