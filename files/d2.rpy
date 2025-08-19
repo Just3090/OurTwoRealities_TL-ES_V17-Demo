@@ -28,7 +28,7 @@ translate spanish d2_5ccf1f5c:
 translate spanish d2_2eeaf39d:
 
     # mc "I don't know, but it's not our alarm..."
-    mc "Ni idea, pero no es la nuestra..."
+    mc "Ni idea, pero no me suena que sea la nuestra..."
 
 # game/d2.rpy:27
 translate spanish d2_1b1b58c5:
@@ -46,7 +46,7 @@ translate spanish d2_6a75c1e7:
 translate spanish d2_f7c8a436:
 
     # "We bolt outside and run to Sayori's house."
-    "Salimos pitando y corremos a casa de Sayori."
+    "Salimos pitando a casa de Sayori."
 
 # game/d2.rpy:35
 translate spanish d2_15db6e3f:
@@ -58,7 +58,7 @@ translate spanish d2_15db6e3f:
 translate spanish d2_382717d7:
 
     # "I see a bit of smoke coming from inside."
-    "Veo un poco de humo saliendo de dentro."
+    "Veo un poco de humo saliendo de la cocina."
 
 # game/d2.rpy:37
 translate spanish d2_a0736e55:
@@ -106,7 +106,7 @@ translate spanish d2_c11b7bd7:
 translate spanish d2_55627fef:
 
     # "I think it's a pancake."
-    "Creo que era una tortita."
+    "Creo que sí era una tortita."
 
 # game/d2.rpy:56
 translate spanish d2_a70b86a0:
@@ -232,7 +232,7 @@ translate spanish d2_2853da2b:
 translate spanish d2_c0dee64c:
 
     # "Monika brings out a few toppings too and we put on everything we like."
-    "Monika saca también algunos toppings y nos ponemos de todo lo que nos gusta."
+    "Monika saca también algunas cosas para ponerle y nos despachamos de todo lo que nos gusta."
 
 # game/d2.rpy:106
 translate spanish d2_8c1650ef:
@@ -364,7 +364,7 @@ translate spanish d2_db0deecf:
 translate spanish d2_df95cf26:
 
     # "We finish in about 5 minutes, and we head upstairs."
-    "En cinco minutos acabamos y subimos arriba."
+    "En cinco minutos acabamos y subimos."
 
 # game/d2.rpy:157
 translate spanish d2_005fa48f:
@@ -382,7 +382,7 @@ translate spanish d2_141293d8:
 translate spanish d2_8526afdf:
 
     # m h1_3b "Okay, here's what I need you to do..."
-    m h1_3b "Vale, mira, esto es lo que necesito que hagas..."
+    m h1_3b "Vale vale, mira, esto es lo que necesito que hagas..."
 
 # game/d2.rpy:160
 translate spanish d2_fc8cd425:
@@ -400,19 +400,19 @@ translate spanish d2_53cae741:
 translate spanish d2_29e5dd3b:
 
     # "It takes us about 15 minutes to get the pamphlets designed and printed."
-    "Tardamos unos quince minutos en diseñar e imprimir los panfletos."
+    "Nos tardamos más o menos unos quince minutos en diseñar e imprimir los panfletos."
 
 # game/d2.rpy:165
 translate spanish d2_4f04bc0a:
 
     # mc "Monika, can you clean up here while I get started on making lunch?"
-    mc "Monika, ¿puedes recoger esto mientras yo empiezo a preparar la comida?"
+    mc "Monika, ¿puedes recoger mientras yo empiezo a preparar la comida?"
 
 # game/d2.rpy:166
 translate spanish d2_afb239ab:
 
     # m h1_1b "Sure, go ahead!"
-    m h1_1b "¡Claro, tú dale!"
+    m h1_1b "¡Claro!"
 
 # game/d2.rpy:168
 translate spanish d2_a4639085:
@@ -424,7 +424,7 @@ translate spanish d2_a4639085:
 translate spanish d2_d4311fe6:
 
     # mc "Monika, I'll clean up here while you get started on lunch."
-    mc "Monika, recojo yo esto y tú ve empezando con la comida."
+    mc "Monika, si quieres ya recojo yo esto y tú ve empezando con la comida."
 
 # game/d2.rpy:172
 translate spanish d2_98d9b12d:
@@ -448,7 +448,7 @@ translate spanish d2_4c050d35:
 translate spanish d2_d41c4319:
 
     # "I shut off the computer, and make my way downstairs where a nice aroma is coming from."
-    "Apago el ordenador y bajo, de donde viene un olor buenísimo."
+    "Apago el ordenador y bajo a la cocina, de donde me doy cuenta que emana un olor buenísimo."
 
 # game/d2.rpy:185
 translate spanish d2_53a2ef75:
@@ -460,7 +460,7 @@ translate spanish d2_53a2ef75:
 translate spanish d2_6c6fa4ea:
 
     # m "Great timing!"
-    m "¡Justo a tiempo!"
+    m "¡A tiempo, todo el tiempo!"
 
 # game/d2.rpy:188
 translate spanish d2_73f3858a:
@@ -496,7 +496,7 @@ translate spanish d2_ccb9443b:
 translate spanish d2_65a87fa0:
 
     # m h1_3b "Let's dig in!"
-    m h1_3b "¡A comer!"
+    m h1_3b "¡Hora de zampar!"
 
 # game/d2.rpy:197
 translate spanish d2_4c81e68e:
@@ -544,13 +544,13 @@ translate spanish d2_a21eb898:
 translate spanish d2_0c2b5f4e:
 
     # m h1_1e "Aww~ Thanks [player]~"
-    m h1_1e "Ay, gracias [player]"
+    m h1_1e "Ayyy, gracias [player]."
 
 # game/d2.rpy:206
 translate spanish d2_0a7d320b:
 
     # m h1_1k "I'll cook for you any day!"
-    m h1_1k "Cocinaré para ti siempre que quieras"
+    m h1_1k "Cocinaré para ti siempre que quieras."
 
 # game/d2.rpy:207
 translate spanish d2_e75b2d47:
@@ -586,7 +586,7 @@ translate spanish d2_fcdc53aa:
 translate spanish d2_db5ad915:
 
     # m h1_1j "Hehe~"
-    m h1_1j "Je, je."
+    m h1_1j "Je, je..."
 
 # game/d2.rpy:213
 translate spanish d2_beed0e9c:
@@ -664,19 +664,19 @@ translate spanish d2contcook_aca2e32d:
 translate spanish d2contcook_e84e725a:
 
     # m "Mmmm~"
-    m "Mmmm..."
+    m "Mmm..."
 
 # game/d2.rpy:257
 translate spanish d2contcook_99ab5407:
 
     # m h1_3b "It smells good in here!"
-    m h1_3b "¡Qué bien huele aquí!"
+    m h1_3b "¡Qué buena pinta tiene esto!"
 
 # game/d2.rpy:259
 translate spanish d2contcook_e2b527ce:
 
     # mc "I'm glad you think so, but before you praise me any more, you might wanna try it first!"
-    mc "Me alegro de que lo digas, pero antes de echarme más flores, ¡pruébalo primero!"
+    mc "Venga, antes de que me eches flores, ¡pruébalo primero!"
 
 # game/d2.rpy:260
 translate spanish d2contcook_3cb749fd:
@@ -700,13 +700,13 @@ translate spanish d2contcook_5816f61c:
 translate spanish d2contcook_38d8f5a3:
 
     # m h1_2b "Let's dig in~!"
-    m h1_2b "¡A comer!"
+    m h1_2b "¡Hora de zampar!"
 
 # game/d2.rpy:266
 translate spanish d2contcook_ce293185:
 
     # "Monika eats a forkful of veggies."
-    "Monika se mete un buen tenedor de verduras."
+    "Monika se mete un buen bocado de verduras."
 
 # game/d2.rpy:268
 translate spanish d2contcook_8dcffb38:
@@ -736,7 +736,7 @@ translate spanish d2contcook_799df9ec:
 translate spanish d2contcook_8f3fef6e:
 
     # mc "It's really nothing special."
-    mc "Tampoco es para tanto."
+    mc "Anda, no es para tanto."
 
 # game/d2.rpy:274
 translate spanish d2contcook_76a98b62:
@@ -748,7 +748,7 @@ translate spanish d2contcook_76a98b62:
 translate spanish d2contcook_b62e3a0d:
 
     # m h1_1j "Ehehe~!"
-    m h1_1j "Je, je."
+    m h1_1j "Je, je, je..."
 
 # game/d2.rpy:276
 translate spanish d2contcook_3f3e02ef:
@@ -886,19 +886,19 @@ translate spanish d2contcook_aca2e32d_1:
 translate spanish d2contcook_e84e725a_1:
 
     # m "Mmmm~"
-    m "Mmmm..."
+    m "Mmm..."
 
 # game/d2.rpy:305
 translate spanish d2contcook_99ab5407_1:
 
     # m h1_3b "It smells good in here!"
-    m h1_3b "¡Qué bien huele aquí!"
+    m h1_3b "¡Qué buena pinta tiene esto!"
 
 # game/d2.rpy:307
 translate spanish d2contcook_e2b527ce_1:
 
     # mc "I'm glad you think so, but before you praise me any more, you might wanna try it first!"
-    mc "Me alegro de que lo digas, pero antes de echarme más flores, ¡pruébalo primero!"
+    mc "Venga, antes de que me eches flores, ¡pruébalo primero!"
 
 # game/d2.rpy:308
 translate spanish d2contcook_3cb749fd_1:
@@ -922,7 +922,7 @@ translate spanish d2contcook_5816f61c_1:
 translate spanish d2contcook_38d8f5a3_1:
 
     # m h1_2b "Let's dig in~!"
-    m h1_2b "¡A comer!"
+    m h1_2b "¡Hora de zampar!"
 
 # game/d2.rpy:314
 translate spanish d2contcook_e803d78a:
@@ -970,7 +970,7 @@ translate spanish d2contcook_76a98b62_1:
 translate spanish d2contcook_b62e3a0d_1:
 
     # m h1_1j "Ehehe~!"
-    m h1_1j "Je, je."
+    m h1_1j "Je, je, je..."
 
 # game/d2.rpy:324
 translate spanish d2contcook_3ab95d52:
@@ -1060,7 +1060,7 @@ translate spanish d2contcook_aca2e32d_2:
 translate spanish d2contcook_e84e725a_2:
 
     # m "Mmmm~"
-    m "Mmmm..."
+    m "Mmm..."
 
 # game/d2.rpy:345
 translate spanish d2contcook_01a8937f:
@@ -1072,7 +1072,7 @@ translate spanish d2contcook_01a8937f:
 translate spanish d2contcook_e2b527ce_2:
 
     # mc "I'm glad you think so, but before you praise me any more, you might wanna try it first!"
-    mc "Me alegro de que lo digas, pero antes de echarme más flores, ¡pruébalo primero!"
+    mc "Venga, antes de que me eches flores, ¡pruébalo primero!"
 
 # game/d2.rpy:348
 translate spanish d2contcook_3cb749fd_2:
@@ -1096,13 +1096,13 @@ translate spanish d2contcook_5816f61c_2:
 translate spanish d2contcook_38d8f5a3_2:
 
     # m h1_2b "Let's dig in~!"
-    m h1_2b "¡A comer!"
+    m h1_2b "¡Hora de zampar!"
 
 # game/d2.rpy:354
 translate spanish d2contcook_e8c2454a:
 
     # "Monika eats a forkful."
-    "Monika se mete un buen tenedor de ensalada."
+    "Monika se mete un buen bocado de ensalada."
 
 # game/d2.rpy:356
 translate spanish d2contcook_8dcffb38_2:
@@ -1132,7 +1132,7 @@ translate spanish d2contcook_799df9ec_2:
 translate spanish d2contcook_8f3fef6e_2:
 
     # mc "It's really nothing special."
-    mc "Tampoco es para tanto."
+    mc "Anda, no es para tanto."
 
 # game/d2.rpy:362
 translate spanish d2contcook_76a98b62_2:
@@ -1144,7 +1144,7 @@ translate spanish d2contcook_76a98b62_2:
 translate spanish d2contcook_b62e3a0d_2:
 
     # m h1_1j "Ehehe~!"
-    m h1_1j "Je, je."
+    m h1_1j "Je, je, je..."
 
 # game/d2.rpy:364
 translate spanish d2contcook_3f3e02ef_1:
@@ -1234,7 +1234,7 @@ translate spanish d2contcook_3eaec5db:
 translate spanish d2contcook_b4e66444:
 
     # m h1_1j "Hehehe~ It's ok!"
-    m h1_1j "Je, je, no pasa nada"
+    m h1_1j "Je, je, je, no pasa nada"
 
 # game/d2.rpy:387
 translate spanish d2contcook_d5232f0f:
@@ -1336,7 +1336,7 @@ translate spanish d2contcook_31e23a88:
 translate spanish d2ext_932122fd:
 
     # "With that all wrapped up, I wash the dishes while Monika cleans up the table."
-    "Con todo recogido, yo friego los platos mientras Monika recoge la mesa."
+    "Con todo ya recogido, friego los platos mientras Monika recoge la mesa."
 
 # game/d2.rpy:487
 translate spanish d2ext_3634d2bf:
@@ -1462,19 +1462,19 @@ translate spanish d2ext_e0c5e6dd:
 translate spanish d2ext_73fbf97d:
 
     # m h1_1k "Ehehe~!"
-    m h1_1k "Je, je."
+    m h1_1k "Je, je, je..."
 
 # game/d2.rpy:518
 translate spanish d2ext_f2cb13d2:
 
     # "She chuckles a bit, and I blush a little."
-    "Se ríe un poco y yo me pongo rojo."
+    "Se ríe un poco y yo me pongo más rojo que un tomate."
 
 # game/d2.rpy:519
 translate spanish d2ext_efaad254:
 
     # mc "Okay, so are you ready to get going then?"
-    mc "Bueno, ¿entonces estás lista para salir?"
+    mc "Bueno, bueno, ¿entonces estás lista para salir?"
 
 # game/d2.rpy:520
 translate spanish d2ext_621793f0:
@@ -1492,7 +1492,7 @@ translate spanish d2ext_6cdfaf9d:
 translate spanish d2ext_1d8286ff:
 
     # m "I'll be just a minute!"
-    m "¡Tardo un minuto!"
+    m "¡No tardo nada!"
 
 # game/d2.rpy:525
 translate spanish d2ext_7ef6d18a:
@@ -1510,7 +1510,7 @@ translate spanish d2ext_81b183a5:
 translate spanish d2ext_c7bbd73a:
 
     # m "[player]~!"
-    m "[player]!"
+    m "¡[player]!"
 
 # game/d2.rpy:528
 translate spanish d2ext_7fe4a43d:
@@ -1546,7 +1546,7 @@ translate spanish d2ext_455cb722:
 translate spanish d2ext_199c69ab:
 
     # m o2_1k "Yep!"
-    m o2_1k "¡Sí!"
+    m o2_1k "¡Síp!"
 
 # game/d2.rpy:543
 translate spanish d2ext_4f9f8fa9:
@@ -1558,19 +1558,19 @@ translate spanish d2ext_4f9f8fa9:
 translate spanish d2ext_ab70a272:
 
     # m o2_1b "Maybe later.{w=0.5} Let's go for our walk first, okay?"
-    m o2_1b "Quizá luego. Vamos a dar el paseo primero, ¿vale?"
+    m o2_1b "Aunque quizá luego. Vamos a dar el paseo primero, ¿vale?"
 
 # game/d2.rpy:549
 translate spanish d2ext_aed1554a:
 
     # m o2_1j "Hehehe~"
-    m o2_1j "Je, je."
+    m o2_1j "Je, je, je..."
 
 # game/d2.rpy:550
 translate spanish d2ext_bc8b4194:
 
     # m o2_1b "Well,{w=0.5} what are we waiting for then?"
-    m o2_1b "Bueno, ¿a qué esperamos entonces?"
+    m o2_1b "Vale, ¿a qué esperamos entonces?"
 
 # game/d2.rpy:555
 translate spanish d2ext_a435e903:
@@ -1600,19 +1600,19 @@ translate spanish d2ext_4ba56644:
 translate spanish d2ext_2f9d45b6:
 
     # m "It's such a nice day today~"
-    m "Hace un día estupendo hoy"
+    m "Hace un día estupendo hoy..."
 
 # game/d2.rpy:564
 translate spanish d2ext_3e1882c8:
 
     # mc "That it is."
-    mc "Ya ves."
+    mc "¿A que sí?."
 
 # game/d2.rpy:565
 translate spanish d2ext_3912c75e:
 
     # mc "Makes for a perfect time to spend with the one you love~"
-    mc "Es el momento perfecto para estar con la persona que quieres..."
+    mc "Siento que es el momento perfecto para estar con la persona que quieres..."
 
 # game/d2.rpy:566
 translate spanish d2ext_77efa280:
@@ -1726,13 +1726,13 @@ translate spanish d2ext_4e848716:
 translate spanish d2ext_c1e11b15:
 
     # m o2_1b "It's really nice!"
-    m o2_1b "Está genial"
+    m o2_1b "¡Está genial!"
 
 # game/d2.rpy:595
 translate spanish d2ext_b22297ce:
 
     # m o2_2j "I'm glad we can spend time together like this~!"
-    m o2_2j "Me alegro de que podamos pasar tiempo juntos así"
+    m o2_2j "Me alegro de que podamos pasar tiempo juntos así..."
 
 # game/d2.rpy:596
 translate spanish d2ext_551b8412:
@@ -1744,7 +1744,7 @@ translate spanish d2ext_551b8412:
 translate spanish d2ext_2cf35550:
 
     # "I look at Monika with her hair slightly waving in the wind as we sit."
-    "Miro a Monika, con el pelo moviéndose un poco por el viento mientras estamos sentados."
+    "La miro. El pelo de Monika se mueve suavemente con la brisa mientras estamos aquí sentados."
 
 # game/d2.rpy:601
 translate spanish d2ext_a20cefa7:
@@ -1774,19 +1774,19 @@ translate spanish d2ext_478cc3f5:
 translate spanish d2ext_a20cefa7_1:
 
     # "..."
-    "..."
+    "La hora dorada..."
 
 # game/d2.rpy:617
 translate spanish d2ext_b2cbc34c:
 
     # m "...I..."
-    m "... Yo..."
+    m "Yo..."
 
 # game/d2.rpy:619
 translate spanish d2ext_e066384b:
 
     # m "...I love you too~!"
-    m "... ¡Yo también te quiero!"
+    m "¡Yo también te quiero!"
 
 # game/d2.rpy:623
 translate spanish d2slow_a20cefa7:
@@ -1834,7 +1834,7 @@ translate spanish d2cont_d04ba85b:
 translate spanish d2cont_ddaf6289:
 
     # m "You know, time feels like it slows down when I'm with you~"
-    m "¿Sabes? El tiempo parece ir más despacio cuando estoy contigo"
+    m "¿Sabes? El tiempo parece ir más despacio cuando estoy contigo."
 
 # game/d2.rpy:657
 translate spanish d2cont_173404b3:
@@ -1978,13 +1978,13 @@ translate spanish d2cont_278aac42:
 translate spanish d2cont_b4409513:
 
     # m o2_1k "I enjoyed it just as much as you~"
-    m o2_1k "A mí me ha gustado igual que a ti"
+    m o2_1k "A mí me ha gustado igual que a ti..."
 
 # game/d2.rpy:701
 translate spanish d2cont_ff220e4b:
 
     # m o2_3k "Now, c'mon! Let's explore a bit!"
-    m o2_3k "¡Venga, vamos a explorar un poco!"
+    m o2_3k "¡Venga, vamos a caminar un poco más!"
 
 # game/d2.rpy:703
 translate spanish d2cont_6025d8b2:
@@ -2110,7 +2110,7 @@ translate spanish d2cont_91407960:
 translate spanish d2cont_a50b08bd:
 
     # "We keep moving along until we reach the entrance we came through."
-    "Seguimos andando hasta llegar a la entrada por la que entramos."
+    "Seguimos andando hasta llegar al lugar por la que entramos inicialmente."
 
 # game/d2.rpy:739
 translate spanish d2cont_7b2dfbb4:
@@ -2122,7 +2122,7 @@ translate spanish d2cont_7b2dfbb4:
 translate spanish d2cont_9bc1a237:
 
     # "Our hands are locked together."
-    "Vamos cogidos de la mano."
+    "Vamos de la mano."
 
 # game/d2.rpy:742
 translate spanish d2cont_221e6412:
@@ -2206,13 +2206,13 @@ translate spanish d2cont_ccd96fea:
 translate spanish d2cont_3034d8c2:
 
     # mc "Are we just having leftovers for supper then?"
-    mc "¿Entonces cenamos las sobras?"
+    mc "¿Te apetece si cenamos lo que dejamos de hace rato?"
 
 # game/d2.rpy:761
 translate spanish d2cont_df4cc50a:
 
     # m "Yeah, let's just do that."
-    m "Sí, mejor eso."
+    m "Sí, suena bien."
 
 # game/d2.rpy:762
 translate spanish d2cont_729494d6:
@@ -2236,7 +2236,7 @@ translate spanish d2cont_e74385d7:
 translate spanish d2cont_3665e173:
 
     # "I grab some of today's lunch and slap it into the microwave."
-    "Cojo un poco de lo que sobró de la comida y lo meto al microondas."
+    "Cojo un poco de lo que sobró y lo meto al microondas."
 
 # game/d2.rpy:768
 translate spanish d2cont_a9f99a9e:
@@ -2272,13 +2272,14 @@ translate spanish d2cont_f9dcf874:
 translate spanish d2cont_b03b214d:
 
     # mc "Yep! Dig in!"
-    mc "¡Listo! ¡A comer!"
+    mc "¡Listo! ¡Hora de zampar!"
 
 # game/d2.rpy:777
 translate spanish d2cont_3762ef75:
 
     # "We both eat our fill from the leftovers."
-    "Cenamos los dos con las sobras."
+    "..."
+    "Después de disfrutar la comida, terminamos de cenar."
 
 # game/d2.rpy:780
 translate spanish d2cont_cd86d917:
@@ -2290,7 +2291,7 @@ translate spanish d2cont_cd86d917:
 translate spanish d2cont_495fc3fe:
 
     # "I hear her sort through the channels."
-    "La oigo haciendo zapping."
+    "La oigo que cambia los canales de una manera indecisa."
 
 # game/d2.rpy:782
 translate spanish d2cont_2e7b955a:
@@ -2386,7 +2387,7 @@ translate spanish d2cont_ff38e6ea:
 translate spanish d2cont_e376e379:
 
     # m "This seems like a nice show."
-    m "Parece que está bien."
+    m "Parece que está bueno."
 
 # game/d2.rpy:804
 translate spanish d2cont_473a88b5:
