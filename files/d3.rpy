@@ -10,7 +10,7 @@ translate spanish d3_a20cefa7:
 translate spanish d3_5c9081b1:
 
     # "As I wake up, I don't see Monika next to me as she usually is."
-    "Al despertarme, no veo a Monika a mi lado como siempre."
+    "Al despertarme, no veo a Monika."
 
 # game/d3.rpy:14
 translate spanish d3_ec2e0c50:
@@ -40,7 +40,7 @@ translate spanish d3_44140bc4:
 translate spanish d3_d4ba4bf7:
 
     # "Once I'm done, I go downstairs to see what Monika's up to."
-    "Cuando termino, bajo a ver qué está haciendo Monika."
+    "Cuando termino, bajo a ver qué está haciendo."
 
 # game/d3.rpy:23
 translate spanish d3_467e3bad:
@@ -100,7 +100,7 @@ translate spanish d3_9ba82051:
 translate spanish d3_f915baa6:
 
     # mc "Mmmmm~"
-    mc "Mmmm..."
+    mc "Mmm..."
 
 # game/d3.rpy:35
 translate spanish d3_3b502351:
@@ -112,7 +112,7 @@ translate spanish d3_3b502351:
 translate spanish d3_6d1b9162:
 
     # m h1_1b "I hope you like it!"
-    m h1_1b "¡Espero que te guste!"
+    m h1_1b "¡Espero que lo disfrutes!"
 
 # game/d3.rpy:38
 translate spanish d3_3f730998:
@@ -190,7 +190,7 @@ translate spanish d3_cb0e92c5:
 translate spanish d3_d0e1d36b:
 
     # "...And it defines the bond between us."
-    "...Y lo que nos une de verdad."
+    "... Y lo que nos une de verdad."
 
 # game/d3.rpy:54
 translate spanish d3_235e6e4c:
@@ -238,7 +238,7 @@ translate spanish d3_47c1952d:
 translate spanish d3_4593aa2a:
 
     # m h1_3b "Yep!"
-    m h1_3b "¡Sí!"
+    m h1_3b "¡Síp!"
 
 # game/d3.rpy:66
 translate spanish d3_e990a3a5:
@@ -256,7 +256,7 @@ translate spanish d3_5a2fd789:
 translate spanish d3_4153a187:
 
     # m h1_3j "Mhm~!"
-    m h1_3j "¡Eso es!"
+    m h1_3j "¡Así es!"
 
 # game/d3.rpy:69
 translate spanish d3_d5171ab5:
