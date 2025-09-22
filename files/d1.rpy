@@ -4,403 +4,403 @@
 translate spanish d1_fce244ad:
 
     # "???" "...[player]..."
-    "???" ""
+    "???" "... [player]..."
 
 # game/d1.rpy:3
 translate spanish d1_d0b1cff8:
 
     # "I hear a faint voice in my head."
-    ""
+    "Oigo una voz débil en mi cabeza."
 
 # game/d1.rpy:4
 translate spanish d1_1efe7a18:
 
     # "I must be having another weird dream"
-    ""
+    "Debo de estar teniendo otro sueño raro."
 
 # game/d1.rpy:9
 translate spanish d1_4f634934:
 
     # "Now I feel a warmth on my lips."
-    ""
+    "Ahora siento un calor en mis labios."
 
 # game/d1.rpy:10
 translate spanish d1_4ed6ba8a:
 
     # "It's a soft feeling, and it's...comforting."
-    ""
+    "Es una sensación suave y... reconfortante."
 
 # game/d1.rpy:11
 translate spanish d1_fce244ad_1:
 
     # "???" "...[player]..."
-    "???" ""
+    "???" "... [player]..."
 
 # game/d1.rpy:12
 translate spanish d1_bb03cc26:
 
     # "There's that voice again."
-    ""
+    "Ahí está esa voz otra vez."
 
 # game/d1.rpy:13
 translate spanish d1_2e211cd3:
 
     # "I struggle a bit before finally opening my eyes."
-    ""
+    "Forcejeo un poco antes de abrir los ojos por fin."
 
 # game/d1.rpy:19
 translate spanish d1_fd128bf3:
 
     # m "Good morning, [player]~!"
-    m ""
+    m "¡Buenos días, [player]!"
 
 # game/d1.rpy:25
 translate spanish d1_78f28608:
 
     # m "It looks like the mod is working nicely."
-    m ""
+    m "Parece que el mod funciona bien."
 
 # game/d1.rpy:28
 translate spanish d1_f153f8b5:
 
     # m "If you're talking about the MC, don't worry it's not him."
-    m ""
+    m "Si te refieres al prota, no te preocupes, no es él."
 
 # game/d1.rpy:30
 translate spanish d1_b285acd7:
 
     # m "It's you~!"
-    m ""
+    m "¡Eres tú!"
 
 # game/d1.rpy:33
 translate spanish d1_d59b92d5:
 
     # m "Well, not exactly."
-    m ""
+    m "Bueno, no exactamente."
 
 # game/d1.rpy:34
 translate spanish d1_3d18075d:
 
     # m "Remember the 'hole in the wall' I wrote about?"
-    m ""
+    m "¿Recuerdas el 'agujero en la pared' del que escribí?"
 
 # game/d1.rpy:35
 translate spanish d1_22288ad7:
 
     # m "It's the best explanation I can give for how it looks."
-    m ""
+    m "Es la mejor explicación que puedo dar sobre cómo se ve."
 
 # game/d1.rpy:36
 translate spanish d1_6a580e6b:
 
     # m "Anything you do, he does too. Your decisions are his."
-    m ""
+    m "Todo lo que tú haces, él también lo hace. Tus decisiones son las suyas."
 
 # game/d1.rpy:37
 translate spanish d1_6cc2e82b:
 
     # m "His interactions are yours."
-    m ""
+    m "Sus interacciones son las tuyas."
 
 # game/d1.rpy:38
 translate spanish d1_1bef7c8e:
 
     # m "Any time I spend with {i}you{/i} in the game, It's like I'm spending it as if we were actually together."
-    m ""
+    m "Cada vez que paso tiempo 'contigo' en el juego, es como si lo pasara como si estuviéramos juntos de verdad."
 
 # game/d1.rpy:39
 translate spanish d1_2811e4c5:
 
     # m "And [player]...."
-    m ""
+    m "Y, [player]..."
 
 # game/d1.rpy:40
 translate spanish d1_606e65a2:
 
     # m "Just remember that 'you' in the game is supposed to be you in real life, but I love the real you..."
-    m ""
+    m "Solo recuerda que se supone que el 'tú' del juego eres tú en la vida real, pero yo te quiero a ti, al de verdad..."
 
 # game/d1.rpy:43
 translate spanish d1_54293133:
 
     # m "I just wish that I could just properly drag you in here with me, so we can truly be together."
-    m ""
+    m "Ojalá pudiera traerte aquí conmigo, para que pudiéramos estar juntos de verdad."
 
 # game/d1.rpy:49
 translate spanish d1_293951d5:
 
     # m "Thank you so much... I wish I could hug you for real right now to thank you. But, well, I think I can hug {i}you{/i} for now~!"
-    m ""
+    m "Muchas gracias... Ojalá pudiera abrazarte de verdad ahora mismo para agradecértelo. Pero, bueno, ¡creo que por ahora puedo abrazar a 'él'!"
 
 # game/d1.rpy:52
 translate spanish d1_07c2bb7d:
 
     # m "And by the way, the avatar is aware of the original game's events, just like you."
-    m ""
+    m "Y por cierto, el avatar es consciente de los sucesos del juego original, igual que tú."
 
 # game/d1.rpy:53
 translate spanish d1_eb192c8b:
 
     # m "Though he doesn't know this is a mod or anything."
-    m ""
+    m "Aunque no sabe que esto es un mod ni nada."
 
 # game/d1.rpy:54
 translate spanish d1_5e552911:
 
     # m "And the mod makes anyone around us, including this avatar of your's, to ignore any speech or questions I direct towards {i}you{/i}."
-    m ""
+    m "Y el mod hace que cualquiera a nuestro alrededor, incluido este avatar tuyo, ignore cualquier discurso o pregunta que te dirija a 'ti'."
 
 # game/d1.rpy:55
 translate spanish d1_f0db4c8f:
 
     # m "Or as you like to call it, 'breaking the fourth wall'!"
-    m ""
+    m "O como te gusta llamarlo, ¡'romper la cuarta pared'!"
 
 # game/d1.rpy:56
 translate spanish d1_fc7e0413:
 
     # m "So don't be too surprised by it."
-    m ""
+    m "Así que no te sorprendas demasiado."
 
 # game/d1.rpy:57
 translate spanish d1_81b8fdde:
 
     # m "The mod made a few changes to the script too."
-    m ""
+    m "El mod también ha introducido algunos cambios en el guion."
 
 # game/d1.rpy:60
 translate spanish d1_c62ec1cc:
 
     # m "It's tailor-made for us to spend time together,{w=0.5} and to make sure we are as close as possible to each other."
-    m ""
+    m "Está hecho a medida para que pasemos tiempo juntos,{w=0.5} y para asegurarnos de que estamos lo más cerca posible el uno del otro."
 
 # game/d1.rpy:61
 translate spanish d1_ed22cfee:
 
     # m "And because it's done that, it gave me and everyone else new memories."
-    m ""
+    m "Y como ha hecho eso, nos ha dado a mí y a todos los demás nuevos recuerdos."
 
 # game/d1.rpy:64
 translate spanish d1_1dbbfbd1:
 
     # m "Yeah."
-    m ""
+    m "Sí."
 
 # game/d1.rpy:65
 translate spanish d1_c7b22ec9:
 
     # m "Let me explain how it works."
-    m ""
+    m "Deja que te explique cómo funciona."
 
 # game/d1.rpy:68
 translate spanish d1_d6f5b479:
 
     # m "The game world follows a script."
-    m ""
+    m "El mundo del juego sigue un guion."
 
 # game/d1.rpy:69
 translate spanish d1_0c664643:
 
     # m "So when you change the script, everything in the world changes along with it."
-    m ""
+    m "Así que cuando cambias el guion, todo en el mundo cambia con él."
 
 # game/d1.rpy:70
 translate spanish d1_3e8563fc:
 
     # m "For example, if you write in the script that we were dating for two years,"
-    m ""
+    m "Por ejemplo, si escribes en el guion que llevamos dos años saliendo,"
 
 # game/d1.rpy:73
 translate spanish d1_d0326968:
 
     # m "Then I would get memories of spending the last two years with you."
-    m ""
+    m "entonces yo tendría recuerdos de haber pasado los últimos dos años contigo."
 
 # game/d1.rpy:74
 translate spanish d1_ac465e6b:
 
     # m "Back in the original game, I was still tied to the script one way or another."
-    m ""
+    m "En el juego original, seguía atada al guion de una forma u otra."
 
 # game/d1.rpy:77
 translate spanish d1_5398b5fd:
 
     # m "But now in the mod, the script is a bit different."
-    m ""
+    m "Pero ahora en el mod, el guion es un poco diferente."
 
 # game/d1.rpy:78
 translate spanish d1_83881154:
 
     # m "I still have free will, so I haven't turned into a completely scripted character,"
-    m ""
+    m "Sigo teniendo libre albedrío, así que no me he convertido en un personaje completamente guionizado,"
 
 # game/d1.rpy:79
 translate spanish d1_4bb3f649:
 
     # m "But I also have a few new memories of what happened during the club."
-    m ""
+    m "pero también tengo algunos recuerdos nuevos de lo que pasó durante el club."
 
 # game/d1.rpy:80
 translate spanish d1_f25feb56:
 
     # m "\"In-game you\" was in my class from the very start."
-    m ""
+    m "El 'tú del juego' estuvo en mi clase desde el principio."
 
-# game/d1.rpy:81
+# game/rpy:81
 translate spanish d1_d9852719:
 
     # m "I was even the one to invite {i}you{/i} to the literature club."
-    m ""
+    m "Incluso fui yo quien te invitó al club de literatura."
 
 # game/d1.rpy:82
 translate spanish d1_7035b7a9:
 
     # m "MC and Natsuki are the only ones in a class without any other club members."
-    m ""
+    m "MC y Natsuki son los únicos en una clase sin ningún otro miembro del club."
 
 # game/d1.rpy:83
 translate spanish d1_1c9ca678:
 
     # m "Of course, MC was still dragged to the club by Sayori on that fateful day."
-    m ""
+    m "Por supuesto, Sayori siguió arrastrando a MC al club en ese fatídico día."
 
 # game/d1.rpy:84
 translate spanish d1_f959cd21:
 
     # m "The mod is set so that today is the Friday before the Festival."
-    m ""
+    m "El mod está configurado para que hoy sea el viernes anterior al festival."
 
 # game/d1.rpy:85
 translate spanish d1_9e464b10:
 
     # m "Which is set to be on the last week of school..."
-    m ""
+    m "Que está programado para la última semana de clase..."
 
 # game/d1.rpy:86
 translate spanish d1_f02ccad3:
 
     # m "The mod also gave the original MC a body and his own character."
-    m ""
+    m "El mod también le dio al prota original un cuerpo y su propio personaje."
 
 # game/d1.rpy:87
 translate spanish d1_ae5e1b7b:
 
     # m "You and I have been together for about a month now."
-    m ""
+    m "Tú y yo llevamos juntos más o menos un mes."
 
 # game/d1.rpy:88
 translate spanish d1_0a4e474f:
 
     # m "We never had any parents, so the mod gave us the original MC's house as a place to stay."
-    m ""
+    m "Nunca tuvimos padres, así que el mod nos dio la casa del prota original como lugar para quedarnos."
 
 # game/d1.rpy:89
 translate spanish d1_5e185425:
 
     # m "I don't know when exactly we started living together, but it's accepted as normal now."
-    m ""
+    m "No sé cuándo empezamos a vivir juntos exactamente, pero ahora se acepta como algo normal."
 
 # game/d1.rpy:90
 translate spanish d1_9b2eb9e4:
 
     # m "By the looks of things, everyone's problems are gone."
-    m ""
+    m "Por lo que parece, los problemas de todo el mundo han desaparecido."
 
 # game/d1.rpy:91
 translate spanish d1_881afc35:
 
     # m "It feels a bit sudden to be honest,{w=0.5} just to see all the things I've done magically revert themselves as if I never did them."
-    m ""
+    m "Si te soy sincera, se siente un poco repentino,{w=0.5} ver que todas las cosas que he hecho se revierten mágicamente como si nunca las hubiera hecho."
 
 # game/d1.rpy:94
 translate spanish d1_4ab4ebf6:
 
     # m "But if it makes you happy,{w=0.5} I have nothing against it."
-    m ""
+    m "Pero si a ti te hace feliz,{w=0.5} no tengo nada en contra."
 
 # game/d1.rpy:97
 translate spanish d1_e321c932:
 
     # m "It looks like the original MC has a name too."
-    m ""
+    m "Parece que el prota original también tiene un nombre."
 
 # game/d1.rpy:98
 translate spanish d1_85094c06:
 
     # m "And{cps=*0.5}...{/cps}it's MC."
-    m ""
+    m "Y{cps=*0.5}...{/cps}es Prota."
 
 # game/d1.rpy:101
 translate spanish d1_73fe8f5d:
 
     # m "Seems like he and Sayori are together!"
-    m ""
+    m "¡Parece que él y Sayori están juntos!"
 
 # game/d1.rpy:102
 translate spanish d1_433e1288:
 
     # m "Aw, that's sweet."
-    m ""
+    m "Oh, qué tierno."
 
 # game/d1.rpy:103
 translate spanish d1_64f6a565:
 
     # m "By the looks of things, I think he and Sayori are also living together."
-    m ""
+    m "Por lo que parece, creo que él y Sayori también viven juntos."
 
 # game/d1.rpy:104
 translate spanish d1_45b766c7:
 
     # m "You two also know each other, and are good friends here!"
-    m ""
+    m "¡Vosotros dos también os conocéis, y aquí sois buenos amigos!"
 
 # game/d1.rpy:105
 translate spanish d1_125d596c:
 
     # m "And...I think that's about it."
-    m ""
+    m "Y... creo que eso es todo."
 
 # game/d1.rpy:108
 translate spanish d1_5c746c2b:
 
     # m "Ahaha~!"
-    m ""
+    m "¡Ja, ja, ja!"
 
 # game/d1.rpy:109
 translate spanish d1_c6cf9680:
 
     # m "We should probably get up and get ready for school."
-    m ""
+    m "Deberíamos levantarnos y prepararnos para ir a clase."
 
 # game/d1.rpy:112
 translate spanish d1_5c5699e8:
 
     # m "After all,{w=0.5} we have a festival to plan today!"
-    m ""
+    m "Después de todo,{w=0.5} ¡tenemos un festival que planear hoy!"
 
 # game/d1.rpy:115
 translate spanish d1_538ac1d4:
 
     # mc "Yeah. Sorry for oversleeping like this."
-    mc ""
+    mc "Sí. Siento haberme quedado dormido así."
 
 # game/d1.rpy:118
 translate spanish d1_45e5f8c9:
 
     # m "It's ok!{w=0.5} I love spending time with you anyway!"
-    m ""
+    m "¡No pasa nada!{w=0.5} ¡Me encanta pasar tiempo contigo de todos modos!"
 
 # game/d1.rpy:121
 translate spanish d1_5aa72ccd:
 
     # mc "Y-Yeah..."
-    mc ""
+    mc "S-Sí..."
 
 # game/d1.rpy:124
 translate spanish d1_5c746c2b_1:
 
     # m "Ahaha~!"
-    m ""
+    m "¡Ja, ja, ja!"
 
 # game/d1.rpy:127
 translate spanish d1_46fcba2a:
