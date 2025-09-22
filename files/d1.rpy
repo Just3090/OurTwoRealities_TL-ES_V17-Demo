@@ -1404,403 +1404,403 @@ translate spanish d1_c27f062b:
 translate spanish d1_0e68eded:
 
     # m 3n "You know that it's still a string of words for me..."
-    m 3n ""
+    m 3n "Sabes que para mí sigue siendo una sarta de palabras..."
 
 # game/d1.rpy:458
 translate spanish d1_984b93ea:
 
     # m 1l "I can still see what you picked, not just the normal poem on the paper..."
-    m 1l ""
+    m 1l "Todavía puedo ver lo que has elegido, no solo el poema normal en el papel..."
 
 # game/d1.rpy:459
 translate spanish d1_3213b605:
 
     # m 1b "So, I have a question for you."
-    m 1b ""
+    m 1b "Así que, tengo una pregunta para ti."
 
 # game/d1.rpy:460
 translate spanish d1_077b5154:
 
     # m 1d "Have you ever actually written a poem for me?"
-    m 1d ""
+    m 1d "¿Alguna vez has escrito un poema para mí?"
 
 # game/d1.rpy:463
 translate spanish d1_10b419b6:
 
     # m 1b "Really?"
-    m 1b ""
+    m 1b "¿De verdad?"
 
 # game/d1.rpy:464
 translate spanish d1_68cec192:
 
     # m 1k "Thank you so much, [player]!"
-    m 1k ""
+    m 1k "¡Muchas gracias, [player]!"
 
 # game/d1.rpy:465
 translate spanish d1_78da47d5:
 
     # m 5a "You really are so romantic~"
-    m 5a ""
+    m 5a "Eres tan romántico."
 
 # game/d1.rpy:467
 translate spanish d1_080a7986:
 
     # m 1n "Oh, that's ok."
-    m 1n ""
+    m 1n "Oh, está bien."
 
 # game/d1.rpy:468
 translate spanish d1_cc77a9ae:
 
     # m 1k "It is not too late to start, hehe~"
-    m 1k ""
+    m 1k "Nunca es tarde para empezar, je, je."
 
 # game/d1.rpy:469
 translate spanish d1_270dc0fb:
 
     # m 1e "But even if you don't, it's ok."
-    m 1e ""
+    m 1e "Pero aunque no lo hagas, no pasa nada."
 
 # game/d1.rpy:470
 translate spanish d1_4457eac5:
 
     # m 3k "You've already done so much for me~!"
-    m 3k ""
+    m 3k "¡Ya has hecho tanto por mí!"
 
 # game/d1.rpy:471
 translate spanish d1_e8dac58e:
 
     # m 1l "Anyway, back to the poems!"
-    m 1l ""
+    m 1l "En fin, ¡volvamos a los poemas!"
 
 # game/d1.rpy:472
 translate spanish d1_127c33e2:
 
     # m 3b "It was really nice! I can't wait to see more of what you write!"
-    m 3b ""
+    m 3b "¡Ha estado muy bien! ¡Estoy deseando ver más de lo que escribes!"
 
 # game/d1.rpy:476
 translate spanish d1_0a3a18c0:
 
     # m 3n "It seems you made your poem for a certain childhood friend..."
-    m 3n ""
+    m 3n "Parece que le has hecho el poema a cierta amiga de la infancia..."
 
 # game/d1.rpy:478
 translate spanish d1_133e55b4:
 
     # m 3n "It seems you made your poem for a certain manga reading tsundere..."
-    m 3n ""
+    m 3n "Parece que le has hecho tu poema a cierta tsundere lectora de manga..."
 
 # game/d1.rpy:480
 translate spanish d1_0c7c3731:
 
     # m 3n "It seems you made your poem for a certain knife-loving bookworm..."
-    m 3n ""
+    m 3n "Parece que le has hecho tu poema a cierta ratona de biblioteca amante de los cuchillos..."
 
 # game/d1.rpy:481
 translate spanish d1_5228ffc4:
 
     # m 3k "Not like it matters or anything~!"
-    m 3k ""
+    m 3k "¡No es que importe ni nada por el estilo!"
 
 # game/d1.rpy:482
 translate spanish d1_7dbd0639:
 
     # m "I know you tried your best~"
-    m ""
+    m "Sé que te has esforzado al máximo."
 
 # game/d1.rpy:483
 translate spanish d1_3545a035:
 
     # m lean happ om oe "And that still makes it special to me~"
-    m lean happ om oe ""
+    m lean happ om oe "Y eso sigue haciéndolo especial para mí."
 
 # game/d1.rpy:485
 translate spanish d1_793beb4e:
 
     # mc "Thanks, Monika..."
-    mc ""
+    mc "Gracias, Monika..."
 
 # game/d1.rpy:486
 translate spanish d1_6de0386f:
 
     # "Monika hands me back my poem, and I hand back hers."
-    ""
+    "Monika me devuelve mi poema y yo le devuelvo el suyo."
 
 # game/d1.rpy:487
 translate spanish d1_94bed94c:
 
     # "With that, I move on to Sayori..."
-    ""
+    "Con eso, paso a Sayori..."
 
 # game/d1.rpy:491
 translate spanish d1_7e55eb3a:
 
     # "I walk over to Sayori who has just finished up with MC."
-    ""
+    "Me acerco a Sayori, que acaba de terminar con MC."
 
 # game/d1.rpy:493
 translate spanish d1_fc6c9ecb:
 
     # mc "Hey, Sayori!"
-    mc ""
+    mc "¡Ey, Sayori!"
 
 # game/d1.rpy:494
 translate spanish d1_18b482aa:
 
     # s 2r "Heeyy! You ready to share poems?"
-    s 2r ""
+    s 2r "¡Eyy! ¿Listo para compartir poemas?"
 
 # game/d1.rpy:496
 translate spanish d1_d55ae269:
 
     # mc "Yep!"
-    mc ""
+    mc "¡Sí!"
 
 # game/d1.rpy:497
 translate spanish d1_88aaba20:
 
     # "Sayori and I exchange poems."
-    ""
+    "Sayori y yo intercambiamos poemas."
 
 # game/d1.rpy:499
 translate spanish d1_741a8799:
 
     # mc "Uhh, Sayori..."
-    mc ""
+    mc "Ehh, Sayori..."
 
 # game/d1.rpy:500
 translate spanish d1_576942c8:
 
     # mc "Why do I have a feeling that you wrote this just as you woke up this morning?"
-    mc ""
+    mc "¿Por qué tengo la sensación de que has escrito esto nada más levantarte esta mañana?"
 
 # game/d1.rpy:501
 translate spanish d1_c7a4af52:
 
     # s 4h "No!"
-    s 4h ""
+    s 4h "¡No!"
 
 # game/d1.rpy:502
 translate spanish d1_659f3f9f:
 
     # s 4l "J-Just a little bit!"
-    s 4l ""
+    s 4l "¡S-Solo un poquito!"
 
 # game/d1.rpy:503
 translate spanish d1_a77c241f:
 
     # mc "You did, didn't you."
-    mc ""
+    mc "Lo hiciste, ¿a que sí?"
 
 # game/d1.rpy:504
 translate spanish d1_3ec02b40:
 
     # s 5b "I forgot to do it last night..."
-    s 5b ""
+    s 5b "Se me olvidó hacerlo anoche..."
 
 # game/d1.rpy:505
 translate spanish d1_33d82093:
 
     # mc "I thought so..."
-    mc ""
+    mc "Ya me lo parecía..."
 
 # game/d1.rpy:506
 translate spanish d1_db96b707:
 
     # mc "But it's not like I can say anything about it."
-    mc ""
+    mc "Pero no es como si pudiera decir algo al respecto."
 
 # game/d1.rpy:507
 translate spanish d1_2aa8228e:
 
     # mc "I wrote mine just a few minutes ago."
-    mc ""
+    mc "Escribí el mío hace solo unos minutos."
 
 # game/d1.rpy:508
 translate spanish d1_9f90fe73:
 
     # s 2n "Really?"
-    s 2n ""
+    s 2n "¿En serio?"
 
 # game/d1.rpy:509
 translate spanish d1_cf1adef2:
 
     # mc "Yeah."
-    mc ""
+    mc "Sí."
 
 # game/d1.rpy:510
 translate spanish d1_9301ba77:
 
     # s 2x "It's alright!"
-    s 2x ""
+    s 2x "¡No pasa nada!"
 
 # game/d1.rpy:512
 translate spanish d1_fa47dbd8:
 
     # mc "Back on topic,"
-    mc ""
+    mc "Volviendo al tema,"
 
 # game/d1.rpy:513
 translate spanish d1_c8376f1f:
 
     # mc "Your poem... Good job on looping it back around."
-    mc ""
+    mc "Tu poema... Buen trabajo en volver al principio."
 
 # game/d1.rpy:514
 translate spanish d1_e8bdbf42:
 
     # s 2b "I kinda wanted to catch that feeling of waking up."
-    s 2b ""
+    s 2b "Quería capturar esa sensación de despertarse."
 
 # game/d1.rpy:515
 translate spanish d1_7fcb0838:
 
     # s 4r "I'm proud of myself for it!"
-    s 4r ""
+    s 4r "¡Estoy orgullosa de ello!"
 
 # game/d1.rpy:517
 translate spanish d1_97319ad3:
 
     # mc "Mhm. It catches it nicely."
-    mc ""
+    mc "Mmm. Lo capta muy bien."
 
 # game/d1.rpy:519
 translate spanish d1_ef545f6b:
 
     # s 2r "Thanks!"
-    s 2r ""
+    s 2r "¡Gracias!"
 
 # game/d1.rpy:520
 translate spanish d1_798074c4:
 
     # s 2b "And about your poem though..."
-    s 2b ""
+    s 2b "Y sobre tu poema..."
 
 # game/d1.rpy:522
 translate spanish d1_d0e0e674:
 
     # s 2s "I like it a lot!"
-    s 2s ""
+    s 2s "¡Me gusta mucho!"
 
 # game/d1.rpy:524
 translate spanish d1_6a704a76:
 
     # s 2r "I like it!"
-    s 2r ""
+    s 2r "¡Me gusta!"
 
 # game/d1.rpy:526
 translate spanish d1_6d04953c:
 
     # mc "Thanks!"
-    mc ""
+    mc "¡Gracias!"
 
 # game/d1.rpy:527
 translate spanish d1_1c4a6327:
 
     # "We give each other our poems back."
-    ""
+    "Nos devolvemos los poemas."
 
 # game/d1.rpy:528
 translate spanish d1_df124078:
 
     # mc "Alright, see ya later, Sayori!"
-    mc ""
+    mc "¡Muy bien, hasta luego, Sayori!"
 
 # game/d1.rpy:529
 translate spanish d1_08af940c:
 
     # s 2r "Bye!!"
-    s 2r ""
+    s 2r "¡¡Adiós!!"
 
 # game/d1.rpy:532
 translate spanish d1_e6381a76:
 
     # "Next up, Yuri."
-    ""
+    "La siguiente, Yuri."
 
 # game/d1.rpy:536
 translate spanish d1_530f484c:
 
     # mc "Yuri!"
-    mc ""
+    mc "¡Yuri!"
 
 # game/d1.rpy:538
 translate spanish d1_7f30b4ff:
 
     # y "Oh,{w=0.5} hello, [player]."
-    y ""
+    y "Oh,{w=0.5} hola, [player]."
 
 # game/d1.rpy:539
 translate spanish d1_ae14d8d8:
 
     # mc "You good to share poems?"
-    mc ""
+    mc "¿Lista para compartir poemas?"
 
 # game/d1.rpy:540
 translate spanish d1_f3850a1c:
 
     # y 2d "Mhm! Here you go!"
-    y 2d ""
+    y 2d "¡Mmm! ¡Aquí tienes!"
 
 # game/d1.rpy:541
 translate spanish d1_dc68c7ff:
 
     # "We exchange poems."
-    ""
+    "Intercambiamos poemas."
 
 # game/d1.rpy:543
 translate spanish d1_9bb40338:
 
     # "Yuri continues to read intently at my poem."
-    ""
+    "Yuri sigue leyendo atentamente mi poema."
 
 # game/d1.rpy:544
 translate spanish d1_bf569d93:
 
     # "It looks as if she's going to burn a laser through the paper."
-    ""
+    "Parece que va a quemar el papel con un láser."
 
 # game/d1.rpy:545
 translate spanish d1_bd93df26:
 
     # mc "Uhh, Yuri?"
-    mc ""
+    mc "Ehh, ¿Yuri?"
 
 # game/d1.rpy:546
 translate spanish d1_513eeca6:
 
     # y 2f "Oh, sorry, I was just rereading it to understand it better."
-    y 2f ""
+    y 2f "Oh, lo siento, solo lo estaba releyendo para entenderlo mejor."
 
 # game/d1.rpy:547
 translate spanish d1_61670cd0:
 
     # mc "Oh, alright."
-    mc ""
+    mc "Ah, vale."
 
 # game/d1.rpy:548
 translate spanish d1_eeefe0db:
 
     # mc "What do you think then?"
-    mc ""
+    mc "Entonces, ¿qué te parece?"
 
 # game/d1.rpy:550
 translate spanish d1_9b4aed59:
 
     # y 2g "Um..."
-    y 2g ""
+    y 2g "Mmm..."
 
 # game/d1.rpy:551
 translate spanish d1_ce81680e:
 
     # y 2f "I have to say, I wasn't expecting this level of writing."
-    y 2f ""
+    y 2f "Tengo que decir que no me esperaba este nivel de escritura."
 
 # game/d1.rpy:552
 translate spanish d1_8f25496b:
 
     # y 2d "I like it!"
-    y 2d ""
+    y 2d "¡Me gusta!"
 
 # game/d1.rpy:554
 translate spanish d1_9b4aed59_1:
