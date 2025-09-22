@@ -1806,199 +1806,199 @@ translate spanish d1_8f25496b:
 translate spanish d1_9b4aed59_1:
 
     # y 2g "Um..."
-    y 2g ""
+    y 2g "Mmm..."
 
 # game/d1.rpy:555
 translate spanish d1_86374b5e:
 
     # y 2h "Well it's definitely something."
-    y 2h ""
+    y 2h "Bueno, es... algo."
 
 # game/d1.rpy:556
 translate spanish d1_7671cd9d:
 
     # y 2b "It's good though."
-    y 2b ""
+    y 2b "Pero es bueno."
 
 # game/d1.rpy:558
 translate spanish d1_a64e8bc0:
 
     # mc "Thanks."
-    mc ""
+    mc "Gracias."
 
 # game/d1.rpy:559
 translate spanish d1_60e698ae:
 
     # mc "Yours is good too."
-    mc ""
+    mc "El tuyo también es bueno."
 
 # game/d1.rpy:560
 translate spanish d1_0ed9618f:
 
     # mc "It's a lot more metaphorical than yesterday's..."
-    mc ""
+    mc "Es mucho más metafórico que el de ayer..."
 
 # game/d1.rpy:561
 translate spanish d1_ae340779:
 
     # "I remembered yesterday's conversation with MC about Yuri. I'm starting to sound like him. It's not bad or anything..."
-    ""
+    "Recordé la conversación de ayer con MC sobre Yuri. Estoy empezando a sonar como él. No es malo ni nada..."
 
 # game/d1.rpy:562
 translate spanish d1_5303274d:
 
     # "It's what makes her poems unique!"
-    ""
+    "¡Es lo que hace que sus poemas sean únicos!"
 
 # game/d1.rpy:563
 translate spanish d1_7fd389e3:
 
     # y 2b "That's right."
-    y 2b ""
+    y 2b "Así es."
 
 # game/d1.rpy:564
 translate spanish d1_cc11e5bf:
 
     # y "It's much closer to my preferred writing style."
-    y ""
+    y "Se acerca mucho más a mi estilo de escritura preferido."
 
 # game/d1.rpy:566
 translate spanish d1_a49031f6:
 
     # mc "Right, I forgot you like making ample use of metaphors in poems."
-    mc ""
+    mc "Cierto, olvidé que te gusta hacer un amplio uso de las metáforas en los poemas."
 
 # game/d1.rpy:567
 translate spanish d1_83f91e0a:
 
     # y 2d "Yep!"
-    y 2d ""
+    y 2d "¡Sí!"
 
 # game/d1.rpy:568
 translate spanish d1_8d23659b:
 
     # y 2b "I see poems as a canvas to express vivid imagery and emotions through them."
-    y 2b ""
+    y 2b "Veo los poemas como un lienzo para expresar imágenes vívidas y emociones a través de ellos."
 
 # game/d1.rpy:570
 translate spanish d1_c465425b:
 
     # mc "And you're pretty good at it too!"
-    mc ""
+    mc "¡Y a ti también se te da muy bien!"
 
 # game/d1.rpy:571
 translate spanish d1_a7d29639:
 
     # "I hand Yuri her poem back, and she gives me mine too."
-    ""
+    "Le devuelvo a Yuri su poema y ella también me da el mío."
 
 # game/d1.rpy:572
 translate spanish d1_21ce407a:
 
     # mc "Alright, see you around, Yuri!"
-    mc ""
+    mc "¡Muy bien, nos vemos, Yuri!"
 
 # game/d1.rpy:573
 translate spanish d1_91ece83c:
 
     # y 3d "Goodbye!"
-    y 3d ""
+    y 3d "¡Adiós!"
 
 # game/d1.rpy:576
 translate spanish d1_2531d3fb:
 
     # "I walk over to Natsuki next."
-    ""
+    "Me acerco a Natsuki a continuación."
 
 # game/d1.rpy:580
 translate spanish d1_3d238ca7:
 
     # mc "Natsuki?"
-    mc ""
+    mc "¿Natsuki?"
 
 # game/d1.rpy:582
 translate spanish d1_fa7e5b32:
 
     # n "Hey [player]!"
-    n ""
+    n "¡Ey, [player]!"
 
 # game/d1.rpy:583
 translate spanish d1_3226e045:
 
     # n 5y "Let me guess, you wanna share poems?"
-    n 5y ""
+    n 5y "Déjame adivinar, ¿quieres compartir poemas?"
 
 # game/d1.rpy:585
 translate spanish d1_d55ae269_1:
 
     # mc "Yep!"
-    mc ""
+    mc "¡Sí!"
 
 # game/d1.rpy:586
 translate spanish d1_dc68c7ff_1:
 
     # "We exchange poems."
-    ""
+    "Intercambiamos poemas."
 
 # game/d1.rpy:588
 translate spanish d1_beb3ed1b:
 
     # n "Not bad right?"
-    n ""
+    n "No está mal, ¿verdad?"
 
 # game/d1.rpy:590
 translate spanish d1_adcce56a:
 
     # mc "It's not that much longer than yesterday's."
-    mc ""
+    mc "No es mucho más largo que el de ayer."
 
 # game/d1.rpy:591
 translate spanish d1_2ad6cf63:
 
     # n 2y "Yeah I thought I could go with another shorty."
-    n 2y ""
+    n 2y "Sí, pensé que podría hacer otro corto."
 
 # game/d1.rpy:592
 translate spanish d1_48a5cd73:
 
     # n 2d "I had the idea while I was baking."
-    n 2d ""
+    n 2d "Se me ocurrió la idea mientras horneaba."
 
 # game/d1.rpy:594
 translate spanish d1_42616c78:
 
     # mc "Let me guess what you made..."
-    mc ""
+    mc "Déjame adivinar qué hiciste..."
 
 # game/d1.rpy:595
 translate spanish d1_4227bd47:
 
     # mc "A cream roll?"
-    mc ""
+    mc "¿Un brazo de gitano?"
 
 # game/d1.rpy:596
 translate spanish d1_3a461e9c:
 
     # n 2c "Chocolate actually."
-    n 2c ""
+    n 2c "De chocolate, en realidad."
 
 # game/d1.rpy:597
 translate spanish d1_a30e5f6a:
 
     # n 4y "It got eaten so quickly that I barely had a taste!"
-    n 4y ""
+    n 4y "¡Se lo comieron tan rápido que apenas lo probé!"
 
 # game/d1.rpy:598
 translate spanish d1_cd8c1a19:
 
     # n 2d "Anyway, I think you get message of this poem."
-    n 2d ""
+    n 2d "En fin, creo que entiendes el mensaje de este poema."
 
 # game/d1.rpy:599
 translate spanish d1_ed855365:
 
     # n "Like, you agree that time passes too quickly when you're having fun."
-    n ""
+    n "En plan, estás de acuerdo en que el tiempo pasa demasiado rápido cuando te diviertes."
 
 # game/d1.rpy:600
 translate spanish d1_74e6d015:
