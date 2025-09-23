@@ -1645,7 +1645,7 @@ translate spanish d1_fa47dbd8:
 translate spanish d1_c8376f1f:
 
     # mc "Your poem... Good job on looping it back around."
-    mc "Tu poema... Buen trabajo en volver al principio."
+    mc "tu poema... Buen trabajo en volver al principio."
 
 # game/d1.rpy:514
 translate spanish d1_e8bdbf42:
@@ -2239,7 +2239,7 @@ translate spanish d1_1ff8624f:
 translate spanish d1_90de9c4d_1:
 
     # m "Okay, everyone!"
-    m "¡Vale, chicas!"
+    m "¡Vale, todos!"
 
 # game/d1.rpy:662
 translate spanish d1_b36e6c10:
@@ -2251,13 +2251,13 @@ translate spanish d1_b36e6c10:
 translate spanish d1_bff10b29:
 
     # m "We have some planning to do today, so everyone gather around~!"
-    m "Tenemos que planificar algunas cosas hoy, ¡así que reuníos todas!"
+    m "Tenemos que planificar algunas cosas hoy, ¡así que reuníos todos!"
 
 # game/d1.rpy:666
 translate spanish d1_5e70dc5e:
 
     # "We all get together and sit down at a bunch of desks pushed together into a large table."
-    "Nos juntamos todas y nos sentamos en un montón de pupitres juntos formando una gran mesa."
+    "Nos juntamos todos y nos sentamos en un montón de pupitres juntos formando una gran mesa."
 
 # game/d1.rpy:667
 translate spanish d1_8338dce8:
@@ -2461,7 +2461,7 @@ translate spanish d1_75d9b22d:
 translate spanish d1_8005dc30:
 
     # mc "Everyone ready to walk home?"
-    mc "¿Todas listas para ir a casa?"
+    mc "¿Todos listos para ir a casa?"
 
 # game/d1.rpy:732
 translate spanish d1_b2fe8afa:
@@ -2479,7 +2479,7 @@ translate spanish d1_58ef39ce:
 translate spanish d1_cb65288f:
 
     # "Monika locks up the clubroom, and we all head outside."
-    "Monika cierra el club con llave y salimos todas."
+    "Monika cierra el club con llave y salimos todos."
 
 # game/d1.rpy:745
 translate spanish d1_98d8d7d8:
@@ -2587,7 +2587,7 @@ translate spanish d1_c40b1db9:
 translate spanish d1_a1441945:
 
     # m p_1d "Just where I left my prototype pamphlet designs"
-    m p_1d "A ver dónde he dejado mis prototipos de los folletos"
+    m p_1d "A ver dónde he dejado mis prototipos de los folletos..."
 
 # game/d1.rpy:784
 translate spanish d1_61670cd0_1:
@@ -2683,7 +2683,7 @@ translate spanish d1_0c46260d:
 translate spanish d1_f1dddead:
 
     # m p_1b "Let's dig in!"
-    m p_1b "¡A comer!"
+    m p_1b "¡A zampar!"
 
 # game/d1.rpy:816
 translate spanish d1_0d3ac62e:
@@ -2827,7 +2827,7 @@ translate spanish d1_a36d6518:
 translate spanish d1_994b3891:
 
     # "I softly take her hand."
-    "Le tomo la mano con suavidad."
+    "Le tomo la mano suavemente."
 
 # game/d1.rpy:865
 translate spanish d1_c609cdd6:
