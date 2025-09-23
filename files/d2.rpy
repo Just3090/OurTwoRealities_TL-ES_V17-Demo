@@ -100,25 +100,25 @@ translate spanish d2_c70eecca:
 translate spanish d2_c11b7bd7:
 
     # "As the fire is put out, all that's left in the pan is a very black, charred... pancake?"
-    "Cuando el fuego se apaga, todo lo que queda en la sartén es un... ¿pancake?, muy negro y carbonizado."
+    "Cuando el fuego se apaga, todo lo que queda en la sartén es una... ¿tortita?, muy negra y carbonizada."
 
 # game/d2.rpy:55
 translate spanish d2_55627fef:
 
     # "I think it's a pancake."
-    "Creo que es un pancake."
+    "Creo que es una tortita."
 
 # game/d2.rpy:56
 translate spanish d2_a70b86a0:
 
     # mc "Uhh, Sayori, is that......supposed to be a pancake?"
-    mc "Ehh, Sayori, ¿se... supone que eso es un pancake?"
+    mc "Ehh, Sayori, ¿se... supone que eso es una tortita?"
 
 # game/d2.rpy:58
 translate spanish d2_306fecac:
 
     # s "...yes..."
-    s "... sí..."
+    s "... S-Sí..."
 
 # game/d2.rpy:59
 translate spanish d2_d2ef99fb:
@@ -244,7 +244,7 @@ translate spanish d2_8c1650ef:
 translate spanish d2_be207969:
 
     # "MC sticks some chocolate spread and maple syrup on his."
-    "MC le pone crema de chocolate y sirope de arce a la suya."
+    "MC le pone crema de avellana y sirope de arce a la suya."
 
 # game/d2.rpy:108
 translate spanish d2_c66b8d18:
@@ -832,7 +832,7 @@ translate spanish d2contcook_69721c6b:
 translate spanish d2contcook_3b6d8dd8:
 
     # "...or maybe two!"
-    "¡... o quizá dos!"
+    "¡Mejor dos!"
 
 # game/d2.rpy:295
 translate spanish d2contcook_fc9b1300:
@@ -1504,7 +1504,7 @@ translate spanish d2ext_7ef6d18a:
 translate spanish d2ext_81b183a5:
 
     # "I wish I could-{nw}"
-    "Ojalá pudiera-{nw}"
+    "Ojalá pudiera...{nw}"
 
 # game/d2.rpy:527
 translate spanish d2ext_c7bbd73a:
@@ -1546,7 +1546,7 @@ translate spanish d2ext_455cb722:
 translate spanish d2ext_199c69ab:
 
     # m o2_1k "Yep!"
-    m o2_1k "¡Sí!"
+    m o2_1k "¡Síp!"
 
 # game/d2.rpy:543
 translate spanish d2ext_4f9f8fa9:
@@ -1684,7 +1684,7 @@ translate spanish d2ext_73ffe851:
 translate spanish d2ext_6ca73220:
 
     # m o2_1q "...You're right."
-    m o2_1q "... Tienes razón."
+    m o2_1q "Tienes razón."
 
 # game/d2.rpy:582
 translate spanish d2ext_bc5abc7f:
@@ -1780,13 +1780,13 @@ translate spanish d2ext_a20cefa7_1:
 translate spanish d2ext_b2cbc34c:
 
     # m "...I..."
-    m "... Yo..."
+    m ".Yo..."
 
 # game/d2.rpy:619
 translate spanish d2ext_e066384b:
 
     # m "...I love you too~!"
-    m "... ¡Yo también te quiero!"
+    m "¡Yo también te quiero!"
 
 # game/d2.rpy:623
 translate spanish d2slow_a20cefa7:
@@ -1870,7 +1870,7 @@ translate spanish d2cont_c8436eeb:
 translate spanish d2cont_654e200e:
 
     # m forward redskirt ldown rdown neut n3 mb e4a b1a "Not with your avatar, but with the real you..."
-    m forward redskirt ldown rdown neut n3 mb e4a b1a "No con tu avatar, sino contigo de verdad..."
+    m forward redskirt ldown rdown neut n3 mb e4a b1a "No con tu personaje, sino contigo de verdad..."
 
 # game/d2.rpy:667
 translate spanish d2cont_08469390:
@@ -1882,7 +1882,7 @@ translate spanish d2cont_08469390:
 translate spanish d2cont_ffdb376c:
 
     # m forward redskirt ldown rdown flus om oe "I can't even feel the warmth from your avatar..."
-    m forward redskirt ldown rdown flus om oe "Ni siquiera puedo sentir el calor de tu avatar..."
+    m forward redskirt ldown rdown flus om oe "Ni siquiera puedo sentir el calor de tu personaje..."
 
 # game/d2.rpy:669
 translate spanish d2cont_160466e9:
@@ -2290,7 +2290,7 @@ translate spanish d2cont_cd86d917:
 translate spanish d2cont_495fc3fe:
 
     # "I hear her sort through the channels."
-    "La oigo hacer zapping."
+    "La oigo pasar y pasar los canales."
 
 # game/d2.rpy:782
 translate spanish d2cont_2e7b955a:
@@ -2350,7 +2350,7 @@ translate spanish d2cont_d5535d27:
 translate spanish d2cont_bb0cd262:
 
     # "Monika starts the show, and we snuggle up next to each other."
-    "Monika pone el programa y nos acurrucamos el uno junto al otro."
+    "Monika pone el anime y nos acurrucamos el uno junto al otro."
 
 # game/d2.rpy:796
 translate spanish d2cont_4514294b:
@@ -2428,19 +2428,19 @@ translate spanish d2cont_5070f2cc:
 translate spanish d2cont_ab7421e0:
 
     # "TV" "{i}~I feel that we have a chance~{/i}"
-    "TV" "{i}'Siento que tenemos una oportunidad'~{/i}"
+    "TV" "{i}I feel that we have a chance{/i}"
 
 # game/d2.rpy:815
 translate spanish d2cont_b18871e9:
 
     # "TV" "{i}~Yes... let's push forward!~{/i}"
-    "TV" "{i}'¡Sí... sigamos adelante!'~{/i}"
+    "TV" "{i}Yes... let's push forward!{/i}"
 
 # game/d2.rpy:816
 translate spanish d2cont_cf3b5f9a:
 
     # "TV" "{i}~I don't want to regret it later, our future lies right ahead~{/i}"
-    "TV" "{i}'No quiero arrepentirme después, nuestro futuro está justo delante'~{/i}"
+    "TV" "{i}I don't want to regret it later, our future lies right ahead{/i}"
 
 # game/d2.rpy:817
 translate spanish d2cont_c95a05b0:
@@ -2494,7 +2494,7 @@ translate spanish d2cont_ab4b1e9d:
 translate spanish d2cont_3a122af8:
 
     # "She still practices piano at school, but I didn't think she knew so much about it."
-    "Sigue practicando piano en el instituto, pero no pensé que supiera tanto."
+    "Sigue practicando piano en el insti, pero no pensé que supiera tanto."
 
 # game/d2.rpy:828
 translate spanish d2cont_ccf57325:
