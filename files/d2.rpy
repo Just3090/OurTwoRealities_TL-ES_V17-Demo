@@ -4,205 +4,205 @@
 translate spanish d2_22949e1a:
 
     # "Ugh...."
-    ""
+    "Uf..."
 
 # game/d2.rpy:20
 translate spanish d2_dc7f0765:
 
     # "Huh..?"
-    ""
+    "¿Eh...?"
 
 # game/d2.rpy:23
 translate spanish d2_6efb54d6:
 
     # "I quickly jolt out of bed when I hear a fire alarm go off."
-    ""
+    "Me levanto de la cama de un salto al oír sonar una alarma de incendios."
 
 # game/d2.rpy:25
 translate spanish d2_5ccf1f5c:
 
     # m "What's going on?"
-    m ""
+    m "¿Qué está pasando?"
 
 # game/d2.rpy:26
 translate spanish d2_2eeaf39d:
 
     # mc "I don't know, but it's not our alarm..."
-    mc ""
+    mc "No lo sé, pero no es nuestra alarma..."
 
 # game/d2.rpy:27
 translate spanish d2_1b1b58c5:
 
     # mc "Wait...."
-    mc ""
+    mc "Espera..."
 
 # game/d2.rpy:29
 translate spanish d2_6a75c1e7:
 
     # m "Sayori!"
-    m ""
+    m "¡Sayori!"
 
 # game/d2.rpy:32
 translate spanish d2_f7c8a436:
 
     # "We bolt outside and run to Sayori's house."
-    ""
+    "Salimos disparados y corremos a casa de Sayori."
 
 # game/d2.rpy:35
 translate spanish d2_15db6e3f:
 
     # "The door is open..."
-    ""
+    "La puerta está abierta..."
 
 # game/d2.rpy:36
 translate spanish d2_382717d7:
 
     # "I see a bit of smoke coming from inside."
-    ""
+    "Veo un poco de humo saliendo del interior."
 
 # game/d2.rpy:37
 translate spanish d2_a0736e55:
 
     # "I quickly run inside with Monika."
-    ""
+    "Entro corriendo rápidamente con Monika."
 
 # game/d2.rpy:43
 translate spanish d2_ca34b438:
 
     # "As I charge into the kitchen, I see MC using a fire extinguisher on a very black pan."
-    ""
+    "Al entrar en la cocina, veo a MC usando un extintor en una sartén muy negra."
 
 # game/d2.rpy:44
 translate spanish d2_5a749c4e:
 
     # "Sayori is standing in a corner crying."
-    ""
+    "Sayori está en un rincón, llorando."
 
 # game/d2.rpy:46
 translate spanish d2_8f6a13b3:
 
     # s "I'm sorryyy!!"
-    s ""
+    s "¡¡Lo sientooo!!"
 
 # game/d2.rpy:50
 translate spanish d2_9bfc8f9d:
 
     # p "Dammit, Sayori! This is the {b}SECOND{/b} time you nearly burnt the house down!"
-    p ""
+    p "¡Maldita sea, Sayori! ¡Esta es la {b}SEGUNDA{/b} vez que casi quemas la casa!"
 
 # game/d2.rpy:51
 translate spanish d2_c70eecca:
 
     # p "You're banned from touching the stove!"
-    p ""
+    p "¡Tienes prohibido tocar la estufa!"
 
 # game/d2.rpy:54
 translate spanish d2_c11b7bd7:
 
     # "As the fire is put out, all that's left in the pan is a very black, charred... pancake?"
-    ""
+    "Cuando el fuego se apaga, todo lo que queda en la sartén es un... ¿pancake?, muy negro y carbonizado."
 
 # game/d2.rpy:55
 translate spanish d2_55627fef:
 
     # "I think it's a pancake."
-    ""
+    "Creo que es un pancake."
 
 # game/d2.rpy:56
 translate spanish d2_a70b86a0:
 
     # mc "Uhh, Sayori, is that......supposed to be a pancake?"
-    mc ""
+    mc "Ehh, Sayori, ¿se... supone que eso es un pancake?"
 
 # game/d2.rpy:58
 translate spanish d2_306fecac:
 
     # s "...yes..."
-    s ""
+    s "... sí..."
 
 # game/d2.rpy:59
 translate spanish d2_d2ef99fb:
 
     # s casual turned lup rup cry om oe "I wanted to surprise MC with it, but I didn't know how long to..."
-    s casual turned lup rup cry om oe ""
+    s casual turned lup rup cry om oe "Quería sorprender a MC con él, pero no sabía cuánto tiempo..."
 
 # game/d2.rpy:61
 translate spanish d2_70169b1e:
 
     # mc "What even happened?"
-    mc ""
+    mc "¿Pero qué ha pasado?"
 
 # game/d2.rpy:63
 translate spanish d2_16d4cb35:
 
     # p "*sigh*"
-    p ""
+    p "*Suspiro*"
 
 # game/d2.rpy:65
 translate spanish d2_3f95c588:
 
     # p "I walked into the kitchen when I smelled something burning. When I got there-"
-    p ""
+    p "Entré en la cocina cuando olí a quemado. Cuando llegué..."
 
 # game/d2.rpy:68
 translate spanish d2_cd6110a8:
 
     # s "I accidentally left the pancakes on the stove!"
-    s ""
+    s "¡Me dejé las tortitas en el fuego por accidente!"
 
 # game/d2.rpy:69
 translate spanish d2_c4cd2ca4:
 
     # s "And it caught fireeee!"
-    s ""
+    s "¡Y se prendió fueegooo!"
 
 # game/d2.rpy:72
 translate spanish d2_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/d2.rpy:77
 translate spanish d2_0fec2a1f:
 
     # m p_2b "Hey, Sayori."
-    m p_2b ""
+    m p_2b "Ey, Sayori."
 
 # game/d2.rpy:80
 translate spanish d2_1dd542b4:
 
     # s "*sniff*{w=0.5} Yeah...?"
-    s ""
+    s "*Snif*{w=0.5} ¿Sí...?"
 
 # game/d2.rpy:83
 translate spanish d2_e7326125:
 
     # m "Why don't I help you make these pancakes?"
-    m ""
+    m "¿Por qué no te ayudo a hacer estas tortitas?"
 
 # game/d2.rpy:86
 translate spanish d2_72866be5:
 
     # s "*sniff*{w=0.5} Okay..."
-    s ""
+    s "*Snif*{w=0.5} Vale..."
 
 # game/d2.rpy:89
 translate spanish d2_6a370b55:
 
     # "We head over to our house while MC stays to clean up the mess."
-    ""
+    "Nos dirigimos a nuestra casa mientras MC se queda a limpiar el desastre."
 
 # game/d2.rpy:90
 translate spanish d2_10c364a7:
 
     # "Sayori brings along what's left of the batter she made."
-    ""
+    "Sayori trae consigo lo que queda de la masa que preparó."
 
 # game/d2.rpy:93
 translate spanish d2_41970e9a:
 
     # "Monika and Sayori head over into the kitchen."
-    ""
+    "Monika y Sayori se dirigen a la cocina."
 
 # game/d2.rpy:96
 translate spanish d2_66ea94c8:
