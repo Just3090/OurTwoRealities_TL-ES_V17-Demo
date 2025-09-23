@@ -2850,27 +2850,27 @@ translate spanish strings:
 
     # game/d1.rpy:21
     old "Good morning, Monika."
-    new ""
+    new "Buenos días, Monika."
 
     # game/d1.rpy:26
     old "Is it alright for you to be so close to {i}him{/i}"
-    new ""
+    new "¿Está bien que estés tan cerca de 'él'?"
 
     # game/d1.rpy:45
     old "Don't worry."
-    new ""
+    new "No te preocupes."
 
     # game/d1.rpy:47
     old "We'll get there eventually!"
-    new ""
+    new "¡Ya llegaremos!"
 
     # game/d1.rpy:62
     old "Memories?"
-    new ""
+    new "¿Recuerdos?"
 
     # game/d1.rpy:106
     old "Ok!"
-    new ""
+    new "¡Vale!"
 
     # game/d1.rpy:142
     old "I was just about to ask that~"
