@@ -4,33 +4,33 @@
 translate spanish cookinggame1_31ba25ba:
 
     # "What should I make?"
-    ""
+    "¿Qué debería preparar?"
 
 # game/cookinggame.rpy:314
 translate spanish foolproofing1_f823e65a:
 
     # "Hmm...looks good."
-    ""
+    "Mmm... tiene buena pinta."
 
 # game/cookinggame.rpy:317
 translate spanish foolproofing1_2bea06cc:
 
     # "This doesn't look right..."
-    ""
+    "Esto no tiene buena pinta..."
 
 translate spanish strings:
 
     # game/cookinggame.rpy:76
     old "Stir fry"
-    new ""
+    new "Salteado"
 
     # game/cookinggame.rpy:76
     old "Simple soup"
-    new ""
+    new "Sopa sencilla"
 
     # game/cookinggame.rpy:76
     old "Potato Salad"
-    new ""
+    new "Ensalada de patatas"
 
 # TODO: Translation updated at 2025-07-25 16:17
 
@@ -38,53 +38,53 @@ translate spanish strings:
 
     # game/cookinggame.rpy:191
     old "Select the ingredients to use."
-    new ""
+    new "Selecciona los ingredientes a usar."
 
     # game/cookinggame.rpy:219
     old "[reci]"
-    new ""
+    new "[reci]"
 
     # game/cookinggame.rpy:220
     old "~~~~~~~~~~"
-    new ""
+    new "~~~~~~~~~~"
 
     # game/cookinggame.rpy:221
     old "[ing1]"
-    new ""
+    new "[ing1]"
 
     # game/cookinggame.rpy:222
     old "[ing2]"
-    new ""
+    new "[ing2]"
 
     # game/cookinggame.rpy:223
     old "[ing3]"
-    new ""
+    new "[ing3]"
 
     # game/cookinggame.rpy:224
     old "[ing4]"
-    new ""
+    new "[ing4]"
 
     # game/cookinggame.rpy:225
     old "[ing5]"
-    new ""
+    new "[ing5]"
 
     # game/cookinggame.rpy:226
     old " "
-    new ""
+    new " "
 
     # game/cookinggame.rpy:227
     old "Cooking time: [rheat]"
-    new ""
+    new "Tiempo de cocción: [rheat]"
 
     # game/cookinggame.rpy:345
     old "Wait for the bar to get to the desired zone to get the right cooking time."
-    new ""
+    new "Espera a que la barra llegue a la zona deseada para obtener el tiempo de cocción correcto."
 
     # game/cookinggame.rpy:362
     old "Start cooking"
-    new ""
+    new "Empezar a cocinar"
 
     # game/cookinggame.rpy:365
     old "Stop"
-    new ""
+    new "Parar"
 
