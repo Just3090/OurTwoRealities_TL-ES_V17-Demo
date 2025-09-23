@@ -2874,73 +2874,73 @@ translate spanish strings:
 
     # game/d1.rpy:142
     old "I was just about to ask that~"
-    new ""
+    new "Justo iba a preguntar eso."
 
     # game/d1.rpy:145
     old "Yep!"
-    new ""
+    new "¡Síp!"
 
     # game/d1.rpy:227
     old "I do know how much you like this!"
-    new ""
+    new "¡Sé cuánto te gusta esto!"
 
     # game/d1.rpy:227
     old "It is just a coffee, Monika."
-    new ""
+    new "Es solo un café, Monika."
 
     # game/d1.rpy:292
     old "What's wrong?"
-    new ""
+    new "¿Qué pasa?"
 
     # game/d1.rpy:300
     old "You deserve it."
-    new ""
+    new "Te lo mereces."
 
     # game/d1.rpy:302
     old "I don't care if someone thinks another way."
-    new ""
+    new "No me importa si alguien piensa de otra manera."
 
     # game/d1.rpy:304
     old "Everyone deserves happiness."
-    new ""
+    new "Todo el mundo merece ser feliz."
 
     # game/d1.rpy:318
     old "Sayori!!!"
-    new ""
+    new "¡¡¡Sayori!!!"
 
     # game/d1.rpy:318
     old "Like you and MC."
-    new ""
+    new "Como tú y MC."
 
     # game/d1.rpy:357
     old "You scared me a bit!"
-    new ""
+    new "¡Me has asustado un poco!"
 
     # game/d1.rpy:357
     old "For a moment I thought you were Sayori!"
-    new ""
+    new "¡Por un momento pensé que eras Sayori!"
 
     # game/d1.rpy:440
     old "Did you write this with me in mind?"
-    new ""
+    new "¿Has escrito esto pensando en mí?"
 
     # game/d1.rpy:440
     old "This is really nice!"
-    new ""
+    new "¡Esto es muy bonito!"
 
     # game/d1.rpy:448
     old "It makes it all the more special."
-    new ""
+    new "Lo hace aún más especial."
 
     # game/d1.rpy:842
     old "What do you say that I make lunch tomorrow?"
-    new ""
+    new "¿Qué te parece si preparo yo la comida mañana?"
 
     # game/d1.rpy:842
     old "Oh, but still..."
-    new ""
+    new "Oh, pero aun así..."
 
     # game/d1.rpy:862
     old "I love you, Monika."
-    new ""
+    new "Te quiero, Monika."
 
