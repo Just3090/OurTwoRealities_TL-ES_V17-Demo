@@ -136,7 +136,7 @@ translate spanish d1_293951d5:
 translate spanish d1_07c2bb7d:
 
     # m "And by the way, the avatar is aware of the original game's events, just like you."
-    m "Y por cierto, el avatar es consciente de los sucesos del juego original, igual que tú."
+    m "Y por cierto, el personaje es consciente de los sucesos del juego original, igual que tú."
 
 # game/d1.rpy:53
 translate spanish d1_eb192c8b:
@@ -148,7 +148,7 @@ translate spanish d1_eb192c8b:
 translate spanish d1_5e552911:
 
     # m "And the mod makes anyone around us, including this avatar of your's, to ignore any speech or questions I direct towards {i}you{/i}."
-    m "Y el mod hace que cualquiera a nuestro alrededor, incluido este avatar tuyo, ignore cualquier discurso o pregunta que te dirija a 'ti'."
+    m "Y el mod hace que cualquiera a nuestro alrededor, incluido este personaje tuyo, ignore cualquier discurso o pregunta que te dirija a 'ti'."
 
 # game/d1.rpy:55
 translate spanish d1_f0db4c8f:
@@ -328,7 +328,7 @@ translate spanish d1_e321c932:
 translate spanish d1_85094c06:
 
     # m "And{cps=*0.5}...{/cps}it's MC."
-    m "Y{cps=*0.5}...{/cps}es Prota."
+    m "Y{cps=*0.5}...{/cps}es MC."
 
 # game/d1.rpy:101
 translate spanish d1_73fe8f5d:
@@ -658,7 +658,7 @@ translate spanish d1_fd279fba:
 translate spanish d1_a6a1a1e6:
 
     # "...Seeing the one I love getting-{nw}"
-    "... Ver a la que quiero como se-{nw}"
+    "... Ver a la que quiero como se...{nw}"
 
 # game/d1.rpy:206
 translate spanish d1_fb0ced28:
@@ -808,7 +808,7 @@ translate spanish d1_dc41db2f:
 translate spanish d1_08ca80fe:
 
     # "I lock up the door,{w=0.5} and we head off to school."
-    "Cierro la puerta con llave,{w=0.5} y nos vamos al instituto."
+    "Cierro la puerta con llave,{w=0.5} y nos vamos al insti."
 
 # game/d1.rpy:259
 translate spanish d1_40bbbfe1:
@@ -892,7 +892,7 @@ translate spanish d1_ac115ae4:
 translate spanish d1_21f48fc6:
 
     # "We continue along to school together."
-    "Seguimos nuestro camino al instituto juntos."
+    "Seguimos nuestro camino al insti juntos."
 
 # game/d1.rpy:291
 translate spanish d1_472c9190:
