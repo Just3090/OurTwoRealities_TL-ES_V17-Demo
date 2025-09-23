@@ -1006,19 +1006,19 @@ translate spanish d1_798e8525:
 translate spanish d1_86a47cb7:
 
     # m "You two are such good friends~"
-    m "Sois tan buenas amigas."
+    m "Sois tan buenos amigos."
 
 # game/d1.rpy:335
 translate spanish d1_86d699a6:
 
     # "As we near the school, the streets become speckled with other students making their daily commute."
-    "A medida que nos acercamos al instituto, las calles se llenan de otros estudiantes que hacen su recorrido diario."
+    "A medida que nos acercamos al insti, las calles se llenan de otros estudiantes que hacen su recorrido diario."
 
 # game/d1.rpy:336
 translate spanish d1_8d80a5f0:
 
     # "We finally reach the school gate."
-    "Finalmente llegamos a la puerta del instituto."
+    "Finalmente llegamos a la puerta principal."
 
 # game/d1.rpy:337
 translate spanish d1_00315998:
@@ -1162,19 +1162,19 @@ translate spanish d1_0dcd520e:
 translate spanish d1_29913590:
 
     # m "Don't worry,{w=0.5} you can finish it during club time today!"
-    m "No te preocupes,{w=0.5} ¡puedes terminarlo hoy durante el tiempo del club!"
+    m "No te preocupes,{w=0.5} ¡puedes terminarlo hoy durante la hora del club!"
 
 # game/d1.rpy:382
 translate spanish d1_22e97c28:
 
     # "The two of us step into the clubroom."
-    "Los dos entramos en la sala del club."
+    "Los dos entramos al aula del club."
 
 # game/d1.rpy:388
 translate spanish d1_d8fb0903:
 
     # "As we step into the clubroom, I see Sayori and MC chatting away, Yuri quietly reading a book, and Natsuki rummaging around in the closet."
-    "Al entrar en la sala del club, veo a Sayori y a MC charlando, a Yuri leyendo un libro en silencio y a Natsuki rebuscando en el armario."
+    "Al entrar en el aula, veo a Sayori y a MC charlando, a Yuri leyendo un libro en silencio y a Natsuki rebuscando en el armario."
 
 # game/d1.rpy:389
 translate spanish d1_d0959ead:
@@ -1189,6 +1189,7 @@ translate spanish d1_366ff08a:
 
     # n "WHY DID YOU PUT MY MANGA ON THE TOP SHELF AGAIN?!"
     n "¡¿POR QUÉ HAS VUELTO A PONER MI MANGA EN LA ESTANTERÍA DE ARRIBA?!"
+    n "¡¿JUSTAMENTE EN LA QUE ME ES IMPOSIBLE DE ALCANZAR?!
 
 # game/d1.rpy:392
 translate spanish d1_84affe89:
@@ -1296,7 +1297,7 @@ translate spanish d1_c3af7b72:
 translate spanish d1_efdcc2cf:
 
     # "I look around the room for Monika,{w=0.5} but for some reason she disappeared-{nw}"
-    "Busco a Monika por la sala,{w=0.5} pero por alguna razón ha desaparecido-{nw}"
+    "Busco a Monika por el aula,{w=0.5} pero por alguna razón ha desaparecido...{nw}"
 
 # game/d1.rpy:428
 translate spanish d1_5b6d62ff:
@@ -1386,7 +1387,7 @@ translate spanish d1_d333026b:
 translate spanish d1_72dcf71d:
 
     # m lean happ om oe n3 "It seems you chose the words that I like~"
-    m lean happ om oe n3 "Parece que has elegido las palabras que me gustan."
+    m lean happ om oe n3 "parece que has elegido las palabras que me gustan."
 
 # game/alogue.rpy:455
 translate spanish d1_6afe6c79:
