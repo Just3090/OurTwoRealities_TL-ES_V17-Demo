@@ -1017,703 +1017,703 @@ translate spanish d3_34138a72:
 translate spanish d3_6434dfd2:
 
     # mc "Ugh..."
-    mc ""
+    mc "Ugh..."
 
 # game/d3.rpy:289
 translate spanish d3_cabd9487:
 
     # mc "Yeah I'm fine."
-    mc ""
+    mc "Sí, estoy bien."
 
 # game/d3.rpy:290
 translate spanish d3_986be587:
 
     # "I turn around onto my back."
-    ""
+    "Me doy la vuelta y me tumbo de espaldas."
 
 # game/d3.rpy:291
 translate spanish d3_d9f549c4:
 
     # "Monika lays down next to me."
-    ""
+    "Monika se tumba a mi lado."
 
 # game/d3.rpy:294
 translate spanish d3_5c746c2b_1:
 
     # m "Ahaha~!"
-    m ""
+    m "¡Ja, ja, ja!"
 
 # game/d3.rpy:295
 translate spanish d3_e3516114:
 
     # mc "The wind sure does some weird things."
-    mc ""
+    mc "El viento sí que hace cosas raras."
 
 # game/d3.rpy:296
 translate spanish d3_7e7f246d:
 
     # m "Yeah..."
-    m ""
+    m "Sí..."
 
 # game/d3.rpy:297
 translate spanish d3_042c2f13:
 
     # m "I still can't believe how accurate you are with a frisbee."
-    m ""
+    m "Todavía no me puedo creer lo preciso que eres con el frisbee."
 
 # game/d3.rpy:298
 translate spanish d3_9b57a043:
 
     # mc "Nah, it was just the wind."
-    mc ""
+    mc "Qué va, solo ha sido el viento."
 
 # game/d3.rpy:301
 translate spanish d3_94b39e16:
 
     # mc "Well, if we are done eating, let's rest a little bit."
-    mc ""
+    mc "Bueno, si ya hemos terminado de comer, descansemos un poco."
 
 # game/d3.rpy:302
 translate spanish d3_6296b7e3:
 
     # m "Sure!"
-    m ""
+    m "¡Claro!"
 
 # game/d3.rpy:303
 translate spanish d3_4c9b0633:
 
     # "We lie on the ground."
-    ""
+    "Nos tumbamos en el suelo."
 
 # game/d3.rpy:307
 translate spanish d3_aed8bfc6:
 
     # m "Look over there."
-    m ""
+    m "Mira allí."
 
 # game/d3.rpy:308
 translate spanish d3_9c3fe1e6:
 
     # "She points to a strange cloud."
-    ""
+    "Señala una nube extraña."
 
 # game/d3.rpy:309
 translate spanish d3_b5773820:
 
     # m "It looks like a duck!"
-    m ""
+    m "¡Parece un pato!"
 
 # game/d3.rpy:310
 translate spanish d3_e20b1944:
 
     # "I squint a bit."
-    ""
+    "Entrecierro un poco los ojos."
 
 # game/d3.rpy:311
 translate spanish d3_a687479c:
 
     # mc "Oh yeah, it does!"
-    mc ""
+    mc "¡Ah, sí, es verdad!"
 
 # game/d3.rpy:312
 translate spanish d3_ba3f7b1f:
 
     # mc "Look at that one!"
-    mc ""
+    mc "¡Mira esa!"
 
 # game/d3.rpy:313
 translate spanish d3_9446aef8:
 
     # "I point to a cloud as well."
-    ""
+    "Yo también señalo una nube."
 
 # game/d3.rpy:314
 translate spanish d3_685f73cc:
 
     # mc "That one looks like a bow!"
-    mc ""
+    mc "¡Esa parece un lazo!"
 
 # game/d3.rpy:315
 translate spanish d3_3bbfd21e:
 
     # "We spend a bit more time, pointing out many other cloud shapes and imagining what they could be."
-    ""
+    "Pasamos un rato más señalando muchas otras formas de nubes e imaginando lo que podrían ser."
 
 # game/d3.rpy:316
 translate spanish d3_dc1eb5a0:
 
     # "We laugh a bit more, and then just quietly hold hands while staring into the beautiful blue of the sky."
-    ""
+    "Nos reímos un poco más y luego nos quedamos en silencio, cogidos de la mano, mientras contemplamos el hermoso azul del cielo."
 
 # game/d3.rpy:317
 translate spanish d3_2adc7794:
 
     # m "If only it was the real you..."
-    m ""
+    m "Si tan solo fueras el tú de verdad..."
 
 # game/d3.rpy:318
 translate spanish d3_c7faeecf:
 
     # m "It feels good to be with your avatar as if it was you."
-    m ""
+    m "Se siente bien estar con tu avatar como si fueras tú."
 
 # game/d3.rpy:319
 translate spanish d3_82f4685e:
 
     # m "But I still wish it was for real..."
-    m ""
+    m "Pero aun así desearía que fuera de verdad..."
 
 # game/d3.rpy:320
 translate spanish d3_8a11b007:
 
     # m "Looking at the sky...pointing to the clouds...holding hands..."
-    m ""
+    m "Mirar al cielo... señalar las nubes... cogernos de la mano..."
 
 # game/d3.rpy:323
 translate spanish d3_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/d3.rpy:324
 translate spanish d3_d3107ef6:
 
     # m "Well..."
-    m ""
+    m "Bueno..."
 
 # game/d3.rpy:325
 translate spanish d3_6dfca772:
 
     # m "I am happy to be like that anyway."
-    m ""
+    m "De todos modos, soy feliz así."
 
 # game/d3.rpy:326
 translate spanish d3_ce60de64:
 
     # m "I just always worry that you feel bad that you are not with me..."
-    m ""
+    m "Es que siempre me preocupa que te sientas mal por no estar conmigo..."
 
 # game/d3.rpy:331
 translate spanish d3_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/d3.rpy:332
 translate spanish d3_27752541:
 
     # m "I love you too..."
-    m ""
+    m "Yo también te quiero..."
 
 # game/d3.rpy:333
 translate spanish d3_f18292e0:
 
     # m "I love you with all my heart."
-    m ""
+    m "Te quiero con todo mi corazón."
 
 # game/d3.rpy:335
 translate spanish d3_18fba2fd:
 
     # m "I feel happier, really!"
-    m ""
+    m "¡Me siento más feliz, de verdad!"
 
 # game/d3.rpy:336
 translate spanish d3_08557304:
 
     # m "I just...{w=0.5}want you to feel happier too..."
-    m ""
+    m "Es solo que...{w=0.5}quiero que tú también te sientas más feliz..."
 
 # game/d3.rpy:339
 translate spanish d3_e612037c_2:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/d3.rpy:342
 translate spanish d3_e612037c_3:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/d3.rpy:343
 translate spanish d3_d4d5bcad:
 
     # m "Then..."
-    m ""
+    m "Entonces..."
 
 # game/d3.rpy:344
 translate spanish d3_daa19137:
 
     # m "Then I am the happiest girlfriend in the world!"
-    m ""
+    m "¡Entonces soy la novia más feliz del mundo!"
 
 # game/d3.rpy:348
 translate spanish d3_7e7f246d_1:
 
     # m "Yeah..."
-    m ""
+    m "Sí..."
 
 # game/d3.rpy:349
 translate spanish d3_e592f22d:
 
     # m "I love you..."
-    m ""
+    m "Te quiero..."
 
 # game/d3.rpy:354
 translate spanish d3_045764ea:
 
     # "I check my watch for the time."
-    ""
+    "Miro la hora en mi reloj."
 
 # game/d3.rpy:355
 translate spanish d3_48e38e53:
 
     # "5:24."
-    ""
+    "5:24."
 
 # game/d3.rpy:356
 translate spanish d3_4eb20ee4:
 
     # mc "Hey, Monika..."
-    mc ""
+    mc "Oye, Monika..."
 
 # game/d3.rpy:357
 translate spanish d3_878277ae:
 
     # m "Hmm?"
-    m ""
+    m "¿Mmm?"
 
 # game/d3.rpy:358
 translate spanish d3_c7e18f4c:
 
     # mc "We should probably start packing up."
-    mc ""
+    mc "Probablemente deberíamos empezar a recoger."
 
 # game/d3.rpy:359
 translate spanish d3_4d6e6d17:
 
     # mc "It's starting to get late, and we have the festival tomorrow too."
-    mc ""
+    mc "Se está haciendo tarde y además mañana tenemos el festival."
 
 # game/d3.rpy:360
 translate spanish d3_0e23f64a:
 
     # m "Yeah, you're right..."
-    m ""
+    m "Sí, tienes razón..."
 
 # game/d3.rpy:361
 translate spanish d3_e813213d:
 
     # m "I wish we could stay longer though..."
-    m ""
+    m "Aunque ojalá pudiéramos quedarnos más tiempo..."
 
 # game/d3.rpy:362
 translate spanish d3_fca251f7:
 
     # "Monika gets up, and I follow."
-    ""
+    "Monika se levanta y yo la sigo."
 
 # game/d3.rpy:365
 translate spanish d3_0826ab0b:
 
     # "I start packing up all the stuff we brought."
-    ""
+    "Empiezo a recoger todo lo que hemos traído."
 
 # game/d3.rpy:366
 translate spanish d3_883c24db:
 
     # "Monika takes the leftovers and puts them in the salad bowl and covers it with a plate."
-    ""
+    "Monika coge las sobras, las pone en la ensaladera y la tapa con un plato."
 
 # game/d3.rpy:367
 translate spanish d3_f39bf6be:
 
     # "I pick up the blanket and everything else and stuff it into the backpack."
-    ""
+    "Cojo la manta y todo lo demás y lo meto en la mochila."
 
 # game/d3.rpy:369
 translate spanish d3_258c6744:
 
     # "Once again, we share the carrying of the basket, and we make our way home."
-    ""
+    "Una vez más, llevamos la cesta entre los dos y nos ponemos en camino a casa."
 
 # game/d3.rpy:373
 translate spanish d3_3634d2bf:
 
     # mc "Hey, Monika?"
-    mc ""
+    mc "Oye, ¿Monika?"
 
 # game/d3.rpy:374
 translate spanish d3_d3047683:
 
     # m o1_1c "Hmm?"
-    m o1_1c ""
+    m o1_1c "¿Mmm?"
 
 # game/d3.rpy:375
 translate spanish d3_42a3b7c5:
 
     # mc "Tomorrow, let's do our best and make the festival unforgettable!"
-    mc ""
+    mc "Mañana, ¡esforcémonos al máximo para que el festival sea inolvidable!"
 
 # game/d3.rpy:376
 translate spanish d3_455c19c7:
 
     # m o1_1b "Yeah! Let's do it!"
-    m o1_1b ""
+    m o1_1b "¡Sí! ¡Hagámoslo!"
 
 # game/d3.rpy:380
 translate spanish d3_13eb17c6:
 
     # "We reach the front door."
-    ""
+    "Llegamos a la puerta de casa."
 
 # game/d3.rpy:381
 translate spanish d3_cdc49818:
 
     # "I unlock it, and we step inside."
-    ""
+    "La abro y entramos."
 
-# game/d3.rpy:385
+# game/d-3.rpy:385
 translate spanish d3_93c7ff8c:
 
     # "I drop the backpack beside the couch, and Monika brings the basket into the kitchen."
-    ""
+    "Dejo la mochila al lado del sofá y Monika lleva la cesta a la cocina."
 
 # game/d3.rpy:386
 translate spanish d3_63bccd3e:
 
     # "After she does that, she goes upstairs."
-    ""
+    "Después de eso, sube las escaleras."
 
 # game/d3.rpy:387
 translate spanish d3_d27e996c:
 
     # "I unload all the stuff, and put them in their proper places."
-    ""
+    "Descargo todo y lo pongo en su sitio."
 
 # game/d3.rpy:388
 translate spanish d3_9e4b1c07:
 
     # "A bit later, she comes back and goes back into the kitchen."
-    ""
+    "Un poco más tarde, vuelve y entra de nuevo en la cocina."
 
 # game/d3.rpy:389
 translate spanish d3_ca0d7d6c:
 
     # m "[player], are we just having today's leftovers for supper?"
-    m ""
+    m "[player], ¿vamos a cenar solo las sobras de hoy?"
 
 # game/d3.rpy:390
 translate spanish d3_89ed8955:
 
     # mc "Yeah. There should be enough."
-    mc ""
+    mc "Sí. Debería ser suficiente."
 
 # game/d3.rpy:391
 translate spanish d3_88dd5dbe:
 
     # m "Okay, I'll leave them on the counter."
-    m ""
+    m "Vale, los dejaré en la encimera."
 
 # game/d3.rpy:392
 translate spanish d3_6651ab87:
 
     # mc "Alright."
-    mc ""
+    mc "De acuerdo."
 
 # game/d3.rpy:393
 translate spanish d3_96bebc82:
 
     # "I put away the backpack, and I go upstairs to get changed into my sleepwear as well."
-    ""
+    "Guardo la mochila y subo a ponerme el pijama también."
 
 # game/d3.rpy:396
 translate spanish d3_c179f2c9:
 
     # "I quickly swap out my clothes, and head back downstairs."
-    ""
+    "Me cambio rápidamente de ropa y bajo las escaleras."
 
 # game/d3.rpy:400
 translate spanish d3_c0052682:
 
     # "I walk in to see Monika warming up the leftover sandwiches in a small sandwich grill."
-    ""
+    "Entro y veo a Monika calentando los sándwiches sobrantes en una pequeña sandwichera."
 
 # game/d3.rpy:402
 translate spanish d3_9c849a36:
 
     # "I go and grab two oranges from the pantry, and a juicer."
-    ""
+    "Voy a coger dos naranjas de la despensa y un exprimidor."
 
 # game/d3.rpy:403
 translate spanish d3_c1c519f6:
 
     # "I take the juicer, and start squeezing out the oranges."
-    ""
+    "Cojo el exprimidor y empiezo a exprimir las naranjas."
 
 # game/d3.rpy:404
 translate spanish d3_12ab9717:
 
     # "I then pour it into two glasses for us."
-    ""
+    "Luego lo vierto en dos vasos para nosotros."
 
 # game/d3.rpy:405
 translate spanish d3_a0b71448:
 
     # "Monika takes the sandwiches out of the grill, and cuts them into halves."
-    ""
+    "Monika saca los sándwiches de la parrilla y los corta por la mitad."
 
 # game/d3.rpy:406
 translate spanish d3_63c39026:
 
     # "They nicely steam from the melted cheese in them as she places them on plates."
-    ""
+    "Echan un agradable vapor por el queso derretido que llevan dentro mientras los coloca en los platos."
 
 # game/d3.rpy:407
 translate spanish d3_fae7a265:
 
     # "We sit down, and enjoy our supper together."
-    ""
+    "Nos sentamos y disfrutamos de la cena juntos."
 
 # game/d3.rpy:410
 translate spanish d3_202a77a4:
 
     # "After that, I go to wash the dishes and clean up the kitchen."
-    ""
+    "Después de eso, voy a lavar los platos y a limpiar la cocina."
 
 # game/d3.rpy:411
 translate spanish d3_c0829a0a:
 
     # "I finish washing up the dishes, and Monika comes up behind me."
-    ""
+    "Termino de lavar los platos y Monika se acerca por detrás."
 
 # game/d3.rpy:412
 translate spanish d3_c79d4a36:
 
     # "She wraps her arms around me."
-    ""
+    "Me rodea con sus brazos."
 
 # game/d3.rpy:413
 translate spanish d3_96712282:
 
     # m "Tomorrow's the big day!"
-    m ""
+    m "¡Mañana es el gran día!"
 
 # game/d3.rpy:414
 translate spanish d3_01808abc:
 
     # mc "Yeah. I can't wait to spend it with you..."
-    mc ""
+    mc "Sí. No puedo esperar a pasarlo contigo..."
 
 # game/d3.rpy:415
 translate spanish d3_169c90bf:
 
     # "We stay like that for a bit."
-    ""
+    "Nos quedamos así un rato."
 
 # game/d3.rpy:416
 translate spanish d3_7c3aac8f:
 
     # m "Did you write your poem yet?"
-    m ""
+    m "¿Ya has escrito tu poema?"
 
 # game/d3.rpy:417
 translate spanish d3_0a2e07eb:
 
     # mc "Not yet..."
-    mc ""
+    mc "Todavía no..."
 
 # game/d3.rpy:418
 translate spanish d3_d95105f2:
 
     # m "Neither have I."
-    m ""
+    m "Yo tampoco."
 
 # game/d3.rpy:419
 translate spanish d3_92e41d5a:
 
     # m "Let's go upstairs and do them."
-    m ""
+    m "Subamos a hacerlos."
 
 # game/d3.rpy:420
 translate spanish d3_a49ed4f8_2:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d3.rpy:421
 translate spanish d3_2916c042:
 
     # "We go upstairs."
-    ""
+    "Subimos las escaleras."
 
 # game/d3.rpy:424
 translate spanish d3_499168bd:
 
     # "We sit down at my desk, and we start writing."
-    ""
+    "Nos sentamos en mi escritorio y empezamos a escribir."
 
 # game/d3.rpy:429
 translate spanish d3_d06e1d05:
 
     # "And that's all done now."
-    ""
+    "Y ya está todo hecho."
 
 # game/d3.rpy:430
 translate spanish d3_1e401c4b:
 
     # "I put my poem into my bag, and zip it up."
-    ""
+    "Meto el poema en mi mochila y la cierro."
 
 # game/d3.rpy:431
 translate spanish d3_8a5e7e01:
 
     # "Monika is still writing intently."
-    ""
+    "Monika sigue escribiendo con atención."
 
 # game/d3.rpy:432
 translate spanish d3_872d7de0:
 
     # m "All done?"
-    m ""
+    m "¿Ya está?"
 
 # game/d3.rpy:433
 translate spanish d3_f2e7f9b7:
 
     # mc "Yeah, what about you?"
-    mc ""
+    mc "Sí, ¿y tú?"
 
 # game/d3.rpy:434
 translate spanish d3_6d0920b4:
 
     # m "Almost, I'm just adding a few finishing touches to it."
-    m ""
+    m "Casi, solo le estoy dando los últimos retoques."
 
 # game/d3.rpy:435
 translate spanish d3_a49ed4f8_3:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d3.rpy:436
 translate spanish d3_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/d3.rpy:437
 translate spanish d3_f09417f6:
 
     # m "...And there we go!"
-    m ""
+    m "... ¡Y ya está!"
 
 # game/d3.rpy:438
 translate spanish d3_66ec2094:
 
     # "Monika closes her notebook, and puts it in her bag."
-    ""
+    "Monika cierra su libreta y la guarda en su mochila."
 
 # game/d3.rpy:440
 translate spanish d3_95c3701d:
 
     # mc "Ready to go to sleep?"
-    mc ""
+    mc "¿Lista para ir a dormir?"
 
 # game/d3.rpy:441
 translate spanish d3_03c57aa9:
 
     # m p_1b "Yeah, let's go."
-    m p_1b ""
+    m p_1b "Sí, vamos."
 
 # game/d3.rpy:444
 translate spanish d3_4db70e13:
 
     # "Monika hops into bed, and I go to turn off the lights."
-    ""
+    "Monika se mete en la cama y yo voy a apagar las luces."
 
 # game/d3.rpy:446
 translate spanish d3_3d149d78:
 
     # "Then, I slide into bed next to Monika."
-    ""
+    "Entonces, me meto en la cama junto a Monika."
 
 # game/d3.rpy:447
 translate spanish d3_d84988fc:
 
     # mc "Goodnight, my love..."
-    mc ""
+    mc "Buenas noches, mi amor..."
 
 # game/d3.rpy:448
 translate spanish d3_2e43cfaa:
 
     # m "Goodnight!"
-    m ""
+    m "¡Buenas noches!"
 
 # game/d3.rpy:449
 translate spanish d3_8164627b:
 
     # "And I close my eyes as I drift away into the land of dreams."
-    ""
+    "Y cierro los ojos mientras me adentro en el mundo de los sueños."
 
 translate spanish strings:
 
     # game/d3.rpy:88
     old "Take it along"
-    new ""
+    new "Llevárselo"
 
     # game/d3.rpy:88
     old "Leave it here"
-    new ""
+    new "Dejarlo aquí"
 
     # game/d3.rpy:128
     old "You look beautiful!"
-    new ""
+    new "¡Estás preciosa!"
 
     # game/d3.rpy:169
     old "Small open area"
-    new ""
+    new "Pequeña zona abierta"
 
     # game/d3.rpy:169
     old "Big open area"
-    new ""
+    new "Gran zona abierta"
 
     # game/d3.rpy:169
     old "Beside the pond"
-    new ""
+    new "Junto al estanque"
 
     # game/d3.rpy:321
     old "Same here, Monika..."
-    new ""
+    new "Yo también, Monika..."
 
     # game/d3.rpy:321
     old "I thought it would make you happy..."
-    new ""
+    new "Pensé que te haría feliz..."
 
     # game/d3.rpy:327
     old "Don't worry, Monika."
-    new ""
+    new "No te preocupes, Monika."
 
     # game/d3.rpy:329
     old "I love you no matter what."
-    new ""
+    new "Te quiero pase lo que pase."
 
     # game/d3.rpy:337
     old "I am happy."
-    new ""
+    new "Soy feliz."
 
     # game/d3.rpy:337
     old "Thank you..."
-    new ""
+    new "Gracias..."
 
     # game/d3.rpy:340
     old "I'm happy if you are happy."
-    new ""
+    new "Soy feliz si tú eres feliz."
 
     # game/d3.rpy:346
     old "Let's keep hope that one day we'll be together for real."
-    new ""
+    new "Mantengamos la esperanza de que un día estaremos juntos de verdad."
 
     # game/d3.rpy:350
     old "I love you too."
-    new ""
+    new "Yo también te quiero."
 
