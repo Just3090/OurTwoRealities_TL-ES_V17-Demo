@@ -255,7 +255,7 @@ translate spanish d3_5a2fd789:
 translate spanish d3_4153a187:
 
     # m h1_3j "Mhm~!"
-    m h1_3j "¡Mjm!"
+    m h1_3j "¡Ajam!"
 
 # game/d3.rpy:69
 translate spanish d3_d5171ab5:
@@ -417,7 +417,7 @@ translate spanish d3_5b79fba9:
 translate spanish d3_83b5041f:
 
     # "{i}What will it take,{w=0.5} just to find that special day~{/i}"
-    "«Qué será necesario,{w=0.5} solo para encontrar ese día especial»."
+    "{i}What will it take,{w=0.5} just to find that special day{/i}"
 
 # game/d3.rpy:117
 translate spanish d3_aa53fc06:
@@ -1017,7 +1017,7 @@ translate spanish d3_34138a72:
 translate spanish d3_6434dfd2:
 
     # mc "Ugh..."
-    mc "Ugh..."
+    mc "Uhhh..."
 
 # game/d3.rpy:289
 translate spanish d3_cabd9487:
@@ -1605,7 +1605,7 @@ translate spanish d3_a20cefa7_1:
 translate spanish d3_f09417f6:
 
     # m "...And there we go!"
-    m "... ¡Y ya está!"
+    m "¡Y ya está!"
 
 # game/d3.rpy:438
 translate spanish d3_66ec2094:
