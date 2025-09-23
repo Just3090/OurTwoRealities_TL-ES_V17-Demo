@@ -2004,205 +2004,205 @@ translate spanish d1_ed855365:
 translate spanish d1_74e6d015:
 
     # mc "Oh, so you mean like as if someone was reading your manga-{nw}"
-    mc ""
+    mc "Oh, ¿quieres decir como si alguien estuviera leyendo tu manga...{nw}"
 
 # game/d1.rpy:601
 translate spanish d1_c7bb1f66:
 
     # n 5w "...That doesn't matter! It can be about anything!"
-    n 5w ""
+    n 5w "... ¡Eso no importa! ¡Puede ser sobre cualquier cosa!"
 
 # game/d1.rpy:602
 translate spanish d1_585f6446:
 
     # n 5h "I wrote it to be easy to relate to..."
-    n 5h ""
+    n 5h "Lo escribí para que fuera fácil sentirse identificado..."
 
 # game/d1.rpy:603
 translate spanish d1_acf7c3ab:
 
     # n "When you do things you like, you quickly run out of time and want more."
-    n ""
+    n "Cuando haces cosas que te gustan, te quedas sin tiempo rápidamente y quieres más."
 
 # game/d1.rpy:604
 translate spanish d1_d17818c2:
 
     # n 5q "So.. yeah. It's why people should savour every moment in life."
-    n 5q ""
+    n 5q "Así que... sí. Es por eso que la gente debería saborear cada momento de la vida."
 
 # game/d1.rpy:606
 translate spanish d1_851fed39:
 
     # mc "Aha,{w=0.5} I agree."
-    mc ""
+    mc "Ajá,{w=0.5} estoy de acuerdo."
 
 # game/d1.rpy:607
 translate spanish d1_c6654108:
 
     # mc "If only we had infinite time in the world."
-    mc ""
+    mc "Si al menos tuviéramos tiempo infinito en el mundo."
 
 # game/d1.rpy:608
 translate spanish d1_527a33c1:
 
     # mc "So anyway, what do you think of my poem?"
-    mc ""
+    mc "Y bueno, ¿qué te parece mi poema?"
 
 # game/d1.rpy:610
 translate spanish d1_76ae88f1:
 
     # n 2t "Well, I do have to say you convey the message clearly."
-    n 2t ""
+    n 2t "Bueno, tengo que decir que transmites el mensaje con claridad."
 
 # game/d1.rpy:611
 translate spanish d1_5239de0c:
 
     # n 5y "Learning from the best, I see..."
-    n 5y ""
+    n 5y "Aprendiendo de la mejor, ya veo..."
 
 # game/d1.rpy:612
 translate spanish d1_c5fb89e9:
 
     # n 2l "I like it!"
-    n 2l ""
+    n 2l "¡Me gusta!"
 
 # game/d1.rpy:614
 translate spanish d1_3daffa40:
 
     # n 2r "Well, the language you used makes your poem a bit harder to read..."
-    n 2r ""
+    n 2r "Bueno, el lenguaje que has usado hace que tu poema sea un poco más difícil de leer..."
 
 # game/d1.rpy:615
 translate spanish d1_709906ae:
 
     # n 2t "..But it's still good!"
-    n 2t ""
+    n 2t "¡Pero sigue estando bien!"
 
 # game/d1.rpy:617
 translate spanish d1_6d04953c_1:
 
     # mc "Thanks!"
-    mc ""
+    mc "¡Gracias!"
 
 # game/d1.rpy:618
 translate spanish d1_2e3638f9:
 
     # mc "Alright then Natsuki, I've said everything I wanted to."
-    mc ""
+    mc "Muy bien Natsuki, he dicho todo lo que quería."
 
 # game/d1.rpy:619
 translate spanish d1_63c75fbe:
 
     # n 2l "Okay, [player]."
-    n 2l ""
+    n 2l "Vale, [player]."
 
 # game/d1.rpy:620
 translate spanish d1_23359776:
 
     # n "See ya around!"
-    n ""
+    n "¡Nos vemos por ahí!"
 
 # game/d1.rpy:622
 translate spanish d1_4c85d272:
 
     # mc "See ya!"
-    mc ""
+    mc "¡Nos vemos!"
 
 # game/d1.rpy:625
 translate spanish d1_129bb658:
 
     # "And with that, I move on to the last one..."
-    ""
+    "Y con eso, paso al último..."
 
 # game/d1.rpy:629
 translate spanish d1_9823b084:
 
     # mc "Yo, MC!"
-    mc ""
+    mc "¡Ey, MC!"
 
 # game/d1.rpy:631
 translate spanish d1_ab9d3ae4:
 
     # p "Hmm?"
-    p ""
+    p "¿Mmm?"
 
 # game/d1.rpy:632
 translate spanish d1_55f70401:
 
     # mc "You wanna read through my poem?"
-    mc ""
+    mc "¿Quieres leer mi poema?"
 
 # game/d1.rpy:633
 translate spanish d1_9d890920:
 
     # p 4c "Sure!"
-    p 4c ""
+    p 4c "¡Claro!"
 
 # game/d1.rpy:635
 translate spanish d1_223f891b:
 
     # "I hand over my poem to MC."
-    ""
+    "Le doy mi poema a MC."
 
 # game/d1.rpy:636
 translate spanish d1_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/d1.rpy:637
 translate spanish d1_628674d9:
 
     # p 1c "It's good!"
-    p 1c ""
+    p 1c "¡Está guay!"
 
 # game/d1.rpy:638
 translate spanish d1_5405cf8a:
 
     # p 4y "If I had a poem I'd give it to you..."
-    p 4y ""
+    p 4y "Si tuviera un poema te lo daría..."
 
 # game/d1.rpy:639
 translate spanish d1_f9a951d5:
 
     # p 5l "Thanks for letting me read it, man!"
-    p 5l ""
+    p 5l "¡Gracias por dejarme leerlo, tío!"
 
 # game/d1.rpy:641
 translate spanish d1_2dc663ea:
 
     # "MC hands my poem back to me."
-    ""
+    "MC me devuelve mi poema."
 
 # game/d1.rpy:642
 translate spanish d1_a7a92e8f:
 
     # mc "No problem."
-    mc ""
+    mc "De nada."
 
 # game/d1.rpy:643
 translate spanish d1_084890f0:
 
     # mc "Just don't forget one for Monday!"
-    mc ""
+    mc "¡Pero no te olvides de traer uno para el lunes!"
 
 # game/d1.rpy:644
 translate spanish d1_944b9033:
 
     # p 4l "Don't worry I won't!"
-    p 4l ""
+    p 4l "¡No te preocupes, no lo haré!"
 
 # game/d1.rpy:645
 translate spanish d1_aa48f1c4:
 
     # p 4z "I wouldn't want the prez to curse me if I don't have one prepped for the Festival!"
-    p 4z ""
+    p 4z "¡No querría que la presi me echara la bronca si no tengo uno preparado para el festival!"
 
 # game/d1.rpy:647
 translate spanish d1_fe4f0064:
 
     # mc "Haha! Don't worry, she's not that mean."
-    mc ""
+    mc "¡Ja, ja, ja! No te preocupes, no es tan mala."
 
 # game/d1.rpy:648
 translate spanish d1_d5388c08:
