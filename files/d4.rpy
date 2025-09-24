@@ -4,13 +4,13 @@
 translate spanish d4_4fdf1f8d:
 
     # "Ugh..."
-    "Ugh..."
+    "Uhhh..."
 
 # game/d4.rpy:24
 translate spanish d4_6762f8fc:
 
     # "I slam the stop button on my alarm clock."
-    "Golpeo el botón de parar de mi despertador."
+    "Golpeo el botón de suspender de mi despertador."
 
 # game/d4.rpy:27
 translate spanish d4_4bb848f7:
@@ -124,7 +124,7 @@ translate spanish d4_1bac4d22:
 translate spanish d4_5a560ec8:
 
     # "...Everything looks like it's in order."
-    "... Parece que todo está en orden."
+    "Parece que todo está en orden."
 
 # game/d4.rpy:62
 translate spanish d4_b75ad85c:
@@ -154,7 +154,7 @@ translate spanish d4_d265d482:
 translate spanish d4_88f89b2c:
 
     # "{i}*ping*{/i}"
-    "*Ping*"
+    "*Ding*"
 
 # game/d4.rpy:69
 translate spanish d4_e97230f5:
@@ -178,7 +178,7 @@ translate spanish d4_e3bf307a:
 translate spanish d4_88f89b2c_1:
 
     # "{i}*ping*{/i}"
-    "*Ping*"
+    "*Ding*"
 
 # game/d4.rpy:73
 translate spanish d4_26e81ee6:
@@ -292,13 +292,13 @@ translate spanish d4_4de287b0:
 translate spanish d4_72c00d5e:
 
     # s "Heeeyyyy!"
-    s "¡Eyyyy!"
+    s "¡Eyyy!"
 
 # game/d4.rpy:106
 translate spanish d4_5da52f53:
 
     # "I turn around to see Sayori and MC waiting for us outside the fence."
-    "Me doy la vuelta y veo a Sayori y a [player] esperándonos fuera de la valla."
+    "Me doy la vuelta y veo a Sayori y a MC esperándonos fuera de la valla."
 
 # game/d4.rpy:108
 translate spanish d4_cdf93508:
@@ -322,13 +322,13 @@ translate spanish d4_da1c9d87:
 translate spanish d4_32268744:
 
     # mc "Yep! I just gotta lock up real quick."
-    mc "¡Sip! Solo tengo que cerrar la puerta un momento."
+    mc "¡Sí! Solo tengo que cerrar la puerta un momento."
 
 # game/d4.rpy:118
 translate spanish d4_413c22a4:
 
     # "I lock the door, and we head down the street towards the school."
-    "Cierro la puerta y nos dirigimos por la calle hacia el instituto."
+    "Cierro la puerta y nos dirigimos por la calle hacia el insti."
 
 # game/d4.rpy:124
 translate spanish d4_9f8ebbef:
@@ -358,7 +358,7 @@ translate spanish d4_60d41ea3:
 translate spanish d4_6a9c731e:
 
     # s 5b "...And I kinda forgot until the last minute..."
-    s 5b "... Y como que me olvidé hasta el último momento..."
+    s 5b "Y como que me olvidé hasta el último momento..."
 
 # game/d4.rpy:135
 translate spanish d4_cde2eff5:
@@ -490,7 +490,7 @@ translate spanish d4_323aa8bd:
 translate spanish d4_ab998c06:
 
     # "They're decorated with cute icing and sprinkles."
-    "Están decorados con un glaseado y unos sprinkles muy monos."
+    "Están decorados con un glaseado y unas chispas de colores muy monas."
 
 # game/d4.rpy:179
 translate spanish d4_ff38a2df:
@@ -514,7 +514,7 @@ translate spanish d4_fbfad74c:
 translate spanish d4_cb1b6373:
 
     # "{i}Welcome to the Literature Club!{/i}"
-    "«¡Bienvenidos al Club de Literatura!»"
+    "{i}¡Bienvenidos al Club de Literatura!{/i}"
 
 # game/d4.rpy:186
 translate spanish d4_500f12a1:
@@ -652,7 +652,7 @@ translate spanish d4_6c69cbc7:
 translate spanish d4_796c0436:
 
     # "Sayori and MC walk out of the doors with their hands full of rolled up posters and pins."
-    "Sayori y [player] salen por la puerta con las manos llenas de pósteres enrollados y chinchetas."
+    "Sayori y MC salen por la puerta con las manos llenas de pósteres enrollados y chinchetas."
 
 # game/d4.rpy:224
 translate spanish d4_b7b09296:
@@ -700,7 +700,7 @@ translate spanish d4_24733292:
 translate spanish d4_c45e8fba:
 
     # n "There we go!"
-    n "¡Ahí está!"
+    n "¡Ahí!"
 
 # game/d4.rpy:232
 translate spanish d4_b83be6e3:
@@ -772,13 +772,13 @@ translate spanish d4_84efc05d:
 translate spanish d4_61b5a586:
 
     # "Sayori and MC walk in."
-    "Sayori y [player] entran."
+    "Sayori y MC entran."
 
 # game/d4.rpy:249
 translate spanish d4_f84df9ce:
 
     # s "Oooooh!"
-    s "¡Oooooh!"
+    s "¡Oooh!"
 
 # game/d4.rpy:250
 translate spanish d4_07389c00:
@@ -838,13 +838,13 @@ translate spanish d4_12db8f65:
 translate spanish d4_dc671bdd:
 
     # "I'm not expecting too many to show up,{w=0.5} so-{nw}"
-    "No espero que aparezcan demasiados,{w=0.5} así que-{nw}"
+    "No espero que aparezcan demasiados,{w=0.5} así que...{nw}"
 
 # game/d4.rpy:276
 translate spanish d4_49a34fc9:
 
     # "Girl 1" "\"...Hello!{w=0.5} Is this the literature club?\""
-    "Chica 1" "...¡Hola!{w=0.5} ¿Es este el club de literatura?"
+    "Chica 1" "Hola!{w=0.5} ¿Es este el club de literatura?"
 
 # game/d4.rpy:278
 translate spanish d4_c5bea387:
@@ -856,13 +856,13 @@ translate spanish d4_c5bea387:
 translate spanish d4_b4cd12e1:
 
     # "Girl 1" "\"...I noticed a poster you guys put up a few days ago...\""
-    "Chica 1" "...Vi un cartel que pusisteis hace unos días..."
+    "Chica 1" "\"Vi un cartel que pusisteis hace unos días...\""
 
 # game/d4.rpy:281
 translate spanish d4_281130fe:
 
     # "Girl 1" "\"And I thought I would write a poem to share.\""
-    "Chica 1" "Y pensé que podría escribir un poema para compartirlo."
+    "Chica 1" "\"Y pensé que podría escribir un poema para compartirlo.\""
 
 # game/d4.rpy:283
 translate spanish d4_dc8b29ad:
@@ -874,7 +874,7 @@ translate spanish d4_dc8b29ad:
 translate spanish d4_a5c100a9:
 
     # "Girl 1" "\"Okay, thank you...\""
-    "Chica 1" "Vale, gracias..."
+    "Chica 1" "\"Vale, gracias...\""
 
 # game/d4.rpy:285
 translate spanish d4_4006bd82:
