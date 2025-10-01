@@ -2338,7 +2338,7 @@ translate spanish d4_e400c056:
 translate spanish d4_10d2fbe0:
 
     # "It seems like he's selling rice balls."
-    "Parece que vende bolas de arroz."
+    "Parece que vende algo como bolitas de arroz."
 
 # game/d4.rpy:799
 translate spanish d4_9b727d9e:
@@ -2380,7 +2380,7 @@ translate spanish d4_e04ab41e:
 translate spanish d4_862839a0:
 
     # "Intern" "\"Okay!{w=0.5} That'll be 4 dollars please!\""
-    "Becario" "\"¡Vale!{w=0.5} ¡Serán 4 dólares, por favor!\""
+    "Becario" "\"¡Vale!{w=0.5} ¡Serán 4 euros, por favor!\""
 
 # game/d4.rpy:807
 translate spanish d4_08ad240c:
@@ -2422,7 +2422,7 @@ translate spanish d4_4c85d272:
 translate spanish d4_dbb9c445:
 
     # "Intern" "Have fun with the rest of the festival you two!"
-    "Intern" "¡Que se diviertan con el resto del festival!"
+    "Becario" "¡Que se diviertan con el resto del festival!"
 
 # game/d4.rpy:815
 translate spanish d4_8ca8b46b:
@@ -2452,13 +2452,13 @@ translate spanish d4_6651ab87:
 translate spanish d4_4fc4bf20:
 
     # "Slowly walking towards the gym, we munch on our onigiris."
-    "Caminando lentamente hacia el gimnasio, masticamos nuestros onigiris."
+    "Caminando lentamente hacia el gimnasio, comemos nuestros onigiris."
 
 # game/d4.rpy:824
 translate spanish d4_c0015c87:
 
     # "Walking down the hallway, I notice a few of the girls from the baton club make their way down to the gym too."
-    "Caminando por el pasillo, me doy cuenta de que algunas de las chicas del club de bastones también se dirigen al gimnasio."
+    "Yendo por el pasillo, me doy cuenta de que algunas de las chicas del club de bastones también se dirigen al gimnasio."
 
 # game/d4.rpy:825
 translate spanish d4_cb30f9bd:
@@ -2572,7 +2572,7 @@ translate spanish d4_10dee4ef:
 translate spanish d4_a6deffd5:
 
     # m "Mhm~"
-    m "Mhm."
+    m "Mmm."
 
 # game/d4.rpy:851
 translate spanish d4_50df6753:
@@ -2584,7 +2584,7 @@ translate spanish d4_50df6753:
 translate spanish d4_e2d67271:
 
     # m "Ooh!"
-    m "¡Uh!"
+    m "¡Oh!"
 
 # game/d4.rpy:853
 translate spanish d4_cafb3d55:
@@ -2734,7 +2734,7 @@ translate spanish d4_3a434459:
 translate spanish d4_8f101479:
 
     # m 1b "Ooh~!"
-    m 1b "¡Uh!"
+    m 1b "¡Uy!"
 
 # game/d4.rpy:881
 translate spanish d4_c212a31d:
@@ -2764,13 +2764,13 @@ translate spanish d4_25b142ab:
 translate spanish d4_1f384ef6:
 
     # mc "Haha~ As you wish."
-    mc "Ja, ja. Como desees."
+    mc "Ja, ja. Como usted diga, mi reina."
 
 # game/d4.rpy:888
 translate spanish d4_5141f001:
 
     # m 1j "Ufufu~"
-    m 1j "Ufufu."
+    m 1j "Ju, ju, ju."
 
 # game/d4.rpy:892
 translate spanish d4_bcea609a:
@@ -2782,7 +2782,7 @@ translate spanish d4_bcea609a:
 translate spanish d4_19631841:
 
     # m 1b "I think...let me check..."
-    m 1b "Creo... déjame ver..."
+    m 1b "Creo que... déjame ver..."
 
 # game/d4.rpy:894
 translate spanish d4_3baa0bbc:
@@ -2890,7 +2890,7 @@ translate spanish d4_1ccafbbd:
 translate spanish d4_1dbbfbd1_1:
 
     # m "Yeah."
-    m "Sí."
+    m "Síp."
 
 # game/d4.rpy:919
 translate spanish d4_39eb6e3d:
@@ -2920,7 +2920,7 @@ translate spanish d4_44d17c12:
 translate spanish d4_912606f9:
 
     # m "Yep!"
-    m "¡Sí!"
+    m "¡Síp!"
 
 # game/d4.rpy:924
 translate spanish d4_2463c708:
@@ -2968,7 +2968,7 @@ translate spanish d4_58de8faf:
 translate spanish d4_f30a6005:
 
     # "Not bad."
-    "No está mal."
+    "No está nada mal."
 
 # game/d4.rpy:936
 translate spanish d4_c8e0cef4:
@@ -2980,13 +2980,13 @@ translate spanish d4_c8e0cef4:
 translate spanish d4_cf1adef2:
 
     # mc "Yeah."
-    mc "Sí."
+    mc "¿Con mis ojos?."
 
 # game/d4.rpy:939
 translate spanish d4_a20cefa7_4:
 
     # "..."
-    "..."
+    m "..."
 
 # game/d4.rpy:940
 translate spanish d4_068a3394:
@@ -3046,7 +3046,7 @@ translate spanish d4_9ffbe5fb:
 translate spanish d4_9be31396:
 
     # m 1l "...I forgot the name of it!"
-    m 1l "... ¡Se me ha olvidado el nombre!"
+    m 1l "¡Se me ha olvidado el nombre!"
 
 # game/d4.rpy:953
 translate spanish d4_698d7569:
@@ -3082,7 +3082,7 @@ translate spanish d4_b4b29195:
 translate spanish d4_a0241f40:
 
     # mc "Fair."
-    mc "Justo."
+    mc "Eso."
 
 # game/d4.rpy:960
 translate spanish d4_a660677d:
