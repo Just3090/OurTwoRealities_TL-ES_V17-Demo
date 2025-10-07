@@ -3154,7 +3154,7 @@ translate spanish d4_5c14dde5:
 translate spanish d4_161c4382:
 
     # "We retake our spot on the bleachers, and Monika leans up against me."
-    "Volvemos a nuestro sitio en las gradas y Monika se apoya en mí."
+    "Vamos a nuestro sitio en las gradas y Monika se apoya en mí."
 
 # game/d4.rpy:977
 translate spanish d4_e99a300c:
@@ -3352,7 +3352,7 @@ translate spanish d4_d3b97831:
 translate spanish d4_2c5de2e7:
 
     # "They also bring out some large mats."
-    "También sacan unas colchonetas grandes."
+    "También sacan unas colchonetas."
 
 # game/d4.rpy:1013
 translate spanish d4_f8fd044f:
@@ -3514,7 +3514,7 @@ translate spanish d4_3720bd63:
 translate spanish d4_0e977fa9:
 
     # mc "...Probably."
-    mc "... Probablemente."
+    mc "Probablemente..."
 
 # game/d4.rpy:1056
 translate spanish d4_cc1ec48a:
@@ -3640,25 +3640,30 @@ translate spanish d4_c4fa18cd:
 translate spanish d4_c5f54f9c:
 
     # p "Ack-!"
-    p "¡Ack-!"
+    p "¡Ahh...!"
+    p "POR EL PODER QUE ME CONCEDE EL IMPERIO DE ESTA NACIÓN."
+    p "¡JURO EN MI HONOR LA VENGANZA TOTAL DEL SOLDADO Y DE MI HERMANO CAÍDO!"
+    p "¡ESTUDIANTES!"
+    p "Unidos."
 
 # game/d4.rpy:1082
 translate spanish d4_db435c33:
 
     # "I notice as I hear the voice of MC as he goes down in the flames of battle."
-    "Me doy cuenta al oír la voz de MC mientras cae en las llamas de la batalla."
+    "Me doy cuenta de oír la voz de MC mientras cae en las llamas de la batalla."
 
 # game/d4.rpy:1083
 translate spanish d4_2cc63066:
 
     # "Guy" "We're being outgunned!"
-    "Chico" "¡Nos superan en número!"
+    "Chaval 1" "¡Nos superan en número!"
+    "Chaval 1" "¡Necesitamos más munición!"
 
 # game/d4.rpy:1084
 translate spanish d4_f2e2ee05:
 
     # "Dude" "C'mon guys, we got this, don't fall back now!"
-    "Tío" "¡Vamos, chicos, podemos con esto, no os echéis atrás ahora!"
+    "Chaval 2" "¡Vamos, chicos, podemos con esto, no os echéis atrás ahora!"
 
 # game/d4.rpy:1085
 translate spanish d4_fdd4a6c9:
@@ -4090,13 +4095,13 @@ translate spanish d4_ade21bf4:
 translate spanish d4_df51626d:
 
     # "Dude" "WOOOOOOOOO!!!"
-    "Tío" "¡¡¡WOOO!!!"
+    "Hermano de armas" "¡¡¡WOOO!!!"
 
 # game/d4.rpy:1211
 translate spanish d4_61565712:
 
     # "Dude" "LES GOOOO!!!"
-    "Tío" "¡¡¡VAMOOOS!!!"
+    "Hermano de armas" "¡¡¡VAMOOOS!!!"
 
 # game/d4.rpy:1212
 translate spanish d4_f60d9d9d:
@@ -4126,7 +4131,7 @@ translate spanish d4_daaf7166:
 translate spanish d4_0928de25:
 
     # "She looks at me as I prepare to throw the ball at her."
-    "Me mira mientras me preparo para lanzarle el balón."
+    "me mira mientras me preparo para lanzarle el balón."
 
 # game/d4.rpy:1225
 translate spanish d4_a4a1f01a:
@@ -4348,7 +4353,7 @@ translate spanish dodgelose_53d9fe64:
 translate spanish dodgelose_b3235b53:
 
     # "As I notice our team's numbers starting to dwindle, I realize the girls side is also running low."
-    "A medida que me doy cuenta de que el número de nuestro equipo empieza a disminuir, me doy cuenta de que el lado de las chicas también se está quedando sin gente."
+    "A medida que me doy cuenta de que el número de nuestro equipo empieza a disminuir, de que el lado de las chicas también se está quedando sin gente."
 
 # game/d4.rpy:1292
 translate spanish dodgelose_a2ea155f:
@@ -4414,7 +4419,7 @@ translate spanish dodgeend_f7b6394c:
 translate spanish dodgeend_6bc4bb72:
 
     # "I walk back to where Monika and I left our things, somewhat smug in our team's victory."
-    "Vuelvo a donde Monika y yo dejamos nuestras cosas, un tanto engreído por la victoria de nuestro equipo."
+    "Vuelvo a donde habíamos dejamos nuestras cosas, un tanto engreído por la victoria de nuestro equipo."
 
 # game/d4.rpy:1320
 translate spanish dodgeend_02846eed:
@@ -4504,7 +4509,7 @@ translate spanish dodgeend_0db310ca:
 translate spanish dodgeend_b2f28b3c:
 
     # "I walk back to where Monika and I left our things, with that feeling of defeat."
-    "Vuelvo a donde Monika y yo dejamos nuestras cosas, con esa sensación de derrota."
+    "Vuelvo a donde habíamos dejamos nuestras cosas, con esa sensación de derrota."
 
 # game/d4.rpy:1339
 translate spanish dodgeend_f1c86625:
@@ -4792,7 +4797,7 @@ translate spanish exitgym_fb6731e9:
 translate spanish exitgym_90bf9e05:
 
     # m 1d "...I think."
-    m 1d "... creo."
+    m 1d "Eso creo..."
 
 # game/d4.rpy:1410
 translate spanish exitgym_16ba370a:
@@ -4888,13 +4893,13 @@ translate spanish exitgym_66cdd64f:
 translate spanish exitgym_4598fd58:
 
     # m 1b "Yeah, she's Sayori's friend I was talking about."
-    m 1b "Sí, es la amiga de Sayori de la que te hablaba."
+    m 1b "Síp, es la amiga de Sayori de la que te hablaba."
 
 # game/d4.rpy:1433
 translate spanish exitgym_ad1eaa57:
 
     # mc "Huh."
-    mc "Eh."
+    mc "Ya."
 
 # game/d4.rpy:1434
 translate spanish exitgym_591de00e:
@@ -4924,7 +4929,7 @@ translate spanish exitgym_1a63c6f0:
 translate spanish exitgym_8159b553:
 
     # "Actually,{w=0.5} not one fire pit."
-    "En realidad,{w=0.5} no es una hoguera."
+    "En realidad,{w=0.5} no es solo una."
 
 # game/d4.rpy:1442
 translate spanish exitgym_ce58b43b:
@@ -4954,7 +4959,7 @@ translate spanish exitgym_3d9e6ca8:
 translate spanish exitgym_c897c4fc:
 
     # "We sit for another few minutes until five minutes before the event starts."
-    "Nos sentamos unos minutos más hasta cinco minutos antes de que empiece el evento."
+    "Nos sentamos un rato hasta que empiece el evento."
 
 # game/d4.rpy:1447
 translate spanish exitgym_b03c23ff:
@@ -4990,13 +4995,13 @@ translate spanish exitgym_13261d85:
 translate spanish exitgym_27b5b9d4:
 
     # "Girl 2" "\"Ooh!{w=0.5} Our first customers!\""
-    "Chica 2" "\"¡Uh!{w=0.5} ¡Nuestros primeros clientes!\""
+    "Chica 2" "\"¡Uy!{w=0.5} ¡Nuestros primeros clientes!\""
 
 # game/d4.rpy:1453
 translate spanish exitgym_e8663bc5:
 
     # "Girl 3" "\"Hiii!\""
-    "Chica 3" "\"¡Holis!\""
+    "Chica 3" "\"¡Holiwis!\""
 
 # game/d4.rpy:1454
 translate spanish exitgym_9dd77b75:
@@ -5020,7 +5025,7 @@ translate spanish exitgym_e4d242c6:
 translate spanish exitgym_018c8750:
 
     # "I take out my wallet, and hand her a dollar."
-    "Saco mi cartera y le doy un dólar."
+    "Saco mi cartera y le doy un euro."
 
 # game/d4.rpy:1458
 translate spanish exitgym_13df307d:
@@ -5200,7 +5205,7 @@ translate spanish exitgym_511d4c90:
 translate spanish exitgym_ab3bfbe5:
 
     # m 1d "Yeah I think they are."
-    m 1d "Sí, creo que sí."
+    m 1d "Síp, creo que sí."
 
 # game/d4.rpy:1496
 translate spanish exitgym_eac6c714:
@@ -5440,7 +5445,7 @@ translate spanish exitgym_06f870ef:
 translate spanish exitgym_594b2167:
 
     # "Waitress" "\"Ask away!\""
-    "Waitress" "\"¡Dispara!\""
+    "Waitress" "\"Sí, digame.\""
 
 # game/d4.rpy:1549
 translate spanish exitgym_b710ca19:
@@ -5506,7 +5511,7 @@ translate spanish exitgym_94443ab2:
 translate spanish exitgym_20d8621e:
 
     # m forward lpoint rdown vsur cm oe "Ooh! These are good!"
-    m forward lpoint rdown vsur cm oe "¡Oh! ¡Están buenos!"
+    m forward lpoint rdown vsur cm oe "¡Uy! ¡Están buenos!"
 
 # game/d4.rpy:1560
 translate spanish exitgym_76aaeb71:
@@ -5530,7 +5535,7 @@ translate spanish exitgym_04da9b66:
 translate spanish exitgym_c6ad638e:
 
     # "Waitress" "\"That'll be 6 dollars.\""
-    "Waitress" "\"Serán 6 dólares.\""
+    "Waitress" "\"Serán 6 euros.\""
 
 # game/d4.rpy:1565
 translate spanish exitgym_7a7f7d2b:
@@ -5542,7 +5547,7 @@ translate spanish exitgym_7a7f7d2b:
 translate spanish exitgym_b72e2764:
 
     # "Waitress" "\"Thank you! And please come again!\""
-    "Waitress" "\"¡Gracias! ¡Y vuelvan pronto!\""
+    "Waitress" "\"¡Gracias! ¡Vuelvan pronto!\""
 
 # game/d4.rpy:1567
 translate spanish exitgym_3eedc7bd:
@@ -5578,7 +5583,7 @@ translate spanish exitgym_03977ea9:
 translate spanish exitgym_bd04f596:
 
     # "However, with our class doing nothing, we are stuck with roaming the school for an hour."
-    "Sin embargo, como nuestra clase no hace nada, nos quedamos deambulando por el instituto durante una hora."
+    "Sin embargo, como nuestra clase no hace nada, nos quedamos deambulando por el instituto durante una hora más."
 
 # game/d4.rpy:1578
 translate spanish exitgym_a0cc7bc2:
@@ -5608,7 +5613,7 @@ translate spanish exitgym_287d8d3c:
 translate spanish exitgym_4821f615:
 
     # "I find a nice bench in the shade, and we take a seat together."
-    "Encuentro un bonito banco a la sombra y nos sentamos juntos."
+    "Encuentro un bonito banco a la sombra y nos sentamos."
 
 # game/d4.rpy:1586
 translate spanish exitgym_1c51db45:
@@ -5692,7 +5697,7 @@ translate spanish exitgym_878277ae:
 translate spanish exitgym_c375c315:
 
     # mc "Wanna walk for a bit around the school again?"
-    mc "¿Quieres que demos otra vuelta por el instituto?"
+    mc "¿Quieres que demos otra vuelta por el insti?"
 
 # game/d4.rpy:1603
 translate spanish exitgym_78e9fe99:
@@ -5722,7 +5727,7 @@ translate spanish exitgym_5352325e:
 translate spanish exitgym_5a26a991:
 
     # mc "Yeah. If I remember last year's festival, there were a bunch of food stalls too."
-    mc "Sí. Si no recuerdo mal el festival del año pasado, también había un montón de puestos de comida."
+    mc "Sí. Si no recuerdo mal, en el festival del año pasado también había un montón de puestos de comida."
 
 # game/d4.rpy:1613
 translate spanish exitgym_aadbc56e:
@@ -5734,7 +5739,7 @@ translate spanish exitgym_aadbc56e:
 translate spanish exitgym_b57449b6:
 
     # m 3k "Yep!"
-    m 3k "¡Sí!"
+    m 3k "¡Síp!"
 
 # game/d4.rpy:1615
 translate spanish exitgym_60007fd8:
@@ -5800,7 +5805,7 @@ translate spanish exitgym_7c7d2adf:
 translate spanish exitgym_d55ae269:
 
     # mc "Yep!"
-    mc "¡Sí!"
+    mc "¡Síp!"
 
 # game/d4.rpy:1633
 translate spanish exitgym_9b5d9112:
@@ -5824,7 +5829,7 @@ translate spanish exitgym_c2b8e074:
 translate spanish exitgym_dd0871bc:
 
     # "Waitress" "\"Oh! Hello again!\""
-    "Waitress" "\"¡Oh! ¡Hola de nuevo!\""
+    "Camarera" "\"¡Oh! ¡Hola de nuevo!\""
 
 # game/d4.rpy:1640
 translate spanish exitgym_bccee601:
@@ -5842,7 +5847,7 @@ translate spanish exitgym_9f7f658c:
 translate spanish exitgym_87a979e4:
 
     # m 1b "Yep!"
-    m 1b "¡Sí!"
+    m 1b "¡Síp!"
 
 # game/d4.rpy:1644
 translate spanish exitgym_f00a0160:
