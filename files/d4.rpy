@@ -5943,7 +5943,7 @@ translate spanish exitgym_eb155ce4:
 translate spanish exitgym_1af78fb4:
 
     # n "YOU CALL THIS A SANDWICH?"
-    n "¿A ESTO LE LLAMAS TÚ UN SÁNDWICH?"
+    n "¿A ESTO LE LLAMAS TÚ UN 'SÁNDWICH'?"
 
 # game/d4.rpy:1667
 translate spanish exitgym_8f91eb8c:
@@ -5979,7 +5979,7 @@ translate spanish exitgym_d059b857:
 translate spanish exitgym_62d51011:
 
     # n "Okay! NOW GO BACK THERE AND FIX YOUR MESS!"
-    n "¡Vale! ¡AHORA VUELVE AHÍ Y ARREGLA TU DESASTRE!"
+    n "¡Vale! ¡AHORA VUELVE AHÍ Y ARREGLA TU PUTO DESASTRE!"
 
 # game/d4.rpy:1673
 translate spanish exitgym_46c8b684:
@@ -6051,7 +6051,7 @@ translate spanish exitgym_d5adea67:
 translate spanish exitgym_912606f9:
 
     # m "Yep!"
-    m "¡Sí!"
+    m "¡Síp!"
 
 # game/d4.rpy:1692
 translate spanish exitgym_8c6dc446:
@@ -6069,7 +6069,7 @@ translate spanish exitgym_9e381e39:
 translate spanish exitgym_859e212d:
 
     # n 5bd "Enjoy your food!"
-    n 5bd "¡Que aproveche!"
+    n 5bd "¡Buen provecho!"
 
 # game/d4.rpy:1697
 translate spanish exitgym_cfb2761c:
@@ -6135,7 +6135,7 @@ translate spanish exitgym_fdc49a2f:
 translate spanish exitgym_a6deffd5:
 
     # m "Mhm~"
-    m "Mhm."
+    m "Mmm."
 
 # game/d4.rpy:1715
 translate spanish exitgym_5340584f:
@@ -6147,7 +6147,7 @@ translate spanish exitgym_5340584f:
 translate spanish exitgym_745328fc:
 
     # n "Tsk... You two..."
-    n "Tsk... Vosotros dos..."
+    n "Joder... Vosotros dos..."
 
 # game/d4.rpy:1718
 translate spanish exitgym_a2761acd:
@@ -6291,7 +6291,7 @@ translate spanish exitgym_e0a261bf:
 translate spanish exitgym_fcc8523f:
 
     # m 1k "Mhm! Leave it to Nats to cook up something as good as this."
-    m 1k "¡Mhm! Déjale a Nats cocinar algo tan bueno como esto."
+    m 1k "¡Mmm! Déjale a Nats cocinar algo tan bueno como esto."
 
 # game/d4.rpy:1754
 translate spanish exitgym_7f484429:
@@ -6375,7 +6375,7 @@ translate spanish exitgym_d55ae269_1:
 translate spanish exitgym_f2d15e59:
 
     # "Student" "\"Okay, right through the door please!\""
-    "Estudiante" "\"¡Vale, por la puerta, por favor!\""
+    "Estudiante" "\"¡Vale, por la de la derecha, por favor!\""
 
 # game/d4.rpy:1776
 translate spanish exitgym_e9721ff3_1:
@@ -6417,7 +6417,7 @@ translate spanish exitgym_80dda983:
 translate spanish exitgym_9bbb7f9a:
 
     # "Narrator" "\"Uhuhu... this should be fun...\""
-    "Narrador" "\"Uhuhu... esto será divertido...\""
+    "Narrador" "\"Ju, ju, ju... esto será divertido...\""
 
 # game/d4.rpy:1787
 translate spanish exitgym_eca4c014:
@@ -6429,7 +6429,7 @@ translate spanish exitgym_eca4c014:
 translate spanish exitgym_a8f10470:
 
     # "Narrator" "\"...In the Midnight Zone.\""
-    "Narrador" "\"... En la Zona de Medianoche.\""
+    "Narrador" "\"En la Zona de Medianoche.\""
 
 # game/d4.rpy:1789
 translate spanish exitgym_8d60866a:
