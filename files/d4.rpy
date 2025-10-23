@@ -6549,7 +6549,7 @@ translate spanish exitgym_1ea039e8:
 translate spanish exitgym_2371dd43:
 
     # "Skeleton" "\"Raaagh!\""
-    "Esqueleto" "\"¡Raaagh!\""
+    "Esqueleto" "\"¡Raaarrr!\""
 
 # game/d4.rpy:1815
 translate spanish exitgym_a8000a6f:
@@ -6597,7 +6597,7 @@ translate spanish exitgym_346c6e1d:
 translate spanish exitgym_a15414a9:
 
     # "...It's eating the flesh of another student."
-    "... Se está comiendo la carne de otro estudiante."
+    "Se está comiendo la carne de otro estudiante."
 
 # game/d4.rpy:1823
 translate spanish exitgym_dc308a42:
@@ -6747,7 +6747,7 @@ translate spanish exitgym_73ba5d30:
 translate spanish exitgym_1bc31e38:
 
     # "???" "\"HISSSSSSSSS\""
-    "???" "\"HISSSSSSSSS\""
+    "???" "\"JE, JE, JE...\""
 
 # game/d4.rpy:1852
 translate spanish exitgym_86f91d2d:
@@ -6765,7 +6765,7 @@ translate spanish exitgym_c90b7e85:
 translate spanish exitgym_335ee38b:
 
     # "???" "\"Hiss..*cough* hahaha!\""
-    "???" "\"Siseo... *cof* ¡ja, ja, ja!\""
+    "???" "\"Je, je, je... *cof* ¡ja, ja, ja!\""
 
 # game/d4.rpy:1859
 translate spanish exitgym_c48ce5cb:
@@ -6891,7 +6891,7 @@ translate spanish exitgym_acd7c90a:
 translate spanish exitgym_ae6ef4a6:
 
     # m forward ldown rdown neut mb e4a b1b "Yeah..."
-    m forward ldown rdown neut mb e4a b1b "Sí..."
+    m forward ldown rdown neut mb e4a b1b "Síp..."
 
 # game/d4.rpy:1895
 translate spanish exitgym_18d11308:
@@ -7137,7 +7137,7 @@ translate spanish exitgym_c9322013:
 translate spanish exitgym_fe7eefd5:
 
     # "Student" "Here you go! That'll be 3 dollars please!"
-    "Estudiante" "¡Aquí tienes! ¡Serán 3 dólares, por favor!"
+    "Estudiante" "¡Aquí tienes! ¡Serán 3 euros, por favor!"
 
 # game/d4.rpy:1971
 translate spanish exitgym_08ad240c:
@@ -7245,7 +7245,7 @@ translate spanish exitgym_84233fa6:
 translate spanish exitgym_7d98ce62:
 
     # "We eat the takoyaki, and are thoroughly satisfied."
-    "Nos comemos el takoyaki y quedamos completamente satisfechos."
+    "Nos comemos el resto y quedamos completamente satisfechos."
 
 # game/d4.rpy:1997
 translate spanish exitgym_e7497eb0:
@@ -7263,7 +7263,7 @@ translate spanish exitgym_ef9f88bb:
 translate spanish exitgym_f646028b:
 
     # m "The concerts don't start for another hour, so we have some time to kill..."
-    m "Los conciertos no empiezan hasta dentro de una hora, así que tenemos tiempo que matar..."
+    m "Los conciertos no empiezan hasta dentro de una hora, así que tenemos tiempo para usar..."
 
 # game/d4.rpy:2002
 translate spanish exitgym_f294cf9f:
@@ -7281,7 +7281,7 @@ translate spanish exitgym_743df557:
 translate spanish exitgym_ae2de021:
 
     # s "Haah{w=0.5}...haah.."
-    s "Jaaj{w=0.5}... jaaj..."
+    s "Ja{w=0.5}... ja..."
 
 # game/d4.rpy:2011
 translate spanish exitgym_e81ac283:
@@ -7377,7 +7377,7 @@ translate spanish exitgym_7ec20641:
 translate spanish exitgym_56ca4b2e:
 
     # s "Mhm!"
-    s "¡Mhm!"
+    s "¡Mmm!"
 
 # game/d4.rpy:2045
 translate spanish exitgym_11d6288e:
@@ -7491,7 +7491,7 @@ translate spanish exitgym_a20cefa7_1:
 translate spanish exitgym_c3871ef4:
 
     # "What a bargain!"
-    "¡Qué ganga!"
+    "¡Qué ofertón!"
 
 # game/d4.rpy:2078
 translate spanish exitgym_11955314:
@@ -7503,7 +7503,7 @@ translate spanish exitgym_11955314:
 translate spanish exitgym_eb5c6ba4:
 
     # "My wallet breathes a huge sigh of relief."
-    "Mi cartera respira un gran suspiro de alivio."
+    "Mi cartera da un gran suspiro de alivio."
 
 # game/d4.rpy:2080
 translate spanish exitgym_00990c6f:
@@ -7653,7 +7653,7 @@ translate spanish exitgym_63ba6681:
 translate spanish exitgym_ed533af2:
 
     # "Student" "\"Okay! The entrance fee is 1 dollar per person.\""
-    "Estudiante" "\"¡Vale! La entrada cuesta 1 dólar por persona.\""
+    "Estudiante" "\"¡Vale! La entrada cuesta 1 euro por persona.\""
 
 # game/d4.rpy:2123
 translate spanish exitgym_08ad240c_1:
@@ -7743,7 +7743,7 @@ translate spanish exitgym_794b8fec:
 translate spanish exitgym_c5bb496d:
 
     # "Conductor" "\"For our first song we will perform the main theme of {i}\"GATE, and thus the JSDF fought there.\"{/i}.\""
-    "Director" "\"Para nuestra primera canción interpretaremos el tema principal de 'GATE, y así las JSDF lucharon allí'.\""
+    "Director" "\"Para nuestra primera canción interpretaremos el tema principal de '{i}GATE, and thus the JSDF fought there.{/i}'\""
 
 # game/d4.rpy:2142
 translate spanish exitgym_605a648b:
@@ -7851,7 +7851,7 @@ translate spanish exitgym_388f8cb0:
 translate spanish exitgym_f29ec7c1:
 
     # "Lead Guitarist" "\"We started the Light Music Club with our goal set on the Music Festival.\""
-    "Guitarrista Principal" "\"Empezamos el Club de Música Ligera con nuestro objetivo puesto en el Festival de Música.\""
+    "Guitarrista Principal" "\"Empezamos el Club con nuestro objetivo puesto en el Festival de Música.\""
 
 # game/d4.rpy:2164
 translate spanish exitgym_0a0825f3:
@@ -7875,7 +7875,7 @@ translate spanish exitgym_5b567a6d:
 translate spanish exitgym_4039c597:
 
     # "Lead Guitarist" "\"Then we even had a freshman who wanted to join us!\""
-    "Guitarrista Principal" "\"¡Luego incluso tuvimos a una alumna de primer año que quiso unirse a nosotras!\""
+    "Guitarrista Principal" "\"¡Luego incluso tuvimos a una alumna de primer año que quiso unirse a nosotros!\""
 
 # game/d4.rpy:2168
 translate spanish exitgym_217c9478:
@@ -7917,13 +7917,13 @@ translate spanish exitgym_4aa8ce31:
 translate spanish exitgym_384854bc:
 
     # "Lead Guitarist" "\"When I look at you, my heart always goes thump-thump\""
-    "Guitarrista Principal" "\"Cuando te miro, mi corazón siempre hace pum-pum\""
+    "Guitarrista Principal" "\"{i}Cuando te miro, mi corazón siempre hace pum-pum{/i}\""
 
 # game/d4.rpy:2176
 translate spanish exitgym_97ece7f0:
 
     # "Lead Guitarist" "\"This shaking feeling is fluffy-fluffy, like a marshmallow\""
-    "Guitarrista Principal" "\"Esta sensación temblorosa es esponjosa-esponjosa, como un malvavisco\""
+    "Guitarrista Principal" "\"{i}Esta sensación temblorosa es esponjosa-esponjosa, como un malvavisco{/i}\""
 
 # game/d4.rpy:2177
 translate spanish exitgym_26fad739:
@@ -7983,7 +7983,7 @@ translate spanish exitgym_e7cd9864:
 translate spanish exitgym_700a4489:
 
     # "Lead Guitarist" "\"Aww, Alright!\""
-    "Guitarrista Principal" "\"¡Aww, de acuerdo!\""
+    "Guitarrista Principal" "\"¡Ayyy, de acuerdo!\""
 
 # game/d4.rpy:2193
 translate spanish exitgym_0bbb7a9f:
@@ -8019,7 +8019,7 @@ translate spanish exitgym_fb1f1649:
 translate spanish exitgym_85a5c037:
 
     # m "{i}*cough*{/i} Like one particular debate club..."
-    m "*Cof, cof*. Como cierto club de debate..."
+    m "*Cof, cof*. No como cierto club de debate..."
 
 # game/d4.rpy:2199
 translate spanish exitgym_88317c2f:
@@ -8049,7 +8049,7 @@ translate spanish exitgym_f85bf491:
 translate spanish exitgym_842ef1bb:
 
     # "Lead Singer" "\"Hi!\""
-    "Cantante principal" "¡Hola!"
+    "Cantante principal" "¡Holiwis!"
 
 # game/d4.rpy:2205
 translate spanish exitgym_165438d5:
@@ -8241,7 +8241,7 @@ translate spanish exitgym_cd53e6dd:
 translate spanish exitgym_9cd3d89a:
 
     # m 1j "Mhm~!"
-    m 1j "¡Mhm!"
+    m 1j "¡Síp!"
 
 # game/d4.rpy:2254
 translate spanish exitgym_5329f902:
@@ -8319,7 +8319,7 @@ translate spanish exitgym_51731925:
 translate spanish exitgym_912606f9_1:
 
     # m "Yep!"
-    m "¡Sip!"
+    m "¡Síp!"
 
 # game/d4.rpy:2270
 translate spanish exitgym_0b3237a2:
@@ -8343,13 +8343,13 @@ translate spanish exitgym_d3107ef6:
 translate spanish exitgym_f51ddee8:
 
     # m "...I just want to have you for myself during the dance."
-    m "... Solo quiero tenerte para mí durante el baile."
+    m "Solo quiero tenerte para mí durante el baile."
 
 # game/d4.rpy:2274
 translate spanish exitgym_606e2d02_1:
 
     # mc "Sure."
-    mc "Claro."
+    mc "Vale, venga."
 
 # game/d4.rpy:2275
 translate spanish exitgym_af5fb03e:
@@ -8385,7 +8385,7 @@ translate spanish exitgym_6e9e85aa:
 translate spanish exitgym_49b165d0:
 
     # "We watch as the stack begins to burn, forming a large cone of fire coming from the top."
-    "Observamos cómo la pila empieza a arder, formando un gran cono de fuego que sale de la parte superior."
+    "Observamos cómo empieza a arder, formando un gran cono de fuego que sale de la parte superior."
 
 # game/d4.rpy:2281
 translate spanish exitgym_737bae24:
@@ -8415,7 +8415,7 @@ translate spanish exitgym_bdcba925:
 translate spanish exitgym_07b55d75:
 
     # m "Let's go, [player]~"
-    m "Vamos, ¡[player]!"
+    m "Venga, ¡[player]!"
 
 # game/d4.rpy:2287
 translate spanish exitgym_96c33365:
@@ -8673,7 +8673,7 @@ translate spanish exitgym_9c6123fa:
 translate spanish exitgym_762a56ca:
 
     # m "Mhm~!"
-    m "¡Mhm!"
+    m "¡Yep!"
 
 # game/d4.rpy:2365
 translate spanish exitgym_0804ba58:
@@ -8727,7 +8727,7 @@ translate spanish exitgym_11663bc7:
 translate spanish exitgym_5ce09775:
 
     # mc "Mhm."
-    mc "Mhm."
+    mc "Ha sido un buen dia..."
 
 # game/d4.rpy:2382
 translate spanish exitgym_56602ff4:
@@ -8811,13 +8811,13 @@ translate spanish exitgym_5ccf44c0:
 translate spanish exitgym_3d3f478e:
 
     # "Monika scrolls through the channels and finds the anime we were watching on Saturday."
-    "Monika hace zapping y encuentra el anime que estábamos viendo el sábado."
+    "Monika busca algo en la televisión y encuentra el anime que estábamos viendo el sábado."
 
 # game/d4.rpy:2403
 translate spanish exitgym_fde69687:
 
     # "I sit down next to Monika."
-    "Me siento al lado de Monika."
+    "Me siento a un lado de ella."
 
 # game/d4.rpy:2404
 translate spanish exitgym_6ce54a70:
@@ -8853,7 +8853,7 @@ translate spanish exitgym_d759bdf2:
 translate spanish exitgym_fd91e7f7:
 
     # "Monika takes a few chips from earlier and stuffs a few in her mouth."
-    "Monika coge unas cuantas patatas de antes y se mete unas pocas en la boca."
+    "Monika coge unas cuantas patatas de antes y se come unas pocas."
 
 # game/d4.rpy:2417
 translate spanish exitgym_2eca2216:
@@ -8883,7 +8883,7 @@ translate spanish exitgym_92d1a582:
 translate spanish exitgym_c8dce198:
 
     # m p_1j "Mhm~"
-    m p_1j "Mhm."
+    m p_1j "De maravilla."
 
 # game/d4.rpy:2425
 translate spanish exitgym_454a2c33:
