@@ -4,7 +4,7 @@
 translate spanish d6_bec713c0:
 
     # "I slowly open my eyes as I wake up."
-    "Abro lentamente los ojos mientras me despierto."
+    "Abro lentamente los ojos mientras me voy despierto."
 
 # game/d6.rpy:14
 translate spanish d6_9f0dedcf:
@@ -16,7 +16,7 @@ translate spanish d6_9f0dedcf:
 translate spanish d6_90075e3c:
 
     # "Oh, she's so cute~"
-    "Oh, es tan linda."
+    "Oh, es tan linda..."
 
 # game/d6.rpy:16
 translate spanish d6_04cb2ffe:
@@ -46,13 +46,13 @@ translate spanish d6_1dd38019:
 translate spanish d6_caf7f531:
 
     # "I slowly get up, trying my best not to wake her up."
-    "Me levanto lentamente, haciendo todo lo posible por no despertarla."
+    "Me levanto cuidadosamente, haciendo todo lo posible por no despertarla."
 
 # game/d6.rpy:23
 translate spanish d6_98e86689:
 
     # "I successfully manage, and head downstairs."
-    "Lo consigo con éxito y bajo las escaleras."
+    "Lo consigo y bajo las escaleras."
 
 # game/d6.rpy:27
 translate spanish d6_c4c3327c:
@@ -190,7 +190,7 @@ translate spanish d6_ccd6fb5e:
 translate spanish d6_67ecc97c:
 
     # "I do the same, and we eat our meal together."
-    "Yo hago lo mismo y comemos juntos."
+    "Yo hago lo mismo y desayunamos juntos."
 
 # game/d6.rpy:55
 translate spanish d6_51367a79:
@@ -220,7 +220,7 @@ translate spanish d6_ed7e45ca:
 translate spanish d6_c8dce198:
 
     # m p_1j "Mhm~"
-    m p_1j "Mhm."
+    m p_1j "Síp."
 
 # game/d6.rpy:61
 translate spanish d6_0d7840da:
@@ -256,7 +256,7 @@ translate spanish d6_821fb8e8:
 translate spanish d6_530dd21b:
 
     # m "Everyone agreed, so we're good to go!"
-    m "¡Todos estuvieron de acuerdo, así que listos!"
+    m "¡Todos estuvieron de acuerdo, así que venga!"
 
 # game/d6.rpy:69
 translate spanish d6_8a48223e:
@@ -322,7 +322,7 @@ translate spanish d6_2355fed8:
 translate spanish d6_c1f358ea:
 
     # m 1b "We're gonna be paying!"
-    m 1b "¡Vamos a pagar nosotras!"
+    m 1b "¡Vamos a pagar nosotros!"
 
 # game/d6.rpy:84
 translate spanish d6_327dd25a:
@@ -388,7 +388,7 @@ translate spanish d6_5c330b3b:
 translate spanish d6_a87a337b:
 
     # mc "Yep."
-    mc "Sip."
+    mc "Vale."
 
 # game/d6.rpy:99
 translate spanish d6_a44c83bc:
@@ -400,7 +400,7 @@ translate spanish d6_a44c83bc:
 translate spanish d6_b0bd12ae:
 
     # m 1j "Mhm~"
-    m 1j "Mhm."
+    m 1j "Síp."
 
 # game/d6.rpy:101
 translate spanish d6_39f23834:
@@ -508,7 +508,7 @@ translate spanish d6_b2a7487a:
 translate spanish d6_f3337617:
 
     # mc "Mhm..."
-    mc "Mhm..."
+    mc "Venga."
 
 # game/d6.rpy:155
 translate spanish d6_262bcda2:
@@ -538,7 +538,7 @@ translate spanish d6_da6699b3:
 translate spanish d6_90d84405:
 
     # n "Yo!"
-    n "¡Oye!"
+    n "¡Epa!"
 
 # game/d6.rpy:173
 translate spanish d6_86a8d800:
@@ -592,7 +592,7 @@ translate spanish d6_3424c3c6:
 translate spanish d6_6c8ab4b6:
 
     # "I lean up against the wall, and space out for a few minutes."
-    "Me apoyo en la pared y me quedo en las nubes unos minutos."
+    "Me apoyo en la pared y me quedo cuestionando la inmortalidad del cangrejo unos minutos..."
 
 Un-Redacted
 # game/d6.rpy:191
@@ -611,7 +611,7 @@ translate spanish d6_667d192c:
 translate spanish d6_9d213565:
 
     # m "Okay,{w=0.5} now that we're all here,{w=0.5} let's get going!"
-    m "Vale,{w=0.5} ahora que estamos todos,{w=0.5} ¡vamos!"
+    m "Vale,{w=0.5} ahora que estamos todos,{w=0.5} ¡vamos yendo!"
 
 # game/d6.rpy:203
 translate spanish d6_99da15ea:
@@ -629,7 +629,7 @@ translate spanish d6_c8beda84:
 translate spanish d6_fe026cc8:
 
     # "We head down the street."
-    "Bajamos por la calle."
+    "Bajamos por la siguiente calle."
 
 # game/d6.rpy:210
 translate spanish d6_582a0642:
@@ -647,7 +647,7 @@ translate spanish d6_1c569dd9:
 translate spanish d6_d5b401fd:
 
     # n "...I think you'd like it."
-    n "... Creo que te gustaría."
+    n "Creo que te gustaría."
 
 # game/d6.rpy:217
 translate spanish d6_64c71053:
@@ -713,7 +713,7 @@ translate spanish d6_be9d32ab:
 translate spanish d6_82c04568:
 
     # p 1w "Last time you pulled something like that your stomach hurt for a full day."
-    p 1w "La última vez que hiciste algo así te dolió el estómago un día entero."
+    p 1w "Que la última vez que hiciste algo así te dolió el estómago un día entero."
 
 # game/d6.rpy:246
 translate spanish d6_fcd73ad7:
@@ -731,7 +731,7 @@ translate spanish d6_525222cd:
 translate spanish d6_5263a3dc:
 
     # s "...a prank I was playing on you!"
-    s "¡... una broma que te estaba gastando!"
+    s "¡Una broma que te estaba gastando!"
 
 # game/d6.rpy:250
 translate spanish d6_93a7ddd5:
@@ -821,7 +821,7 @@ translate spanish d6_a22bbff9:
 translate spanish d6_185bb4eb:
 
     # "Natsuki gets a small coffee, some pastries, and a muffin."
-    "Natsuki pide un café pequeño, unos pastelitos y una magdalena."
+    "Natsuki pide un café, unos pastelitos y una magdalena."
 
 # game/d6.rpy:289
 translate spanish d6_d50da128:
@@ -894,7 +894,7 @@ Un-Redacted
 translate spanish d6p2_3e1c3027:
 
     # "Barista" "\"Your total is $45.79.\""
-    "Barista" "\"El total es 45,79 dólares.\""
+    "Barista" "\"El total es 45 euros con 79.\""
 
 # game/d6.rpy:313
 translate spanish d6p2_4e927a03:
@@ -1081,7 +1081,7 @@ translate spanish d6p2_e0cfbe8a:
 translate spanish d6p2_f88434eb:
 
     # n "Besides, we're only open until 3."
-    n "Además, solo abrimos hasta las 3."
+    n "Además, cerramos las 3."
 
 # game/d6.rpy:369
 translate spanish d6p2_d6a30403:
@@ -1093,7 +1093,7 @@ translate spanish d6p2_d6a30403:
 translate spanish d6p2_7b2803a8:
 
     # n "Also, I'm only letting you have any on one condition."
-    n "Además, solo te dejaré coger si cumples una condición."
+    n "Aunque solo te dejaré ir si cumples una condición."
 
 # game/d6.rpy:372
 translate spanish d6p2_71179f23:
@@ -1111,7 +1111,7 @@ translate spanish d6p2_418437cf:
 translate spanish d6p2_b231fd55:
 
     # n "Pfff, yeah. News comes around fast when something like that happens!"
-    n "Pfff, sí. ¡Las noticias corren rápido cuando pasa algo así!"
+    n "Pufff, sí. ¡Las noticias corren rápido cuando pasa algo así!"
 
 # game/d6.rpy:377
 translate spanish d6p2_71cfcdf0:
@@ -1183,7 +1183,7 @@ translate spanish d6p2_60c6d1a9:
 translate spanish d6p2_db24c613:
 
     # m "I think this concludes today's club meeting."
-    m "Creo que esto concluye la reunión del club de hoy."
+    m "Creo que con esto concluye la reunión del club de hoy."
 
 # game/d6.rpy:397
 translate spanish d6p2_ac6bba2b:
@@ -1249,7 +1249,7 @@ translate spanish d6p2_dc5eb256:
 translate spanish d6p2_2065d093:
 
     # mc "Mhm~"
-    mc "Mhm."
+    mc "Síp."
 
 # game/d6.rpy:418
 translate spanish d6p2_ec346f43:
@@ -1273,7 +1273,7 @@ translate spanish d6p2_01048efa:
 translate spanish d6p2_094637d4:
 
     # m 1e "...just the two of us."
-    m 1e "... solo nosotros dos."
+    m 1e "Solo nosotros dos..."
 
 # game/d6.rpy:423
 translate spanish d6p2_bee72c67:
@@ -1472,7 +1472,7 @@ translate spanish d6p2_1a0c063a:
 translate spanish d6p2_14a96e37:
 
     # m p_1c "Hmm?"
-    m p_1c "¿Mmm?"
+    m p_1c "¿Síp?"
 
 # game/d6.rpy:482
 translate spanish d6p2_38f320d6:
