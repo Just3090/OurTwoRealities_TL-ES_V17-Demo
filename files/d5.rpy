@@ -28,7 +28,7 @@ translate spanish d5_90c09ee9:
 translate spanish d5_cd98033d:
 
     # m forward pj ldown rdown anno om oe "Who is it this early in the morning...?"
-    m forward pj ldown rdown anno om oe "¿Quién es tan temprano...?"
+    m forward pj ldown rdown anno om oe "¿Quién será tan temprano...?"
 
 # game/d5.rpy:19
 translate spanish d5_d9d17723:
@@ -52,13 +52,13 @@ translate spanish d5_79d9a3c5:
 translate spanish d5_ee5c5d90:
 
     # s "Morninggg!"
-    s "¡Bueeenos!"
+    s "¡Bueeenas!"
 
 # game/d5.rpy:30
 translate spanish d5_db67ede6:
 
     # mc "Morning, what's got you two up so early?"
-    mc "Buenos días, ¿qué las trae despiertas tan temprano?"
+    mc "Buenos días, ¿qué los trae despiertos tan temprano?"
 
 # game/d5.rpy:32
 translate spanish d5_75dd373d:
@@ -70,7 +70,7 @@ translate spanish d5_75dd373d:
 translate spanish d5_29a3dda1:
 
     # s 2x "You know the other day when you guys helped us with the pancake incident?"
-    s 2x "¿Sabes que el otro día nos ayudaron con el incidente de los panqueques?"
+    s 2x "¿Sabes que el otro día nos ayudaron con el incidente de las tortitas?"
 
 # game/d5.rpy:34
 translate spanish d5_57236f60:
@@ -82,7 +82,7 @@ translate spanish d5_57236f60:
 translate spanish d5_8ca23027:
 
     # mc "Alright, I'm cool with it."
-    mc "Muy bien, me parece bien."
+    mc "Vale, me parece bien."
 
 # game/d5.rpy:37
 translate spanish d5_72ec90c8:
@@ -94,7 +94,7 @@ translate spanish d5_72ec90c8:
 translate spanish d5_bc38df36:
 
     # s "Yaay! Okay, we'll see you in a bit!"
-    s "¡Yaaay! ¡Vale, nos vemos en un rato!"
+    s "¡Vaaale, nos vemos en un rato!"
 
 # game/d5.rpy:41
 translate spanish d5_0e1bdc7c:
@@ -130,7 +130,7 @@ translate spanish d5_abde6d05:
 translate spanish d5_eae7b540:
 
     # m p_2j "Mhm~"
-    m p_2j "Mhm."
+    m p_2j "Síp."
 
 # game/d5.rpy:54
 translate spanish d5_b3e12a14:
@@ -148,7 +148,7 @@ translate spanish d5_c741a325:
 translate spanish d5_dc0eaaa8:
 
     # "Still though, a peek wouldn't-{nw}"
-    "Aun así, una miradita no vendría mal-{nw}"
+    "Aun así, una miradita no vendría mal...{nw}"
 
 # game/d5.rpy:59
 translate spanish d5_87a85189:
@@ -178,7 +178,7 @@ translate spanish d5_7fb7a4eb:
 translate spanish d5_05018e17:
 
     # "I wait a few minutes for Monika to come down."
-    "Espero unos minutos a que Monika baje."
+    "Espero un momento a que Monika baje."
 
 # game/d5.rpy:67
 translate spanish d5_f2da239a:
@@ -286,13 +286,13 @@ translate spanish d5_5b05b2ea:
 translate spanish d5_9c1d1622:
 
     # s "Ohoho,{w=0.5} let me tell you a story,{w=0.5} Monika!"
-    s "Ohoho,{w=0.5} ¡déjame contarte una historia,{w=0.5} Monika!"
+    s "Pueees,{w=0.5} ¡déjame contarte una historia,{w=0.5} Monika!"
 
 # game/d5.rpy:105
 translate spanish d5_181a78fa:
 
     # s 1c "So we went around for a bit, right?"
-    s 1c "Así que dimos una vuelta por ahí, ¿vale?"
+    s 1c "Pasa que dimos una vuelta por ahí, ¿vale?"
 
 # game/d5.rpy:106
 translate spanish d5_50dcc645:
@@ -316,7 +316,7 @@ translate spanish d5_440e2463:
 translate spanish d5_b647ebd9:
 
     # s turned ldown rdown neut mc e4c b1d "So this idiot opens the door and blurts out the name of the song and the anime it came from."
-    s turned ldown rdown neut mc e4c b1d "Así que este idiota abre la puerta y suelta el nombre de la canción y el anime del que provenía."
+    s turned ldown rdown neut mc e4c b1d "Así que este tonoto abre la puerta y suelta el nombre de la canción y el anime del que provenía."
 
 # game/d5.rpy:110
 translate spanish d5_e60ace5d:
@@ -418,7 +418,7 @@ translate spanish d5_77a326f9:
 translate spanish d5_af61cfd6:
 
     # s "Anyway-"
-    s "Como sea-"
+    s "Como sea..."
 
 # game/d5.rpy:144
 translate spanish d5_94f7a468:
@@ -442,7 +442,7 @@ translate spanish d5_c0f680fe:
 translate spanish d5_56ca4b2e:
 
     # s "Mhm!"
-    s "¡Mhm!"
+    s "¡Ajá!"
 
 # game/d5.rpy:154
 translate spanish d5_e3d1d9e0:
@@ -538,7 +538,7 @@ translate spanish d5_58c7992e:
 translate spanish d5_86d347c9:
 
     # m "See you!"
-    m "¡Nos vemos!"
+    m "¡Hasta al rato!"
 
 # game/d5.rpy:190
 translate spanish d5_9a52359c:
@@ -586,7 +586,7 @@ translate spanish d5_850da547:
 translate spanish d5_87a979e4:
 
     # m 1b "Yep!"
-    m 1b "¡Sí!"
+    m 1b "¡Síp!"
 
 # game/d5.rpy:206
 translate spanish d5_09154442:
@@ -772,7 +772,7 @@ translate spanish d5_93b13dfa:
 translate spanish d5_d949247c:
 
     # "The president opens the door."
-    "La presidenta abre la puerta."
+    "La presidenta me recibe."
 
 # game/d5.rpy:265
 translate spanish d5_df04007c:
@@ -850,7 +850,7 @@ translate spanish d5_d8cefd4f:
 translate spanish d5_90de9c4d:
 
     # m "Okay, everyone!"
-    m "¡Muy bien, todos!"
+    m "¡Vale, compis!"
 
 # game/d5.rpy:282
 translate spanish d5_7312f8ec:
@@ -946,7 +946,7 @@ translate spanish d5_e17ab511:
 translate spanish d5_b0bd12ae:
 
     # m 1j "Mhm~"
-    m 1j "Mhm."
+    m 1j "Síp."
 
 # game/d5.rpy:304
 translate spanish d5_da8e0e21:
@@ -1012,7 +1012,7 @@ translate spanish d5_c465e8bc:
 translate spanish d5_21691517:
 
     # m 1k "Yay!"
-    m 1k "¡Yay!"
+    m 1k "¡Yupi!"
 
 # game/d5.rpy:338
 translate spanish d5_aee34f30:
@@ -1036,7 +1036,7 @@ translate spanish d5_747bf244:
 translate spanish d5_51061c6a:
 
     # s "First pair to your house wins!"
-    s "¡La primera pareja que llegue a tu casa gana!"
+    s "¡La primera pareja que llegue a su casa gana!"
 
 # game/d5.rpy:344
 translate spanish d5_4b54968d:
@@ -1168,7 +1168,7 @@ translate spanish d5_0dff3b0b:
 translate spanish d5_762a56ca:
 
     # m "Mhm~!"
-    m "¡Mhm!"
+    m "¡Ni que lo digas!"
 
 # game/d5.rpy:386
 translate spanish d5_24272f41:
@@ -1372,7 +1372,7 @@ translate spanish d5_aa2296ee:
 translate spanish d5_43e46b11:
 
     # mc "Sure. Thank you!"
-    mc "Claro. ¡Gracias!"
+    mc "Vale. ¡Gracias!"
 
 # game/d5.rpy:440
 translate spanish d5_0f8ff207:
@@ -1408,7 +1408,7 @@ translate spanish d5_3d10f3b8:
 translate spanish d5_3ee7f0d0:
 
     # "I quickly taste the sauce I made for it, and take that off the heat as well."
-    "Pruebo rápidamente la salsa que he hecho y la retiro del fuego también."
+    "Pruebo rápidamente la salsa que he hecho y la quito del fuego también."
 
 # game/d5.rpy:450
 translate spanish d5_04c633bb:
@@ -1480,7 +1480,7 @@ translate spanish d5_fd569900:
 translate spanish d5_72d01f89:
 
     # m p_1k "Just looking around for places which I can spend time with you~"
-    m p_1k "Solo busco lugares donde pueda pasar tiempo contigo."
+    m p_1k "Solo busco lugares donde pueda pasar tiempo contigo..."
 
 # game/d5.rpy:469
 translate spanish d5_d22bdf64:
@@ -1498,7 +1498,7 @@ translate spanish d5_aa0ea51c:
 translate spanish d5_c8dce198:
 
     # m p_1j "Mhm~"
-    m p_1j "Mhm."
+    m p_1j "Síp."
 
 # game/d5.rpy:472
 translate spanish d5_24b993b2:
@@ -1566,7 +1566,6 @@ translate spanish d5_a7f53292:
 
     # "Monika sets down the laptop onto the desk, and hops into bed."
     "Monika deja el portátil en el escritorio y se mete en la cama."
-    "Monika deja el portátil en mi escritorio y se mete en la cama."
 
 # game/d5.rpy:489
 translate spanish d5_7873b9f5:
@@ -1584,7 +1583,7 @@ translate spanish d5_ff6b0671:
 translate spanish d5_cf1adef2:
 
     # mc "Yeah."
-    mc "Sí."
+    mc "Sí..."
 
 # game/d5.rpy:494
 translate spanish d5_7831798d:
@@ -1596,7 +1595,7 @@ translate spanish d5_7831798d:
 translate spanish d5_c800ffb7:
 
     # m "Ufufu~"
-    m "Ufufu."
+    m "Uy, uy, uy..."
 
 # game/d5.rpy:499
 translate spanish d5_5b68fb88:
