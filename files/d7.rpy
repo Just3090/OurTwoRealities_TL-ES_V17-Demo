@@ -52,7 +52,7 @@ translate spanish d7_7afe9304:
 translate spanish d7_606e2d02:
 
     # mc "Sure."
-    mc "Claro."
+    mc "Vale."
 
 # game/d7.rpy:37
 translate spanish d7_d89ae463:
@@ -82,7 +82,7 @@ translate spanish d7_1a0c063a:
 translate spanish d7_878277ae:
 
     # m "Hmm?"
-    m "¿Mmm?"
+    m "¿Sí?"
 
 # game/d7.rpy:46
 translate spanish d7_6b4b0a81:
@@ -124,7 +124,7 @@ translate spanish d7_e4755d00:
 translate spanish d7_47dff735:
 
     # "While Monika finishes up the salad, I set the table for us, and sit down."
-    "Mientras Monika termina la ensalada, pongo la mesa para nosotros y me siento."
+    "Mientras Monika termina, pongo la mesa para nosotros y me siento."
 
 # game/d7.rpy:56
 translate spanish d7_f03a4e0a:
@@ -136,7 +136,7 @@ translate spanish d7_f03a4e0a:
 translate spanish d7_499bb7d7:
 
     # m p_1b "Yeah, it is!"
-    m p_1b "¡Sí, lo está!"
+    m p_1b "¡Síp, lo está!"
 
 # game/d7.rpy:58
 translate spanish d7_b8c88492:
@@ -148,7 +148,7 @@ translate spanish d7_b8c88492:
 translate spanish d7_1446c73a:
 
     # mc "I mean, it's not like it was in the freezer for a week."
-    mc "Quiero decir, no es como si hubiera estado en el congelador una semana."
+    mc "Digo, no es como si hubiera estado en el congelador una semana."
 
 # game/d7.rpy:61
 translate spanish d7_7b1e59a2:
@@ -178,7 +178,7 @@ translate spanish d7_1516edd3:
 translate spanish d7_29df9d77:
 
     # "I change and gather up my supplies."
-    "Me cambio y reúno mis cosas."
+    "Me cambio y ordeno mis cosas."
 
 # game/d7.rpy:70
 translate spanish d7_d2ae0b96:
@@ -190,13 +190,13 @@ translate spanish d7_d2ae0b96:
 translate spanish d7_dd5954f4:
 
     # m "[player], don't forget to bring all your textbooks."
-    m "[player], no olvides traer todos tus libros de texto."
+    m "[player], no olvides traer todos tus libros."
 
 # game/d7.rpy:74
 translate spanish d7_1408eb8b:
 
     # mc "Uhh, okay?"
-    mc "¿Ah, vale?"
+    mc "Ah, ¿vale?"
 
 # game/d7.rpy:75
 translate spanish d7_b77d73e8:
@@ -214,13 +214,13 @@ translate spanish d7_1b3227b2:
 translate spanish d7_f2163670:
 
     # m 1d "Yeah...did you forget?"
-    m 1d "Sí... ¿lo olvidaste?"
+    m 1d "Síp... ¿lo olvidaste?"
 
 # game/d7.rpy:83
 translate spanish d7_95483e91:
 
     # m forward ldown rdown curi om oe "...Yes?"
-    m forward ldown rdown curi om oe "... ¿Sí?"
+    m forward ldown rdown curi om oe "¿Sí...?"
 
 # game/d7.rpy:84
 translate spanish d7_a0053a10:
@@ -400,7 +400,7 @@ translate spanish d7_71e7ced6:
 translate spanish d7_0cc402c5:
 
     # "I quickly slap together a few sandwiches for our lunch."
-    "Preparo rápidamente unos sándwiches para nuestro almuerzo."
+    "Preparo rápidamente unos sándwiches."
 
 # game/d7.rpy:144
 translate spanish d7_85e2076b:
@@ -466,7 +466,7 @@ translate spanish d7_a08c3201:
 translate spanish d7_1dbbfbd1:
 
     # m "Yeah."
-    m "Sí."
+    m "Síp."
 
 # game/d7.rpy:169
 translate spanish d7_88a764fe:
@@ -544,7 +544,7 @@ translate spanish d7_a65e3d89:
 translate spanish d7_19491b53:
 
     # s 5b "Ehehe..."
-    s 5b "E, je, je..."
+    s 5b "Ehhh, je, je..."
 
 # game/d7.rpy:193
 translate spanish d7_59333df5:
@@ -592,7 +592,7 @@ translate spanish d7_839ad7e3:
 translate spanish d7_c4850c5d:
 
     # "Students once again start to speckle the street as we walk."
-    "Los estudiantes comienzan a salpicar la calle de nuevo mientras caminamos."
+    "Los estudiantes comienzan a lennar la calle de nuevo mientras caminamos."
 
 # game/d7.rpy:209
 translate spanish d7_3c9b2a86:
@@ -604,7 +604,7 @@ translate spanish d7_3c9b2a86:
 translate spanish d7_bd3f3bae:
 
     # "We enter the gates, and I check my watch."
-    "Entramos por las puertas y miro mi reloj."
+    "Entramos y miro mi reloj."
 
 # game/d7.rpy:213
 translate spanish d7_c321f7a9:
@@ -616,7 +616,7 @@ translate spanish d7_c321f7a9:
 translate spanish d7_e45e0861:
 
     # "Just on the verge of being late."
-    "Justo a punto de llegar tarde."
+    "A nada de llegar tarde."
 
 # game/d7.rpy:217
 translate spanish d7_abad4abf:
@@ -670,25 +670,25 @@ translate spanish d7_845ed004:
 translate spanish d7_b06af074:
 
     # "Teacher" "Alright, class."
-    "Teacher" "Bien, clase."
+    "Profesor" "Bien, clase."
 
 # game/d7.rpy:234
 translate spanish d7_9c1b3032:
 
     # "Teacher" "Today we're only studying for the finals tomorrow."
-    "Teacher" "Hoy solo vamos a estudiar para los exámenes finales de mañana."
+    "Profesor" "Hoy solo vamos a estudiar para los exámenes finales de mañana."
 
 # game/d7.rpy:235
 translate spanish d7_e940b6f5:
 
     # "Teacher" "So go ahead and take out your books and get started."
-    "Teacher" "Así que saquen sus libros y comiencen."
+    "Profesor" "Así que saquen sus libros y comiencen."
 
 # game/d7.rpy:236
 translate spanish d7_d4215ba8:
 
     # "Teacher" "If you have any questions feel free to ask me."
-    "Teacher" "Si tienen alguna pregunta, no duden en consultarme."
+    "Profesor" "Si tienen alguna pregunta, no duden en consultarme."
 
 # game/d7.rpy:237
 translate spanish d7_396e8ce6:
@@ -832,7 +832,7 @@ translate spanish d7_1bdd8cf3:
 translate spanish d7_fc3002f0:
 
     # m 1k "C'mon!"
-    m 1k "¡Vamos!"
+    m 1k "¡Venga!"
 
 # game/d7.rpy:273
 translate spanish d7_9df27fa3:
@@ -868,7 +868,7 @@ translate spanish d7_a97cb3cd:
 translate spanish d7_e84e725a:
 
     # m "Mmmm~"
-    m "Mmm."
+    m "Mmm..."
 
 # game/d7.rpy:285
 translate spanish d7_124d2c50:
@@ -892,7 +892,7 @@ translate spanish d7_d09a8101:
 translate spanish d7_97fadb23:
 
     # m "Say ahhh~"
-    m "Di ahh."
+    m "Di 'ahhh'."
 
 # game/d7.rpy:293
 translate spanish d7_f3510eeb:
@@ -952,7 +952,7 @@ translate spanish d7_98ac1d23:
 translate spanish d7_c6a1ee6b:
 
     # "I open the door, and step inside with Monika."
-    "Abro la puerta y entro con Monika."
+    "Abro la puerta y entramos."
 
 # game/d7.rpy:318
 translate spanish d7_49d0636c:
@@ -970,7 +970,7 @@ translate spanish d7_1de9ec41:
 translate spanish d7_e4e525ff:
 
     # m 1d "Yeah."
-    m 1d "Sí."
+    m 1d "Síp."
 
 # game/d7.rpy:322
 translate spanish d7_919cd11d:
@@ -994,7 +994,7 @@ translate spanish d7_fadbd5f2:
 translate spanish d7_b0b94599:
 
     # mc "Roger that."
-    mc "Entendido."
+    mc "Vale, venga."
 
 # game/d7.rpy:329
 translate spanish d7_a8268af8:
@@ -1072,7 +1072,7 @@ translate spanish d7_e8ddd149:
 translate spanish d7_0c15bd16:
 
     # p 1d "Oop-{w=0.5} What's going on?"
-    p 1d "Oh-{w=0.5} ¿Qué está pasando?"
+    p 1d "Oh...{w=0.5} ¿Qué está pasando?"
 
 # game/d7.rpy:349
 translate spanish d7_6d4dfe99:
@@ -1096,7 +1096,7 @@ translate spanish d7_54f60a9e:
 translate spanish d7_21c65b4c:
 
     # "It's fairly quiet, with everyone's noses in the books."
-    "Está bastante tranquilo, con todo el mundo metido en los libros."
+    "Está bastante calmado, con todo el mundo metido en los libros."
 
 # game/d7.rpy:359
 translate spanish d7_bc6d0196:
@@ -1126,7 +1126,7 @@ translate spanish d7_72dd7407:
 translate spanish d7_90de9c4d:
 
     # m "Okay, everyone!"
-    m "¡Vale, todo el mundo!"
+    m "¡Vale, compis!"
 
 # game/d7.rpy:365
 translate spanish d7_f125c797:
@@ -1186,7 +1186,7 @@ translate spanish d7_5b71704e:
 translate spanish d7_6abe0dbb:
 
     # n "Got it!"
-    n "¡Entendido!"
+    n "¡Cuenta con ello!"
 
 # game/d7.rpy:379
 translate spanish d7_42a58130:
@@ -1198,7 +1198,7 @@ translate spanish d7_42a58130:
 translate spanish d7_51715cde:
 
     # "Sayo and MC" "Roger!"
-    "Sayo y MC" "¡Entendido!"
+    "Sayo y MC" "¡Vale!"
 
 # game/d7.rpy:382
 translate spanish d7_cff0df47:
@@ -1228,13 +1228,13 @@ translate spanish d7_4388193a:
 translate spanish d7_20318f82:
 
     # m 1b "Okay!{w=0.5} So everyone knows what they're doing, so let's get going!"
-    m 1b "¡Vale!{w=0.5} Ya que todos saben lo que tienen que hacer, ¡manos a la obra!"
+    m 1b "¡Bien!{w=0.5} Ya que todos saben lo que tienen que hacer, ¡manos a la obra!"
 
 # game/d7.rpy:391
 translate spanish d7_aaa9c26a:
 
     # "Everyone" "Right!"
-    "Todos" "¡Entendido!"
+    "Todos" "¡Vale!"
 
 # game/d7.rpy:392
 translate spanish d7_aa1fce44:
@@ -1264,7 +1264,7 @@ translate spanish d7_d2e6219c:
 translate spanish d7_ef39551f:
 
     # "Many of which are multiple volumes of manga."
-    "Muchas de las cuales son múltiples tomos de manga."
+    "Muchas de las cuales son muchos tomos de manga."
 
 # game/d7.rpy:397
 translate spanish d7_2e2aef3f:
@@ -1300,7 +1300,7 @@ translate spanish d7_edb9e617:
 translate spanish d7_6651ab87:
 
     # mc "Alright."
-    mc "De acuerdo."
+    mc "Vale."
 
 # game/d7.rpy:409
 translate spanish d7_1659c3ac:
@@ -1390,7 +1390,7 @@ translate spanish d7_17afe50b:
 translate spanish d7_a6deffd5:
 
     # m "Mhm~"
-    m "Mmm."
+    m "Síp."
 
 # game/d7.rpy:448
 translate spanish d7_4bdee662:
@@ -1474,7 +1474,7 @@ translate spanish d7_a9012150:
 translate spanish d7_43d2f3f5:
 
     # m "Ahh~"
-    m "¡Ahh!"
+    m "¡Ahhh!"
 
 # game/d7.rpy:473
 translate spanish d7_eedcc073:
@@ -1486,7 +1486,7 @@ translate spanish d7_eedcc073:
 translate spanish d7_cf1adef2:
 
     # mc "Yeah."
-    mc "Sí."
+    mc "Síp."
 
 # game/d7.rpy:478
 translate spanish d7_dd29af13:
@@ -1498,13 +1498,13 @@ translate spanish d7_dd29af13:
 translate spanish d7_e84e725a_1:
 
     # m "Mmmm~"
-    m "Mmm."
+    m "Mmm..."
 
 # game/d7.rpy:480
 translate spanish d7_25c798f7:
 
     # m "But I have to say I enjoy this a bit more~"
-    m "Pero he de decir que disfruto esto un poco más."
+    m "Pero he de decir que disfruto esto un poco más..."
 
 # game/d7.rpy:481
 translate spanish d7_3484f055:
@@ -1618,7 +1618,7 @@ translate spanish d7_39740e60:
 translate spanish d7_a59f0d79:
 
     # m p_1d "Yeah, of course!"
-    m p_1d "¡Sí, por supuesto!"
+    m p_1d "¡Síp, por supuesto!"
 
 # game/d7.rpy:521
 translate spanish d7_c115d97f:
@@ -1672,7 +1672,7 @@ translate spanish d7_baf6f60e:
 translate spanish d7_b3f06c4b:
 
     # m p_1d "Yeah it is."
-    m p_1d "Sí, lo es."
+    m p_1d "Síp, lo es."
 
 # game/d7.rpy:537
 translate spanish d7_445785b6:
@@ -1726,13 +1726,13 @@ translate spanish d7_349f6b22:
 translate spanish d7_878277ae_1:
 
     # m "Hmm?"
-    m "¿Mmm?"
+    m "¿Qué cosa?"
 
 # game/d7.rpy:550
 translate spanish d7_74e738c0:
 
     # mc "How about some special baked potatoes?"
-    mc "¿Qué tal unas patatas asadas especiales?"
+    mc "¿Qué tal unas patatas asadas?"
 
 # game/d7.rpy:551
 translate spanish d7_d975a698:
@@ -1834,7 +1834,7 @@ translate spanish d7_29ae59e5:
 translate spanish d7_606e2d02_1:
 
     # mc "Sure."
-    mc "Claro."
+    mc "Vale."
 
 # game/d7.rpy:571
 translate spanish d7_813463ff:
@@ -1864,13 +1864,13 @@ translate spanish d7_473b88a8:
 translate spanish d7_b439675d:
 
     # m p_1j "Mmmm~"
-    m p_1j "Mmm."
+    m p_1j "Mmm..."
 
 # game/d7.rpy:578
 translate spanish d7_2bc628ae:
 
     # m p_2b "That was good!"
-    m p_2b "¡Estuvo bueno!"
+    m p_2b "¡Estuvo demasiado bueno!"
 
 # game/d7.rpy:580
 translate spanish d7_1cf0dc21:
@@ -1930,7 +1930,7 @@ translate spanish d7_606e2d02_2:
 translate spanish d7_04cc52c3:
 
     # m "Yay~!"
-    m "¡Yey!"
+    m "¡Vaaale!"
 
 # game/d7.rpy:594
 translate spanish d7_64a1a8f2:
@@ -1948,7 +1948,7 @@ translate spanish d7_2c801553:
 translate spanish d7_0b939d2a:
 
     # "The opening starts playing and we silently watch it."
-    "El 'opening' empieza a sonar y lo vemos en silencio."
+    "El opening empieza a sonar y lo vemos en silencio."
 
 # game/d7.rpy:602
 translate spanish d7_3b0f1b5c:
@@ -1960,7 +1960,7 @@ translate spanish d7_3b0f1b5c:
 translate spanish d7_e6aca214:
 
     # m "This is nice~"
-    m "Esto es agradable."
+    m "Esto es agradable..."
 
 # game/d7.rpy:604
 translate spanish d7_13b456bf:
@@ -1990,7 +1990,7 @@ translate spanish d7_c609cdd6:
 translate spanish d7_23fb617b:
 
     # "We continue to watch intently,{w=0.5} and as the ending finally starts playing,{w=0.5} she leans her head on me."
-    "Seguimos mirando atentamente,{w=0.5} y cuando el 'ending' finalmente empieza a sonar,{w=0.5} ella apoya la cabeza en mí."
+    "Seguimos mirando atentamente,{w=0.5} y cuando el ending finalmente empieza a sonar,{w=0.5} ella apoya la cabeza en mí."
 
 # game/d7.rpy:609
 translate spanish d7_958a5f1c:
@@ -2020,7 +2020,7 @@ translate spanish d7_b702ce6c:
 translate spanish d7_a6deffd5_1:
 
     # m "Mhm~"
-    m "Mmm."
+    m "Síp."
 
 # game/d7.rpy:614
 translate spanish d7_833066e0:
