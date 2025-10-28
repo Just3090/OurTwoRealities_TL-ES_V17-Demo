@@ -4,427 +4,427 @@
 translate spanish d8_f8b27823:
 
     # "The sun slowly creeps into the room."
-    ""
+    "El sol entra lentamente en la habitación."
 
 # game/d8.rpy:11
 translate spanish d8_eac7b5bc:
 
     # "Dang..."
-    ""
+    "Rayos..."
 
 # game/d8.rpy:12
 translate spanish d8_a5a8c812:
 
     # "We even have finals today."
-    ""
+    "Incluso tenemos exámenes finales hoy."
 
 # game/d8.rpy:13
 translate spanish d8_f9738521:
 
     # "Slowly, I open my eyes."
-    ""
+    "Lentamente, abro los ojos."
 
 # game/d8.rpy:17
 translate spanish d8_d2f54e73:
 
     # "Monika's sound asleep next to me."
-    ""
+    "Monika está profundamente dormida a mi lado."
 
 # game/d8.rpy:18
 translate spanish d8_0cb617a4:
 
     # "I should probably wake her up."
-    ""
+    "Probablemente debería despertarla."
 
 # game/d8.rpy:19
 translate spanish d8_17337cd1:
 
     # mc "Monika~"
-    mc ""
+    mc "Monika..."
 
 # game/d8.rpy:20
 translate spanish d8_9123c60c:
 
     # mc "C'mon, we have finals today."
-    mc ""
+    mc "Vamos, tenemos exámenes finales hoy."
 
 # game/d8.rpy:21
 translate spanish d8_4ed52c9e:
 
     # m "Mmmmm..."
-    m ""
+    m "Mmm..."
 
 # game/d8.rpy:23
 translate spanish d8_c79d4a36:
 
     # "She wraps her arms around me."
-    ""
+    "Me rodea con sus brazos."
 
 # game/d8.rpy:24
 translate spanish d8_4eeddf88:
 
     # m "...Warm..."
-    m ""
+    m "... Qué cálido..."
 
 # game/d8.rpy:25
 translate spanish d8_a1b7cb86:
 
     # mc "Monika,{w=0.5} c'mon,{w=0.5} let's go!"
-    mc ""
+    mc "Monika,{w=0.5} ¡vamos,{w=0.5} andando!"
 
 # game/d8.rpy:26
 translate spanish d8_97c97362:
 
     # m "Mmmmmmmmm..."
-    m ""
+    m "Mmm..."
 
 # game/d8.rpy:29
 translate spanish d8_2d8ce0b7:
 
     # m "Fine..."
-    m ""
+    m "Está bien..."
 
 # game/d8.rpy:32
 translate spanish d8_8a4a7570:
 
     # m "But you owe me some cuddle time later today."
-    m ""
+    m "Pero me debes unos mimos más tarde."
 
 # game/d8.rpy:35
 translate spanish d8_4baed949:
 
     # mc "Okay, only if we manage to live through finals together."
-    mc ""
+    mc "Está bien, solo si logramos sobrevivir juntos a los exámenes finales."
 
 # game/d8.rpy:38
 translate spanish d8_bd1e9302:
 
     # m "Deal."
-    m ""
+    m "Trato hecho."
 
 # game/d8.rpy:41
 translate spanish d8_ffc8a610:
 
     # m "Hehehe~"
-    m ""
+    m "Je, je, je."
 
 # game/d8.rpy:44
 translate spanish d8_082f2534:
 
     # "We get up, and Monika steps into the washroom with her clothes in hand."
-    ""
+    "Nos levantamos y Monika entra al baño con su ropa en la mano."
 
 # game/d8.rpy:45
 translate spanish d8_1d9f1961:
 
     # "I take the time to change into my clothes as well."
-    ""
+    "Aprovecho el tiempo para cambiarme de ropa también."
 
 # game/d8.rpy:46
 translate spanish d8_219d4b9a:
 
     # "I take out my notebook for a second and skim over the notes again."
-    ""
+    "Saco mi cuaderno un segundo y repaso las notas de nuevo."
 
 # game/d8.rpy:47
 translate spanish d8_aa9a6cda:
 
     # "Monika comes back out, and sets her pyjamas on the bed."
-    ""
+    "Monika sale y deja su pijama sobre la cama."
 
 # game/d8.rpy:49
 translate spanish d8_2e12a9ac:
 
     # m "Are we gonna go have breakfast?"
-    m ""
+    m "¿Vamos a desayunar?"
 
 # game/d8.rpy:51
 translate spanish d8_cf1adef2:
 
     # mc "Yeah."
-    mc ""
+    mc "Sí."
 
 # game/d8.rpy:53
 translate spanish d8_6dbaa5a4:
 
     # "I quickly put my notebook back in my bag, and follow Monika downstairs."
-    ""
+    "Guardo rápidamente mi cuaderno en la mochila y sigo a Monika escaleras abajo."
 
 # game/d8.rpy:56
 translate spanish d8_c7c9f7d1:
 
     # "Monika manages to make it to the fridge before me, and she starts looking through it."
-    ""
+    "Monika llega a la nevera antes que yo y empieza a mirar dentro."
 
 # game/d8.rpy:58
 translate spanish d8_a7fbd2a2:
 
     # m "We have some jam here."
-    m ""
+    m "Tenemos algo de mermelada aquí."
 
 # game/d8.rpy:59
 translate spanish d8_babf6dbd:
 
     # m "And I think we have some peanut butter in the pantry."
-    m ""
+    m "Y creo que tenemos mantequilla de maní en la despensa."
 
 # game/d8.rpy:60
 translate spanish d8_57769a66:
 
     # m "Wanna have that for breakfast?"
-    m ""
+    m "¿Quieres desayunar eso?"
 
 # game/d8.rpy:62
 translate spanish d8_606e2d02:
 
     # mc "Sure."
-    mc ""
+    mc "Claro."
 
 # game/d8.rpy:65
 translate spanish d8_9d6b8d8f:
 
     # "I slice up some bread, and Monika opens up the spreads."
-    ""
+    "Corto un poco de pan y Monika abre las cremas para untar."
 
 # game/d8.rpy:66
 translate spanish d8_279ac7db:
 
     # "I set the table while she makes the sandwiches."
-    ""
+    "Pongo la mesa mientras ella prepara los sándwiches."
 
 # game/d8.rpy:68
 translate spanish d8_4bceaf86:
 
     # "Monika brings over the sandwiches, and we sit down."
-    ""
+    "Monika trae los sándwiches y nos sentamos."
 
 # game/d8.rpy:70
 translate spanish d8_e232fbd9:
 
     # mc "Thanks, Monika~"
-    mc ""
+    mc "Gracias, Monika."
 
 # game/d8.rpy:71
 translate spanish d8_679be04f:
 
     # m 1j "Hehe~"
-    m 1j ""
+    m 1j "Je, je."
 
 # game/d8.rpy:72
 translate spanish d8_99f2304b:
 
     # m 5a "Anything for you, my love~"
-    m 5a ""
+    m 5a "Lo que sea por ti, mi amor..."
 
 # game/d8.rpy:74
 translate spanish d8_196fa0a3:
 
     # "We dig in, and quickly finish our food."
-    ""
+    "Empezamos a comer y terminamos rápidamente."
 
 # game/d8.rpy:77
 translate spanish d8_31b02976:
 
     # "I take our plates, and stuff them in the dishwasher."
-    ""
+    "Tomo nuestros platos y los meto en el lavavajillas."
 
 # game/d8.rpy:78
 translate spanish d8_2e1d9b4c:
 
     # "Monika goes into the living room, and sits down on the couch."
-    ""
+    "Monika va a la sala de estar y se sienta en el sofá."
 
 # game/d8.rpy:79
 translate spanish d8_f69caa3e:
 
     # "I clean up everything, and make my way there too."
-    ""
+    "Limpio todo y voy para allá también."
 
 # game/d8.rpy:82
 translate spanish d8_6133965b:
 
     # "Monika sits there, reviewing everything for today's finals."
-    ""
+    "Monika está sentada allí, repasando todo para los exámenes finales de hoy."
 
 # game/d8.rpy:83
 translate spanish d8_a0aa6a15:
 
     # "I take a seat next to her, and also take out my notes to review."
-    ""
+    "Me siento a su lado y también saco mis apuntes para repasar."
 
 # game/d8.rpy:84
 translate spanish d8_61487c33:
 
     # m "Wanna go over the hard parts together again?"
-    m ""
+    m "¿Quieres que repasemos las partes difíciles juntos otra vez?"
 
 # game/d8.rpy:85
 translate spanish d8_606e2d02_1:
 
     # mc "Sure."
-    mc ""
+    mc "Claro."
 
 # game/d8.rpy:86
 translate spanish d8_90e4a14b:
 
     # "We exchange notes again, and do a few more practice problems."
-    ""
+    "Intercambiamos apuntes de nuevo y hacemos algunos problemas de práctica más."
 
 # game/d8.rpy:89
 translate spanish d8_5f700f07:
 
     # "Monika takes a look at the clock."
-    ""
+    "Monika echa un vistazo al reloj."
 
 # game/d8.rpy:90
 translate spanish d8_c5713c38:
 
     # m "Hey [player], let's wrap it up for now."
-    m ""
+    m "¡Ey, [player]! Dejémoslo por ahora."
 
 # game/d8.rpy:91
 translate spanish d8_5c15a865:
 
     # m "Otherwise we're gonna be late."
-    m ""
+    m "Si no, vamos a llegar tarde."
 
 # game/d8.rpy:92
 translate spanish d8_cf1adef2_1:
 
     # mc "Yeah."
-    mc ""
+    mc "Sí."
 
 # game/d8.rpy:93
 translate spanish d8_2df2e36e:
 
     # "We pack up our things."
-    ""
+    "Recogemos nuestras cosas."
 
 # game/d8.rpy:94
 translate spanish d8_205cc6f2:
 
     # m "Do you want some coffee?"
-    m ""
+    m "¿Quieres un poco de café?"
 
 # game/d8.rpy:95
 translate spanish d8_606e2d02_2:
 
     # mc "Sure."
-    mc ""
+    mc "Claro."
 
 # game/d8.rpy:96
 translate spanish d8_5caef62a:
 
     # "Monika goes back in the kitchen and brews two cups for us."
-    ""
+    "Monika vuelve a la cocina y prepara dos tazas para nosotros."
 
 # game/d8.rpy:98
 translate spanish d8_bb606a4e:
 
     # "She brings them over and hands one to me."
-    ""
+    "Las trae y me da una."
 
 # game/d8.rpy:99
 translate spanish d8_b270ec69:
 
     # m 1b "Here."
-    m 1b ""
+    m 1b "Ten."
 
 # game/d8.rpy:101
 translate spanish d8_a64e8bc0:
 
     # mc "Thanks."
-    mc ""
+    mc "Gracias."
 
 # game/d8.rpy:104
 translate spanish d8_ee076dab:
 
     # "I quickly down the coffee, and she brings the cups back in the kitchen."
-    ""
+    "Me tomo el café rápidamente y ella lleva las tazas de vuelta a la cocina."
 
 # game/d8.rpy:105
 translate spanish d8_a6fb49ba:
 
     # m "Hey, [player]..."
-    m ""
+    m "Oye, [player]..."
 
 # game/d8.rpy:106
 translate spanish d8_3f871f46:
 
     # mc "Hmm?"
-    mc ""
+    mc "¿Mmm?"
 
 # game/d8.rpy:117
 translate spanish d8_dc1ed426:
 
     # "My face turns red as our lips connected."
-    ""
+    "Mi cara se enrojece cuando nuestros labios se conectan."
 
 # game/d8.rpy:118
 translate spanish d8_749d1f03:
 
     # m forward ldown rdown happ cm ce n3 "Hehe~"
-    m forward ldown rdown happ cm ce n3 ""
+    m forward ldown rdown happ cm ce n3 "Je, je."
 
 # game/d8.rpy:120
 translate spanish d8_d0b382a7:
 
     # m "That will never get old~"
-    m ""
+    m "Eso nunca pasará de moda."
 
 # game/d8.rpy:121
 translate spanish d8_0925342b:
 
     # m "Let's get going!"
-    m ""
+    m "¡Vamos!"
 
 # game/d8.rpy:122
 translate spanish d8_d0be7137:
 
     # "We pick up our things, and make our way out the door."
-    ""
+    "Recogemos nuestras cosas y salimos por la puerta."
 
 # game/d8.rpy:128
 translate spanish d8_3084c874:
 
     # "I lock the door, and we head off."
-    ""
+    "Cierro la puerta con llave y nos vamos."
 
 # game/d8.rpy:133
 translate spanish d8_5d47e005:
 
     # s "Heyyy!!"
-    s ""
+    s "¡¡Eey!!"
 
 # game/d8.rpy:134
 translate spanish d8_e50b3018:
 
     # s "Wait up!!"
-    s ""
+    s "¡¡Esperen!!"
 
 # game/d8.rpy:135
 translate spanish d8_5e609d3d:
 
     # "Sayori and MC are running towards us as we make our way down the street."
-    ""
+    "Sayori y MC corren hacia nosotros mientras avanzamos por la calle."
 
 # game/d8.rpy:139
 translate spanish d8_fb3840b2:
 
     # s "Hahh...hahh..."
-    s ""
+    s "Jahh... jahh..."
 
 # game/d8.rpy:141
 translate spanish d8_e36426bd:
 
     # s "Morning!"
-    s ""
+    s "¡Buenos días!"
 
 # game/d8.rpy:142
 translate spanish d8_3bc8d13e:
 
     # s 3r "It's finally the last day of school!"
-    s 3r ""
+    s 3r "¡Por fin es el último día de clases!"
 
 # game/d8.rpy:145
 translate spanish d8_912606f9:
