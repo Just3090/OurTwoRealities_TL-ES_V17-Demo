@@ -46,7 +46,7 @@ translate spanish d8_17337cd1:
 translate spanish d8_9123c60c:
 
     # mc "C'mon, we have finals today."
-    mc "Vamos, hoy tenemos los finales."
+    mc "Venga, hoy tenemos los finales."
 
 # game/d8.rpy:21
 translate spanish d8_4ed52c9e:
@@ -64,7 +64,7 @@ translate spanish d8_c79d4a36:
 translate spanish d8_4eeddf88:
 
     # m "...Warm..."
-    m "... Qué calentito..."
+    m "Qué calentito..."
 
 # game/d8.rpy:25
 translate spanish d8_a1b7cb86:
@@ -352,7 +352,7 @@ translate spanish d8_a6fb49ba:
 translate spanish d8_3f871f46:
 
     # mc "Hmm?"
-    mc "¿Mmm?"
+    mc "¿Sí?"
 
 # game/d8.rpy:117
 translate spanish d8_dc1ed426:
@@ -442,7 +442,7 @@ translate spanish d8_6fc67cd1:
 translate spanish d8_56ca4b2e:
 
     # s "Mhm!"
-    s "¡Mjm!"
+    s "¡Ajá!"
 
 # game/d8.rpy:152
 translate spanish d8_5d1a8726:
@@ -532,7 +532,7 @@ translate spanish d8_9df95979:
 translate spanish d8_e4e525ff:
 
     # m 1d "Yeah."
-    m 1d "Sí."
+    m 1d "Síp."
 
 # game/d8.rpy:182
 translate spanish d8_be04fe20:
@@ -544,7 +544,7 @@ translate spanish d8_be04fe20:
 translate spanish d8_5ce09775:
 
     # mc "Mhm."
-    mc "Mjm."
+    mc "Vale."
 
 # game/d8.rpy:187
 translate spanish d8_461f2bb3:
@@ -610,7 +610,7 @@ translate spanish d8_95841e7c:
 translate spanish d8_85d7d9fb:
 
     # "I'm finally done."
-    "Por fin he terminado."
+    "por fin he terminado."
 
 # game/d8.rpy:201
 translate spanish d8_5aabaf37:
@@ -658,7 +658,7 @@ translate spanish d8_dd596ea6:
 translate spanish d8_c7f463c4:
 
     # m "You finally looked at me~"
-    m "Por fin me has mirado."
+    m "Por fin me has mirado..."
 
 # game/d8.rpy:213
 translate spanish d8_21a3d5f0:
@@ -820,7 +820,7 @@ translate spanish d8_0cf329d6:
 translate spanish d8_a6055514:
 
     # n 3e "Except English."
-    n 3e "Excepto Inglés."
+    n 3e "Excepto español."
 
 # game/d8.rpy:256
 translate spanish d8_bc1b90fd:
@@ -832,7 +832,7 @@ translate spanish d8_bc1b90fd:
 translate spanish d8_7c3ac86d:
 
     # y "Really? {w=0.5}I think I found English to be pretty easy."
-    y "¿En serio? {w=0.5}A mí el de Inglés me pareció bastante fácil."
+    y "¿En serio? {w=0.5}A mí el de español me pareció bastante fácil."
 
 # game/d8.rpy:262
 translate spanish d8_09f1c372:
@@ -1030,7 +1030,7 @@ translate spanish d8_2c2a0b2c:
 translate spanish d8_674df34a:
 
     # m "Now that that's done, I think they should be doing final announcements pretty soon-"
-    m "Ahora que ya está hecho, creo que no tardarán en dar los últimos avisos-"
+    m "Ahora que ya está hecho, creo que no tardarán en dar los últimos avisos..."
 
 # game/d8.rpy:323
 translate spanish d8_3d5af1cf:
@@ -1102,7 +1102,7 @@ translate spanish d8_b8c41343:
 translate spanish d8_3a8ab2c5:
 
     # p 1c "Yep!"
-    p 1c "¡Sip!"
+    p 1c "¡Venga!"
 
 # game/d8.rpy:353
 translate spanish d8_375eaefd:
@@ -1186,7 +1186,7 @@ translate spanish d8_09d8a17d:
 translate spanish d8_00e5c0f9:
 
     # m 5a "And now I have you all to myself~"
-    m 5a "Y ahora te tengo toda para mí."
+    m 5a "Y ahora te tengo todo para mí."
 
 # game/dHIGH_PRIORITY_TASK
 translate spanish d8_6a5ab294:
@@ -1198,7 +1198,7 @@ translate spanish d8_6a5ab294:
 translate spanish d8_5141f001:
 
     # m 1j "Ufufu~"
-    m 1j "Ufufu."
+    m 1j "Ju, ju, ju."
 
 # game/d8.rpy:387
 translate spanish d8_eded47d6:
@@ -1222,7 +1222,7 @@ translate spanish d8_43ab15f8:
 translate spanish d8_606e2d02_3:
 
     # mc "Sure."
-    mc "Claro."
+    mc "Vale."
 
 # game/d8.rpy:398
 translate spanish d8_a120196a:
@@ -1270,7 +1270,7 @@ translate spanish d8_8c6b81cb:
 translate spanish d8_0f3aae4a:
 
     # m "Hmm."
-    m "Mmm."
+    m "Mmm..."
 
 # game/d8.rpy:409
 translate spanish d8_6d579efd:
@@ -1294,7 +1294,7 @@ translate spanish d8_691848e6:
 translate spanish d8_606e2d02_4:
 
     # mc "Sure."
-    mc "Claro."
+    mc "Vale."
 
 # game/d8.rpy:416
 translate spanish d8_92ff027b:
@@ -1468,7 +1468,7 @@ translate spanish d8_ca12541e:
 translate spanish d8_0b4c7e0a:
 
     # m h1_1j "Mmm~"
-    m h1_1j "Mmm."
+    m h1_1j "Mmm..."
 
 # game/d8.rpy:450
 translate spanish d8_dac0772d:
@@ -1492,7 +1492,7 @@ translate spanish d8_3452eca4:
 translate spanish d8_3dc98eba:
 
     # m h1_3d "So I thought about where we could go for our picnic with the club tomorrow."
-    m h1_3d "He estado pensando dónde podríamos ir de picnic con el club mañana."
+    m h1_3d "He estado pensando dónde podríamos ir de picnic con el club mañana..."
 
 # game/d8.rpy:454
 translate spanish d8_8181a686:
@@ -1528,7 +1528,7 @@ translate spanish d8_707e6b28:
 translate spanish d8_25a6922e:
 
     # m h1_1d "Yeah I think that might be the best option."
-    m h1_1d "Sí, creo que sería la mejor opción."
+    m h1_1d "Síp, creo que sería la mejor opción."
 
 # game/d8.rpy:462
 translate spanish d8_9712f9d0:
@@ -1546,7 +1546,7 @@ translate spanish d8_1a1ceffe:
 translate spanish d8_341c1051:
 
     # m h1_1j "Mhm."
-    m h1_1j "Mjm."
+    m h1_1j "Síp."
 
 # game/d8.rpy:466
 translate spanish d8_ecddb684:
@@ -1630,13 +1630,13 @@ translate spanish d8_03a5572d:
 translate spanish d8_91793fa3:
 
     # m h1_1b "It's nice out today."
-    m h1_1b "Hace bueno hoy."
+    m h1_1b "Hace buen tiempo estos días."
 
 # game/d8.rpy:488
 translate spanish d8_c1c9ae56:
 
     # mc "Yeah it is."
-    mc "Sí que lo hace."
+    mc "Sí que lo está."
 
 # game/d8.rpy:491
 translate spanish d8_1ea97da0:
