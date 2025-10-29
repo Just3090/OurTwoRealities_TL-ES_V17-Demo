@@ -1798,7 +1798,7 @@ translate spanish d8_c2053026:
 translate spanish d8_92739c40:
 
     # mc "I'll go get some snacks."
-    mc "Voy a por algo de picar."
+    mc "Voy a por algo para picar."
 
 # game/d8.rpy:532
 translate spanish d8_6c0be504:
