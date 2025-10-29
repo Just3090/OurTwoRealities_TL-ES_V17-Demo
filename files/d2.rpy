@@ -2804,87 +2804,87 @@ translate spanish d2cont_d4d862ed:
 
 translate spanish strings:
 
-	# game/d2.rpy:381
-	old "Very good!"
-	new "¡Muy bien!"
+    # game/d2.rpy:381
+    old "Very good!"
+    new "¡Muy bien!"
 
-	# game/d2.rpy:381
-	old "Not that great."
-	new "No muy bien."
+    # game/d2.rpy:381
+    old "Not that great."
+    new "No muy bien."
 
-	# game/d2.rpy:397
-	old "I don't like making food."
-	new "No me gusta cocinar."
+    # game/d2.rpy:397
+    old "I don't like making food."
+    new "No me gusta cocinar."
 
-	# game/d2.rpy:397
-	old "I'm not sure I will make it good..."
-	new "No estoy seguro de que me vaya a salir bien..."
+    # game/d2.rpy:397
+    old "I'm not sure I will make it good..."
+    new "No estoy seguro de que me vaya a salir bien..."
 
-	# game/d2.rpy:536
-	old "You look wonderful!"
-	new "¡Estás preciosa!"
+    # game/d2.rpy:536
+    old "You look wonderful!"
+    new "¡Estás preciosa!"
 
-	# game/d2.rpy:540
-	old "Did the mod give you all these outfits?"
-	new "¿El mod te ha dado todos estos conjuntos?"
+    # game/d2.rpy:540
+    old "Did the mod give you all these outfits?"
+    new "¿El mod te ha dado todos estos conjuntos?"
 
-	# game/d2.rpy:544
-	old "Can you show them to me?"
-	new "¿Puedes enseñármelos?"
+    # game/d2.rpy:544
+    old "Can you show them to me?"
+    new "¿Puedes enseñármelos?"
 
-	# game/d2.rpy:547
-	old "Sure!"
-	new "¡Claro!"
+    # game/d2.rpy:547
+    old "Sure!"
+    new "¡Claro!"
 
-	# game/d2.rpy:613
-	old "I love you so much..."
-	new "Te quiero tanto..."
+    # game/d2.rpy:613
+    old "I love you so much..."
+    new "Te quiero tanto..."
 
-	# game/d2.rpy:624
-	old "Let's just stay like that for a while."
-	new "Quedémonos así un rato."
+    # game/d2.rpy:624
+    old "Let's just stay like that for a while."
+    new "Quedémonos así un rato."
 
-	# game/d2.rpy:633
-	old "I love you too..."
-	new "Yo también te quiero..."
+    # game/d2.rpy:633
+    old "I love you too..."
+    new "Yo también te quiero..."
 
-	# game/d2.rpy:670
-	old "I wish so too..."
-	new "A mí también me gustaría..."
+    # game/d2.rpy:670
+    old "I wish so too..."
+    new "A mí también me gustaría..."
 
-	# game/d2.rpy:670
-	old "I'm sure it'll be soon..."
-	new "Estoy seguro de que será pronto..."
+    # game/d2.rpy:670
+    old "I'm sure it'll be soon..."
+    new "Estoy seguro de que será pronto..."
 
-	# game/d2.rpy:679
-	old "I love you too, Monika."
-	new "Yo también te quiero, Monika."
+    # game/d2.rpy:679
+    old "I love you too, Monika."
+    new "Yo también te quiero, Monika."
 
-	# game/d2.rpy:839
-	old "Sometimes."
-	new "A veces."
+    # game/d2.rpy:839
+    old "Sometimes."
+    new "A veces."
 
-	# game/d2.rpy:839
-	old "Everyday."
-	new "Todos los días."
+    # game/d2.rpy:839
+    old "Everyday."
+    new "Todos los días."
 
-	# game/d2.rpy:850
-	old "For the whole day."
-	new "Durante todo el día."
+    # game/d2.rpy:850
+    old "For the whole day."
+    new "Durante todo el día."
 
-	# game/d2.rpy:850
-	old "Only in the morning."
-	new "Solo por la mañana."
+    # game/d2.rpy:850
+    old "Only in the morning."
+    new "Solo por la mañana."
 
-	# game/d2.rpy:850
-	old "Only in the evening."
-	new "Solo por la noche."
+    # game/d2.rpy:850
+    old "Only in the evening."
+    new "Solo por la noche."
 
-	# game/d2.rpy:875
-	old "I don't have time."
-	new "No tengo tiempo."
+    # game/d2.rpy:875
+    old "I don't have time."
+    new "No tengo tiempo."
 
-	# game/d2.rpy:875
-	old "I just don't like it."
-	new "Simplemente no me gusta."
+    # game/d2.rpy:875
+    old "I just don't like it."
+    new "Simplemente no me gusta."
 
