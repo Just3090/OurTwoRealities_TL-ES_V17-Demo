@@ -100,7 +100,7 @@ translate spanish d9_b8e23e97:
 translate spanish d9_342c4735:
 
     # m "Oh crap!"
-    m "¡Oh, mierda!"
+    m "¡Oh, flipas!"
 
 # game/d9.rpy:47
 translate spanish d9_256fc055:
@@ -286,7 +286,7 @@ translate spanish d9_e500732c:
 translate spanish d9_ba2bfe45:
 
     # m "Ooh~"
-    m "Oh."
+    m "Oh..."
 
 # game/d9.rpy:89
 translate spanish d9_53f193c6:
@@ -1126,7 +1126,7 @@ translate spanish d9_2f2894de:
 translate spanish d9_7bf5de05:
 
     # s 1br "Yeah!"
-    s 1br "¡Sí!"
+    s 1br "¡Síp!"
 
 # game/d9.rpy:294
 translate spanish d9_6418a576:
@@ -1156,7 +1156,7 @@ translate spanish d9_984a87d6:
 translate spanish d9_36fa1b2e:
 
     # n 1bc "So I was sitting in the back, doing a bit of math homework..."
-    n 1bc "Pues estaba sentada en la trastienda, haciendo unos deberes de matemáticas..."
+    n 1bc "Pues estaba sentada en la trastienda, haciendo unos deberes de mates..."
 
 # game/d9.rpy:303
 translate spanish d9_26ddd19a:
@@ -1199,6 +1199,7 @@ translate spanish d9_05b66d4b:
 
     # n 1be "Then he starts yelling that he doesn't care if it's free!"
     n 1be "¡Entonces él empieza a gritar que le da igual si es 'gratis' (free)!"
+    "(Chiste malo del inglés.)"
 
 # game/d9.rpy:311
 translate spanish d9_9642e649:
@@ -1324,7 +1325,7 @@ translate spanish d9_cd3776cf:
 translate spanish d9_23210a99:
 
     # n 1bo "Like what the hell!"
-    n 1bo "¡Pero qué cojones!"
+    n 1bo "¡Y dos cojones!"
 
 # game/d9.rpy:333
 translate spanish d9_eabc56cc:
@@ -1348,7 +1349,7 @@ translate spanish d9_95f6bfce:
 translate spanish d9_17e28af0:
 
     # n 5bx "Tssk... what a piece of crap..."
-    n 5bx "Tss... qué gilipollas..."
+    n 5bx "Pufff... qué gilipollas..."
 
 # game/d9.rpy:339
 translate spanish d9_46d6a264:
@@ -1360,7 +1361,7 @@ translate spanish d9_46d6a264:
 translate spanish d9_db5db3a3:
 
     # s casual turned lup rup neut mc e2a "Ooh! Yeah! Show it! Show it!"
-    s casual turned lup rup neut mc e2a "¡Oh! ¡Sí! ¡Enséñalo! ¡Enséñalo!"
+    s casual turned lup rup neut mc e2a "¡Oh! ¡Sí! ¡Enséñalo! ¡Quiero ver!"
 
 # game/d9.rpy:341
 translate spanish d9_875148ce:
@@ -1402,7 +1403,7 @@ translate spanish d9_912882ea:
 translate spanish d9_83c05feb:
 
     # s "Ow!"
-    s "¡Ay!"
+    s "¡Ay, ayyy!"
 
 # game/d9.rpy:353
 translate spanish d9_e9bafc38:
@@ -1480,7 +1481,7 @@ translate spanish d9_39c06874:
 translate spanish d9_2f269932:
 
     # n 1bx "Pffffft!"
-    n 1bx "¡Puf!"
+    n 1bx "¡Pufff!"
 
 # game/d9.rpy:373
 translate spanish d9_9c9dcde8:
@@ -1630,7 +1631,7 @@ translate spanish d9_07f777e7:
 translate spanish d9_dc9ff7e0:
 
     # m o2_3k "Nope!"
-    m o2_3k "¡Nop!"
+    m o2_3k "¡Nopi!"
 
 # game/d9.rpy:413
 translate spanish d9_60e6c864:
@@ -1666,7 +1667,7 @@ translate spanish d9_721a4072:
 translate spanish d9_ebaea036:
 
     # m "Then I challenge you first Natsuki!"
-    m "¡Entonces os reto primeras, Natsuki!"
+    m "¡Entonces os reto de primeras, Natsuki!"
 
 # game/d9.rpy:431
 translate spanish d9_a0185a31:
@@ -1678,7 +1679,7 @@ translate spanish d9_a0185a31:
 translate spanish d9_3bfec08e:
 
     # "Monika and I grab our rackets and a birdie."
-    "Monika and I grab our rackets and a birdie."
+    "Monika toma una raqueta y se prepara para sacar."
 
 # game/d9.rpy:437
 translate spanish d9_3fcd6a31:
@@ -1696,7 +1697,7 @@ translate spanish d9_1a751c98:
 translate spanish d9_cf99613b:
 
     # m o2_2k "Yep!"
-    m o2_2k "¡Sep!"
+    m o2_2k "¡Síp!"
 
 # game/d9.rpy:445
 translate spanish d9_d7e62640:
@@ -1756,7 +1757,7 @@ translate spanish d9_0a22d34f:
 translate spanish d9_c410369d:
 
     # "Monika hugs my arm."
-    "Monika me abraza el brazo."
+    "Monika me abraza del brazo."
 
 # game/d9.rpy:466
 translate spanish d9_e557715f:
@@ -1768,7 +1769,7 @@ translate spanish d9_e557715f:
 translate spanish d9_167814cd:
 
     # mc "Alright, alright."
-    mc "Bueno, bueno."
+    mc "Vale, vale."
 
 # game/d9.rpy:474
 translate spanish d9_55e83105:
@@ -1870,7 +1871,7 @@ translate spanish d9_51b60f5f:
 translate spanish d9_02c6acab:
 
     # y 1sa "Mhm!"
-    y 1sa "¡Mjm!"
+    y 1sa "¡Ganamos!"
 
 # game/d9.rpy:523
 translate spanish d9_77c3758b:
@@ -1882,7 +1883,7 @@ translate spanish d9_77c3758b:
 translate spanish d9_1dbbfbd1:
 
     # m "Yeah."
-    m "Sí."
+    m "Síp."
 
 # game/d9.rpy:526
 translate spanish d9_176c8a4a:
@@ -1948,7 +1949,7 @@ translate spanish d9_e4b4254a:
 translate spanish d9_4d705412:
 
     # "Monika and I whizz around trying to knock that birdie back every time."
-    "Monika y yo nos movemos a toda pastilla intentando devolver ese volante cada vez."
+    "Monika y yo nos movemos a toda leche intentando devolver ese volante cada vez."
 
 # game/d9.rpy:546
 translate spanish d9_d935b510:
@@ -1996,13 +1997,13 @@ translate spanish d9_b0845415:
 translate spanish d9_994e4105:
 
     # n "AAAAND THE PRESIDENT TAKES THE WIN!"
-    n "¡Y LA PRESIDENTA SE LLEVA LA VICTORIA!"
+    n "¡Y LA PRESI SE LLEVA LA VICTORIA!"
 
 # game/d9.rpy:561
 translate spanish d9_06c3a253:
 
     # n "21 TO 19! NEVER SEEN BEFORE!"
-    n "¡21 A 19! ¡NUNCA VISTO!"
+    n "¡21 A 19! ¡NUNCA VISTO ALGO PARECIDO!"
 
 # game/d9.rpy:562
 translate spanish d9_23f386d5:
@@ -2014,7 +2015,7 @@ translate spanish d9_23f386d5:
 translate spanish d9_037fb120:
 
     # y "Uh? Uuuuuuu...."
-    y "¿Eh? Eeeeeh..."
+    y "¿Eh? Eeeehhh..."
 
 # game/d9.rpy:565
 translate spanish d9_086e2a00:
@@ -2038,7 +2039,7 @@ translate spanish d9_27b81538:
 translate spanish d9_05d0ceb6:
 
     # y "G-Good game?"
-    y "¿B-Buen partido?"
+    y "¿B-Buen p-partido?"
 
 # game/d9.rpy:575
 translate spanish d9_38f38615:
@@ -2158,7 +2159,7 @@ translate spanish d9_6467c599:
 translate spanish d9_8a487af2:
 
     # m "A verb ending in '-ing'."
-    m "Un verbo en gerundio (terminado en '-ando' o '-endo')."
+    m "Un verbo en gerundio, los que terminan en '-ando' o '-endo'."
 
 # game/d9.rpy:625
 translate spanish d9_e1d26f3e:
@@ -2236,7 +2237,7 @@ translate spanish d9_27b81538:
 translate spanish d9_05d0ceb6:
 
     # y "G-Good game?"
-    y "¿B-Buen partido?"
+    y "¿B-Buen p-partido?"
 
 # game/d9.rpy:575
 translate spanish d9_38f38615:
@@ -2356,7 +2357,7 @@ translate spanish d9_6467c599:
 translate spanish d9_8a487af2:
 
     # m "A verb ending in '-ing'."
-    m "Un verbo en gerundio (terminado en '-ando' o '-endo')."
+    m "Un verbo en gerundio, los que terminan en '-ando' o '-endo'."
 
 # game/d9.rpy:625
 translate spanish d9_e1d26f3e:
@@ -2422,7 +2423,7 @@ translate spanish d9_18711f49:
 translate spanish d9_8a487af2_1:
 
     # m "A verb ending in '-ing'."
-    m "Un verbo en gerundio (terminado en '-ando' o '-endo')."
+    m "Un verbo en gerundio, los que terminan en '-ando' o '-endo'."
 
 # game/d9.rpy:680
 translate spanish d9_86a4f7d4_2:
@@ -2908,7 +2909,7 @@ translate spanish d9_4e7f381a:
 translate spanish d9_7113416b:
 
     # m o2_1b "Yep!"
-    m o2_1b "¡Sep!"
+    m o2_1b "¡Síp!"
 
 # game/d9.rpy:866
 translate spanish d9_af7f0f0a:
@@ -3010,7 +3011,7 @@ translate spanish d9_3794ac03:
 translate spanish d9_eb8119cc:
 
     # s 4br "Yay!"
-    s 4br "¡Yupi!"
+    s 4br "¡Vale!"
 
 # game/d9.rpy:905
 translate spanish d9_1edb7cf0:
@@ -3472,7 +3473,7 @@ translate spanish d9_57e54b31:
 translate spanish d9_7d192de8:
 
     # m "If I don't find it by chance in here."
-    m "Si no lo encuentro por casualidad aquí dentro."
+    m "Si no lo encuentro por casualidad aquí dentro..."
 
 # game/d9.rpy:1045
 translate spanish d9_e58a52b2:
@@ -3502,7 +3503,7 @@ translate spanish d9_94e68b97:
 translate spanish d9_2d226653:
 
     # m h1_1d "Yeah. I'll keep looking though."
-    m h1_1d "Sí. Pero seguiré buscando."
+    m h1_1d "Síp. Pero seguiré buscando."
 
 # game/d9.rpy:1056
 translate spanish d9_6651ab87:
@@ -3592,7 +3593,7 @@ translate spanish d9_43a39b44:
 translate spanish d9_82af8b70:
 
     # mc "Yeah, here."
-    mc "Sí, toma."
+    mc "Vale, toma."
 
 # game/d9.rpy:1078
 translate spanish d9_ec508653:
@@ -3628,7 +3629,7 @@ translate spanish d9_29a5db15:
 translate spanish d9_f2d28957:
 
     # m "I think I'll find something you'll like~"
-    m "Creo que encontraré algo que te gustará."
+    m "Creo que encontraré algo que te gustará..."
 
 # game/d9.rpy:1086
 translate spanish d9_dcf0b323:
@@ -3700,7 +3701,7 @@ translate spanish d9_e65c3374:
 translate spanish d9_608527a6:
 
     # "...And the ideas we came up with this morning."
-    "... Y las ideas que se nos ocurrieron esta mañana."
+    "Y las ideas que se nos ocurrieron esta mañana..."
 
 # game/d9.rpy:1102
 translate spanish d9_abb49dff:
