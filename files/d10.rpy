@@ -4,2011 +4,2011 @@
 translate spanish d10_b1f645d5:
 
     # "I feel a small warmth wrap around me as the sun peers through the window."
-    ""
+    "Siento un pequeño calor envolverme mientras el sol se asoma por la ventana."
 
 # game/d10.rpy:17
 translate spanish d10_194febc9:
 
     # "Monika has her arms wrapped around me as she silently breathes."
-    ""
+    "Monika me rodea con sus brazos mientras respira silenciosamente."
 
 # game/d10.rpy:18
 translate spanish d10_73511cee:
 
     # "I do the same to her."
-    ""
+    "Yo hago lo mismo."
 
 # game/d10.rpy:19
 translate spanish d10_ef239fb3:
 
     # m "Mmmmm~"
-    m ""
+    m "Mmm..."
 
 # game/d10.rpy:22
 translate spanish d10_8cb92b80:
 
     # "I close my eyes as we embrace."
-    ""
+    "Cierro los ojos mientras nos abrazamos."
 
 # game/d10.rpy:23
 translate spanish d10_c815cdc8:
 
     # "I did promise her some cuddle time after all."
-    ""
+    "Después de todo, le prometí un rato de mimos."
 
 # game/d10.rpy:27
 translate spanish d10_8e77cae1:
 
     # m "I can't wait to do this when I come over to your reality, [player]."
-    m ""
+    m "Estoy deseando hacer esto cuando vaya a tu realidad, [player]."
 
 # game/d10.rpy:28
 translate spanish d10_ec9f6167:
 
     # m "Just you and me..."
-    m ""
+    m "Solo tú y yo..."
 
 # game/d10.rpy:29
 translate spanish d10_0d0f8073:
 
     # m "...Spending our time together like this..."
-    m ""
+    m "... Pasando el rato juntos así..."
 
 # game/d10.rpy:30
 translate spanish d10_a9d5588a:
 
     # m "Mmmm~ I'm getting excited just thinking about it~! Hehehe~"
-    m ""
+    m "Mmm... Me emociono solo de pensarlo. Je, je, je."
 
 # game/d10.rpy:31
 translate spanish d10_c238d97e:
 
     # m "Let's just stay like this for now..."
-    m ""
+    m "Quedémonos así por ahora..."
 
 # game/d10.rpy:35
 translate spanish d10_f3955804:
 
     # "Monika hugs tightly after I let go of her."
-    ""
+    "Monika me abraza fuerte después de que la suelto."
 
 # game/d10.rpy:37
 translate spanish d10_4ffeafb3:
 
     # m "Not yet!"
-    m ""
+    m "¡Todavía no!"
 
 # game/d10.rpy:40
 translate spanish d10_45d9cd96:
 
     # m "Ehehe~"
-    m ""
+    m "Eje, je."
 
 # game/d10.rpy:44
 translate spanish d10_d412d667:
 
     # "She continues to hang on tight."
-    ""
+    "Ella sigue agarrándome fuerte."
 
 # game/d10.rpy:47
 translate spanish d10_2dfda320:
 
     # m "Mhmhm~"
-    m ""
+    m "Mjm, mjm."
 
 # game/d10.rpy:48
 translate spanish d10_8d8040c4:
 
     # "Her grip loosens just a tiny bit."
-    ""
+    "Su agarre se afloja solo un poquito."
 
 # game/d10.rpy:50
 translate spanish d10_5df9ed68:
 
     # m "This is better~"
-    m ""
+    m "Así está mejor."
 
 # game/d10.rpy:51
 translate spanish d10_6803d4f4:
 
     # m "Besides, you delayed this for long enough!"
-    m ""
+    m "¡Además, has retrasado esto bastante tiempo!"
 
 # game/d10.rpy:52
 translate spanish d10_2b1aa9c7:
 
     # m "I'm not letting go until I'm satisfied~"
-    m ""
+    m "No te soltaré hasta que esté satisfecha."
 
 # game/d10.rpy:54
 translate spanish d10_45d9cd96_1:
 
     # m "Ehehe~"
-    m ""
+    m "Eje, je."
 
 # game/d10.rpy:59
 translate spanish d10_45d9cd96_2:
 
     # m "Ehehe~"
-    m ""
+    m "Eje, je."
 
 # game/d10.rpy:68
 translate spanish d10_d1162b1f:
 
     # m "You aren't escape me that easily~ Mhmhm~"
-    m ""
+    m "No vas a escaparte de mí tan fácilmente. Mjm, mjm."
 
 # game/d10.rpy:71
 translate spanish d10_ddad6a55:
 
     # "She continues to tightly hug me for another hour or so."
-    ""
+    "Continúa abrazándome con fuerza durante más o menos una hora."
 
 # game/d10.rpy:72
 translate spanish d10_90d7369a:
 
     # m "Mmmmmm~"
-    m ""
+    m "Mmm..."
 
 # game/d10.rpy:74
 translate spanish d10_0c358dd3:
 
     # m "Okay, I think we can get up now."
-    m ""
+    m "Vale, creo que ya podemos levantarnos."
 
 # game/d10.rpy:76
 translate spanish d10_8684d2f3:
 
     # m "My batteries have been fully charged~"
-    m ""
+    m "Mis baterías están totalmente cargadas."
 
 # game/d10.rpy:82
 translate spanish d10_a644ca36:
 
     # m "That was nice~"
-    m ""
+    m "Ha estado bien."
 
 # game/d10.rpy:83
 translate spanish d10_1decae15:
 
     # m p_2b "Let's do that a bit more often!"
-    m p_2b ""
+    m p_2b "¡Hagámoslo más a menudo!"
 
 # game/d10.rpy:84
 translate spanish d10_d7124bb4:
 
     # m p_1k "I don't want to pass up any opportunity to be closer to you~"
-    m p_1k ""
+    m p_1k "No quiero dejar pasar ninguna oportunidad de estar más cerca de ti."
 
 # game/d10.rpy:85
 translate spanish d10_4e5552c9:
 
     # m p_1d "Anyway, I'm gonna go get changed."
-    m p_1d ""
+    m p_1d "Bueno, voy a cambiarme."
 
 # game/d10.rpy:86
 translate spanish d10_4da94832:
 
     # m p_2d "Can you cut up some green onions for me?"
-    m p_2d ""
+    m p_2d "¿Puedes cortar un poco de cebolleta?"
 
 # game/d10.rpy:88
 translate spanish d10_f0730679:
 
     # mc "Sure. What are you making?"
-    mc ""
+    mc "Claro. ¿Qué vas a preparar?"
 
 # game/d10.rpy:89
 translate spanish d10_457d95ac:
 
     # m p_2b "I'll scramble some eggs for breakfast."
-    m p_2b ""
+    m p_2b "Voy a hacer unos huevos revueltos para desayunar."
 
 # game/d10.rpy:91
 translate spanish d10_6651ab87:
 
     # mc "Alright."
-    mc ""
+    mc "Vale."
 
 # game/d10.rpy:92
 translate spanish d10_f9a4de9a:
 
     # mc "I'll get changed too and I'll get right to it."
-    mc ""
+    mc "Yo también me cambiaré y me pondré a ello."
 
 # game/d10.rpy:93
 translate spanish d10_8a0fef18:
 
     # m p_1b "'Kay!"
-    m p_1b ""
+    m p_1b "¡Vale!"
 
 # game/d10.rpy:96
 translate spanish d10_5ae6fdf5:
 
     # "Monika steps into the washroom with her clothes in hand."
-    ""
+    "Monika entra en el baño con la ropa en la mano."
 
 # game/d10.rpy:97
 translate spanish d10_4b8e04ec:
 
     # "While she does that, I quickly change and go downstairs."
-    ""
+    "Mientras ella lo hace, yo me cambio rápidamente y bajo."
 
 # game/d10.rpy:100
 translate spanish d10_5741464a:
 
     # "I peek into the fridge and take out a bag of green onions."
-    ""
+    "Echo un vistazo a la nevera y saco una bolsa de cebolletas."
 
 # game/d10.rpy:101
 translate spanish d10_0b96736f:
 
     # "I take a few from the bag and stick it back in the fridge."
-    ""
+    "Cojo unas cuantas de la bolsa y la vuelvo a meter en la nevera."
 
 # game/d10.rpy:102
 translate spanish d10_52b6e40b:
 
     # "I take a knife and cutting board, and start chopping them up."
-    ""
+    "Cojo un cuchillo y una tabla de cortar, y empiezo a picarlas."
 
 # game/d10.rpy:103
 translate spanish d10_aee002f4:
 
     # "Once I finish, Monika slowly walks down the stairs while rubbing her eye."
-    ""
+    "Cuando termino, Monika baja lentamente las escaleras frotándose el ojo."
 
 # game/d10.rpy:105
 translate spanish d10_08c0a370:
 
     # m "Thanks, [player]!"
-    m ""
+    m "¡Gracias, [player]!"
 
 # game/d10.rpy:107
 translate spanish d10_bc666b09:
 
     # mc "Anytime."
-    mc ""
+    mc "De nada."
 
 # game/d10.rpy:108
 translate spanish d10_e5c7cdc5:
 
     # "Monika takes out some eggs and starts to mix them in a bowl."
-    ""
+    "Monika saca unos huevos y empieza a batirlos en un bol."
 
-# game/d10.rpy:110
+# game/d1Gamel/d10.rpy:110
 translate spanish d10_886ffb58:
 
     # "She takes the onions and mixes them in too."
-    ""
+    "Coge las cebolletas y las mezcla también."
 
 # game/d10.rpy:111
 translate spanish d10_13e26f6b:
 
     # "While she does all that, I get two plates out and set them on the table."
-    ""
+    "Mientras ella hace todo eso, yo saco dos platos y los pongo en la mesa."
 
 # game/d10.rpy:112
 translate spanish d10_bbf27410:
 
     # mc "I'll make some coffee for us."
-    mc ""
+    mc "Prepararé café para los dos."
 
 # game/d10.rpy:113
 translate spanish d10_4de1fbc9:
 
     # m h1_1b "Alright."
-    m h1_1b ""
+    m h1_1b "Vale."
 
 # game/d10.rpy:116
 translate spanish d10_6346205a:
 
     # "Monika pours the eggs into a pan and starts to fry them."
-    ""
+    "Monika vierte los huevos en una sartén y empieza a hacerlos."
 
 # game/d10.rpy:117
 translate spanish d10_becf27ef:
 
     # "In the meantime I'm getting a pot of coffee brewed up."
-    ""
+    "Mientras tanto, estoy preparando una cafetera."
 
 # game/d10.rpy:118
 translate spanish d10_a500f6f2:
 
     # "I pour the coffee into two mugs, and Monika takes the eggs off the heat."
-    ""
+    "Sirvo el café en dos tazas y Monika retira los huevos del fuego."
 
 # game/d10.rpy:120
 translate spanish d10_9d4930a1:
 
     # m "Okay, they're ready!"
-    m ""
+    m "¡Vale, ya están listos!"
 
 # game/d10.rpy:122
 translate spanish d10_14ac73dc:
 
     # "I grab my plate and scoop some eggs onto it."
-    ""
+    "Cojo mi plato y me sirvo un poco de huevos."
 
 # game/d10.rpy:123
 translate spanish d10_31f6cca3:
 
     # "Monika does the same, and we sit down."
-    ""
+    "Monika hace lo mismo y nos sentamos."
 
 # game/d10.rpy:124
 translate spanish d10_c3c43de2:
 
     # "We both happily eat, and yet again I'm taken aback by how wonderful the food she makes is."
-    ""
+    "Ambos comemos felices, y una vez más me sorprende lo maravillosa que es la comida que prepara."
 
 # game/d10.rpy:125
 translate spanish d10_357bc79c:
 
     # mc "You really are an amazing cook, Monika!"
-    mc ""
+    mc "¡Eres una cocinera increíble, Monika!"
 
 # game/d10.rpy:126
 translate spanish d10_8c8c435d:
 
     # m h1_1e "Awe,{w=0.5} I'm not that good."
-    m h1_1e ""
+    m h1_1e "Oh,{w=0.5} no soy tan buena."
 
 # game/d10.rpy:127
 translate spanish d10_dff8ab2d:
 
     # m h1_1l "It's just some simple eggs anyway!"
-    m h1_1l ""
+    m h1_1l "¡Si solo son unos simples huevos!"
 
 # game/d10.rpy:129
 translate spanish d10_29cc0e31:
 
     # mc "Still, thanks."
-    mc ""
+    mc "Aun así, gracias."
 
 # game/d10.rpy:130
 translate spanish d10_2669e98d:
 
     # m h1_1k "Anytime, [player]~"
-    m h1_1k ""
+    m h1_1k "De nada, [player]."
 
 # game/d10.rpy:133
 translate spanish d10_ffb67573:
 
     # "I quickly put the dishes into the dishwasher, and help Monika clean up a bit."
-    ""
+    "Meto rápidamente los platos en el lavavajillas y ayudo a Monika a limpiar un poco."
 
 # game/d10.rpy:147
 translate spanish d10date_85de62b3:
 
     # mc "So do you wanna go shopping first or the date?"
-    mc ""
+    mc "Entonces, ¿quieres ir de compras primero o a la cita?"
 
 # game/d10.rpy:148
 translate spanish d10date_0767d418:
 
     # m "Hmmmm..."
-    m ""
+    m "Mmm..."
 
 # game/d10.rpy:149
 translate spanish d10date_55e0ea16:
 
     # m h1_1b "Let's go on our date first~"
-    m h1_1b ""
+    m h1_1b "Vamos primero a nuestra cita."
 
 # game/d10.rpy:151
 translate spanish d10date_219f9e87:
 
     # mc "Okay. I'll go get ready."
-    mc ""
+    mc "Vale. Iré a prepararme."
 
 # game/d10.rpy:152
 translate spanish d10date_665968d2:
 
     # m h1_1b "Yeah, same here."
-    m h1_1b ""
+    m h1_1b "Sí, yo también."
 
 # game/d10.rpy:153
 translate spanish d10date_22bb26c6:
 
     # "We both head on upstairs."
-    ""
+    "Ambos subimos las escaleras."
 
 # game/d10.rpy:156
 translate spanish d10date_9080fb70:
 
     # "Monika grabs a dress from the closet and steps into the washroom."
-    ""
+    "Monika coge un vestido del armario y entra en el baño."
 
 # game/d10.rpy:157
 translate spanish d10date_23f211eb:
 
     # "Of course, I get some nicer clothes too."
-    ""
+    "Por supuesto, yo también cojo algo de ropa más elegante."
 
 # game/d10.rpy:158
 translate spanish d10date_3a27f35c:
 
     # "I should probably shower before we go out."
-    ""
+    "Probablemente debería ducharme antes de salir."
 
 # game/d10.rpy:160
 translate spanish d10date_da481a93:
 
     # "She steps out, and puts the clothes she had on before away."
-    ""
+    "Ella sale y guarda la ropa que llevaba antes."
 
 # game/d10.rpy:161
 translate spanish d10date_57a4e62e:
 
     # "I quickly run in as well with my clothes in hand."
-    ""
+    "Yo entro corriendo también con mi ropa en la mano."
 
 # game/d10.rpy:164
 translate spanish d10date_078f1fab:
 
     # "I shower, and change into the things I brought in."
-    ""
+    "Me ducho y me pongo la ropa que he traído."
 
 # game/d10.rpy:168
 translate spanish d10date_a0b4f619:
 
     # m o1_1b "Okay, I'm done."
-    m o1_1b ""
+    m o1_1b "Vale, he terminado."
 
 # game/d10.rpy:169
 translate spanish d10date_f7dc905f:
 
     # m "Ready to head out?"
-    m ""
+    m "¿Listo para salir?"
 
 # game/d10.rpy:171
 translate spanish d10date_e15545a9:
 
     # mc "Yeah, I'll just quickly grab my wallet."
-    mc ""
+    mc "Sí, voy a coger la cartera un momento."
 
 # game/d10.rpy:172
 translate spanish d10date_0de1638f:
 
     # "I do just that, and we make our way downstairs."
-    ""
+    "Hago precisamente eso y bajamos."
 
 # game/d10.rpy:175
 translate spanish d10date_e4086ca6:
 
     # "I take an empty plastic bottle and fill it with water for our trip."
-    ""
+    "Cojo una botella de plástico vacía y la lleno de agua para el viaje."
 
 # game/d10.rpy:179
 translate spanish d10date_1b8f253b:
 
     # "Monika brings over a backpack and I toss the bottle inside."
-    ""
+    "Monika trae una mochila y meto la botella dentro."
 
 # game/d10.rpy:180
 translate spanish d10date_4b228764:
 
     # mc "I think that's all we need, let's get going!"
-    mc ""
+    mc "Creo que eso es todo lo que necesitamos, ¡vámonos!"
 
 # game/d10.rpy:181
 translate spanish d10date_fe472c12:
 
     # m o1_1j "Yep!"
-    m o1_1j ""
+    m o1_1j "¡Sí!"
 
 # game/d10.rpy:182
 translate spanish d10date_8b860dfc:
 
     # "I throw the backpack onto my shoulder, and we make our way outside."
-    ""
+    "Me echo la mochila al hombro y salimos."
 
 # game/d10.rpy:189
 translate spanish d10date_45d8d7aa:
 
     # "I lock the door, and we start making our way down the street."
-    ""
+    "Cierro la puerta con llave y empezamos a caminar por la calle."
 
 # game/d10.rpy:193
 translate spanish d10date_fd73e869:
 
     # "Monika grabs my hand as we happily stroll down the sidewalk."
-    ""
+    "Monika me coge de la mano mientras paseamos alegremente por la acera."
 
 # game/d10.rpy:194
 translate spanish d10date_a3e2b51a:
 
     # "The sun shines bright across the sky, with Monika's coral brown hair shining from the sun's gleam."
-    ""
+    "El sol brilla en el cielo, y el pelo castaño coral de Monika reluce con su destello."
 
 # game/d10.rpy:195
 translate spanish d10date_28be868b:
 
     # "It has a sweet fragrance of flowers."
-    ""
+    "Tiene una dulce fragancia a flores."
 
 # game/d10.rpy:196
 translate spanish d10date_bf746bd9:
 
     # mc "Did you use a new shampoo today?"
-    mc ""
+    mc "¿Has usado un champú nuevo hoy?"
 
 # game/d10.rpy:197
 translate spanish d10date_30db4cad:
 
     # m o1_2d "Oh? Yeah I changed it. The other one ran out."
-    m o1_2d ""
+    m o1_2d "¿Oh? Sí, lo he cambiado. El otro se acabó."
 
 # game/d10.rpy:198
 translate spanish d10date_8d39fa0d:
 
     # m o1_5a "Do you like it?"
-    m o1_5a ""
+    m o1_5a "¿Te gusta?"
 
 # game/d10.rpy:199
 translate spanish d10date_20eefdb6:
 
     # mc "It's wonderful."
-    mc ""
+    mc "Es maravilloso."
 
 # game/d10.rpy:200
 translate spanish d10date_45d9cd96:
 
     # m "Ehehe~"
-    m ""
+    m "Eje, je."
 
 # game/d10.rpy:201
 translate spanish d10date_48837bcc:
 
     # m "I'm glad~"
-    m ""
+    m "Me alegro."
 
 # game/d10.rpy:203
 translate spanish d10date_48094787:
 
     # "We pass by the school, and continue onward towards the cafe."
-    ""
+    "Pasamos por delante del instituto y seguimos hacia la cafetería."
 
 # game/d10.rpy:204
 translate spanish d10date_8ead82ca:
 
     # m o1_2e "We made so many memories in there."
-    m o1_2e ""
+    m o1_2e "Creamos tantos recuerdos ahí dentro."
 
 # game/d10.rpy:205
 translate spanish d10date_7277a715:
 
     # m o1_1b "I'm glad it's finally over though."
-    m o1_1b ""
+    m o1_1b "Aunque me alegro de que por fin haya terminado."
 
 # game/d10.rpy:206
 translate spanish d10date_b87e9b04:
 
     # m o1_2k "No more worrying about tests and due dates."
-    m o1_2k ""
+    m o1_2k "No más preocupaciones por exámenes y fechas de entrega."
 
 # game/d10.rpy:207
 translate spanish d10date_658c932a:
 
     # m o1_2b "Now we can just relax and enjoy ourselves!"
-    m o1_2b ""
+    m o1_2b "¡Ahora podemos relajarnos y disfrutar!"
 
 # game/d10.rpy:209
 translate spanish d10date_cf1adef2:
 
     # mc "Yeah."
-    mc ""
+    mc "Sí."
 
 # game/d10.rpy:211
 translate spanish d10date_d1e0f923:
 
     # m "Hey uhh, I think I might have a feeling on where you're taking me~"
-    m ""
+    m "¡Ey! Emm, creo que me hago una idea de adónde me llevas."
 
 # game/d10.rpy:212
 translate spanish d10date_0926fed3:
 
     # m "It's that cafe we went to with the club, right?"
-    m ""
+    m "Es esa cafetería a la que fuimos con el club, ¿verdad?"
 
 # game/d10.rpy:213
 translate spanish d10date_5c9bc5a9:
 
     # mc "How'd you guess?"
-    mc ""
+    mc "¿Cómo lo has adivinado?"
 
 # game/d10.rpy:214
 translate spanish d10date_9172c4c2:
 
     # m "Just a hunch~"
-    m ""
+    m "Solo una corazonada."
 
 # game/d10.rpy:215
 translate spanish d10date_08c94694:
 
     # m "Well we are kinda heading in the same direction so..."
-    m ""
+    m "Bueno, estamos yendo más o menos en la misma dirección, así que..."
 
 # game/d10.rpy:216
 translate spanish d10date_a7429060:
 
     # m "You know."
-    m ""
+    m "Ya sabes."
 
 # game/d10.rpy:217
 translate spanish d10date_82775e9e:
 
     # mc "Yeah. I guess so."
-    mc ""
+    mc "Sí. Supongo que sí."
 
 # game/d10.rpy:218
 translate spanish d10date_b86e5890:
 
     # "We continue hand in hand towards the cafe."
-    ""
+    "Seguimos de la mano hacia la cafetería."
 
 # game/d10.rpy:222
 translate spanish d10date_ef5d1b88:
 
     # "We arrive outside it, and Monika stops me before going in."
-    ""
+    "Llegamos a la puerta y Monika me detiene antes de entrar."
 
 # game/d10.rpy:223
 translate spanish d10date_2b808bfc:
 
     # m o1_1b "Let's sit outside!"
-    m o1_1b ""
+    m o1_1b "¡Sentémonos fuera!"
 
 # game/d10.rpy:225
 translate spanish d10date_84224809:
 
     # mc "I don't see why not."
-    mc ""
+    mc "No veo por qué no."
 
 # game/d10.rpy:226
 translate spanish d10date_2b816273:
 
     # m o1_2k "Yay!"
-    m o1_2k ""
+    m o1_2k "¡Yupi!"
 
 # game/d10.rpy:229
 translate spanish d10date_35454c58:
 
     # "I pull out the chair at the nearest table, and Monika sits down across from me."
-    ""
+    "Saco la silla de la mesa más cercana y Monika se sienta frente a mí."
 
 # game/d10.rpy:237
 translate spanish d10date_ecc43572:
 
     # "We each grab a menu, and take a peek at it."
-    ""
+    "Cada uno coge un menú y le echa un vistazo."
 
 # game/d10.rpy:238
 translate spanish d10date_962c08ba:
 
     # mc "So what are you gonna have?"
-    mc ""
+    mc "Entonces, ¿qué vas a tomar?"
 
 # game/d10.rpy:240
 translate spanish d10date_5737943b:
 
     # m "Mmmm... I think I'll take some veggie sandwiches and a coffee."
-    m ""
+    m "Mmm... Creo que tomaré unos sándwiches vegetales y un café."
 
 # game/d10.rpy:243
 translate spanish d10date_880ef235:
 
     # m "The portions look a bit big, so I think we can share~"
-    m ""
+    m "Las raciones parecen un poco grandes, así que creo que podemos compartir."
 
 # game/d10.rpy:244
 translate spanish d10date_e10e3389:
 
     # m "What do you think?"
-    m ""
+    m "¿Qué te parece?"
 
 # game/d10.rpy:246
 translate spanish d10date_ff3b4c33:
 
     # mc "I don't mind."
-    mc ""
+    mc "Por mí bien."
 
 # game/d10.rpy:247
 translate spanish d10date_d094961e:
 
     # mc "But to drink, I think I'll have a..."
-    mc ""
+    mc "Pero para beber, creo que tomaré un..."
 
 # game/d10.rpy:251
 translate spanish d10p2_36fa91b6:
 
     # mc "...[persistent.cofname]."
-    mc ""
+    mc "... [persistent.cofname]."
 
 # game/d10.rpy:252
 translate spanish d10p2_8ca8e152:
 
     # mc "Do you want me to go inside and place the order?"
-    mc ""
+    mc "¿Quieres que entre yo y haga el pedido?"
 
 # game/d10.rpy:254
 translate spanish d10p2_a0b5364f:
 
     # m "Sure, that'd be nice, thanks [player]!"
-    m ""
+    m "¡Claro, estaría bien, gracias, [player]!"
 
 # game/d10.rpy:256
 translate spanish d10p2_1fe793a5:
 
     # mc "Of course~"
-    mc ""
+    mc "Por supuesto."
 
 # game/d10.rpy:260
 translate spanish d10p2_96dde7bb:
 
     # "I go up to the counter and the barista stands behind it polishing some cups."
-    ""
+    "Me acerco al mostrador y el camarero está detrás puliendo unas tazas."
 
 # game/d10.rpy:261
 translate spanish d10p2_618fa58f:
 
     # "He looks up after the bell on the door rings."
-    ""
+    "Levanta la vista cuando suena la campanilla de la puerta."
 
 # game/d10.rpy:262
 translate spanish d10p2_b9751a6a:
 
     # e "Welcome! What can I get for you?"
-    e ""
+    e "¡Bienvenido! ¿Qué te pongo?"
 
 # game/d10.rpy:264
 translate spanish d10p2_7ba0233d:
 
     # mc "Hello, I'll have an order of those veggie sandwiches, and two coffees."
-    mc ""
+    mc "Hola, tomaré una ración de esos sándwiches vegetales y dos cafés."
 
 # game/d10.rpy:266
 translate spanish d10p2_55fb4880:
 
     # mc "Hello, I'll have an order of those veggie sandwiches, a coffee, and [persistent.cofname] please."
-    mc ""
+    mc "Hola, tomaré una ración de esos sándwiches vegetales, un café y [persistent.cofname], por favor."
 
 # game/d10.rpy:267
 translate spanish d10p2_596cd270:
 
     # e "Okay, and is that to go or staying in?"
-    e ""
+    e "Vale, ¿y es para llevar o para tomar aquí?"
 
 # game/d10.rpy:268
 translate spanish d10p2_0eb7cde7:
 
     # mc "Staying in, my girlfriend is sitting outside waiting for me."
-    mc ""
+    mc "Para tomar aquí, mi novia está sentada fuera esperándome."
 
 # game/d10.rpy:269
 translate spanish d10p2_7b277864:
 
     # e "Very well. I'll have your drinks ready in a second."
-    e ""
+    e "Muy bien. Tendré tus bebidas listas en un segundo."
 
 # game/d10.rpy:270
 translate spanish d10p2_dae8613b:
 
     # e "Your total is 10 bucks."
-    e ""
+    e "Son 10 pavos."
 
 # game/d10.rpy:271
 translate spanish d10p2_08ad240c:
 
     # mc "Here you go."
-    mc ""
+    mc "Aquí tienes."
 
 # game/d10.rpy:272
 translate spanish d10p2_3401de01:
 
     # e "Thank you for your patronage!"
-    e ""
+    e "¡Gracias por su compra!"
 
 # game/d10.rpy:273
 translate spanish d10p2_6e8d2e8b:
 
     # e "I'll bring out the sandwiches for you two when they're ready."
-    e ""
+    e "Os sacaré los sándwiches cuando estén listos."
 
 # game/d10.rpy:274
 translate spanish d10p2_bb0eeaf4:
 
     # mc "Thank you."
-    mc ""
+    mc "Gracias."
 
 # game/d10.rpy:275
 translate spanish d10p2_9f3ef577:
 
     # "The barista quickly starts to prepare the drinks and hands them to me."
-    ""
+    "El camarero empieza a preparar rápidamente las bebidas y me las entrega."
 
 # game/d10.rpy:276
 translate spanish d10p2_6d04953c:
 
     # mc "Thanks!"
-    mc ""
+    mc "¡Gracias!"
 
 # game/d10.rpy:277
 translate spanish d10p2_7550b7fe:
 
     # e "Of course. And the sandwiches will be done in about two minutes."
-    e ""
+    e "De nada. Y los sándwiches estarán listos en unos dos minutos."
 
 # game/d10.rpy:278
 translate spanish d10p2_a49ed4f8:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d10.rpy:279
 translate spanish d10p2_5dd6e848:
 
     # "I walk back out."
-    ""
+    "Salgo de nuevo."
 
 # game/d10.rpy:288
 translate spanish d10p2_ee92aa12:
 
     # "I sit back down and set the coffee in front of Monika."
-    ""
+    "Vuelvo a sentarme y pongo el café delante de Monika."
 
 # game/d10.rpy:290
 translate spanish d10p2_d09bee19:
 
     # m "Thanks [player]~"
-    m ""
+    m "Gracias, [player]."
 
 # game/d10.rpy:292
 translate spanish d10p2_9805f3da:
 
     # mc "Anytime. The barista said he'll bring the sandwiches out when they're done."
-    mc ""
+    mc "De nada. El camarero ha dicho que nos traerá los sándwiches cuando estén listos."
 
 # game/d10.rpy:294
 translate spanish d10p2_80027faa:
 
     # m "Ah, okay."
-    m ""
+    m "Ah, vale."
 
 # game/d10.rpy:296
 translate spanish d10p2_f0149cab:
 
     # mc "So how are you enjoying the date so far?"
-    mc ""
+    mc "Y bien, ¿qué tal te lo estás pasando en la cita por ahora?"
 
 # game/d10.rpy:298
 translate spanish d10p2_eceb01ba:
 
     # m "[player], just being able to spend time with you already makes my day..."
-    m ""
+    m "[player], el simple hecho de poder pasar tiempo contigo ya me alegra el día..."
 
 # game/d10.rpy:301
 translate spanish d10p2_97be7469:
 
     # m "So saying I'm just enjoying it would be a very big understatement!"
-    m ""
+    m "¡Así que decir que simplemente me lo estoy pasando bien sería quedarse muy corto!"
 
 # game/d10.rpy:303
 translate spanish d10p2_2bda79a4:
 
     # mc "I'm glad."
-    mc ""
+    mc "Me alegro."
 
 # game/d10.rpy:304
 translate spanish d10p2_0ef4fb6b:
 
     # "The barista comes out with a plate in hand."
-    ""
+    "El camarero sale con un plato en la mano."
 
 # game/d10.rpy:305
 translate spanish d10p2_ec35ce33:
 
     # e "Here are your sandwiches. Enjoy!"
-    e ""
+    e "Aquí están vuestros sándwiches. ¡Que aproveche!"
 
 # game/d10.rpy:307
 translate spanish d10p2_40c25a62:
 
     # m "Thank you!"
-    m ""
+    m "¡Gracias!"
 
 # game/d10.rpy:308
 translate spanish d10p2_21e130af:
 
     # "He walks back inside leaving the two of us to our food."
-    ""
+    "Vuelve a entrar, dejándonos a solas con nuestra comida."
 
 # game/d10.rpy:311
 translate spanish d10p2_6373a946:
 
     # m "Ooh~ It looks good!"
-    m ""
+    m "¡Ooh! ¡Qué buena pinta!"
 
 # game/d10.rpy:314
 translate spanish d10p2_239ac7bf:
 
     # m "I guess I was right when I said the portion size looked big."
-    m ""
+    m "Supongo que tenía razón cuando dije que la ración parecía grande."
 
 # game/d10.rpy:317
 translate spanish d10p2_c154e739:
 
     # m "Let's eat!"
-    m ""
+    m "¡A comer!"
 
 # game/d10.rpy:319
 translate spanish d10p2_00f0464e:
 
     # "We both take a sandwich from the plate and try a bite."
-    ""
+    "Ambos cogemos un sándwich del plato y le damos un mordisco."
 
 # game/d10.rpy:321
 translate spanish d10p2_cf53a0de:
 
     # m "Mmm! I like it!"
-    m ""
+    m "¡Mmm! ¡Me gusta!"
 
 # game/d10.rpy:323
 translate spanish d10p2_8f30e173:
 
     # "We quietly eat the sandwiches, giggling at each other a bit when we make eye contact."
-    ""
+    "Comemos tranquilamente los sándwiches, riéndonos un poco el uno del otro cuando cruzamos las miradas."
 
 # game/d10.rpy:325
 translate spanish d10p2_26a94d82:
 
     # m "You know, I always wondered how it would feel to go on a date at a cafe."
-    m ""
+    m "Sabes, siempre me he preguntado qué se sentiría al tener una cita en una cafetería."
 
 # game/d10.rpy:326
 translate spanish d10p2_96d25d64:
 
     # m "It's just so cliche to either go to a cafe of some fancy restaraunt for a date."
-    m ""
+    m "Es que es un cliché ir a una cafetería o a algún restaurante elegante en una cita."
 
 # game/d10.rpy:327
 translate spanish d10p2_f4fe2b20:
 
     # m "But now I see why it's so popular!"
-    m ""
+    m "¡Pero ahora veo por qué es tan popular!"
 
 # game/d10.rpy:330
 translate spanish d10p2_830f7557:
 
     # m "But if I'm being honest, I think I prefer a cafe over a fancy restaraunt any day."
-    m ""
+    m "Pero si te soy sincera, creo que prefiero mil veces una cafetería a un restaurante elegante."
 
 # game/d10.rpy:331
 translate spanish d10p2_c4ed15d8:
 
     # m "It's just so much more relaxing."
-    m ""
+    m "Es mucho más relajante."
 
 # game/d10.rpy:334
 translate spanish d10p2_a342b6ea:
 
     # m "And it's a lot cheaper too~"
-    m ""
+    m "Y también es mucho más barato."
 
 # game/d10.rpy:337
 translate spanish d10p2_791adb3a:
 
     # m "That said, I wouldn't mind going to a restaraunt too."
-    m ""
+    m "Dicho esto, tampoco me importaría ir a un restaurante."
 
 # game/d10.rpy:338
 translate spanish d10p2_feb782e2:
 
     # m "Maybe once I cross over you can properly take me out somewhere nice."
-    m ""
+    m "Tal vez cuando cruce puedas llevarme a algún sitio bonito."
 
 # game/d10.rpy:339
 translate spanish d10p2_d988d10c:
 
     # m "I don't really know any of the places near you though so you'll have to lead the way!"
-    m ""
+    m "¡Aunque no conozco ningún sitio cerca de ti, así que tendrás que guiarme!"
 
 # game/d10.rpy:345
 translate spanish d10p2_f3f293f2:
 
     # m "Hmmm, I'm not sure actually."
-    m ""
+    m "Mmm, la verdad es que no estoy segura."
 
 # game/d10.rpy:348
 translate spanish d10p2_f3ada95d:
 
     # m "Ooh! I know!"
-    m ""
+    m "¡Ooh! ¡Ya sé!"
 
 # game/d10.rpy:351
 translate spanish d10p2_8602431c:
 
     # m "Let's go to a chocolate shop!"
-    m ""
+    m "¡Vamos a una tienda de chocolate!"
 
 # game/d10.rpy:354
 translate spanish d10p2_f5920eae:
 
     # m "I think there's one downtown!"
-    m ""
+    m "¡Creo que hay una en el centro!"
 
 # game/d10.rpy:355
 translate spanish d10p2_995e8f06:
 
     # m "Or maybe a library would be nice too!"
-    m ""
+    m "¡O tal vez una biblioteca también estaría bien!"
 
 # game/d10.rpy:358
 translate spanish d10p2_2d0cd735:
 
     # m "...But I think the best spot for a date would be beside you in your reality, [player]~"
-    m ""
+    m "... Pero creo que el mejor sitio para una cita sería a tu lado en tu realidad, [player]."
 
 # game/d10.rpy:359
 translate spanish d10p2_45d9cd96:
 
     # m "Ehehe~"
-    m ""
+    m "Je, je, je."
 
 # game/d10.rpy:362
 translate spanish d10p2_4ed68a14:
 
     # m "While we're here though, I think a library would be the best if we're going this week."
-    m ""
+    m "Aunque mientras estemos aquí, creo que una biblioteca sería lo mejor si vamos esta semana."
 
 # game/d10.rpy:364
 translate spanish d10p2_8184c8f0:
 
     # mc "Well it's not like we need a plan for this or anything."
-    mc ""
+    mc "Bueno, tampoco es que necesitemos un plan para esto ni nada."
 
 # game/d10.rpy:366
 translate spanish d10p2_b523535f:
 
     # m "Yeah! Let's just go when we feel like it!"
-    m ""
+    m "¡Sí! ¡Vayamos cuando nos apetezca!"
 
 # game/d10.rpy:371
 translate spanish d10p2_2223d3a7:
 
     # "Monika takes a sip from her coffee."
-    ""
+    "Monika da un sorbo a su café."
 
 # game/d10.rpy:376
 translate spanish d10p2_d18170f4:
 
     # m "You know, I think an iced latte would have been better today."
-    m ""
+    m "Sabes, creo que un café con leche helado habría estado mejor hoy."
 
 # game/d10.rpy:379
 translate spanish d10p2_364fa218:
 
     # m "I think I'll get one when I finish the coffee."
-    m ""
+    m "Creo que me pediré uno cuando termine este café."
 
 # game/d10.rpy:380
 translate spanish d10p2_7d632a82:
 
-    # m "Do you want one too?"
-    m ""
+G   # m "Do you want one too?"
+    m "¿Quieres uno tú también?"
 
 # game/d10.rpy:391
 translate spanish d10p2_e74385d7:
 
     # m "Okay!"
-    m ""
+    m "¡Vale!"
 
 # game/d10.rpy:394
 translate spanish d10p2_efe13fd1:
 
     # m "Fun fact about iced lattes..."
-    m ""
+    m "Un dato curioso sobre los cafés con leche helados..."
 
 # game/d10.rpy:395
 translate spanish d10p2_7ef47b32:
 
-    # m "Did you know that most iced lattes have sugar or extra flavoring in them?"
-    m ""
+M   # m "Did you know that most iced lattes have sugar or extra flavoring in them?"
+    m "¿Sabías que la mayoría de los cafés con leche helados llevan azúcar o algún saborizante extra?"
 
 # game/d10.rpy:398
 translate spanish d10p2_4efa4396:
 
     # m "It's mostly because with colder coffee the bitterness is much more profound."
-    m ""
+    m "Es sobre todo porque con el café más frío el amargor es mucho más profundo."
 
 # game/d10.rpy:399
 translate spanish d10p2_7a90ca64:
 
     # m "While the milk helps with making it smoother, the different flavors and sugar add a nice hit of sweetness which is pleasant in warmer weather."
-    m ""
+    m "Mientras que la leche ayuda a suavizarlo, los diferentes sabores y el azúcar añaden un agradable toque de dulzura que es placentero en climas más cálidos."
 
 # game/d10.rpy:400
 translate spanish d10p2_017a585e:
 
     # m "Unlike in hot coffees where if you add a flavor like some watery hot chocolate, the flavor is lost in the heat and punch of the coffee."
-    m ""
+    m "A diferencia de los cafés calientes, en los que si añades un sabor como el de un chocolate caliente aguado, el sabor se pierde con el calor y la fuerza del café."
 
 # game/d10.rpy:401
 translate spanish d10p2_bf6193dd:
 
     # m "That's why it's more common to flavor the colder variants of coffee rather than hot ones."
-    m ""
+    m "Por eso es más común dar sabor a las variantes más frías del café que a las calientes."
 
 # game/d10.rpy:402
 translate spanish d10p2_d96e38cd:
 
     # m "And while we're talking about flavoring hot coffee..."
-    m ""
+    m "Y ya que hablamos de dar sabor al café caliente..."
 
 # game/d10.rpy:403
 translate spanish d10p2_8d3ca0a6:
 
     # m "In order to get a nice mix of the coffee flavor and the other hot drink, you have to have a much more concentrated flavor added to the coffee."
-    m ""
+    m "Para conseguir una buena mezcla del sabor del café y el de la otra bebida caliente, hay que añadir al café un sabor mucho más concentrado."
 
 # game/d10.rpy:404
 translate spanish d10p2_a8663c58:
 
     # m "Like for example, if you want to make a mocha, you use more concentrated chocolate with bolder flavor."
-    m ""
+    m "Como por ejemplo, si quieres hacer un moca, usas un chocolate más concentrado y con un sabor más intenso."
 
 # game/d10.rpy:405
 translate spanish d10p2_82c33704:
 
     # m "Like chocolate syrup or cocoa powder and sugar instead of watery hot chocolate."
-    m ""
+    m "Como sirope de chocolate o cacao en polvo y azúcar en lugar de chocolate caliente aguado."
 
 # game/d10.rpy:406
 translate spanish d10p2_d59f8ac6:
 
     # m "Then add an esspresso to it, and fill the rest with milk."
-    m ""
+    m "Luego se le añade un 'espresso' y se rellena el resto con leche."
 
 # game/d10.rpy:409
 translate spanish d10p2_b454f472:
 
     # m "The end result is a much nicer flavor blend of the coffee and the sweetness of the chocolate!"
-    m ""
+    m "¡El resultado final es una mezcla de sabores mucho más agradable entre el café y el dulzor del chocolate!"
 
 # game/d10.rpy:412
 translate spanish d10p2_562400f2:
 
     # m "Of course though, everyone has their tastes. But that's my opinion."
-    m ""
+    m "Aunque, por supuesto, cada uno tiene sus gustos. Pero esa es mi opinión."
 
 # game/d10.rpy:413
 translate spanish d10p2_e4465776:
 
     # m "I hope to learn your tastes one day.{w=0.5} Then I can make you something you'll love!"
-    m ""
+    m "Espero conocer tus gustos algún día.{w=0.5} ¡Así podré prepararte algo que te encante!"
 
 # game/d10.rpy:415
 translate spanish d10p2_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/d10.rpy:416
 translate spanish d10p2_73d0c480:
 
     # "Monika quickly finishes the coffee and gets up."
-    ""
+    "Monika se termina rápidamente el café y se levanta."
 
 # game/d10.rpy:419
 translate spanish d10p2_fc2efe63:
 
     # m "I'm gonna go order the lattes now so I'll be right back."
-    m ""
+    m "Voy a pedir los lattes, ahora mismo vuelvo."
 
 # game/d10.rpy:421
 translate spanish d10p2_d5c9bb58:
 
     # m "I'm gonna go order my latte so I'll be right back."
-    m ""
+    m "Voy a pedir mi latte, ahora mismo vuelvo."
 
 # game/d10.rpy:424
 translate spanish d10p2_cd93cc59:
 
     # "She returns within a few minutes with coffee in hand."
-    ""
+    "Vuelve a los pocos minutos con el café en la mano."
 
 # game/d10.rpy:427
 translate spanish d10p2_3ef5031f:
 
     # m "Here's yours~"
-    m ""
+    m "Aquí tienes el tuyo."
 
 # game/d10.rpy:429
 translate spanish d10p2_a64e8bc0:
 
     # mc "Thanks."
-    mc ""
+    mc "Gracias."
 
 # game/d10.rpy:430
 translate spanish d10p2_aeb4ac44:
 
     # "She sits back down and sips on it."
-    ""
+    "Se vuelve a sentar y le da un sorbo."
 
 # game/d10.rpy:433
 translate spanish d10p2_14fd126e:
 
     # m "I asked them to put them in takeout cups so we can drink it while we're shopping."
-    m ""
+    m "He pedido que los pongan en vasos para llevar, así podemos beber mientras estamos de compras."
 
 # game/d10.rpy:435
 translate spanish d10p2_9e65e8f0:
 
     # m "I got mine in a takeout cup so I can sip on it while we're shopping."
-    m ""
+    m "He pedido el mío en un vaso para llevar, así puedo ir bebiendo mientras estamos de compras."
 
 # game/d10.rpy:437
 translate spanish d10p2_a49ed4f8_1:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d10.rpy:438
 translate spanish d10p2_2948b240:
 
     # mc "Wanna get going then?"
-    mc ""
+    mc "¿Quieres que nos vayamos yendo?"
 
 # game/d10.rpy:440
 translate spanish d10p2_b49af402:
 
     # m "Yeah I guess we can."
-    m ""
+    m "Sí, supongo que sí."
 
 # game/d10.rpy:442
 translate spanish d10p2_565ac628:
 
     # "We get up from our chairs and grab our stuff."
-    ""
+    "Nos levantamos de las sillas y cogemos nuestras cosas."
 
 # game/d10.rpy:446
 translate spanish d10p2_85ef9feb:
 
     # "I check my watch."
-    ""
+    "Miro el reloj."
 
 # game/d10.rpy:447
 translate spanish d10p2_21ebdb65:
 
     # "{i}2:13{/i}"
-    ""
+    "'2:13'"
 
 # game/d10.rpy:448
 translate spanish d10p2_8c1a3d0b:
 
     # mc "Off to the train station then."
-    mc ""
+    mc "Pues a la estación de tren."
 
 # game/d10.rpy:449
 translate spanish d10p2_e150f26e:
 
     # mc "Do you know when the train arrives?"
-    mc ""
+    mc "¿Sabes cuándo llega el tren?"
 
 # game/d10.rpy:450
 translate spanish d10p2_bb66b866:
 
     # m o1_1c "Uhmm... no I don't think so."
-    m o1_1c ""
+    m o1_1c "Emm... no, creo que no."
 
 # game/d10.rpy:452
 translate spanish d10p2_a8ea3fa0:
 
     # mc "I guess we'll see when we get there."
-    mc ""
+    mc "Supongo que ya veremos cuando lleguemos."
 
 # game/d10.rpy:456
 translate spanish d10p2_a8c7694a:
 
     # "Monika holds her drink in one hand while the other keeps my hand trapped."
-    ""
+    "Monika sostiene su bebida con una mano mientras con la otra me sujeta la mano."
 
 # game/d10.rpy:457
 translate spanish d10p2_6c678b88:
 
     # "Not that I'm complaining."
-    ""
+    "Tampoco es que me queje."
 
 # game/d10.rpy:459
 translate spanish d10p2_4298c972:
 
     # "I sip on my latte at the same time."
-    ""
+    "Le doy un sorbo a mi latte al mismo tiempo."
 
 # game/d10.rpy:460
 translate spanish d10p2_3888d458:
 
     # "The train station comes into view as we round a corner."
-    ""
+    "La estación de tren aparece a la vista en cuanto doblamos una esquina."
 
 # game/d10.rpy:463
 translate spanish d10p2_8e5b6ad4:
 
     # "We quickly pass through and buy our tickets."
-    ""
+    "Pasamos rápidamente y compramos los billetes."
 
 # game/d10.rpy:464
 translate spanish d10p2_1d84f895:
 
     # "As we enter onto the platform, it seems empty."
-    ""
+    "Cuando entramos al andén, parece vacío."
 
 # game/d10.rpy:466
 translate spanish d10p2_1f3a5113:
 
     # mc "Looks like it's gonna be a quiet ride."
-    mc ""
+    mc "Parece que va a ser un viaje tranquilo."
 
 # game/d10.rpy:467
 translate spanish d10p2_d263bd08:
 
     # m o1_1d "I guess so."
-    m o1_1d ""
+    m o1_1d "Supongo que sí."
 
-# game/d10.rpy:470
+# game/d1o.rpy:470
 translate spanish d10p2_4c8ec6e6:
 
     # "We take a long stare at the timetables."
-    ""
+    "Nos quedamos mirando fijamente los horarios."
 
 # game/d10.rpy:471
 translate spanish d10p2_e0949dea:
 
     # "The next train should arrive in about 10 minutes."
-    ""
+    "El próximo tren debería llegar en unos 10 minutos."
 
 # game/d10.rpy:472
 translate spanish d10p2_9dd6ad87:
 
     # "We take a seat on a bench and wait for it to arrive."
-    ""
+    "Nos sentamos en un banco y esperamos a que llegue."
 
-# game/d10.rpy:473
+# game/d1Dos.rpy:473
 translate spanish d10p2_01ad50aa:
 
     # "The train pulls up with a screech and a few people get off."
-    ""
+    "El tren se detiene con un chirrido y se bajan unas cuantas personas."
 
 # game/d10.rpy:474
 translate spanish d10p2_e89655c9:
 
     # "Monika enters first and I follow."
-    ""
+    "Monika entra primero y yo la sigo."
 
 # game/d10.rpy:477
 translate spanish d10p2_11ea1df9:
 
     # "We take a seat right near the door and wait to get moving."
-    ""
+    "Nos sentamos justo cerca de la puerta y esperamos a que se ponga en marcha."
 
 # game/d10.rpy:478
 translate spanish d10p2_f4d6bc11:
 
     # "Announcer" "\"The doors are now closing.\""
-    "Announcer" ""
+    "Announcer" "\"Cierre de puertas.\""
 
 # game/d10.rpy:479
 translate spanish d10p2_c2808361:
 
     # "Announcer" "\"Next stop: Ido Station.\""
-    "Announcer" ""
+    "Announcer" "\"Próxima parada: Estación Ido.\""
 
 # game/d10.rpy:480
 translate spanish d10p2_89458d45:
 
     # "The train departs and we are off towards the mall."
-    ""
+    "El tren arranca y nos dirigimos hacia el centro comercial."
 
 # game/d10.rpy:483
 translate spanish d10p2_4a12a6fa:
 
     # "It's a smooth ride with a few stops along the way, but it's comfortable."
-    ""
+    "Es un viaje tranquilo, con algunas paradas por el camino, pero es cómodo."
 
 # game/d10.rpy:484
 translate spanish d10p2_a2487cce:
 
     # "Monika leans up against me while we wait for our stop."
-    ""
+    "Monika se apoya en mí mientras esperamos nuestra parada."
 
 # game/d10.rpy:485
 translate spanish d10p2_36b4a863:
 
     # "Announcer" "\"Now arriving at: Central Mall.\""
-    "Announcer" ""
+    "Announcer" "\"Llegando a: Centro Comercial.\""
 
 # game/d10.rpy:486
 translate spanish d10p2_d304ef73:
 
     # "The trains pulls to a halt at the platform."
-    ""
+    "El tren se detiene en el andén."
 
 # game/d10.rpy:487
 translate spanish d10p2_96d6cbce:
 
     # "We get up from our seats and exit as the doors slide open."
-    ""
+    "Nos levantamos de nuestros asientos y salimos en cuanto las puertas se abren."
 
 # game/d10.rpy:491
 translate spanish d10p2_bb6abf32:
 
     # "We head on towards the mall as Monika holds onto my hand, drink still occupying the other."
-    ""
+    "Nos dirigimos hacia el centro comercial mientras Monika me sujeta la mano, con la bebida todavía en la otra."
 
 # game/d10.rpy:494
 translate spanish d10p2_23012103:
 
     # "The entrance comes into view right as we leave the station."
-    ""
+    "Vemos la entrada justo al salir de la estación."
 
 # game/d10.rpy:496
 translate spanish d10p2_b40f7ae4:
 
     # m "We made it!"
-    m ""
+    m "¡Hemos llegado!"
 
 # game/d10.rpy:497
 translate spanish d10p2_18de553c:
 
     # m o1_2k "I'm so excited!"
-    m o1_2k ""
+    m o1_2k "¡Qué emoción!"
 
 # game/d10.rpy:501
 translate spanish d10p2_4046d79b:
 
     # "As we enter, we're surrounded by people and shops of all types."
-    ""
+    "En cuanto entramos, nos vemos rodeados de gente y tiendas de todo tipo."
 
 # game/d10.rpy:502
 translate spanish d10p2_d24aeb13:
 
     # "Monika leads me towards the escalator and we take a ride up them."
-    ""
+    "Monika me lleva hacia las escaleras mecánicas y subimos."
 
 # game/d10.rpy:503
 translate spanish d10p2_27500cfd:
 
     # m o1_1k "Hehe, this gives me nostalgia."
-    m o1_1k ""
+    m o1_1k "Je, je, esto me da nostalgia."
 
 # game/d10.rpy:504
 translate spanish d10p2_ead8ed4e:
 
     # m o1_2b "I used to ride up and down these things so much when I was little."
-    m o1_2b ""
+    m o1_2b "De pequeña subía y bajaba por estas cosas todo el rato."
 
 # game/d10.rpy:505
 translate spanish d10p2_ff7fc33f:
 
     # m o1_2k "Aaannd..."
-    m o1_2k ""
+    m o1_2k "Yyy..."
 
 # game/d10.rpy:506
 translate spanish d10p2_5bb6434e:
 
     # "Monika cheerfully hops off the escalator."
-    ""
+    "Monika baja alegremente de la escalera mecánica de un saltito."
 
 # game/d10.rpy:507
 translate spanish d10p2_207306a6:
 
     # m "Ehehe~ I love doing that."
-    m ""
+    m "Je, je, je. Me encanta hacer eso."
 
 # game/d10.rpy:510
 translate spanish d10p2_d99afb13:
 
     # "We throw our empty cups into a trash can nearby."
-    ""
+    "Tiramos nuestros vasos vacíos a una papelera cercana."
 
 # game/d10.rpy:512
 translate spanish d10p2_c5b63878:
 
     # "Monika throws her empty cup away into a nearby trash can."
-    ""
+    "Monika tira su vaso vacío a una papelera cercana."
 
 # game/d10.rpy:513
 translate spanish d10p2_3f7d3a4f:
 
     # m o1_2b "Ooh! There's the shop over there!"
-    m o1_2b ""
+    m o1_2b "¡Oh! ¡Ahí está la tienda!"
 
 # game/d10.rpy:514
 translate spanish d10p2_62d3cf1c:
 
     # m o1_2k "Let's go!"
-    m o1_2k ""
+    m o1_2k "¡Vamos!"
 
 # game/d10.rpy:516
 translate spanish d10p2_8f096793:
 
     # "We walk inside."
-    ""
+    "Entramos."
 
 # game/d10.rpy:519
 translate spanish d10p2_97f58a4b:
 
     # "I tag along with Monika into the swimwear section."
-    ""
+    "Sigo a Monika hasta la sección de bañadores."
 
 # game/d10.rpy:521
 translate spanish d10p2_9ef1feb5:
 
     # m "Ooh! This one looks nice!"
-    m ""
+    m "¡Huy! ¡Este parece bonito!"
 
 # game/d10.rpy:524
 translate spanish d10p2_31302ec9:
 
     # "However, I now find myself in the middle of...a whole lot of underwear..."
-    ""
+    "Sin embargo, ahora me encuentro en medio de... un montón de ropa interior..."
 
 # game/d10.rpy:526
 translate spanish d10p2_dd0bd1e3:
 
     # mc "U-Um... are men allowed in this section?"
-    mc ""
+    mc "E-Emm... ¿Se permite la entrada a hombres en esta sección?"
 
 # game/d10.rpy:527
 translate spanish d10p2_22135c73:
 
     # m o1_1d "Well, I think so."
-    m o1_1d ""
+    m o1_1d "Bueno, creo que sí."
 
 # game/d10.rpy:529
 translate spanish d10p2_fc896afd:
 
     # mc "But..."
-    mc ""
+    mc "Pero..."
 
 # game/d10.rpy:530
 translate spanish d10p2_fa793d56:
 
     # "It feels like I could get arrested for just standing here."
-    ""
+    "Siento que podrían arrestarme solo por estar aquí parado."
 
-# game/d10.rpy:531
+# game/d1d.rpy:531
 translate spanish d10p2_85bd6e82:
 
     # m o1_1b "Don't worry so much!"
-    m o1_1b ""
+    m o1_1b "¡No te preocupes tanto!"
 
 # game/d10.rpy:532
 translate spanish d10p2_18fb76f7:
 
     # m o1_2k "You won't look suspicious as long as you hold my hand~"
-    m o1_2k ""
+    m o1_2k "No parecerás sospechoso mientras me cojas de la mano."
 
 # game/d10.rpy:533
 translate spanish d10p2_da9be94e:
 
     # m o1_1k "Come on!"
-    m o1_1k ""
+    m o1_1k "¡Vamos!"
 
 # game/d10.rpy:535
 translate spanish d10p2_c3eac501:
 
     # "Monika takes my hand and continues to look around for something she likes."
-    ""
+    "Monika me coge de la mano y sigue buscando algo que le guste."
 
 # game/d10.rpy:536
 translate spanish d10p2_fa45f281:
 
     # mc "Thanks..."
-    mc ""
+    mc "Gracias..."
 
 # game/d10.rpy:537
 translate spanish d10p2_d59492c1:
 
     # "We walk around for a bit longer."
-    ""
+    "Damos vueltas un rato más."
 
 # game/d10.rpy:538
 translate spanish d10p2_3de84f4a:
 
     # m o1_1d "You know, on second thought, I think it might be better if I look at them myself..."
-    m o1_1d ""
+    m o1_1d "Sabes, pensándolo bien, creo que será mejor que los mire yo sola..."
 
 # game/d10.rpy:540
 translate spanish d10p2_d3490484:
 
     # "She lets go of my hand."
-    ""
+    "Me suelta la mano."
 
 # game/d10.rpy:541
 translate spanish d10p2_ecdf5473:
 
     # mc "Wait! I- Uhhh..."
-    mc ""
+    mc "¡Espera! Y- Eeeh..."
 
 # game/d10.rpy:542
 translate spanish d10p2_cb3b831e:
 
     # m o1_1l "It's fine!"
-    m o1_1l ""
+    m o1_1l "¡No pasa nada!"
 
 # game/d10.rpy:544
 translate spanish d10p2_1745b17d:
 
     # "She leads me to a nearby bench."
-    ""
+    "Me lleva a un banco cercano."
 
 # game/d10.rpy:545
 translate spanish d10p2_7869af13:
 
     # m o1_2d "Just sit down over here and make a face that screams, \"I'm tagging along with my girlfriend,\" and you'll be fine."
-    m o1_2d ""
+    m o1_2d "Tú siéntate aquí y pon cara de \"Estoy acompañando a mi novia\", y no pasará nada."
 
 # game/d10.rpy:547
 translate spanish d10p2_64fb2160:
 
     # mc "I-I will?"
-    mc ""
+    mc "¿En-En serio?"
 
 # game/d10.rpy:548
 translate spanish d10p2_13cd0c18:
 
     # m o1_1b "Just give me a minute. I'll be back before you know it!"
-    m o1_1b ""
+    m o1_1b "Dame solo un minuto. ¡Volveré antes de que te des cuenta!"
 
 # game/d10.rpy:550
 translate spanish d10p2_a49ed4f8_2:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/d10.rpy:553
 translate spanish d10p2_82997025:
 
     # "Monika goes off to look."
-    ""
+    "Monika se va a mirar."
 
 # game/d10.rpy:554
 translate spanish d10p2_c66ffd37:
 
     # "In the meantime, I make the biggest poker face in existence to try and hide my embarrassment."
-    ""
+    "Mientras tanto, pongo la mayor cara de póquer del mundo para intentar ocultar mi vergüenza."
 
 # game/d10.rpy:555
 translate spanish d10p2_a49038e7:
 
     # "Across from me I see a man in purple hair make a very similar face to mine."
-    ""
+    "Frente a mí veo a un hombre con el pelo morado poniendo una cara muy parecida a la mía."
 
 # game/d10.rpy:556
 translate spanish d10p2_855ba38d:
 
     # "Looks to be about as old as me too."
-    ""
+    "Parece tener más o menos mi edad."
 
 # game/d10.rpy:557
 translate spanish d10p2_f844cbf6:
 
     # "Though, judging by the ring on his finger I guess he's married."
-    ""
+    "Aunque, a juzgar por el anillo en su dedo, supongo que está casado."
 
 # game/d10.rpy:558
 translate spanish d10p2_5ebe979f:
 
     # "Looks like he's tagging along with his wife."
-    ""
+    "Parece que está acompañando a su mujer."
 
 # game/d10.rpy:559
 translate spanish d10p2_10d690c3:
 
     # "Soon enough Monika comes back with a set in hand."
-    ""
+    "Al poco rato, Monika vuelve con un conjunto en la mano."
 
 # game/d10.rpy:561
 translate spanish d10p2_ac512ecd:
 
     # m "See? It wasn't that long."
-    m ""
+    m "¿Ves? No he tardado tanto."
 
 # game/d10.rpy:562
 translate spanish d10p2_eeb2f931:
 
     # m o1_5a "I found something that I think you'll like~"
-    m o1_5a ""
+    m o1_5a "He encontrado algo que creo que te gustará."
 
 # game/d10.rpy:563
 translate spanish d10p2_b0e0c9c5:
 
     # "She quickly hides the bikini behind her back."
-    ""
+    "Esconde rápidamente el bikini a su espalda."
 
 # game/d10.rpy:564
 translate spanish d10p2_52452c5c:
 
     # "Though I caught a glimpse of the pink and white on it."
-    ""
+    "Aunque he podido entrever el rosa y el blanco que tiene."
 
 # game/d10.rpy:565
 translate spanish d10p2_14aaf6ff:
 
     # m "But you'll have to wait until tomorrow to see it on me~"
-    m ""
+    m "Pero tendrás que esperar a mañana para vérmelo puesto."
 
 # game/d10.rpy:566
 translate spanish d10p2_4290eaa8:
 
     # m o1_2b "Anyway, let's go pay."
-    m o1_2b ""
+    m o1_2b "Bueno, vamos a pagar."
 
 # game/d10.rpy:569
 translate spanish d10p2_5148ecba:
 
     # "We walk over to the cashier and Monika passes her the outfit."
-    ""
+    "Vamos hacia la caja y Monika le da el conjunto."
 
 # game/d10.rpy:570
 translate spanish d10p2_05228702:
 
     # "Cashier" "\"Your total is 32 dollars.\""
-    "Cashier" ""
+    "Cashier" "\"El total es de 32 dólares.\""
 
 # game/d10.rpy:571
 translate spanish d10p2_fd34b7e9:
 
     # "I take out my wallet, and pay for Monika."
-    ""
+    "Saco la cartera y pago por Monika."
 
 # game/d10.rpy:572
 translate spanish d10p2_bcefe92e:
 
     # "Cashier" "\"Thank you for shopping with us!\""
-    "Cashier" ""
+    "Cashier" "\"¡Gracias por su compra!\""
 
 # game/d10.rpy:573
 translate spanish d10p2_b19706d2:
 
     # "We quickly leave the store with my face still flushed red."
-    ""
+    "Salimos rápidamente de la tienda, con la cara todavía roja."
 
 # game/d10.rpy:577
 translate spanish d10p2_515dede6:
 
     # mc "Alright. We got that done..."
-    mc ""
+    mc "Vale. Ya está hecho..."
 
 # game/d10.rpy:578
 translate spanish d10p2_4808265e:
 
     # mc "Is there anything else we need?"
-    mc ""
+    mc "¿Necesitamos algo más?"
 
 # game/d10.rpy:579
 translate spanish d10p2_edb34ea1:
 
     # m o1_1c "Hmmm..."
-    m o1_1c ""
+    m o1_1c "Mmm..."
 
 # game/d10.rpy:580
 translate spanish d10p2_ee0d8346:
 
     # m o1_1d "I think that's everything."
-    m o1_1d ""
+    m o1_1d "Creo que eso es todo."
 
 # game/d10.rpy:581
 translate spanish d10p2_f54d92fb:
 
     # m o1_2b "But I wanna quickly take a look at some of the skirts and bows they have here."
-    m o1_2b ""
+    m o1_2b "Pero quiero echar un vistazo rápido a algunas faldas y lazos que tienen aquí."
 
 # game/d10.rpy:582
 translate spanish d10p2_da4596a0:
 
     # m o1_2k "C'mon!"
-    m o1_2k ""
+    m o1_2k "¡Vamos!"
 
 # game/d10.rpy:585
 translate spanish d10p2_c9715b9b:
 
     # "We walk over to a nearby clothing outlet."
-    ""
+    "Vamos a una tienda de ropa cercana."
 
 # game/d10.rpy:586
 translate spanish d10p2_c538ed94:
 
     # "The back is lined with different colors of ribbons and bows."
-    ""
+    "El fondo está repleto de cintas y lazos de diferentes colores."
 
 # game/d10.rpy:587
 translate spanish d10p2_01004909:
 
     # "Monika's eyes shine as she looks at them all."
-    ""
+    "Los ojos de Monika brillan mientras los mira todos."
 
 # game/d10.rpy:589
 translate spanish d10p2_016577b0:
 
     # m "[player], look at this one!"
-    m ""
+    m "[player], ¡mira este!"
 
 # game/d10.rpy:590
 translate spanish d10p2_336fe76d:
 
     # m "It's the same ribbon that I have on!"
-    m ""
+    m "¡Es el mismo lazo que llevo puesto!"
 
 # game/d10.rpy:591
 translate spanish d10p2_0563a183:
 
     # "She holds up a snow white ribbon which looks just like the one she has in her hair."
-    ""
+    "Sostiene un lazo blanco como la nieve que es idéntico al que lleva en el pelo."
 
 # game/d10.rpy:594
 translate spanish d10p2_c50bef98:
 
     # m o1_2k "Hehe~"
-    m o1_2k ""
+    m o1_2k "Je, je."
 
 # game/d10.rpy:596
 translate spanish d10p2_e6a3a783:
 
     # "She puts it back onto the shelf."
-    ""
+    "Lo vuelve a dejar en la estantería."
 
 # game/d10.rpy:597
 translate spanish d10p2_897fee28:
 
     # m o1_1b "If we had more money I'd probably buy it."
-    m o1_1b ""
+    m o1_1b "Si tuviéramos más dinero, probablemente lo compraría."
 
 # game/d10.rpy:598
 translate spanish d10p2_1de02c94:
 
     # m o1_1e "But I don't need that when I have the one thing I've always wanted right in front of me~"
-    m o1_1e ""
+    m o1_1e "Pero no lo necesito cuando tengo lo único que siempre he querido justo delante de mí."
 
 # game/d10.rpy:599
 translate spanish d10p2_634151f3:
 
     # m o1_1j "Ehehe~"
-    m o1_1j ""
+    m o1_1j "Je, je, je."
 
 # game/d10.rpy:601
 translate spanish d10p2_a319222c:
 
     # m o1_2k "I can't help myself~"
-    m o1_2k ""
+    m o1_2k "No puedo evitarlo."
 
 # game/d10.rpy:602
 translate spanish d10p2_ca001645:
 
     # m o1_2b "They're all so pretty!"
-    m o1_2b ""
+    m o1_2b "¡Son todos tan bonitos!"
 
 # game/d10.rpy:604
 translate spanish d10p2_e6a3a783_1:
 
     # "She puts it back onto the shelf."
-    ""
+    "Lo vuelve a dejar en la estantería."
 
 # game/d10.rpy:605
 translate spanish d10p2_fa811aed:
 
     # m o1_1b "I'm only gonna look though.{w=0.5} I won't buy anything today."
-    m o1_1b ""
+    m o1_1b "Pero solo voy a mirar.{w=0.5} Hoy no voy a comprar nada."
 
 # game/d10.rpy:606
 translate spanish d10p2_35586ef5:
 
     # m forward dress lpoint rdown sedu om oe "Next time though,{w=0.5} I'm not so sure~"
-    m forward dress lpoint rdown sedu om oe ""
+    m forward dress lpoint rdown sedu om oe "Sin embargo, la próxima vez,{w=0.5} no estoy tan segura."
 
 # game/d10.rpy:607
 translate spanish d10p2_634151f3_1:
 
     # m o1_1j "Ehehe~"
-    m o1_1j ""
+    m o1_1j "Je, je, je."
 
 # game/d10.rpy:608
 translate spanish d10p2_bb682cd1:
 
     # "She looks for a little while longer before turning to me."
-    ""
+    "Mira un poco más antes de volverse hacia mí."
 
 # game/d10.rpy:609
 translate spanish d10p2_dc1e01a8:
 
     # m o1_2b "Okay, I think I'll go take a look at some of the skirts now..."
-    m o1_2b ""
+    m o1_2b "Vale, creo que ahora iré a echar un vistazo a algunas faldas..."
 
 # game/d10.rpy:611
 translate spanish d10p2_9f010b67:
 
     # "I follow her into the aisle with a bunch of skirts and dresses hanging off the racks."
-    ""
+    "La sigo por el pasillo donde hay un montón de faldas y vestidos colgados de las perchas."
 
 # game/d10.rpy:612
 translate spanish d10p2_09622733:
 
     # m forward dress lpoint rdown vsur cm oe "Ooh~ This one looks nice...and this one too..."
-    m forward dress lpoint rdown vsur cm oe ""
+    m forward dress lpoint rdown vsur cm oe "Oh. Esta parece bonita... y esta también..."
 
 # game/d10.rpy:613
 translate spanish d10p2_d535d70a:
 
     # "She happily sifts through the racks inspecting them all."
-    ""
+    "Revisa alegremente las perchas, inspeccionándolas todas."
 
 # game/d10.rpy:614
 translate spanish d10p2_422c1a8c:
 
     # m o1_2d "Oh I like this yellow one..."
-    m o1_2d ""
+    m o1_2d "Oh, me gusta esta amarilla..."
 
 # game/d10.rpy:615
 translate spanish d10p2_5408b0c2:
 
     # m o1_1b "Hey [player], how much do we have left? I wanna buy this one!"
-    m o1_1b ""
+    m o1_1b "¡Ey, [player]! ¿Cuánto nos queda? ¡Quiero comprar esta!"
 
 # game/d10.rpy:617
 translate spanish d10p2_b3ae8984:
 
     # mc "Uhm..."
-    mc ""
+    mc "Emm..."
 
 # game/d10.rpy:618
 translate spanish d10p2_b4613cc9:
 
     # "I quickly check my wallet."
-    ""
+    "Miro rápidamente la cartera."
 
 # game/d10.rpy:619
 translate spanish d10p2_26f21b90:
 
     # "There's two 20's and a 10 plus some change."
-    ""
+    "Hay dos [billetes] de 20 y uno de 10, más algo de calderilla."
 
 # game/d10.rpy:620
 translate spanish d10p2_a662df0c:
 
     # mc "How much is it?"
-    mc ""
+    mc "¿Cuánto cuesta?"
 
 # game/d10.rpy:621
 translate spanish d10p2_86131ecc:
 
     # m o1_1b "Let's see...twenty bucks!"
-    m o1_1b ""
+    m o1_1b "A ver... ¡veinte pavos!"
 
 # game/d10.rpy:623
 translate spanish d10p2_751a47af:
 
     # mc "Yeah we could get it."
-    mc ""
+    mc "Sí, podemos comprarla."
 
 # game/d10.rpy:624
 translate spanish d10p2_7c380237:
 
     # m o1_1k "Yay~"
-    m o1_1k ""
+    m o1_1k "¡Yupi!"
 
 # game/d10.rpy:626
 translate spanish d10p2_e1f381e4:
 
     # "I pass Monika a 20 and we head to the cashier."
-    ""
+    "Le doy a Monika [un billete] de 20 y vamos a la caja."
 
 # game/d10.rpy:627
 translate spanish d10p2_2a762512:
 
     # "Cashier" "\"Hello!\""
-    "Cashier" ""
+    "Cashier" "\"¡Hola!\""
 
 # game/d10.rpy:628
 translate spanish d10p2_0300c690:
