@@ -52,7 +52,7 @@ translate spanish d10_ec9f6167:
 translate spanish d10_0d0f8073:
 
     # m "...Spending our time together like this..."
-    m "...Pasando el rato juntos así..."
+    m "Pasando el rato juntos así..."
 
 # game/d10.rpy:30
 translate spanish d10_a9d5588a:
@@ -82,7 +82,7 @@ translate spanish d10_4ffeafb3:
 translate spanish d10_45d9cd96:
 
     # m "Ehehe~"
-    m "Je, je, je..."
+    m "Je, je..."
 
 # game/d10.rpy:44
 translate spanish d10_d412d667:
@@ -94,7 +94,7 @@ translate spanish d10_d412d667:
 translate spanish d10_2dfda320:
 
     # m "Mhmhm~"
-    m "Mhm..."
+    m "Mmm..."
 
 # game/d10.rpy:48
 translate spanish d10_8d8040c4:
@@ -112,7 +112,7 @@ translate spanish d10_5df9ed68:
 translate spanish d10_6803d4f4:
 
     # m "Besides, you delayed this for long enough!"
-    m "¡Además, has retrasado esto bastante!"
+    m "¡Peeero, has retrasado esto bastante!"
 
 # game/d10.rpy:52
 translate spanish d10_2b1aa9c7:
@@ -124,19 +124,19 @@ translate spanish d10_2b1aa9c7:
 translate spanish d10_45d9cd96_1:
 
     # m "Ehehe~"
-    m "Je, je, je..."
+    m "Je, je..."
 
 # game/d10.rpy:59
 translate spanish d10_45d9cd96_2:
 
     # m "Ehehe~"
-    m "Je, je, je..."
+    m "Je, je..."
 
 # game/d10.rpy:68
 translate spanish d10_d1162b1f:
 
     # m "You aren't escape me that easily~ Mhmhm~"
-    m "No vas a escaparte de mí tan fácilmente... Mhm..."
+    m "No vas a escaparte de mí tan fácilmente... Mmm..."
 
 # game/d10.rpy:71
 translate spanish d10_ddad6a55:
@@ -160,7 +160,7 @@ translate spanish d10_0c358dd3:
 translate spanish d10_8684d2f3:
 
     # m "My batteries have been fully charged~"
-    m "Mis baterías están totalmente cargadas..."
+    m "Mi batería están totalmente cargada..."
 
 # game/d10.rpy:82
 translate spanish d10_a644ca36:
@@ -214,7 +214,7 @@ translate spanish d10_6651ab87:
 translate spanish d10_f9a4de9a:
 
     # mc "I'll get changed too and I'll get right to it."
-    mc "Yo también me cambiaré y me pongo a ello."
+    mc "Ya me cambio y me pongo a ello."
 
 # game/d10.rpy:93
 translate spanish d10_8a0fef18:
@@ -232,7 +232,7 @@ translate spanish d10_5ae6fdf5:
 translate spanish d10_4b8e04ec:
 
     # "While she does that, I quickly change and go downstairs."
-    "Mientras ella lo hace, yo me cambio rápidamente y bajo."
+    "Mientras ella hace eso, yo me cambio rápido y bajo."
 
 # game/d10.rpy:100
 translate spanish d10_5741464a:
@@ -280,19 +280,19 @@ translate spanish d10_e5c7cdc5:
 translate spanish d10_886ffb58:
 
     # "She takes the onions and mixes them in too."
-    "Coge las cebolletas y las mezcla también."
+    "Coge las cebolletas y va mezclando todo."
 
 # game/d10.rpy:111
 translate spanish d10_13e26f6b:
 
     # "While she does all that, I get two plates out and set them on the table."
-    "Mientras ella hace todo eso, yo saco dos platos y los pongo en la mesa."
+    "Mientras ella hace avanza con eso, yo saco dos platos y los pongo en la mesa."
 
 # game/d10.rpy:112
 translate spanish d10_bbf27410:
 
     # mc "I'll make some coffee for us."
-    mc "Prepararé café para nosotros."
+    mc "Prepararé también un poco de café."
 
 # game/d10.rpy:113
 translate spanish d10_4de1fbc9:
@@ -310,7 +310,7 @@ translate spanish d10_6346205a:
 translate spanish d10_becf27ef:
 
     # "In the meantime I'm getting a pot of coffee brewed up."
-    "Mientras tanto, estoy preparando una cafetera."
+    "Mientras tanto, voy preparando la cafetera."
 
 # game/d10.rpy:118
 translate spanish d10_a500f6f2:
@@ -346,13 +346,13 @@ translate spanish d10_c3c43de2:
 translate spanish d10_357bc79c:
 
     # mc "You really are an amazing cook, Monika!"
-    mc "¡Eres una cocinera increíble, Monika!"
+    mc "¡Eres una chef increíble, Monika!"
 
 # game/d10.rpy:126
 translate spanish d10_8c8c435d:
 
     # m h1_1e "Awe,{w=0.5} I'm not that good."
-    m h1_1e "Oh,{w=0.5} no soy tan buena."
+    m h1_1e "Uy,{w=0.5} no soy tan buena."
 
 # game/d10.rpy:127
 translate spanish d10_dff8ab2d:
@@ -370,7 +370,7 @@ translate spanish d10_29cc0e31:
 translate spanish d10_2669e98d:
 
     # m h1_1k "Anytime, [player]~"
-    m h1_1k "Cuando quieras, [player]..."
+    m h1_1k "De nada, [player]..."
 
 # game/d10.rpy:133
 translate spanish d10_ffb67573:
@@ -406,7 +406,7 @@ translate spanish d10date_219f9e87:
 translate spanish d10date_665968d2:
 
     # m h1_1b "Yeah, same here."
-    m h1_1b "Sí, yo también."
+    m h1_1b "Síp, yo también."
 
 # game/d10.rpy:153
 translate spanish d10date_22bb26c6:
@@ -424,7 +424,7 @@ translate spanish d10date_9080fb70:
 translate spanish d10date_23f211eb:
 
     # "Of course, I get some nicer clothes too."
-    "Por supuesto, yo también cojo algo de ropa más bonita."
+    "Claro está, yo también cojo algo de ropa más bonita."
 
 # game/d10.rpy:158
 translate spanish d10date_3a27f35c:
@@ -466,7 +466,7 @@ translate spanish d10date_f7dc905f:
 translate spanish d10date_e15545a9:
 
     # mc "Yeah, I'll just quickly grab my wallet."
-    mc "Sí, voy a coger la cartera un momento."
+    mc "Sí, voy a coger la cartera, un momento."
 
 # game/d10.rpy:172
 translate spanish d10date_0de1638f:
@@ -496,7 +496,7 @@ translate spanish d10date_4b228764:
 translate spanish d10date_fe472c12:
 
     # m o1_1j "Yep!"
-    m o1_1j "¡Sí!"
+    m o1_1j "¡Síp!"
 
 # game/d10.rpy:182
 translate spanish d10date_8b860dfc:
@@ -520,7 +520,7 @@ translate spanish d10date_fd73e869:
 translate spanish d10date_a3e2b51a:
 
     # "The sun shines bright across the sky, with Monika's coral brown hair shining from the sun's gleam."
-    "El sol brilla en el cielo, y el pelo castaño coral de Monika reluce con el reflejo del sol."
+    "El sol brilla en el cielo, y el pelo castaño coral de Monika reluce con la luz del sol."
 
 # game/d10.rpy:195
 translate spanish d10date_28be868b:
@@ -538,7 +538,7 @@ translate spanish d10date_bf746bd9:
 translate spanish d10date_30db4cad:
 
     # m o1_2d "Oh? Yeah I changed it. The other one ran out."
-    m o1_2d "¿Oh? Sí, lo he cambiado. El otro se acabó."
+    m o1_2d "¿Oh? Síp, lo he cambiado. El otro se acabó."
 
 # game/d10.rpy:198
 translate spanish d10date_8d39fa0d:
@@ -598,7 +598,7 @@ translate spanish d10date_658c932a:
 translate spanish d10date_cf1adef2:
 
     # mc "Yeah."
-    mc "Sí."
+    mc "Sí, es genial."
 
 # game/d10.rpy:211
 translate spanish d10date_d1e0f923:
@@ -712,7 +712,7 @@ translate spanish d10date_e10e3389:
 translate spanish d10date_ff3b4c33:
 
     # mc "I don't mind."
-    mc "No me importa."
+    mc "Por mi no hay problema."
 
 # game/d10.rpy:247
 translate spanish d10date_d094961e:
@@ -724,7 +724,7 @@ translate spanish d10date_d094961e:
 translate spanish d10p2_36fa91b6:
 
     # mc "...[persistent.cofname]."
-    mc "...[persistent.cofname]."
+    mc "[persistent.cofname]."
 
 # game/d10.rpy:252
 translate spanish d10p2_8ca8e152:
@@ -778,13 +778,13 @@ translate spanish d10p2_55fb4880:
 translate spanish d10p2_596cd270:
 
     # e "Okay, and is that to go or staying in?"
-    e "Vale, ¿es para llevar o para tomar aquí?"
+    e "Vale, ¿es para llevar o para comer aquí?"
 
 # game/d10.rpy:268
 translate spanish d10p2_0eb7cde7:
 
     # mc "Staying in, my girlfriend is sitting outside waiting for me."
-    mc "Para tomar aquí, mi novia está sentada fuera esperándome."
+    mc "Para comer aquí, mi novia está sentada fuera esperándome."
 
 # game/d10.rpy:269
 translate spanish d10p2_7b277864:
@@ -796,7 +796,7 @@ translate spanish d10p2_7b277864:
 translate spanish d10p2_dae8613b:
 
     # e "Your total is 10 bucks."
-    e "El total es 10 pavos."
+    e "El total es de 10 euros."
 
 # game/d10.rpy:271
 translate spanish d10p2_08ad240c:
@@ -838,7 +838,7 @@ translate spanish d10p2_6d04953c:
 translate spanish d10p2_7550b7fe:
 
     # e "Of course. And the sandwiches will be done in about two minutes."
-    e "De nada. Y los sándwiches estarán listos en unos dos minutos."
+    e "De nada. Los sándwiches estarán listos en unos dos minutos."
 
 # game/d10.rpy:278
 translate spanish d10p2_a49ed4f8:
@@ -862,7 +862,7 @@ translate spanish d10p2_ee92aa12:
 translate spanish d10p2_d09bee19:
 
     # m "Thanks [player]~"
-    m "Gracias, [player]..."
+    m "Gracias, [player]."
 
 # game/d10.rpy:292
 translate spanish d10p2_9805f3da:
@@ -898,7 +898,7 @@ translate spanish d10p2_97be7469:
 translate spanish d10p2_2bda79a4:
 
     # mc "I'm glad."
-    mc "Me alegro."
+    mc "Me alegro muchísimo."
 
 # game/d10.rpy:304
 translate spanish d10p2_0ef4fb6b:
@@ -928,7 +928,7 @@ translate spanish d10p2_21e130af:
 translate spanish d10p2_6373a946:
 
     # m "Ooh~ It looks good!"
-    m "¡Oh! ¡Qué buena pinta!"
+    m "¡Oh! ¡Qué buena pinta tiene!"
 
 # game/d10.rpy:314
 translate spanish d10p2_239ac7bf:
