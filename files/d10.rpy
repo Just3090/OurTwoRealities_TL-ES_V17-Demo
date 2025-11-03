@@ -1012,7 +1012,7 @@ translate spanish d10p2_feb782e2:
 translate spanish d10p2_d988d10c:
 
     # m "I don't really know any of the places near you though so you'll have to lead the way!"
-    m "Aunque no conozco ningún sitio cerca de donde vives, ¡así que tendrás que guiarme!"
+    m "En verdad no conozco ningún sitio cerca de donde vives, ¡así que tendrás que guiarme!"
 
 # game/d10.rpy:345
 translate spanish d10p2_f3f293f2:
@@ -1024,13 +1024,13 @@ translate spanish d10p2_f3f293f2:
 translate spanish d10p2_f3ada95d:
 
     # m "Ooh! I know!"
-    m "¡Oh! ¡Ya sé!"
+    m "¡Ahh! ¡Ya sé!"
 
 # game/d10.rpy:351
 translate spanish d10p2_8602431c:
 
     # m "Let's go to a chocolate shop!"
-    m "¡Vamos a una chocolatería!"
+    m "¡Vámonos a una chocolatería!"
 
 # game/d10.rpy:354
 translate spanish d10p2_f5920eae:
@@ -1078,7 +1078,7 @@ translate spanish d10p2_b523535f:
 translate spanish d10p2_2223d3a7:
 
     # "Monika takes a sip from her coffee."
-    "Monika da un sorbo a su café."
+    "Monika le da un sorbo a su café."
 
 # game/d10.rpy:376
 translate spanish d10p2_d18170f4:
@@ -1096,7 +1096,7 @@ translate spanish d10p2_364fa218:
 translate spanish d10p2_7d632a82:
 
     # m "Do you want one too?"
-    m "¿Quieres uno tú también?"
+    m "¿Quieres uno también?"
 
 # game/d10.rpy:391
 translate spanish d10p2_e74385d7:
@@ -1126,19 +1126,19 @@ translate spanish d10p2_4efa4396:
 translate spanish d10p2_7a90ca64:
 
     # m "While the milk helps with making it smoother, the different flavors and sugar add a nice hit of sweetness which is pleasant in warmer weather."
-    m "Mientras que la leche ayuda a suavizarlo, los diferentes sabores y el azúcar añaden un agradable toque de dulzor que resulta agradable cuando hace más calor."
+    m "Mientras que la leche ayuda a suavizarlo, los diferentes sabores y el azúcar añaden un buen toque de dulzor que resulta agradable cuando hace más calor."
 
 # game/d10.rpy:400
 translate spanish d10p2_017a585e:
 
     # m "Unlike in hot coffees where if you add a flavor like some watery hot chocolate, the flavor is lost in the heat and punch of the coffee."
-    m "A diferencia de los cafés calientes, en los que si añades un saborizante como un chocolate caliente aguado, el sabor se pierde entre el calor y la intensidad del café."
+    m "A diferencia de los cafés calientes, en los que si añades un saborizante como chocolate caliente con agua, el sabor se pierde entre el calor y la intensidad del café."
 
 # game/d10.rpy:401
 translate spanish d10p2_bf6193dd:
 
     # m "That's why it's more common to flavor the colder variants of coffee rather than hot ones."
-    m "Por eso es más común saborizar las variantes frías de café que las calientes."
+    m "Por eso, es más común agregarle sabores a las variantes frías del café que las calientes."
 
 # game/d10.rpy:402
 translate spanish d10p2_d96e38cd:
@@ -1150,7 +1150,7 @@ translate spanish d10p2_d96e38cd:
 translate spanish d10p2_8d3ca0a6:
 
     # m "In order to get a nice mix of the coffee flavor and the other hot drink, you have to have a much more concentrated flavor added to the coffee."
-    m "Para conseguir una buena mezcla del sabor del café y de la otra bebida caliente, hay que añadir al café un sabor mucho más concentrado."
+    m "Para conseguir una buena mezcla entre el sabor del café y la otra bebida caliente, hay que añadir al café un sabor mucho más concentrado."
 
 # game/d10.rpy:404
 translate spanish d10p2_a8663c58:
@@ -1162,7 +1162,7 @@ translate spanish d10p2_a8663c58:
 translate spanish d10p2_82c33704:
 
     # m "Like chocolate syrup or cocoa powder and sugar instead of watery hot chocolate."
-    m "Como sirope de chocolate o cacao en polvo y azúcar en lugar de chocolate caliente aguado."
+    m "Como puede ser sirope de chocolate o cacao en polvo y azúcar en lugar de chocolate caliente aguado."
 
 # game/d10.rpy:406
 translate spanish d10p2_d59f8ac6:
@@ -1240,7 +1240,7 @@ translate spanish d10p2_aeb4ac44:
 translate spanish d10p2_14fd126e:
 
     # m "I asked them to put them in takeout cups so we can drink it while we're shopping."
-    m "Pedí que los pusieran en vasos para llevar para que podamos beberlo mientras estamos de compras."
+    m "Pedí que los pusieran en vasos para llevar para que podamos beberlo mientras vamos de compras."
 
 # game/d10.rpy:435
 translate spanish d10p2_9e65e8f0:
