@@ -1426,7 +1426,7 @@ translate spanish d10p2_a2487cce:
 translate spanish d10p2_36b4a863:
 
     # "Announcer" "\"Now arriving at: Central Mall.\""
-    "Megafonía" "\"Llegando a: Centro Comercial Central.\""
+    "Megafonía" "\"Arribando a la estación: Centro Comercial Central.\""
 
 # game/d10.rpy:486
 translate spanish d10p2_d304ef73:
@@ -1480,7 +1480,7 @@ translate spanish d10p2_d24aeb13:
 translate spanish d10p2_27500cfd:
 
     # m o1_1k "Hehe, this gives me nostalgia."
-    m o1_1k "Je, je, ¡esto me da nostalgia!"
+    m o1_1k "Je, je, ¡esto me da una nostalgia!"
 
 # game/d10.rpy:504
 translate spanish d10p2_ead8ed4e:
@@ -1630,7 +1630,7 @@ translate spanish d10p2_d3490484:
 translate spanish d10p2_ecdf5473:
 
     # mc "Wait! I- Uhhh..."
-    mc "¡Espera! Y- Eh..."
+    mc "¡Espera! Y... Ehh..."
 
 # game/d10.rpy:542
 translate spanish d10p2_cb3b831e:
@@ -1660,7 +1660,7 @@ translate spanish d10p2_64fb2160:
 translate spanish d10p2_13cd0c18:
 
     # m o1_1b "Just give me a minute. I'll be back before you know it!"
-    m o1_1b "Dame solo un minuto. ¡Volveré antes de que te des cuenta!"
+    m o1_1b "Dame solo un minuto ¡Volveré antes de que te des cuenta!"
 
 # game/d10.rpy:550
 translate spanish d10p2_a49ed4f8_2:
@@ -1692,7 +1692,7 @@ translate spanish d10p2_855ba38d:
     # "Looks to be about as old as me too."
     "Parece tener más o menos mi edad también."
 
-# game/d10.rpy:557
+# game/d10.rpy:557 
 translate spanish d10p2_f844cbf6:
 
     # "Though, judging by the ring on his finger I guess he's married."
@@ -1942,7 +1942,7 @@ translate spanish d10p2_09622733:
 translate spanish d10p2_d535d70a:
 
     # "She happily sifts through the racks inspecting them all."
-    "Rebusca alegremente entre las perchas inspeccionándolos todos."
+    "Rebusca alegremente entre las perchas inspeccionándolas todos."
 
 # game/d10.rpy:614
 translate spanish d10p2_422c1a8c:
