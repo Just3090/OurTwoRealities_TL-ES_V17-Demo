@@ -2050,7 +2050,7 @@ translate spanish d10p2_b9710c73:
 translate spanish d10p2_cc905e97:
 
     # mc "I think we should start heading home now. The sky's starting to turn orange."
-    mc "Creo que deberíamos empezar a irnos a casa. El cielo empieza a ponerse naranja."
+    mc "Creo que deberíamos ir volviendo a casa. El cielo empieza a ponerse naranja."
 
 # game/d10.rpy:640
 translate spanish d10p2_a1c55387:
@@ -2236,7 +2236,7 @@ translate spanish d10p2_258ef88f:
 translate spanish d10p2_a1b7e72e:
 
     # m "I love you so much, [player]..."
-    m "Te quiero tanto, [player]..."
+    m "Te amo tanto, [player]..."
 
 # game/d10.rpy:708
 translate spanish d10p2_895d5271:
@@ -2440,7 +2440,7 @@ translate spanish d10p2_bec51f6a:
 translate spanish d10p2_1098b28d:
 
     # m p_1e "Aww~{w=0.5} [player]~"
-    m p_1e "Oh...{w=0.5} [player]..."
+    m p_1e "Ayy...{w=0.5} [player]..."
 
 # game/d10.rpy:772
 translate spanish d10p2_bb800a91:
@@ -2584,7 +2584,7 @@ translate spanish d10event_ec414781:
 translate spanish d10event_59b85dc3:
 
     # m "Didn't Sayori say we should meet up at noon?"
-    m "¿No dijo Sayori que habíamos quedado a mediodía?"
+    m "¿No dijo Sayori que habíamos quedado para el mediodía?"
 
 # game/d10.rpy:817
 translate spanish d10event_30464269:
