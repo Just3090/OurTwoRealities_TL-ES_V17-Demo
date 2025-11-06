@@ -2902,7 +2902,7 @@ translate spanish d10event_7b43ee3c:
 translate spanish d10event_dbe5e875:
 
     # n 4bd "Gotta make something{w=0.5} {i}without{/i} {w=0.5}burning the kitchen!"
-    n 4bd "¡Tienes que hacer algo{w=0.5} 'sin' {w=0.5}quemar la cocina!"
+    n 4bd "¡Tienes que hacer algo,{w=0.5} 'pero sin' {w=0.5}quemar la cocina!"
 
 # game/d10.rpy:930
 translate spanish d10event_a48c129b:
@@ -3088,7 +3088,7 @@ translate spanish d10event_3c2a8926:
 translate spanish d10event_0874dec3:
 
     # n "Huhhhhhh..."
-    n "Ah..."
+    n "Ahhh..."
 
 # game/d10.rpy:992
 translate spanish d10event_aba98cfd:
@@ -3228,7 +3228,7 @@ translate spanish d10event_76d03c69:
     # y "{i}Uhhh, it's going fine. Just dusting right now while my parents are out.{/i}"
     y "'Eh... van bien. Solo estoy quitando el polvo ahora que mis padres no están.'"
 
-# game/d10.rpy:1030
+# game/d10. rpy:1030
 translate spanish d10event_604fc58e:
 
     # y "{i}I have to vacuum after this so I'll mute then.{/i}"
@@ -3364,7 +3364,7 @@ translate spanish d10event_a2bb5d54:
 translate spanish d10event_11b9b4d7:
 
     # n 5bd "Hey, they should be cool in a few minutes."
-    n 5bd "Eh, deberían enfriarse en unos minutos."
+    n 5bd "Ey, deberían enfriarse en unos minutos."
 
 # game/d10.rpy:1072
 translate spanish d10event_fd3d2be2:
@@ -3412,7 +3412,7 @@ translate spanish d10event_38581966:
 translate spanish d10event_9e9d97bd:
 
     # m o2_1b "Okay. See you in a bit, Yuri!"
-    m o2_1b "¡Vale. Hasta ahora, Yuri!"
+    m o2_1b "¡Vale. Nos vemos en un pis pas, Yuri!"
 
 # game/d10.rpy:1089
 translate spanish d10event_09cf335b:
