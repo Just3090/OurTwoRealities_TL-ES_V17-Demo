@@ -3412,7 +3412,7 @@ translate spanish d10event_38581966:
 translate spanish d10event_9e9d97bd:
 
     # m o2_1b "Okay. See you in a bit, Yuri!"
-    m o2_1b "¡Vale. Nos vemos en un pis pas, Yuri!"
+    m o2_1b "¡Vale. Nos vemos en un pispás, Yuri!"
 
 # game/d10.rpy:1089
 translate spanish d10event_09cf335b:
@@ -3478,7 +3478,7 @@ translate spanish d10event_70909c51:
 translate spanish d10event_b032a45c:
 
     # "Yuri abruptly unmutes, surprising Sayori who nearly drops her cookie."
-    "Yuri reactiva el sonido de repente, sorprendiendo a Sayori, que casi se le cae la galleta."
+    "Yuri reactiva el sonido de repente, sobresaltando a Sayori, que casi se le cae la galleta."
 
 # game/d10.rpy:1109
 translate spanish d10event_53dff871:
@@ -3502,7 +3502,7 @@ translate spanish d10event_42d8f818:
 translate spanish d10event_aa84c130:
 
     # n 5by "Damn right you did!"
-    n 5by "¡Y tanto que has caído!"
+    n 5by "¡Y vaya que has caído!"
 
 # game/d10.rpy:1118
 translate spanish d10event_6a52cfac:
@@ -3580,7 +3580,7 @@ translate spanish d10event_8505eb2f:
 translate spanish d10event_223821d7:
 
     # m o2_1j "Mhm!"
-    m o2_1j "¡Mhm!"
+    m o2_1j "¡Mmm!"
 
 # game/d10.rpy:1135
 translate spanish d10event_bbcdcdf8:
@@ -3634,7 +3634,7 @@ translate spanish d10event_77ea280b:
 translate spanish d10event_3fee3342:
 
     # n "Hey I have a random question."
-    n "Oigan, tengo una pregunta aleatoria."
+    n "Oigan, tengo una pregunta al voleo."
 
 # game/d10.rpy:1147
 translate spanish d10event_dd6e3f02:
@@ -3652,7 +3652,7 @@ translate spanish d10event_78dcb405:
 translate spanish d10event_5ce50151:
 
     # n 1bb "Uhh... like a wedding sized cake."
-    n 1bb "Eh... como una tarta de bodas."
+    n 1bb "Ehh... como una tarta de bodas."
 
 # game/d10.rpy:1156
 translate spanish d10event_586b4a1f:
@@ -4186,7 +4186,7 @@ translate spanish d10event_57c50aca:
 translate spanish d10event_5604a59c:
 
     # n 5br "Ooh... That's a tough one."
-    n 5br "Oh... Esa es difícil."
+    n 5br "Uy... Esa es difícil."
 
 # game/d10.rpy:1326
 translate spanish d10event_2f9cd013:
@@ -4198,7 +4198,7 @@ translate spanish d10event_2f9cd013:
 translate spanish d10event_7cfa1355:
 
     # p "Games are life."
-    p "Los juegos son la vida."
+    p "Los juegos son vida."
 
 # game/d10.rpy:1329
 translate spanish d10event_8837a276:
@@ -4342,7 +4342,7 @@ translate spanish d10event_72bad5ea:
 translate spanish d10event_c5222442:
 
     # m o2_3d "Say Yuri, which way are you heading?"
-    m o2_3d "Oye, Yuri, ¿hacia dónde vas?"
+    m o2_3d "Oye Yuri, ¿hacia dónde vas?"
 
 # game/d10.rpy:1377
 translate spanish d10event_bfee5ed0:
