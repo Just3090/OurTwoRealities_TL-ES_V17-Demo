@@ -604,7 +604,7 @@ translate spanish d10date_cf1adef2:
 translate spanish d10date_d1e0f923:
 
     # m "Hey uhh, I think I might have a feeling on where you're taking me~"
-    m "Oye, eh... creo que tengo la sensación de saber adónde me llevas..."
+    m "Oye, ehh... creo que tengo la sensación de saber adónde me llevas..."
 
 # game/d10.rpy:212
 translate spanish d10date_0926fed3:
@@ -694,7 +694,7 @@ translate spanish d10date_962c08ba:
 translate spanish d10date_5737943b:
 
     # m "Mmmm... I think I'll take some veggie sandwiches and a coffee."
-    m "Mmm... Creo que tomaré unos sándwiches vegetales y un café."
+    m "Mmm... Creo que tomaré unos sándwiches vegetarianos y un café."
 
 # game/d10.rpy:243
 translate spanish d10date_880ef235:
@@ -712,7 +712,7 @@ translate spanish d10date_e10e3389:
 translate spanish d10date_ff3b4c33:
 
     # mc "I don't mind."
-    mc "Por mi no hay problema."
+    mc "Por mí no hay problema."
 
 # game/d10.rpy:247
 translate spanish d10date_d094961e:
@@ -1426,7 +1426,7 @@ translate spanish d10p2_a2487cce:
 translate spanish d10p2_36b4a863:
 
     # "Announcer" "\"Now arriving at: Central Mall.\""
-    "Megafonía" "\"Arribando a la estación: Centro Comercial Central.\""
+    "Megafonía" "\"Llegando a la estación: Centro Comercial Central.\""
 
 # game/d10.rpy:486
 translate spanish d10p2_d304ef73:
@@ -4438,7 +4438,7 @@ translate spanish d10event_a2487cce:
 translate spanish d10event_36b4a863:
 
     # "Announcer" "\"Now arriving at: Central Mall.\""
-    "Megafonía" "\"Llegando a: Centro Comercial Central.\""
+    "Megafonía" "\"Llegando a la estación: Centro Comercial Central.\""
 
 # game/d10.rpy:1406
 translate spanish d10event_243fb63b:
@@ -4576,7 +4576,7 @@ translate spanish d10event_31302ec9:
 translate spanish d10event_dd0bd1e3:
 
     # mc "U-Um... are men allowed in this section?"
-    mc "E-Eh... ¿se permite la entrada a hombres en esta sección?"
+    mc "E-Emm... ¿se permite la entrada a hombres en esta sección?"
 
 # game/d10.rpy:1453
 translate spanish d10event_59589c1e:
@@ -5446,7 +5446,7 @@ translate spanish d10event_49643baf:
 translate spanish d10event_14060d0d:
 
     # mc "Okay. I'll just turn the dishwasher on real quick."
-    mc "Vale. Pongo el lavavajillas un momento."
+    mc "Vale. Pongo el lavavajillas en un santiamén."
 
 # game/d10.rpy:1693
 translate spanish d10event_191bbf5d:
@@ -5644,19 +5644,19 @@ translate spanish ending1_f7a1c447:
 translate spanish ending1_6d1d59d7:
 
     # m 1d "I'm not sure when it'll come out, but once it's ready, check it out!"
-    m 1d "No estoy segura de cuándo saldrá, pero cuando esté listo, ¡échale un vistazo!"
+    m 1d "No estoy segura de cuándo saldrá, pero cuando esté listo, ¡échale un ojo!"
 
 # game/d10.rpy:1756
 translate spanish ending1_02bf57e2:
 
     # m 1b "The dev team put a lot of effort in to make this the best it possibly can be."
-    m 1b "El equipo de desarrollo se ha esforzado mucho para que sea lo mejor posible."
+    m 1b "El equipo de desarrollo se ha sudado la gota gorda para que sea lo mejor posible."
 
 # game/d10.rpy:1757
 translate spanish ending1_0c72e694:
 
     # m 3b "And they'll probably come back to these days with revisions and upgrades to make it even better!"
-    m 3b "¡Y probablemente volverán a revisar estos días con correcciones y mejoras para hacerlo aún mejor!"
+    m 3b "¡Y probablemente volverán a revisar estos días con correcciones y cambios para hacerlo aún mejor!"
 
 # game/d10.rpy:1758
 translate spanish ending1_8e485ce2:
