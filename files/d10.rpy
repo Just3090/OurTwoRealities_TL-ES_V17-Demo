@@ -2512,7 +2512,7 @@ translate spanish d10p2_49643baf:
 translate spanish d10p2_14060d0d:
 
     # mc "Okay. I'll just turn the dishwasher on real quick."
-    mc "Vale. Pongo el lavavajillas en un santiamén."
+    mc "Vale. Pongo el lavavajillas un momento."
 
 # game/d10.rpy:789
 translate spanish d10p2_191bbf5d:
@@ -5446,7 +5446,7 @@ translate spanish d10event_49643baf:
 translate spanish d10event_14060d0d:
 
     # mc "Okay. I'll just turn the dishwasher on real quick."
-    mc "Vale. Pongo el lavavajillas en un santiamén."
+    mc "Vale. Pongo el lavavajillas un momento."
 
 # game/d10.rpy:1693
 translate spanish d10event_191bbf5d:
