@@ -5650,7 +5650,7 @@ translate spanish ending1_6d1d59d7:
 translate spanish ending1_02bf57e2:
 
     # m 1b "The dev team put a lot of effort in to make this the best it possibly can be."
-    m 1b "El equipo de desarrollo se ha sudado la gota gorda para que sea lo mejor posible."
+    m 1b "El equipo de desarrollo ha sudado la gota gorda para que sea lo mejor posible."
 
 # game/d10.rpy:1757
 translate spanish ending1_0c72e694:
