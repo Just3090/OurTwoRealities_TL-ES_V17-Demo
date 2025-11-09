@@ -5578,7 +5578,7 @@ translate spanish ending1_558a9ea2:
 translate spanish ending1_def7a897:
 
     # m 1g "They are all working their hardest in getting this all written for you."
-    m 1g "Todos se están esforzando al máximo para escribir todo esto para ti."
+    m 1g "Todos están dando el callo para escribir todo esto para ti."
 
 # game/d10.rpy:1745
 translate spanish ending1_51fcde90:
