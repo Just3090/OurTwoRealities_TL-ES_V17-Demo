@@ -1186,7 +1186,7 @@ translate spanish d10p2_562400f2:
 translate spanish d10p2_e4465776:
 
     # m "I hope to learn your tastes one day.{w=0.5} Then I can make you something you'll love!"
-    m "Espero conocer tus gustos algún día.{w=0.5} ¡Así podré prepararte algo que te encante!"
+    m "Espero conocer tus gustos algún día{w=0.5} ¡Así podré prepararte algo que te encante!"
 
 # game/d10.rpy:415
 translate spanish d10p2_a20cefa7:
@@ -2512,7 +2512,7 @@ translate spanish d10p2_49643baf:
 translate spanish d10p2_14060d0d:
 
     # mc "Okay. I'll just turn the dishwasher on real quick."
-    mc "Vale. Pongo el lavavajillas un momento."
+    mc "Vale. Pongo el lavavajillas en un santiamén."
 
 # game/d10.rpy:789
 translate spanish d10p2_191bbf5d:
@@ -2980,7 +2980,7 @@ translate spanish d10event_0a462ee4:
 translate spanish d10event_cde8ea3e:
 
     # "It looks like she's normally mixing it."
-    "Parece que lo está mezclando normalmente."
+    "Parece que lo está mezclando como de costumbre."
 
 # game/d10.rpy:955
 translate spanish d10event_faa0aa3d:
@@ -3880,7 +3880,7 @@ translate spanish d10event_4e2bd04e_1:
 translate spanish d10event_5d4d722d:
 
     # n 1bb "I'll ask mine then-"
-    n 1bb "Entonces haré la mía-"
+    n 1bb "Entonces haré la mía."
 
 # game/d10.rpy:1219
 translate spanish d10event_796ad47d:
@@ -4114,7 +4114,7 @@ translate spanish d10event_f7a25add:
 translate spanish d10event_c9c0e585:
 
     # m o2_4d "Oof...This is a bit heavy."
-    m o2_4d "Uf... Esto pesa un poco."
+    m o2_4d "Uf... Esto sí que pesa un poco."
 
 # game/d10.rpy:1302
 translate spanish d10event_fd0c060a:
